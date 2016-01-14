@@ -1,0 +1,136 @@
+# 2603 spectra of 462 type Ia supernovae published by Blondin et al.
+#
+#      "The Spectroscopic Diversity of Type Ia Supernovae"
+#
+# accepted for publication in AJ
+
+
+
+#VERSION: cfaspec_snIa_20120322.tar.gz
+
+
+
+############################
+# GENERAL INFORMATION
+############################
+
+The spectra (*.flm) are organized in subdirectories, one per
+supernova. The file naming convention for each spectrum is:
+
+   <SN name>-<UT date>-<tel/inst>.flm
+
+   SN name : supernova name (e.g., sn2008bf)
+   UT date : UT date at midpoint of observations, YYYYMMDD.dd format
+   tel/inst: name of telescope or instrument; choices are:
+
+   	     fast : FLWO 1.5m+FAST
+	     mmt  : MMT 6.5m+Blue/Red Channel
+	     ldss2: Magellan Clay 6.5m+LDSS2
+	     ldss3: Magellan Clay 6.5m+LDSS3
+	     imacs: Magellan Baade 6.5m+IMACS
+
+The spectra are all in three-column ascii format:
+
+1st column = *observed* wavelength (units = Angstroems [A])
+2nd column = *observed* flux (units = erg/s/cm^2/A)
+3rd column = flux error (one sigma; units = erg/s/cm^2/A)
+
+NOTES: 
+
+(1) the flux error is computed based on the optimal extraction
+    algorithm of Horne (1986). Several spectra have no error
+    information, in which case the flux error is set to 0.0
+    everywhere.
+
+(2) no attempt has been made to scale the spectra to match the
+    available photometry.
+
+(3) the observed wavelength includes a heliocentric correction.
+
+
+====> THE SPECTRA HAVE *NOT* BEEN DE-REDSHIFTED OR DE-REDDENED <====
+
+
+Other files are also included:
+
+cfaspec_snIa.pdf - single document containing plots of all the spectra
+cfaspec_snIa_obstable.pdf - journal of observations
+cfasnIa_param.dat - table giving basic SN parameters
+cfasnIa_mjdspec.dat - table giving MJD of each spectrum
+branchwangclass.dat - table with measurements used to classify SNIa into 
+                      the subclasses defined by Branch et al. (2006) and 
+		      Wang et al. (2009b)
+
+
+
+############################
+# ACKNOWLEDGEMENTS
+############################
+
+You are free to use these spectra for your own research. However, we
+ask that you please acknowledge your sources. These include:
+
+(1) Blondin et al. 2012
+    ===> Please check ADS for the final reference
+
+(2) Some of these spectra have already appeared in publications. If
+    you use them, please refer to the papers listed below in addition
+    to the above Blondin et al. paper.
+
+    SN 	       	Reference
+    ==============================================
+    1997do	Matheson et al. 2008, AJ 135, 1598
+    1997dt	Matheson et al. 2008, AJ 135, 1598
+    1998V	Matheson et al. 2008, AJ 135, 1598
+    1998ab	Matheson et al. 2008, AJ 135, 1598
+    1998aq	Branch et al. 2003, AJ 126, 1489; Matheson et al. 2008, AJ 135, 1598
+    1998bp	Matheson et al. 2008, AJ 135, 1598
+    1998bu	Jha et al. 1999, ApJS 125, 73; Matheson et al. 2008, AJ 135, 1598
+    1998de	Matheson et al. 2008, AJ 135, 1598
+    1998dh	Matheson et al. 2008, AJ 135, 1598
+    1998dk	Matheson et al. 2008, AJ 135, 1598
+    1998dm	Matheson et al. 2008, AJ 135, 1598
+    1998ec	Matheson et al. 2008, AJ 135, 1598
+    1998eg	Matheson et al. 2008, AJ 135, 1598
+    1998es	Matheson et al. 2008, AJ 135, 1598
+    1999X	Matheson et al. 2008, AJ 135, 1598
+    1999aa	Matheson et al. 2008, AJ 135, 1598
+    1999ac	Matheson et al. 2008, AJ 135, 1598
+    1999by	Matheson et al. 2008, AJ 135, 1598
+    1999cc	Matheson et al. 2008, AJ 135, 1598
+    1999cl	Matheson et al. 2008, AJ 135, 1598
+    1999dq	Matheson et al. 2008, AJ 135, 1598
+    1999ej	Matheson et al. 2008, AJ 135, 1598
+    1999gd	Matheson et al. 2008, AJ 135, 1598
+    1999gh	Matheson et al. 2008, AJ 135, 1598
+    1999gp	Matheson et al. 2008, AJ 135, 1598
+    2000B	Matheson et al. 2008, AJ 135, 1598
+    2000cf	Matheson et al. 2008, AJ 135, 1598
+    2000cn	Matheson et al. 2008, AJ 135, 1598
+    2000cx	Matheson et al. 2008, AJ 135, 1598
+    2000dk	Matheson et al. 2008, AJ 135, 1598
+    2000fa	Matheson et al. 2008, AJ 135, 1598
+    2001V	Matheson et al. 2008, AJ 135, 1598
+    2001ay	Krisciunas et al. 2011, AJ 142, 74
+    2001eh	Sauer et al. 2008, MNRAS 391, 1605 (only for sn2001eh-20010926.37-fast.flm)
+    2001ep	Sauer et al. 2008, MNRAS 391, 1605 (only for sn2001ep-20011025.43-fast.flm)
+    2002cx	Li et al. 2003, PASP 115, 453
+    2005cf	Wang et al. 2009, ApJ 697, 380
+    2006bt	Foley et al. 2010, ApJ 708, 1748
+    2006gz	Hicken et al. 2007, ApJ 669, L17
+
+(3) Since you downloaded these spectra from the CfA SN Archive, please
+    also include the following acknowledgement in your paper:
+
+    "This research has made use of the CfA Supernova Archive, which is
+    funded in part by the National Science Foundation through grant
+    AST 0907903."
+
+
+
+############################
+# CONTACT
+############################
+
+Please contact Stephane Blondin (blondin@cppm.in2p3.fr) if you have
+any comments/questions on this data set.

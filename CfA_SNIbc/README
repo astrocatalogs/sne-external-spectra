@@ -1,0 +1,104 @@
+#  645 spectra of 73 Stripped supernovae (ie. SNe of  Types IIb, Ib, Ic and Ic-bl)  published by Modjaz et al. (2014)
+#
+#      "Optical Spectra of 73 Stripped-envelope Core-collapse Supernovae"
+#
+
+
+
+#VERSION: StrippedSNCfAspectra-Modjaz14.tar.gz
+
+
+############################
+# GENERAL INFORMATION
+############################
+
+The spectra (*.flm) are organized in subdirectories, one per
+supernova. The file naming convention for each spectrum is:
+
+   <SN name>-<UT date>-<tel/inst>.flm
+
+   SN name : supernova name (e.g., sn2009jf)
+   UT date : UT date at midpoint of observations, YYYYMMDD format
+   tel/inst: name of telescope or instrument; choices are:
+
+   	     fast : FLWO 1.5m+FAST
+	     mmt  : MMT 6.5m+Blue/Red Channel
+	     ldss2: Magellan Clay 6.5m+LDSS2
+	     ldss3: Magellan Clay 6.5m+LDSS3
+	     imacs: Magellan Baade 6.5m+IMACS
+	     gmos: Gemini-North 8.1m + GMOS-N
+
+The spectra are all in two-column ascii format:
+
+1st column = *observed* wavelength (units = Angstroems [A])
+2nd column = *observed* flux (units = erg/s/cm^2/A)
+
+
+NOTES: 
+
+(1) no attempt has been made to scale the spectra to match the
+    available photometry.
+
+(2) the observed wavelength includes a heliocentric correction.
+
+
+====> THE SPECTRA HAVE *NOT* BEEN DE-REDSHIFTED OR DE-REDDENED <====
+
+
+Other files are also included:
+
+CfAspec_StrippedSN_Modjaz_plots.pdf - single document containing plots of all the spectra
+CfAspec_StrippedSN_Modjaz_obstable.txt  - journal of observations - full version of Table 1 in Modjaz+14
+
+
+
+############################
+# ACKNOWLEDGEMENTS
+############################
+
+You are free to use these spectra for your own research. However, we
+ask that you please acknowledge your sources. These include:
+
+(1) Modjaz et al. 2014, AJ, 147, 99
+
+
+(2) Some of these spectra have already appeared in publications. If
+    you use them, please refer to the papers listed below in addition
+    to the above Modjaz et al. paper.
+
+    SN 	       	Reference
+    ==============================================
+    1993J		Milisavljevic et al. (2012,  ApJ, 751, 25)  for some late-time spectra
+    1994I	        Millard et al. (1999, ApJ, 527, 746)
+    1997ef		Iwamoto et al. (2000, 2000, ApJ, 534, 660)
+    2003jd		Valenti et al. (2008, MNRAS, 383, 148)
+    2004ao	Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2004gk	Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2004gq	Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2004gt	Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2004gv	Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2005bf        Tominaga et al. (2005, ApJL, 633, L97), Modjaz et al. (2008, ApJL, 687, L9) for late-time spectrum
+    2005kl	        Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2006T		Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra    
+    2006aj		Modjaz et al (2006), Modjaz et al. (2008, ApJL, 687, L9) for late-time spectra
+    2007rz		Milisavljevic et al. (2010, ApJ, 709, 1343) for late-time spectrum
+    2007uy	Milisavljevic et al. (2010, ApJ, 709, 1343) for late-time spectrum, but note that the wrong spectrum was published there (namely that of 2008D)
+    2008D		Modjaz et al (2009, ApJ, 702, 226)
+    2008ax	Milisavljevic et al. (2010, ApJ, 709, 1343) for late-time spectra
+    2008bo 	Milisavljevic et al. (2010, ApJ, 709, 1343) for late-time spectra
+
+(3) Since you downloaded these spectra from the CfA SN Archive, please
+    also include the following acknowledgement in your paper:
+
+    "This research has made use of the CfA Supernova Archive, which has been
+    funded in part by the National Science Foundation through grant
+    AST 0907903."
+
+
+
+############################
+# CONTACT
+############################
+
+Please contact Maryam Modjaz (mmodjaz@nyu.edu) if you have
+any comments/questions on this data set.
