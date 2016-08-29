@@ -12,23 +12,30 @@
 	"SN2009ip_20121105_fire.txt":{
 		"name":"SN2009ip",
 		"date":"2012/11/05",
-		"bibcode":"2014ApJ...780...21M"
+		"bibcode":"2014ApJ...780...21M",
+		"yunit":"erg/s/cm^2/Angstrom"
+
 	},
 	"SN2009ip_20121125_fire.txt":{
 		"name":"SN2009ip",
 		"date":"2012/11/25",
-		"bibcode":"2014ApJ...780...21M"
+		"bibcode":"2014ApJ...780...21M",
+		"yunit":"erg/s/cm^2/Angstrom"
+
 	},
 	"SN2009ip_20121203_fire.txt":{
 		"name":"SN2009ip",
 		"date":"2012/12/03",
-		"bibcode":"2014ApJ...780...21M"
+		"bibcode":"2014ApJ...780...21M",
+		"yunit":"erg/s/cm^2/Angstrom"
+
 	},
 	"SN05cz.xy":{
 		"name":"SN2005cz",
 		"date":"2005/12/27.6",
 		"bibcode":"2010Natur.465..326K",
 		"instrument":"FOCAS",
-		"telescope":"Subaru"
+		"telescope":"Subaru",
+		"yunit":"erg/s/cm^2/Angstrom"
 	}
 }
