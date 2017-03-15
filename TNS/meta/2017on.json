@@ -1,1 +1,61 @@
-{"dec": "+24:53:46.82", "discmagfilter": "75", "discoverer": null, "discovererid": "35587", "discoverydate": "2017-01-22 21:14:24", "discoverymag": "18.47", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "Gaia17afo", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017on", "public": "1", "ra": "04:09:46.89", "redshift": "0.035", "source_group": {"group_name": "GaiaAlerts", "groupid": "24"}, "sourceid": "2", "spectra": [{"obsdate": "2017-01-26 00:14:24", "telescope": {"name": "NOT", "id": "12"}, "assoc_groups": [{"name": "NUTS", "id": "28"}], "reducer": "A. Pastorello", "instrument": {"name": "ALFOSC", "id": "41"}, "observer": "E. Gafton (ToO A. Pastorello)", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.ascii", "remarks": "", "exptime": "2400", "jd": 2457780, "end_prop_period": null, "public": "1", "source_group": {"name": "NUTS", "id": "28"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.fits"}], "type": "3"}
+{
+	"dec":"+24:53:46.82",
+	"discmagfilter":"75",
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-01-22 21:14:24",
+	"discoverymag":"18.47",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17afo",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017on",
+	"public":"1",
+	"ra":"04:09:46.89",
+	"redshift":"0.035",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"name":"ALFOSC",
+				"id":"41"
+			},
+			"telescope":{
+				"name":"NOT",
+				"id":"12"
+			},
+			"jd":2457780,
+			"remarks":"",
+			"source_group":{
+				"name":"NUTS",
+				"id":"28"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.ascii",
+			"public":"1",
+			"observer":"E. Gafton (ToO A. Pastorello)",
+			"end_prop_period":null,
+			"reducer":"A. Pastorello",
+			"obsdate":"2017-01-26 00:14:24",
+			"exptime":"2400",
+			"assoc_groups":[
+				{
+					"name":"NUTS",
+					"id":"28"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

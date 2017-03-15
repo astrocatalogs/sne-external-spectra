@@ -1,1 +1,61 @@
-{"dec": "+30:03:39.10", "discmagfilter": "18", "discoverer": "Duszanowicz", "discovererid": "211", "discoverydate": "2017-01-01 05:26:01", "discoverymag": "17.4", "end_prop_period": null, "host_redshift": null, "hostname": "UGC10104", "internal_name": "", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017A", "public": "1", "ra": "15:57:28.35", "redshift": "0.0328", "source_group": {"group_name": "RANSSP", "groupid": "12"}, "sourceid": "1", "spectra": [{"obsdate": "2017-01-24 04:33:36", "telescope": {"name": "Ekar", "id": "34"}, "assoc_groups": [{"name": "Padova-Asiago", "id": "16"}], "reducer": "Benetti", "instrument": {"name": "AFOSC", "id": "37"}, "observer": "Ochner", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.txt", "remarks": "", "exptime": "1800", "jd": 2457780, "end_prop_period": null, "public": "1", "source_group": {"name": "Padova-Asiago", "id": "16"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.fits"}], "type": "3"}
+{
+	"dec":"+30:03:39.10",
+	"discmagfilter":"18",
+	"discoverer":"Duszanowicz",
+	"discovererid":"211",
+	"discoverydate":"2017-01-01 05:26:01",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC10104",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017A",
+	"public":"1",
+	"ra":"15:57:28.35",
+	"redshift":"0.0328",
+	"source_group":{
+		"group_name":"RANSSP",
+		"groupid":"12"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"name":"AFOSC",
+				"id":"37"
+			},
+			"telescope":{
+				"name":"Ekar",
+				"id":"34"
+			},
+			"jd":2457780,
+			"remarks":"",
+			"source_group":{
+				"name":"Padova-Asiago",
+				"id":"16"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.txt",
+			"public":"1",
+			"observer":"Ochner",
+			"end_prop_period":null,
+			"reducer":"Benetti",
+			"obsdate":"2017-01-24 04:33:36",
+			"exptime":"1800",
+			"assoc_groups":[
+				{
+					"name":"Padova-Asiago",
+					"id":"16"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

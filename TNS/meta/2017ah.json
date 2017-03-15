@@ -1,1 +1,61 @@
-{"dec": "+63:38:34.16", "discmagfilter": "12", "discoverer": "Dong", "discovererid": "59", "discoverydate": "2017-01-04 13:16:36", "discoverymag": "17.35", "end_prop_period": null, "host_redshift": "0.032863", "hostname": "CGCG 314-011", "internal_name": "ASASSN-17ad", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017ah", "public": "1", "ra": "11:10:01.96", "redshift": null, "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-01-05 12:15:46", "telescope": {"name": "FLWO 1.5m", "id": "36"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "", "instrument": {"name": "FAST", "id": "44"}, "observer": "M. Calkins ", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.txt", "remarks": "", "exptime": null, "jd": 2457760, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.fits"}], "type": "3"}
+{
+	"dec":"+63:38:34.16",
+	"discmagfilter":"12",
+	"discoverer":"Dong",
+	"discovererid":"59",
+	"discoverydate":"2017-01-04 13:16:36",
+	"discoverymag":"17.35",
+	"end_prop_period":null,
+	"host_redshift":"0.032863",
+	"hostname":"CGCG 314-011",
+	"internal_name":"ASASSN-17ad",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017ah",
+	"public":"1",
+	"ra":"11:10:01.96",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.fits",
+			"instrument":{
+				"name":"FAST",
+				"id":"44"
+			},
+			"telescope":{
+				"name":"FLWO 1.5m",
+				"id":"36"
+			},
+			"jd":2457760,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.txt",
+			"public":"1",
+			"observer":"M. Calkins ",
+			"end_prop_period":null,
+			"reducer":"",
+			"obsdate":"2017-01-05 12:15:46",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

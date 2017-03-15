@@ -1,1 +1,93 @@
-{"dec": "-10:21:22.86", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-02-14 06:43:12", "discoverymag": "17.4", "end_prop_period": null, "host_redshift": "0.013293", "hostname": "MCG -02-13-038", "internal_name": "ASASSN-17cl", "isTNS_AT": "1", "name": "SN II", "name_prefix": "SN", "object_type": {"id": "10", "name": null}, "objname": "2017auf", "public": "1", "ra": "05:02:19.56", "redshift": "0.0133", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-18 01:58:10", "telescope": {"name": "ESO-NTT", "id": "30"}, "assoc_groups": [{"name": "PESSTO", "id": "1"}], "reducer": "F. Taddia, C. Fremling, J. Sollerman", "instrument": {"name": "EFOSC2-NTT", "id": "31"}, "observer": "C. Barbarino, A. Nyholm", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.asci", "remarks": "", "exptime": "300", "jd": 2457800, "end_prop_period": null, "public": "1", "source_group": {"name": "PESSTO", "id": "1"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.fits"}, {"obsdate": "2017-02-17 13:40:47", "telescope": {"name": "BAO-2.16m", "id": "45"}, "assoc_groups": [{"name": "PTSS", "id": "22"}, {"name": "TNTS", "id": "25"}], "reducer": "Danfeng Xiang (THU)", "groupid": "0", "observer": "Linyi Li, Xinghan Zhang (THU)", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017auf_2017-02-17.57_BAO-2.16m_Phot-spec.txt", "remarks": "", "exptime": "3000", "jd": 2457800, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "Phot-spec", "id": "55"}, "fitsfile": ""}], "type": "10"}
+{
+	"dec":"-10:21:22.86",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-02-14 06:43:12",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":"0.013293",
+	"hostname":"MCG -02-13-038",
+	"internal_name":"ASASSN-17cl",
+	"isTNS_AT":"1",
+	"name":"SN II",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":null
+	},
+	"objname":"2017auf",
+	"public":"1",
+	"ra":"05:02:19.56",
+	"redshift":"0.0133",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"name":"EFOSC2-NTT",
+				"id":"31"
+			},
+			"telescope":{
+				"name":"ESO-NTT",
+				"id":"30"
+			},
+			"jd":2457800,
+			"remarks":"",
+			"source_group":{
+				"name":"PESSTO",
+				"id":"1"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.asci",
+			"public":"1",
+			"observer":"C. Barbarino, A. Nyholm",
+			"end_prop_period":null,
+			"reducer":"F. Taddia, C. Fremling, J. Sollerman",
+			"obsdate":"2017-02-18 01:58:10",
+			"exptime":"300",
+			"assoc_groups":[
+				{
+					"name":"PESSTO",
+					"id":"1"
+				}
+			]
+		},
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457800,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017auf_2017-02-17.57_BAO-2.16m_Phot-spec.txt",
+			"public":"1",
+			"instrument":{
+				"name":"Phot-spec",
+				"id":"55"
+			},
+			"observer":"Linyi Li, Xinghan Zhang (THU)",
+			"end_prop_period":null,
+			"reducer":"Danfeng Xiang (THU)",
+			"obsdate":"2017-02-17 13:40:47",
+			"exptime":"3000",
+			"assoc_groups":[
+				{
+					"name":"PTSS",
+					"id":"22"
+				},
+				{
+					"name":"TNTS",
+					"id":"25"
+				}
+			],
+			"telescope":{
+				"name":"BAO-2.16m",
+				"id":"45"
+			}
+		}
+	],
+	"type":"10"
+}

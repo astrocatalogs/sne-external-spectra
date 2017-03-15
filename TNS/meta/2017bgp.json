@@ -1,1 +1,61 @@
-{"dec": "+44:43:29.75", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-02-21 12:28:48", "discoverymag": "17.8", "end_prop_period": null, "host_redshift": "0.047198", "hostname": "MCG +08-20-019", "internal_name": "ASASSN-17cu", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017bgp", "public": "1", "ra": "10:46:07.35", "redshift": "0.047", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-23 09:18:36", "telescope": {"name": "FTN", "id": "74"}, "assoc_groups": [{"name": "LCOGT SN-KP", "id": "11"}], "reducer": "Griffin Hosseinzadeh", "instrument": {"name": "FLOYDS-N", "id": "108"}, "observer": "Las Cumbres Observatory", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/LCOGT%20SN-KP/tns_2017bgp_2017-02-23_09-18-36_FTN_FLOYDS-N_LCOGT_SN-KP.ascii", "remarks": "", "exptime": "3600", "jd": 2457810, "end_prop_period": null, "public": "1", "source_group": {"name": "LCOGT SN-KP", "id": "11"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/LCOGT%20SN-KP/tns_2017bgp_2017-02-23_09-18-36_FTN_FLOYDS-N_LCOGT_SN-KP.fits"}], "type": "3"}
+{
+	"dec":"+44:43:29.75",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-02-21 12:28:48",
+	"discoverymag":"17.8",
+	"end_prop_period":null,
+	"host_redshift":"0.047198",
+	"hostname":"MCG +08-20-019",
+	"internal_name":"ASASSN-17cu",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017bgp",
+	"public":"1",
+	"ra":"10:46:07.35",
+	"redshift":"0.047",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LCOGT%20SN-KP/tns_2017bgp_2017-02-23_09-18-36_FTN_FLOYDS-N_LCOGT_SN-KP.fits",
+			"instrument":{
+				"name":"FLOYDS-N",
+				"id":"108"
+			},
+			"telescope":{
+				"name":"FTN",
+				"id":"74"
+			},
+			"jd":2457810,
+			"remarks":"",
+			"source_group":{
+				"name":"LCOGT SN-KP",
+				"id":"11"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LCOGT%20SN-KP/tns_2017bgp_2017-02-23_09-18-36_FTN_FLOYDS-N_LCOGT_SN-KP.ascii",
+			"public":"1",
+			"observer":"Las Cumbres Observatory",
+			"end_prop_period":null,
+			"reducer":"Griffin Hosseinzadeh",
+			"obsdate":"2017-02-23 09:18:36",
+			"exptime":"3600",
+			"assoc_groups":[
+				{
+					"name":"LCOGT SN-KP",
+					"id":"11"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

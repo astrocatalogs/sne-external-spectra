@@ -1,1 +1,61 @@
-{"dec": "+28:08:19.70", "discmagfilter": "1", "discoverer": "Itagaki", "discovererid": "87", "discoverydate": "2017-01-06 16:33:10", "discoverymag": "17.5", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017hr", "public": "1", "ra": "12:06:27.39", "redshift": "0.0293", "source_group": {"group_name": null, "groupid": "0"}, "sourceid": "1", "spectra": [{"obsdate": "2017-01-17 10:02:01", "telescope": {"name": "P60", "id": "2"}, "assoc_groups": [{"name": "iPTF", "id": "2"}], "reducer": "Neill", "instrument": {"name": "SED-Machine", "id": "149"}, "observer": "Walters", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hr_2017-01-17_10-02-01_P60_SED-Machine_iPTF.txt", "remarks": "", "exptime": "1200", "jd": 2457770, "end_prop_period": null, "public": "1", "source_group": {"name": "iPTF", "id": "2"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+28:08:19.70",
+	"discmagfilter":"1",
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-01-06 16:33:10",
+	"discoverymag":"17.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017hr",
+	"public":"1",
+	"ra":"12:06:27.39",
+	"redshift":"0.0293",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"SED-Machine",
+				"id":"149"
+			},
+			"telescope":{
+				"name":"P60",
+				"id":"2"
+			},
+			"jd":2457770,
+			"remarks":"",
+			"source_group":{
+				"name":"iPTF",
+				"id":"2"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hr_2017-01-17_10-02-01_P60_SED-Machine_iPTF.txt",
+			"public":"1",
+			"observer":"Walters",
+			"end_prop_period":null,
+			"reducer":"Neill",
+			"obsdate":"2017-01-17 10:02:01",
+			"exptime":"1200",
+			"assoc_groups":[
+				{
+					"name":"iPTF",
+					"id":"2"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

@@ -1,1 +1,61 @@
-{"dec": "+03:44:08.18", "discmagfilter": "71", "discoverer": null, "discovererid": "35595", "discoverydate": "2017-01-23 05:08:09", "discoverymag": "16.76", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS17akw", "isTNS_AT": "1", "name": "SN Ia-91T-like", "name_prefix": "SN", "object_type": {"id": "104", "name": null}, "objname": "2017nt", "public": "1", "ra": "23:53:31.13", "redshift": "0.0388", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2017-01-24 18:19:02", "telescope": {"name": "Ekar", "id": "34"}, "assoc_groups": [{"name": "Padova-Asiago", "id": "16"}], "reducer": "Tomasella", "instrument": {"name": "AFOSC", "id": "37"}, "observer": "Tomasella", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.dat", "remarks": "", "exptime": "1800", "jd": 2457780, "end_prop_period": null, "public": "1", "source_group": {"name": "Padova-Asiago", "id": "16"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.fits"}], "type": "104"}
+{
+	"dec":"+03:44:08.18",
+	"discmagfilter":"71",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-01-23 05:08:09",
+	"discoverymag":"16.76",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17akw",
+	"isTNS_AT":"1",
+	"name":"SN Ia-91T-like",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":null
+	},
+	"objname":"2017nt",
+	"public":"1",
+	"ra":"23:53:31.13",
+	"redshift":"0.0388",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"name":"AFOSC",
+				"id":"37"
+			},
+			"telescope":{
+				"name":"Ekar",
+				"id":"34"
+			},
+			"jd":2457780,
+			"remarks":"",
+			"source_group":{
+				"name":"Padova-Asiago",
+				"id":"16"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.dat",
+			"public":"1",
+			"observer":"Tomasella",
+			"end_prop_period":null,
+			"reducer":"Tomasella",
+			"obsdate":"2017-01-24 18:19:02",
+			"exptime":"1800",
+			"assoc_groups":[
+				{
+					"name":"Padova-Asiago",
+					"id":"16"
+				}
+			]
+		}
+	],
+	"type":"104"
+}

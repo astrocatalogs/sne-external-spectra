@@ -1,1 +1,61 @@
-{"dec": "+29:55:15.51", "discmagfilter": "72", "discoverer": null, "discovererid": "35595", "discoverydate": "2017-02-17 09:54:43", "discoverymag": "18.41", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS17bds", "isTNS_AT": "1", "name": null, "name_prefix": "AT", "object_type": {"id": null, "name": null}, "objname": "2017bel", "public": "1", "ra": "08:56:46.74", "redshift": "0.033", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2017-02-26 01:44:44", "telescope": {"name": "ESO-NTT", "id": "30"}, "assoc_groups": [{"name": "PESSTO", "id": "1"}], "reducer": "F. Taddia, J. Sollerman, C. Fremling", "instrument": {"name": "EFOSC2-NTT", "id": "31"}, "observer": "C. Barbarino, A. Nyholm", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017bel_2017-02-26_01-44-44_ESO-NTT_EFOSC2-NTT.asci", "remarks": "", "exptime": "600", "jd": 2457810, "end_prop_period": null, "public": "1", "source_group": {"name": "PESSTO", "id": "1"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017bel_2017-02-26_01-44-44_ESO-NTT_EFOSC2-NTT.fits"}], "type": null}
+{
+	"dec":"+29:55:15.51",
+	"discmagfilter":"72",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-02-17 09:54:43",
+	"discoverymag":"18.41",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17bds",
+	"isTNS_AT":"1",
+	"name":null,
+	"name_prefix":"AT",
+	"object_type":{
+		"id":null,
+		"name":null
+	},
+	"objname":"2017bel",
+	"public":"1",
+	"ra":"08:56:46.74",
+	"redshift":"0.033",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017bel_2017-02-26_01-44-44_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"name":"EFOSC2-NTT",
+				"id":"31"
+			},
+			"telescope":{
+				"name":"ESO-NTT",
+				"id":"30"
+			},
+			"jd":2457810,
+			"remarks":"",
+			"source_group":{
+				"name":"PESSTO",
+				"id":"1"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017bel_2017-02-26_01-44-44_ESO-NTT_EFOSC2-NTT.asci",
+			"public":"1",
+			"observer":"C. Barbarino, A. Nyholm",
+			"end_prop_period":null,
+			"reducer":"F. Taddia, J. Sollerman, C. Fremling",
+			"obsdate":"2017-02-26 01:44:44",
+			"exptime":"600",
+			"assoc_groups":[
+				{
+					"name":"PESSTO",
+					"id":"1"
+				}
+			]
+		}
+	],
+	"type":null
+}

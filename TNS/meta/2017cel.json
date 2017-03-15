@@ -1,0 +1,53 @@
+{
+	"dec":"-11:14:51.37",
+	"discmagfilter":"72",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-03-14 10:19:12",
+	"discoverymag":"16.86",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17bue",
+	"isTNS_AT":"1",
+	"name":"SN II",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":null
+	},
+	"objname":"2017cel",
+	"public":"1",
+	"ra":"07:58:48.45",
+	"redshift":"0.052",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.fits",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457830,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.txt",
+			"public":"1",
+			"instrument":{
+				"name":"SPRAT",
+				"id":"156"
+			},
+			"observer":"Simon Prentice",
+			"end_prop_period":null,
+			"reducer":"",
+			"obsdate":"2017-03-14 21:13:47",
+			"exptime":null,
+			"telescope":{
+				"name":"LT",
+				"id":"70"
+			}
+		}
+	],
+	"type":"10"
+}

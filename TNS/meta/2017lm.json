@@ -1,1 +1,53 @@
-{"dec": "-15:00:57.19", "discmagfilter": "72", "discoverer": null, "discovererid": "35595", "discoverydate": "2017-01-14 06:28:48", "discoverymag": "18.07", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS17aix", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017lm", "public": "1", "ra": "03:01:32.41", "redshift": "0.03052", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2017-01-19 19:58:01", "telescope": {"name": "SALT", "id": "82"}, "reducer": "S. W. Jha", "groupid": "0", "observer": "R. Kuhn", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.dat", "remarks": "", "exptime": "1933", "jd": 2457770, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "RSS", "id": "117"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.fits"}], "type": "3"}
+{
+	"dec":"-15:00:57.19",
+	"discmagfilter":"72",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-01-14 06:28:48",
+	"discoverymag":"18.07",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17aix",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017lm",
+	"public":"1",
+	"ra":"03:01:32.41",
+	"redshift":"0.03052",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.fits",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457770,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.dat",
+			"public":"1",
+			"instrument":{
+				"name":"RSS",
+				"id":"117"
+			},
+			"observer":"R. Kuhn",
+			"end_prop_period":null,
+			"reducer":"S. W. Jha",
+			"obsdate":"2017-01-19 19:58:01",
+			"exptime":"1933",
+			"telescope":{
+				"name":"SALT",
+				"id":"82"
+			}
+		}
+	],
+	"type":"3"
+}

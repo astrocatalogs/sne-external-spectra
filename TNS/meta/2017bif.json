@@ -1,1 +1,61 @@
-{"dec": "-60:32:39.73", "discmagfilter": "75", "discoverer": null, "discovererid": "35587", "discoverydate": "2017-02-16 14:06:43", "discoverymag": "17.03", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "Gaia17alp", "isTNS_AT": "1", "name": "SN II", "name_prefix": "SN", "object_type": {"id": "10", "name": null}, "objname": "2017bif", "public": "1", "ra": "17:26:27.12", "redshift": null, "source_group": {"group_name": "GaiaAlerts", "groupid": "24"}, "sourceid": "2", "spectra": [{"obsdate": "2017-02-25 07:43:42", "telescope": {"name": "LCO-duPont", "id": "50"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "", "instrument": {"name": "WFCCD", "id": "62"}, "observer": "M. Drout", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bif_2457809.82201718_LCO-duPont_WFCCD_ASAS-SN.txt", "remarks": "", "exptime": null, "jd": 2457810, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bif_2457809.82201718_LCO-duPont_WFCCD_ASAS-SN.fits"}], "type": "10"}
+{
+	"dec":"-60:32:39.73",
+	"discmagfilter":"75",
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-02-16 14:06:43",
+	"discoverymag":"17.03",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17alp",
+	"isTNS_AT":"1",
+	"name":"SN II",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":null
+	},
+	"objname":"2017bif",
+	"public":"1",
+	"ra":"17:26:27.12",
+	"redshift":null,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bif_2457809.82201718_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"name":"WFCCD",
+				"id":"62"
+			},
+			"telescope":{
+				"name":"LCO-duPont",
+				"id":"50"
+			},
+			"jd":2457810,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bif_2457809.82201718_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"public":"1",
+			"observer":"M. Drout",
+			"end_prop_period":null,
+			"reducer":"",
+			"obsdate":"2017-02-25 07:43:42",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"10"
+}

@@ -1,1 +1,53 @@
-{"dec": "-38:08:37.50", "discmagfilter": "1", "discoverer": "Parker", "discovererid": "110", "discoverydate": "2017-02-02 12:44:59", "discoverymag": "17.3", "end_prop_period": null, "host_redshift": null, "hostname": "PGC612475", "internal_name": "", "isTNS_AT": "1", "name": null, "name_prefix": "AT", "object_type": {"id": null, "name": null}, "objname": "2017acd", "public": "1", "ra": "11:34:49.10", "redshift": null, "source_group": {"group_name": "BOSS", "groupid": "7"}, "sourceid": "1", "spectra": [], "type": null}
+{
+	"dec":"-38:08:37.50",
+	"discmagfilter":"1",
+	"discoverer":"Parker",
+	"discovererid":"110",
+	"discoverydate":"2017-02-02 12:44:59",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC612475",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017acd",
+	"public":"1",
+	"ra":"11:34:49.10",
+	"redshift":"0.032042",
+	"source_group":{
+		"group_name":"BOSS",
+		"groupid":"7"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017acd_2017-02-13.2_Magellan-Baade_IMACS.fits",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457800,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017acd_2017-02-13.2_Magellan-Baade_IMACS.txt",
+			"public":"1",
+			"instrument":{
+				"name":"IMACS",
+				"id":"75"
+			},
+			"observer":"M. Phillips",
+			"end_prop_period":null,
+			"reducer":"N. Morrell",
+			"obsdate":"2017-02-13 04:48:00",
+			"exptime":"900",
+			"telescope":{
+				"name":"Magellan-Baade",
+				"id":"54"
+			}
+		}
+	],
+	"type":"3"
+}

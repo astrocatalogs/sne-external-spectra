@@ -1,1 +1,61 @@
-{"dec": "+38:07:09.20", "discmagfilter": "22", "discoverer": "Li", "discovererid": "294", "discoverydate": "2017-02-01 19:34:19", "discoverymag": "19.6", "end_prop_period": null, "host_redshift": null, "hostname": "SDSS J113618.34+380706.8", "internal_name": "PTSS-17die", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017aap", "public": "1", "ra": "11:36:18.31", "redshift": "0.11", "source_group": {"group_name": "PTSS", "groupid": "22"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-02 15:36:00", "telescope": {"name": "LJT", "id": "77"}, "assoc_groups": [{"name": "PTSS", "id": "22"}], "reducer": "Jujia Zhang", "instrument": {"name": "YFOSC", "id": "107"}, "observer": "Yuxin Xin", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017aap_2017-02-02.65_LJT_YFOSC_PTSS.dat", "remarks": "", "exptime": "2400", "jd": 2457790, "end_prop_period": null, "public": "1", "source_group": {"name": "PTSS", "id": "22"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+38:07:09.20",
+	"discmagfilter":"22",
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-02-01 19:34:19",
+	"discoverymag":"19.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J113618.34+380706.8",
+	"internal_name":"PTSS-17die",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017aap",
+	"public":"1",
+	"ra":"11:36:18.31",
+	"redshift":"0.11",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"YFOSC",
+				"id":"107"
+			},
+			"telescope":{
+				"name":"LJT",
+				"id":"77"
+			},
+			"jd":2457790,
+			"remarks":"",
+			"source_group":{
+				"name":"PTSS",
+				"id":"22"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017aap_2017-02-02.65_LJT_YFOSC_PTSS.dat",
+			"public":"1",
+			"observer":"Yuxin Xin",
+			"end_prop_period":null,
+			"reducer":"Jujia Zhang",
+			"obsdate":"2017-02-02 15:36:00",
+			"exptime":"2400",
+			"assoc_groups":[
+				{
+					"name":"PTSS",
+					"id":"22"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

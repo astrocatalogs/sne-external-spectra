@@ -1,1 +1,61 @@
-{"dec": "+37:32:46.11", "discmagfilter": "72", "discoverer": null, "discovererid": "35595", "discoverydate": "2016-12-20 11:21:07", "discoverymag": "17.28", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS16dzp", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2016iyx", "public": "1", "ra": "08:43:24.75", "redshift": "0.041", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2017-01-08 07:28:12", "telescope": {"name": "MDM-2.4", "id": "11"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "", "instrument": {"name": "OSMOS", "id": "150"}, "observer": "G. Simonian", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016iyx_2457761.81125769_MDM-2.4_OSMOS_ASAS-SN.txt", "remarks": "", "exptime": null, "jd": 2457760, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016iyx_2457761.81125769_MDM-2.4_OSMOS_ASAS-SN.fits"}], "type": "3"}
+{
+	"dec":"+37:32:46.11",
+	"discmagfilter":"72",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2016-12-20 11:21:07",
+	"discoverymag":"17.28",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS16dzp",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2016iyx",
+	"public":"1",
+	"ra":"08:43:24.75",
+	"redshift":"0.041",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016iyx_2457761.81125769_MDM-2.4_OSMOS_ASAS-SN.fits",
+			"instrument":{
+				"name":"OSMOS",
+				"id":"150"
+			},
+			"telescope":{
+				"name":"MDM-2.4",
+				"id":"11"
+			},
+			"jd":2457760,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016iyx_2457761.81125769_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"public":"1",
+			"observer":"G. Simonian",
+			"end_prop_period":null,
+			"reducer":"",
+			"obsdate":"2017-01-08 07:28:12",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

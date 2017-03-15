@@ -1,1 +1,53 @@
-{"dec": "+20:44:57.64", "discmagfilter": "72", "discoverer": null, "discovererid": "35595", "discoverydate": "2017-02-05 09:27:21", "discoverymag": "18.11", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS17awu", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017adi", "public": "1", "ra": "09:01:38.99", "redshift": "0.03128", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2017-02-07 02:07:59", "telescope": {"name": "LT", "id": "70"}, "reducer": "Inserra", "groupid": "0", "observer": "Inserra", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017adi_2017-02-07_02-07-59_LT_SPRAT.asci", "remarks": "", "exptime": "800", "jd": 2457790, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "SPRAT", "id": "156"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+20:44:57.64",
+	"discmagfilter":"72",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-02-05 09:27:21",
+	"discoverymag":"18.11",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17awu",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017adi",
+	"public":"1",
+	"ra":"09:01:38.99",
+	"redshift":"0.03128",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457790,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017adi_2017-02-07_02-07-59_LT_SPRAT.asci",
+			"public":"1",
+			"instrument":{
+				"name":"SPRAT",
+				"id":"156"
+			},
+			"observer":"Inserra",
+			"end_prop_period":null,
+			"reducer":"Inserra",
+			"obsdate":"2017-02-07 02:07:59",
+			"exptime":"800",
+			"telescope":{
+				"name":"LT",
+				"id":"70"
+			}
+		}
+	],
+	"type":"3"
+}

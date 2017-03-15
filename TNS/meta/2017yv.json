@@ -1,1 +1,53 @@
-{"dec": "-35:49:30.76", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-01-31 04:33:36", "discoverymag": "16.6", "end_prop_period": null, "host_redshift": "0.015584", "hostname": "ESO 375- G 018", "internal_name": "ASASSSN-17bu", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017yv", "public": "1", "ra": "10:23:40.40", "redshift": "0.015584", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-03 21:00:25", "telescope": {"name": "SALT", "id": "82"}, "reducer": "S. W. Jha", "groupid": "0", "observer": "M. Kotze", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017yv_2457788.37528935_SALT_RSS.dat", "remarks": "", "exptime": "1933", "jd": 2457790, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "RSS", "id": "117"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017yv_2457788.37528935_SALT_RSS.fits"}], "type": "3"}
+{
+	"dec":"-35:49:30.76",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-01-31 04:33:36",
+	"discoverymag":"16.6",
+	"end_prop_period":null,
+	"host_redshift":"0.015584",
+	"hostname":"ESO 375- G 018",
+	"internal_name":"ASASSSN-17bu",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017yv",
+	"public":"1",
+	"ra":"10:23:40.40",
+	"redshift":"0.015584",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017yv_2457788.37528935_SALT_RSS.fits",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457790,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017yv_2457788.37528935_SALT_RSS.dat",
+			"public":"1",
+			"instrument":{
+				"name":"RSS",
+				"id":"117"
+			},
+			"observer":"M. Kotze",
+			"end_prop_period":null,
+			"reducer":"S. W. Jha",
+			"obsdate":"2017-02-03 21:00:25",
+			"exptime":"1933",
+			"telescope":{
+				"name":"SALT",
+				"id":"82"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,1 +1,59 @@
-{"dec": "+02:17:00.80", "discmagfilter": "1", "discoverer": "Gao", "discovererid": "297", "discoverydate": "2016-12-28 23:24:57", "discoverymag": "18.4", "end_prop_period": null, "host_redshift": null, "hostname": "PGC 1221823", "internal_name": "", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2016jdj", "public": "1", "ra": "13:26:01.99", "redshift": "0.137", "source_group": {"group_name": "XOSS", "groupid": "10"}, "sourceid": "1", "spectra": [{"obsdate": "2016-12-29 22:04:48", "telescope": {"name": "LJT", "id": "77"}, "assoc_groups": [{"name": "PTSS", "id": "22"}], "reducer": "Jujia Zhang", "groupid": "0", "observer": "Xiaoguang Yu", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2016jdj_2016-12-29.92_LJT_YFOSC.dat", "remarks": "", "exptime": "2000", "jd": 2457750, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "YFOSC", "id": "107"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+02:17:00.80",
+	"discmagfilter":"1",
+	"discoverer":"Gao",
+	"discovererid":"297",
+	"discoverydate":"2016-12-28 23:24:57",
+	"discoverymag":"18.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC 1221823",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2016jdj",
+	"public":"1",
+	"ra":"13:26:01.99",
+	"redshift":"0.137",
+	"source_group":{
+		"group_name":"XOSS",
+		"groupid":"10"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457750,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2016jdj_2016-12-29.92_LJT_YFOSC.dat",
+			"public":"1",
+			"instrument":{
+				"name":"YFOSC",
+				"id":"107"
+			},
+			"observer":"Xiaoguang Yu",
+			"end_prop_period":null,
+			"reducer":"Jujia Zhang",
+			"obsdate":"2016-12-29 22:04:48",
+			"exptime":"2000",
+			"assoc_groups":[
+				{
+					"name":"PTSS",
+					"id":"22"
+				}
+			],
+			"telescope":{
+				"name":"LJT",
+				"id":"77"
+			}
+		}
+	],
+	"type":"3"
+}

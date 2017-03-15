@@ -1,1 +1,59 @@
-{"dec": "+27:12:09.79", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-01-23 08:23:59", "discoverymag": "17.6", "end_prop_period": null, "host_redshift": null, "hostname": "2MASX J07101346+2712041", "internal_name": "ASASSN-17bc", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017nh", "public": "1", "ra": "07:10:13.64", "redshift": "0.06", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-01-24 15:07:12", "telescope": {"name": "BAO-2.16m", "id": "45"}, "assoc_groups": [{"name": "TNTS", "id": "25"}], "reducer": "Liming Rui", "groupid": "0", "observer": "Junjun Jia", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017nh_2017-01-24.63_BAO-2.16m_Phot-spec.txt", "remarks": "", "exptime": "3600", "jd": 2457780, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "Phot-spec", "id": "55"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+27:12:09.79",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-01-23 08:23:59",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J07101346+2712041",
+	"internal_name":"ASASSN-17bc",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017nh",
+	"public":"1",
+	"ra":"07:10:13.64",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457780,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017nh_2017-01-24.63_BAO-2.16m_Phot-spec.txt",
+			"public":"1",
+			"instrument":{
+				"name":"Phot-spec",
+				"id":"55"
+			},
+			"observer":"Junjun Jia",
+			"end_prop_period":null,
+			"reducer":"Liming Rui",
+			"obsdate":"2017-01-24 15:07:12",
+			"exptime":"3600",
+			"assoc_groups":[
+				{
+					"name":"TNTS",
+					"id":"25"
+				}
+			],
+			"telescope":{
+				"name":"BAO-2.16m",
+				"id":"45"
+			}
+		}
+	],
+	"type":"3"
+}

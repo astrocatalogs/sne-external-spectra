@@ -1,1 +1,61 @@
-{"dec": "+09:45:18.35", "discmagfilter": "22", "discoverer": "Li", "discovererid": "294", "discoverydate": "2017-02-15 11:09:05", "discoverymag": "19", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "", "isTNS_AT": "1", "name": "SN II", "name_prefix": "SN", "object_type": {"id": "10", "name": null}, "objname": "2017auu", "public": "1", "ra": "01:24:46.86", "redshift": "0.0484", "source_group": {"group_name": "PTSS", "groupid": "22"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-16 12:28:48", "telescope": {"name": "LJT", "id": "77"}, "assoc_groups": [{"name": "PTSS", "id": "22"}], "reducer": "Jujia Zhang", "instrument": {"name": "YFOSC", "id": "107"}, "observer": "Baoli Lun", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017auu_2017-02-16.52_LJT_YFOSC_PTSS.dat", "remarks": "", "exptime": "2100", "jd": 2457800, "end_prop_period": null, "public": "1", "source_group": {"name": "PTSS", "id": "22"}, "fitsfile": ""}], "type": "10"}
+{
+	"dec":"+09:45:18.35",
+	"discmagfilter":"22",
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-02-15 11:09:05",
+	"discoverymag":"19",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN II",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":null
+	},
+	"objname":"2017auu",
+	"public":"1",
+	"ra":"01:24:46.86",
+	"redshift":"0.0484",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"YFOSC",
+				"id":"107"
+			},
+			"telescope":{
+				"name":"LJT",
+				"id":"77"
+			},
+			"jd":2457800,
+			"remarks":"",
+			"source_group":{
+				"name":"PTSS",
+				"id":"22"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017auu_2017-02-16.52_LJT_YFOSC_PTSS.dat",
+			"public":"1",
+			"observer":"Baoli Lun",
+			"end_prop_period":null,
+			"reducer":"Jujia Zhang",
+			"obsdate":"2017-02-16 12:28:48",
+			"exptime":"2100",
+			"assoc_groups":[
+				{
+					"name":"PTSS",
+					"id":"22"
+				}
+			]
+		}
+	],
+	"type":"10"
+}

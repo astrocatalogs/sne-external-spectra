@@ -1,1 +1,61 @@
-{"dec": "+06:50:19.64", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-03-06 13:55:12", "discoverymag": "16.3", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ASASSN-17dj", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017cav", "public": "1", "ra": "18:06:43.92", "redshift": "0.025", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-03-10 04:16:43", "telescope": {"name": "LT", "id": "70"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "Bersier", "instrument": {"name": "SPRAT", "id": "156"}, "observer": "Bersier", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cav_2017-03-10_04-16-43_LT_SPRAT_ASAS-SN.dat", "remarks": "", "exptime": "600", "jd": 2457820, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+06:50:19.64",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-03-06 13:55:12",
+	"discoverymag":"16.3",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ASASSN-17dj",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017cav",
+	"public":"1",
+	"ra":"18:06:43.92",
+	"redshift":"0.025",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"SPRAT",
+				"id":"156"
+			},
+			"telescope":{
+				"name":"LT",
+				"id":"70"
+			},
+			"jd":2457820,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cav_2017-03-10_04-16-43_LT_SPRAT_ASAS-SN.dat",
+			"public":"1",
+			"observer":"Bersier",
+			"end_prop_period":null,
+			"reducer":"Bersier",
+			"obsdate":"2017-03-10 04:16:43",
+			"exptime":"600",
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

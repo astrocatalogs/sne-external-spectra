@@ -1,1 +1,59 @@
-{"dec": "+40:36:53.93", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2016-12-29 13:12:00", "discoverymag": "16.7", "end_prop_period": null, "host_redshift": "0.02328", "hostname": "SDSS J122739.66+403649.0 ", "internal_name": "ASASSN-16pk", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2016jdl", "public": "1", "ra": "12:27:39.88", "redshift": "0.0232", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2016-12-30 21:07:12", "telescope": {"name": "BAO-2.16m", "id": "45"}, "assoc_groups": [{"name": "TNTS", "id": "25"}], "reducer": "Danfeng Xiang", "groupid": "0", "observer": "Feng Xiao", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2016jdl_2016-12-30.88_BAO-2.16m_Phot-spec.txt", "remarks": "", "exptime": "3000", "jd": 2457750, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "Phot-spec", "id": "55"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+40:36:53.93",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2016-12-29 13:12:00",
+	"discoverymag":"16.7",
+	"end_prop_period":null,
+	"host_redshift":"0.02328",
+	"hostname":"SDSS J122739.66+403649.0 ",
+	"internal_name":"ASASSN-16pk",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2016jdl",
+	"public":"1",
+	"ra":"12:27:39.88",
+	"redshift":"0.0232",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457750,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2016jdl_2016-12-30.88_BAO-2.16m_Phot-spec.txt",
+			"public":"1",
+			"instrument":{
+				"name":"Phot-spec",
+				"id":"55"
+			},
+			"observer":"Feng Xiao",
+			"end_prop_period":null,
+			"reducer":"Danfeng Xiang",
+			"obsdate":"2016-12-30 21:07:12",
+			"exptime":"3000",
+			"assoc_groups":[
+				{
+					"name":"TNTS",
+					"id":"25"
+				}
+			],
+			"telescope":{
+				"name":"BAO-2.16m",
+				"id":"45"
+			}
+		}
+	],
+	"type":"3"
+}

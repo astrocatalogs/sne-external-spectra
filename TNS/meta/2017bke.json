@@ -1,1 +1,61 @@
-{"dec": "-03:43:15.69", "discmagfilter": "22", "discoverer": "Li", "discovererid": "294", "discoverydate": "2017-02-24 15:37:25", "discoverymag": "17.6", "end_prop_period": null, "host_redshift": null, "hostname": "APMUKS(BJ) B102145.77-032803.1", "internal_name": "PTSS-17hcz", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017bke", "public": "1", "ra": "10:24:18.01", "redshift": "0.047", "source_group": {"group_name": "PTSS", "groupid": "22"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-25 16:47:59", "telescope": {"name": "LJT", "id": "77"}, "assoc_groups": [{"name": "PTSS", "id": "22"}], "reducer": "Jujia Zhang", "instrument": {"name": "YFOSC", "id": "107"}, "observer": "Xiliang Zhang", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017bke_2017-02-25.7_LJT_YFOSC_PTSS.dat", "remarks": "", "exptime": "1800", "jd": 2457810, "end_prop_period": null, "public": "1", "source_group": {"name": "PTSS", "id": "22"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"-03:43:15.69",
+	"discmagfilter":"22",
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-02-24 15:37:25",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"APMUKS(BJ) B102145.77-032803.1",
+	"internal_name":"PTSS-17hcz",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017bke",
+	"public":"1",
+	"ra":"10:24:18.01",
+	"redshift":"0.047",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"YFOSC",
+				"id":"107"
+			},
+			"telescope":{
+				"name":"LJT",
+				"id":"77"
+			},
+			"jd":2457810,
+			"remarks":"",
+			"source_group":{
+				"name":"PTSS",
+				"id":"22"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017bke_2017-02-25.7_LJT_YFOSC_PTSS.dat",
+			"public":"1",
+			"observer":"Xiliang Zhang",
+			"end_prop_period":null,
+			"reducer":"Jujia Zhang",
+			"obsdate":"2017-02-25 16:47:59",
+			"exptime":"1800",
+			"assoc_groups":[
+				{
+					"name":"PTSS",
+					"id":"22"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

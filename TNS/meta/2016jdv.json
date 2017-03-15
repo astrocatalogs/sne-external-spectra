@@ -1,1 +1,91 @@
-{"dec": "+03:11:20.33", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2016-12-29 14:24:00", "discoverymag": "16.4", "end_prop_period": null, "host_redshift": "0.026934", "hostname": "IC 0988", "internal_name": "ASASSN-16pl", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2016jdv", "public": "1", "ra": "14:14:31.63", "redshift": "0.029", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2016-12-30 08:38:24", "telescope": {"name": "LCO-duPont", "id": "50"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "N. Morrell ", "instrument": {"name": "WFCCD", "id": "62"}, "observer": "M. K. Seidel", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.txt", "remarks": "We report optical spectroscopic observation of supernova candidate ASASSN-16pl (ATel #9918, AT 2016jdv) using the du Pont 2.5-m telescope (+ WFCCD) at Las Campanas Observatory on UT 2016-12-30.36. The target was discovered by the All-Sky Automated Survey for Supernovae (ASAS-SN; Shappee et al. 2014, ApJ, 788, 48). We used SNID (Blondin & Tonry, 2007, ApJ, 666, 1024) to identify the type and phase of the SN spectra. The spectrum matches with SNe Ia-norm, around maximum light. SNID estimates the redshift to be z=0.029.", "exptime": null, "jd": 2457750, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.fits"}, {"obsdate": "2016-12-30 08:26:46", "telescope": {"name": "LCO-duPont", "id": "50"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "", "instrument": {"name": "WFCCD", "id": "62"}, "observer": "M. Seidel", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.txt", "remarks": "", "exptime": null, "jd": 2457750, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.fits"}], "type": "3"}
+{
+	"dec":"+03:11:20.33",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2016-12-29 14:24:00",
+	"discoverymag":"16.4",
+	"end_prop_period":null,
+	"host_redshift":"0.026934",
+	"hostname":"IC 0988",
+	"internal_name":"ASASSN-16pl",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2016jdv",
+	"public":"1",
+	"ra":"14:14:31.63",
+	"redshift":"0.029",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"name":"WFCCD",
+				"id":"62"
+			},
+			"telescope":{
+				"name":"LCO-duPont",
+				"id":"50"
+			},
+			"jd":2457750,
+			"remarks":"We report optical spectroscopic observation of supernova candidate ASASSN-16pl (ATel #9918, AT 2016jdv) using the du Pont 2.5-m telescope (+ WFCCD) at Las Campanas Observatory on UT 2016-12-30.36. The target was discovered by the All-Sky Automated Survey for Supernovae (ASAS-SN; Shappee et al. 2014, ApJ, 788, 48). We used SNID (Blondin & Tonry, 2007, ApJ, 666, 1024) to identify the type and phase of the SN spectra. The spectrum matches with SNe Ia-norm, around maximum light. SNID estimates the redshift to be z=0.029.",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"public":"1",
+			"observer":"M. K. Seidel",
+			"end_prop_period":null,
+			"reducer":"N. Morrell ",
+			"obsdate":"2016-12-30 08:38:24",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		},
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"name":"WFCCD",
+				"id":"62"
+			},
+			"telescope":{
+				"name":"LCO-duPont",
+				"id":"50"
+			},
+			"jd":2457750,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"public":"1",
+			"observer":"M. Seidel",
+			"end_prop_period":null,
+			"reducer":"",
+			"obsdate":"2016-12-30 08:26:46",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

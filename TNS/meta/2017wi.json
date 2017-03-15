@@ -1,1 +1,61 @@
-{"dec": "-17:59:56.40", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-01-29 01:10:33", "discoverymag": "17.2", "end_prop_period": null, "host_redshift": null, "hostname": "GALEXASC J020208.73-175958.3", "internal_name": "ASASSN-17bp", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017wi", "public": "1", "ra": "02:02:08.63", "redshift": "0.051", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-01-31 02:24:00", "telescope": {"name": "MDM-2.4", "id": "11"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "S. Bose", "instrument": {"name": "OSMOS", "id": "150"}, "observer": "J. Klusmeyer", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017wi_2017-01-31.10_MDM-2.4_OSMOS_ASAS-SN.txt", "remarks": "", "exptime": "1800", "jd": 2457780, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"-17:59:56.40",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-01-29 01:10:33",
+	"discoverymag":"17.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J020208.73-175958.3",
+	"internal_name":"ASASSN-17bp",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017wi",
+	"public":"1",
+	"ra":"02:02:08.63",
+	"redshift":"0.051",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"OSMOS",
+				"id":"150"
+			},
+			"telescope":{
+				"name":"MDM-2.4",
+				"id":"11"
+			},
+			"jd":2457780,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017wi_2017-01-31.10_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"public":"1",
+			"observer":"J. Klusmeyer",
+			"end_prop_period":null,
+			"reducer":"S. Bose",
+			"obsdate":"2017-01-31 02:24:00",
+			"exptime":"1800",
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

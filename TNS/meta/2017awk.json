@@ -1,1 +1,91 @@
-{"dec": "+18:17:56.29", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-02-16 15:07:12", "discoverymag": "16.2", "end_prop_period": null, "host_redshift": "0.018056", "hostname": "UGC 11128 ", "internal_name": "ASASSN-17co", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017awk", "public": "1", "ra": "18:09:20.87", "redshift": "0.018056", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-02-18 02:24:00", "telescope": {"name": "Ekar", "id": "34"}, "assoc_groups": [{"name": "Padova-Asiago", "id": "16"}], "reducer": "Benetti", "instrument": {"name": "AFOSC", "id": "37"}, "observer": "Tomasella", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.asc", "remarks": "", "exptime": null, "jd": 2457800, "end_prop_period": null, "public": "1", "source_group": {"name": "Padova-Asiago", "id": "16"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.fits"}, {"obsdate": "2017-02-18 02:24:00", "telescope": {"name": "Ekar", "id": "34"}, "assoc_groups": [{"name": "Padova-Asiago", "id": "16"}], "reducer": "Benetti", "instrument": {"name": "AFOSC", "id": "37"}, "observer": "Tomasella", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc", "remarks": "", "exptime": null, "jd": 2457800, "end_prop_period": null, "public": "1", "source_group": {"name": "Padova-Asiago", "id": "16"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.fits"}], "type": "3"}
+{
+	"dec":"+18:17:56.29",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-02-16 15:07:12",
+	"discoverymag":"16.2",
+	"end_prop_period":null,
+	"host_redshift":"0.018056",
+	"hostname":"UGC 11128 ",
+	"internal_name":"ASASSN-17co",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017awk",
+	"public":"1",
+	"ra":"18:09:20.87",
+	"redshift":"0.018056",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.fits",
+			"instrument":{
+				"name":"AFOSC",
+				"id":"37"
+			},
+			"telescope":{
+				"name":"Ekar",
+				"id":"34"
+			},
+			"jd":2457800,
+			"remarks":"",
+			"source_group":{
+				"name":"Padova-Asiago",
+				"id":"16"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.asc",
+			"public":"1",
+			"observer":"Tomasella",
+			"end_prop_period":null,
+			"reducer":"Benetti",
+			"obsdate":"2017-02-18 02:24:00",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"Padova-Asiago",
+					"id":"16"
+				}
+			]
+		},
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"name":"AFOSC",
+				"id":"37"
+			},
+			"telescope":{
+				"name":"Ekar",
+				"id":"34"
+			},
+			"jd":2457800,
+			"remarks":"",
+			"source_group":{
+				"name":"Padova-Asiago",
+				"id":"16"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc",
+			"public":"1",
+			"observer":"Tomasella",
+			"end_prop_period":null,
+			"reducer":"Benetti",
+			"obsdate":"2017-02-18 02:24:00",
+			"exptime":null,
+			"assoc_groups":[
+				{
+					"name":"Padova-Asiago",
+					"id":"16"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

@@ -1,1 +1,61 @@
-{"dec": "+18:22:30.23", "discmagfilter": "71", "discoverer": null, "discovererid": "35595", "discoverydate": "2017-01-04 06:54:43", "discoverymag": "18.48", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS17abh", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017ae", "public": "1", "ra": "02:05:50.62", "redshift": "0.022", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2017-01-29 02:09:36", "telescope": {"name": "MDM-2.4", "id": "11"}, "assoc_groups": [{"name": "ASAS-SN", "id": "3"}], "reducer": "S. Bose", "instrument": {"name": "OSMOS", "id": "150"}, "observer": "J. Klusmeyer", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ae_2017-01-29.09_MDM-2.4_OSMOS_ASAS-SN.txt", "remarks": "", "exptime": "1800", "jd": 2457780, "end_prop_period": null, "public": "1", "source_group": {"name": "ASAS-SN", "id": "3"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+18:22:30.23",
+	"discmagfilter":"71",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-01-04 06:54:43",
+	"discoverymag":"18.48",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17abh",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017ae",
+	"public":"1",
+	"ra":"02:05:50.62",
+	"redshift":"0.022",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"OSMOS",
+				"id":"150"
+			},
+			"telescope":{
+				"name":"MDM-2.4",
+				"id":"11"
+			},
+			"jd":2457780,
+			"remarks":"",
+			"source_group":{
+				"name":"ASAS-SN",
+				"id":"3"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ae_2017-01-29.09_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"public":"1",
+			"observer":"J. Klusmeyer",
+			"end_prop_period":null,
+			"reducer":"S. Bose",
+			"obsdate":"2017-01-29 02:09:36",
+			"exptime":"1800",
+			"assoc_groups":[
+				{
+					"name":"ASAS-SN",
+					"id":"3"
+				}
+			]
+		}
+	],
+	"type":"3"
+}

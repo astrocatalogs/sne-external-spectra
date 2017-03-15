@@ -1,1 +1,59 @@
-{"dec": "+28:56:26.00", "discmagfilter": "1", "discoverer": "Tsuboi", "discovererid": "125", "discoverydate": "2016-12-30 18:11:44", "discoverymag": "16.6", "end_prop_period": null, "host_redshift": null, "hostname": "NGC4793", "internal_name": "", "isTNS_AT": "1", "name": "SN IIP", "name_prefix": "SN", "object_type": {"id": "11", "name": null}, "objname": "2016jfu", "public": "1", "ra": "12:54:42.60", "redshift": "0.008", "source_group": {"group_name": null, "groupid": "0"}, "sourceid": "1", "spectra": [{"obsdate": "2016-12-31 21:36:00", "telescope": {"name": "BAO-2.16m", "id": "45"}, "assoc_groups": [{"name": "TNTS", "id": "25"}], "reducer": "Danfeng Xiang", "groupid": "0", "observer": "Feng Xiao", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2016jfu_2016-12-31.9_BAO-2.16m_Phot-spec.txt", "remarks": "", "exptime": "2400", "jd": 2457750, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "Phot-spec", "id": "55"}, "fitsfile": ""}], "type": "11"}
+{
+	"dec":"+28:56:26.00",
+	"discmagfilter":"1",
+	"discoverer":"Tsuboi",
+	"discovererid":"125",
+	"discoverydate":"2016-12-30 18:11:44",
+	"discoverymag":"16.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC4793",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN IIP",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":null
+	},
+	"objname":"2016jfu",
+	"public":"1",
+	"ra":"12:54:42.60",
+	"redshift":"0.008",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457750,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2016jfu_2016-12-31.9_BAO-2.16m_Phot-spec.txt",
+			"public":"1",
+			"instrument":{
+				"name":"Phot-spec",
+				"id":"55"
+			},
+			"observer":"Feng Xiao",
+			"end_prop_period":null,
+			"reducer":"Danfeng Xiang",
+			"obsdate":"2016-12-31 21:36:00",
+			"exptime":"2400",
+			"assoc_groups":[
+				{
+					"name":"TNTS",
+					"id":"25"
+				}
+			],
+			"telescope":{
+				"name":"BAO-2.16m",
+				"id":"45"
+			}
+		}
+	],
+	"type":"11"
+}

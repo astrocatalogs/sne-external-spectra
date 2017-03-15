@@ -1,1 +1,53 @@
-{"dec": "+67:10:59.56", "discmagfilter": "75", "discoverer": null, "discovererid": "35587", "discoverydate": "2017-02-06 10:14:52", "discoverymag": "17.57", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "Gaia17aiq", "isTNS_AT": "1", "name": "SN IIb", "name_prefix": "SN", "object_type": {"id": "14", "name": null}, "objname": "2017ati", "public": "1", "ra": "09:49:56.70", "redshift": "0.016", "source_group": {"group_name": "GaiaAlerts", "groupid": "24"}, "sourceid": "2", "spectra": [{"obsdate": "2017-02-27 18:43:12", "telescope": {"name": "Ekar", "id": "34"}, "reducer": "pipeline", "groupid": "0", "observer": "Benetti", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ati_2017-02-27.78_Ekar_AFOSC.dat", "remarks": "", "exptime": "1800", "jd": 2457810, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "AFOSC", "id": "37"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ati_2017-02-27.78_Ekar_AFOSC.fits"}], "type": "14"}
+{
+	"dec":"+67:10:59.56",
+	"discmagfilter":"75",
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-02-06 10:14:52",
+	"discoverymag":"17.57",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17aiq",
+	"isTNS_AT":"1",
+	"name":"SN IIb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"14",
+		"name":null
+	},
+	"objname":"2017ati",
+	"public":"1",
+	"ra":"09:49:56.70",
+	"redshift":"0.016",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ati_2017-02-27.78_Ekar_AFOSC.fits",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457810,
+			"remarks":"",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ati_2017-02-27.78_Ekar_AFOSC.dat",
+			"public":"1",
+			"instrument":{
+				"name":"AFOSC",
+				"id":"37"
+			},
+			"observer":"Benetti",
+			"end_prop_period":null,
+			"reducer":"pipeline",
+			"obsdate":"2017-02-27 18:43:12",
+			"exptime":"1800",
+			"telescope":{
+				"name":"Ekar",
+				"id":"34"
+			}
+		}
+	],
+	"type":"14"
+}

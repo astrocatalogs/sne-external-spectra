@@ -1,1 +1,61 @@
-{"dec": "-13:08:31.56", "discmagfilter": "75", "discoverer": null, "discovererid": "35587", "discoverydate": "2017-01-14 20:34:04", "discoverymag": "18.78", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "Gaia17acy", "isTNS_AT": "1", "name": null, "name_prefix": "AT", "object_type": {"id": null, "name": null}, "objname": "2017jt", "public": "1", "ra": "05:00:06.77", "redshift": "0.175", "source_group": {"group_name": "GaiaAlerts", "groupid": "24"}, "sourceid": "2", "spectra": [{"obsdate": "2017-01-22 21:21:36", "telescope": {"name": "NOT", "id": "12"}, "assoc_groups": [{"name": "NUTS", "id": "28"}], "reducer": "H. Kuncarayakti", "instrument": {"name": "ALFOSC", "id": "41"}, "observer": "Service", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017jt_2017-01-22.89_NOT_ALFOSC_NUTS.dat", "remarks": "", "exptime": "2400", "jd": 2457780, "end_prop_period": null, "public": "1", "source_group": {"name": "NUTS", "id": "28"}, "fitsfile": ""}], "type": null}
+{
+	"dec":"-13:08:31.56",
+	"discmagfilter":"75",
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-01-14 20:34:04",
+	"discoverymag":"18.78",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17acy",
+	"isTNS_AT":"1",
+	"name":null,
+	"name_prefix":"AT",
+	"object_type":{
+		"id":null,
+		"name":null
+	},
+	"objname":"2017jt",
+	"public":"1",
+	"ra":"05:00:06.77",
+	"redshift":"0.175",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"ALFOSC",
+				"id":"41"
+			},
+			"telescope":{
+				"name":"NOT",
+				"id":"12"
+			},
+			"jd":2457780,
+			"remarks":"",
+			"source_group":{
+				"name":"NUTS",
+				"id":"28"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017jt_2017-01-22.89_NOT_ALFOSC_NUTS.dat",
+			"public":"1",
+			"observer":"Service",
+			"end_prop_period":null,
+			"reducer":"H. Kuncarayakti",
+			"obsdate":"2017-01-22 21:21:36",
+			"exptime":"2400",
+			"assoc_groups":[
+				{
+					"name":"NUTS",
+					"id":"28"
+				}
+			]
+		}
+	],
+	"type":null
+}

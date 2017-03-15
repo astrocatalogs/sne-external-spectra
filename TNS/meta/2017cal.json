@@ -1,1 +1,59 @@
-{"dec": "+20:18:50.44", "discmagfilter": "12", "discoverer": "Stanek", "discovererid": "82", "discoverydate": "2017-03-07 12:43:12", "discoverymag": "15.9", "end_prop_period": null, "host_redshift": "0.020764", "hostname": "NGC 6321", "internal_name": "ASASSN-17dh", "isTNS_AT": "1", "name": "SN Ia", "name_prefix": "SN", "object_type": {"id": "3", "name": null}, "objname": "2017cal", "public": "1", "ra": "17:14:24.28", "redshift": "0.02", "source_group": {"group_name": "ASAS-SN", "groupid": "3"}, "sourceid": "1", "spectra": [{"obsdate": "2017-03-09 20:53:21", "telescope": {"name": "BAO-2.16m", "id": "45"}, "assoc_groups": [{"name": "TNTS", "id": "25"}], "reducer": "D. Xiang", "groupid": "0", "observer": "J. Jia", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cal_2017-03-09_20-53-21_BAO-2.16m_Cassegrain.txt", "remarks": "A spectrum taken on UT Mar. 09.89 2017 indicates that this transient is consistent with a type Ia supernova about 5 days after maximum light.", "exptime": "1800", "jd": 2457820, "source_group_name": null, "end_prop_period": null, "public": "1", "instrument": {"name": "Cassegrain", "id": "80"}, "fitsfile": ""}], "type": "3"}
+{
+	"dec":"+20:18:50.44",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-03-07 12:43:12",
+	"discoverymag":"15.9",
+	"end_prop_period":null,
+	"host_redshift":"0.020764",
+	"hostname":"NGC 6321",
+	"internal_name":"ASASSN-17dh",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017cal",
+	"public":"1",
+	"ra":"17:14:24.28",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"source_group_name":null,
+			"groupid":"0",
+			"jd":2457820,
+			"remarks":"A spectrum taken on UT Mar. 09.89 2017 indicates that this transient is consistent with a type Ia supernova about 5 days after maximum light.",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cal_2017-03-09_20-53-21_BAO-2.16m_Cassegrain.txt",
+			"public":"1",
+			"instrument":{
+				"name":"Cassegrain",
+				"id":"80"
+			},
+			"observer":"J. Jia",
+			"end_prop_period":null,
+			"reducer":"D. Xiang",
+			"obsdate":"2017-03-09 20:53:21",
+			"exptime":"1800",
+			"assoc_groups":[
+				{
+					"name":"TNTS",
+					"id":"25"
+				}
+			],
+			"telescope":{
+				"name":"BAO-2.16m",
+				"id":"45"
+			}
+		}
+	],
+	"type":"3"
+}

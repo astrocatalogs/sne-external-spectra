@@ -1,1 +1,61 @@
-{"dec": "+53:39:33.21", "discmagfilter": "23", "discoverer": null, "discovererid": "35588", "discoverydate": "2017-02-14 13:59:31", "discoverymag": "17.59", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "PS17bbn", "isTNS_AT": "1", "name": "SN Ia-91bg-like", "name_prefix": "SN", "object_type": {"id": "103", "name": null}, "objname": "2017avj", "public": "1", "ra": "13:05:03.01", "redshift": "0.029", "source_group": {"group_name": "Pan-STARRS1", "groupid": "4"}, "sourceid": "2", "spectra": [{"obsdate": "2017-02-22 11:24:55", "telescope": {"name": "UH88", "id": "17"}, "assoc_groups": [{"name": "Pan-STARRS1", "id": "4"}], "reducer": "M. Huber", "instrument": {"name": "SNIFS", "id": "11"}, "observer": "M. Huber, K. W. Smith, P. Clark", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/Pan-STARRS1/tns_2017avj_2017-02-22_11-24-55_UH88_SNIFS_Pan-STARRS1.txt", "remarks": "", "exptime": "900", "jd": 2457810, "end_prop_period": null, "public": "1", "source_group": {"name": "Pan-STARRS1", "id": "4"}, "fitsfile": ""}], "type": "103"}
+{
+	"dec":"+53:39:33.21",
+	"discmagfilter":"23",
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-02-14 13:59:31",
+	"discoverymag":"17.59",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17bbn",
+	"isTNS_AT":"1",
+	"name":"SN Ia-91bg-like",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"103",
+		"name":null
+	},
+	"objname":"2017avj",
+	"public":"1",
+	"ra":"13:05:03.01",
+	"redshift":"0.029",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"SNIFS",
+				"id":"11"
+			},
+			"telescope":{
+				"name":"UH88",
+				"id":"17"
+			},
+			"jd":2457810,
+			"remarks":"",
+			"source_group":{
+				"name":"Pan-STARRS1",
+				"id":"4"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Pan-STARRS1/tns_2017avj_2017-02-22_11-24-55_UH88_SNIFS_Pan-STARRS1.txt",
+			"public":"1",
+			"observer":"M. Huber, K. W. Smith, P. Clark",
+			"end_prop_period":null,
+			"reducer":"M. Huber",
+			"obsdate":"2017-02-22 11:24:55",
+			"exptime":"900",
+			"assoc_groups":[
+				{
+					"name":"Pan-STARRS1",
+					"id":"4"
+				}
+			]
+		}
+	],
+	"type":"103"
+}

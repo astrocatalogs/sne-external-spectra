@@ -1,1 +1,61 @@
-{"dec": "+26:05:07.10", "discmagfilter": "1", "discoverer": "Li", "discovererid": "294", "discoverydate": "2017-01-08 21:07:12", "discoverymag": "17.9", "end_prop_period": null, "host_redshift": "0.059", "hostname": "KUG 1242+263", "internal_name": "", "isTNS_AT": "1", "name": "SN IIP", "name_prefix": "SN", "object_type": {"id": "11", "name": null}, "objname": "2017hk", "public": "1", "ra": "12:45:15.31", "redshift": "0.059", "source_group": {"group_name": "TNTS", "groupid": "25"}, "sourceid": "1", "spectra": [{"obsdate": "2017-01-20 21:07:12", "telescope": {"name": "LJT", "id": "77"}, "assoc_groups": [{"name": "TNTS", "id": "25"}], "reducer": "Jujia Zhang", "instrument": {"name": "YFOSC", "id": "107"}, "observer": "Chuanjun Wang", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2017hk_2017-01-20.88_LJT_YFOSC_TNTS.dat", "remarks": "", "exptime": "2200", "jd": 2457770, "end_prop_period": null, "public": "1", "source_group": {"name": "TNTS", "id": "25"}, "fitsfile": ""}], "type": "11"}
+{
+	"dec":"+26:05:07.10",
+	"discmagfilter":"1",
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-01-08 21:07:12",
+	"discoverymag":"17.9",
+	"end_prop_period":null,
+	"host_redshift":"0.059",
+	"hostname":"KUG 1242+263",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN IIP",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":null
+	},
+	"objname":"2017hk",
+	"public":"1",
+	"ra":"12:45:15.31",
+	"redshift":"0.059",
+	"source_group":{
+		"group_name":"TNTS",
+		"groupid":"25"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"fitsfile":"",
+			"instrument":{
+				"name":"YFOSC",
+				"id":"107"
+			},
+			"telescope":{
+				"name":"LJT",
+				"id":"77"
+			},
+			"jd":2457770,
+			"remarks":"",
+			"source_group":{
+				"name":"TNTS",
+				"id":"25"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2017hk_2017-01-20.88_LJT_YFOSC_TNTS.dat",
+			"public":"1",
+			"observer":"Chuanjun Wang",
+			"end_prop_period":null,
+			"reducer":"Jujia Zhang",
+			"obsdate":"2017-01-20 21:07:12",
+			"exptime":"2200",
+			"assoc_groups":[
+				{
+					"name":"TNTS",
+					"id":"25"
+				}
+			]
+		}
+	],
+	"type":"11"
+}

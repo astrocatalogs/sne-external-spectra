@@ -1,1 +1,61 @@
-{"dec": "-12:38:14.63", "discmagfilter": "72", "discoverer": null, "discovererid": "35595", "discoverydate": "2016-12-21 11:22:33", "discoverymag": "17.26", "end_prop_period": null, "host_redshift": null, "hostname": null, "internal_name": "ATLAS16ead", "isTNS_AT": "1", "name": "Varstar", "name_prefix": "AT", "object_type": {"id": "28", "name": null}, "objname": "2016izi", "public": "1", "ra": "05:12:52.67", "redshift": "0", "source_group": {"group_name": "ATLAS", "groupid": "18"}, "sourceid": "2", "spectra": [{"obsdate": "2016-12-29 06:32:41", "telescope": {"name": "ESO-NTT", "id": "30"}, "assoc_groups": [{"name": "PESSTO", "id": "1"}], "reducer": "Magee/Kankare", "instrument": {"name": "EFOSC2-NTT", "id": "31"}, "observer": "Smith/Cikota", "asciifile": "https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.asci", "remarks": "", "exptime": "300", "jd": 2457750, "end_prop_period": null, "public": "1", "source_group": {"name": "PESSTO", "id": "1"}, "fitsfile": "https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.fits"}], "type": "28"}
+{
+	"dec":"-12:38:14.63",
+	"discmagfilter":"72",
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2016-12-21 11:22:33",
+	"discoverymag":"17.26",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS16ead",
+	"isTNS_AT":"1",
+	"name":"Varstar",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"28",
+		"name":null
+	},
+	"objname":"2016izi",
+	"public":"1",
+	"ra":"05:12:52.67",
+	"redshift":"0",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"name":"EFOSC2-NTT",
+				"id":"31"
+			},
+			"telescope":{
+				"name":"ESO-NTT",
+				"id":"30"
+			},
+			"jd":2457750,
+			"remarks":"",
+			"source_group":{
+				"name":"PESSTO",
+				"id":"1"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.asci",
+			"public":"1",
+			"observer":"Smith/Cikota",
+			"end_prop_period":null,
+			"reducer":"Magee/Kankare",
+			"obsdate":"2016-12-29 06:32:41",
+			"exptime":"300",
+			"assoc_groups":[
+				{
+					"name":"PESSTO",
+					"id":"1"
+				}
+			]
+		}
+	],
+	"type":"28"
+}
