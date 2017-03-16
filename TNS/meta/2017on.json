@@ -27,34 +27,34 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.fits",
-			"instrument":{
-				"name":"ALFOSC",
-				"id":"41"
-			},
-			"telescope":{
-				"name":"NOT",
-				"id":"12"
-			},
-			"jd":2457780,
-			"remarks":"",
-			"source_group":{
-				"name":"NUTS",
-				"id":"28"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.ascii",
-			"public":"1",
-			"observer":"E. Gafton (ToO A. Pastorello)",
-			"end_prop_period":null,
-			"reducer":"A. Pastorello",
-			"obsdate":"2017-01-26 00:14:24",
 			"exptime":"2400",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"NUTS",
-					"id":"28"
+					"id":"28",
+					"name":"NUTS"
 				}
-			]
+			],
+			"obsdate":"2017-01-26 00:14:24",
+			"end_prop_period":null,
+			"observer":"E. Gafton (ToO A. Pastorello)",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017on_2017-01-26.01_NOT_ALFOSC_NUTS.ascii",
+			"reducer":"A. Pastorello",
+			"remarks":"",
+			"jd":2457780
 		}
 	],
 	"type":"3"

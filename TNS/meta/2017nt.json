@@ -27,34 +27,34 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.fits",
-			"instrument":{
-				"name":"AFOSC",
-				"id":"37"
-			},
-			"telescope":{
-				"name":"Ekar",
-				"id":"34"
-			},
-			"jd":2457780,
-			"remarks":"",
-			"source_group":{
-				"name":"Padova-Asiago",
-				"id":"16"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.dat",
-			"public":"1",
-			"observer":"Tomasella",
-			"end_prop_period":null,
-			"reducer":"Tomasella",
-			"obsdate":"2017-01-24 18:19:02",
 			"exptime":"1800",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"Padova-Asiago",
-					"id":"16"
+					"id":"16",
+					"name":"Padova-Asiago"
 				}
-			]
+			],
+			"obsdate":"2017-01-24 18:19:02",
+			"end_prop_period":null,
+			"observer":"Tomasella",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017nt_2457778.263225_Ekar_AFOSC_Padova-Asiago.dat",
+			"reducer":"Tomasella",
+			"remarks":"",
+			"jd":2457780
 		}
 	],
 	"type":"104"

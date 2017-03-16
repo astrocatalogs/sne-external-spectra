@@ -27,34 +27,34 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.fits",
-			"instrument":{
-				"name":"FAST",
-				"id":"44"
-			},
-			"telescope":{
-				"name":"FLWO 1.5m",
-				"id":"36"
-			},
-			"jd":2457760,
-			"remarks":"",
-			"source_group":{
-				"name":"ASAS-SN",
-				"id":"3"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.txt",
-			"public":"1",
-			"observer":"M. Calkins ",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2017-01-05 12:15:46",
 			"exptime":null,
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"ASAS-SN",
-					"id":"3"
+					"id":"3",
+					"name":"ASAS-SN"
 				}
-			]
+			],
+			"obsdate":"2017-01-05 12:15:46",
+			"end_prop_period":null,
+			"observer":"M. Calkins ",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.fits",
+			"instrument":{
+				"id":"44",
+				"name":"FAST"
+			},
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"36",
+				"name":"FLWO 1.5m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ah_2457759.010956_FLWO_1.5m_FAST_ASAS-SN.txt",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457760
 		}
 	],
 	"type":"3"

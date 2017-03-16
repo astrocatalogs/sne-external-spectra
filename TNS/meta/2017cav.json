@@ -27,34 +27,34 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"instrument":{
-				"name":"SPRAT",
-				"id":"156"
-			},
-			"telescope":{
-				"name":"LT",
-				"id":"70"
-			},
-			"jd":2457820,
-			"remarks":"",
-			"source_group":{
-				"name":"ASAS-SN",
-				"id":"3"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cav_2017-03-10_04-16-43_LT_SPRAT_ASAS-SN.dat",
-			"public":"1",
-			"observer":"Bersier",
-			"end_prop_period":null,
-			"reducer":"Bersier",
-			"obsdate":"2017-03-10 04:16:43",
 			"exptime":"600",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"ASAS-SN",
-					"id":"3"
+					"id":"3",
+					"name":"ASAS-SN"
 				}
-			]
+			],
+			"obsdate":"2017-03-10 04:16:43",
+			"end_prop_period":null,
+			"observer":"Bersier",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cav_2017-03-10_04-16-43_LT_SPRAT_ASAS-SN.dat",
+			"reducer":"Bersier",
+			"remarks":"",
+			"jd":2457820
 		}
 	],
 	"type":"3"

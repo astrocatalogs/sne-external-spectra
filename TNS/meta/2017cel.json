@@ -10,16 +10,16 @@
 	"hostname":null,
 	"internal_name":"ATLAS17bue",
 	"isTNS_AT":"1",
-	"name":"SN II",
-	"name_prefix":"SN",
+	"name":"CV",
+	"name_prefix":"AT",
 	"object_type":{
-		"id":"10",
+		"id":"27",
 		"name":null
 	},
 	"objname":"2017cel",
 	"public":"1",
 	"ra":"07:58:48.45",
-	"redshift":"0.052",
+	"redshift":"0",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
@@ -27,27 +27,49 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.fits",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457830,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.txt",
-			"public":"1",
-			"instrument":{
-				"name":"SPRAT",
-				"id":"156"
-			},
-			"observer":"Simon Prentice",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2017-03-14 21:13:47",
 			"exptime":null,
+			"public":"1",
+			"source_group_name":null,
+			"obsdate":"2017-03-14 22:48:00",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Inserra",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
 			"telescope":{
-				"name":"LT",
-				"id":"70"
-			}
+				"id":"70",
+				"name":"LT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2017-03-14.95_LT_SPRAT.asci",
+			"reducer":"Inserra",
+			"remarks":"",
+			"jd":2457830
+		},
+		{
+			"exptime":null,
+			"public":"1",
+			"source_group_name":null,
+			"obsdate":"2017-03-14 21:13:47",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Simon Prentice",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.fits",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.txt",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457830
 		}
 	],
-	"type":"10"
+	"type":"27"
 }

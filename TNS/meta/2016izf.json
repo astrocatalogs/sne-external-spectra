@@ -27,34 +27,34 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016izf_2457747.54105294_LCO-duPont_WFCCD_ASAS-SN.fits",
-			"instrument":{
-				"name":"WFCCD",
-				"id":"62"
-			},
-			"telescope":{
-				"name":"LCO-duPont",
-				"id":"50"
-			},
-			"jd":2457750,
-			"remarks":"",
-			"source_group":{
-				"name":"ASAS-SN",
-				"id":"3"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016izf_2457747.54105294_LCO-duPont_WFCCD_ASAS-SN.txt",
-			"public":"1",
-			"observer":"N. Morrell",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2016-12-25 00:59:06",
 			"exptime":null,
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"ASAS-SN",
-					"id":"3"
+					"id":"3",
+					"name":"ASAS-SN"
 				}
-			]
+			],
+			"obsdate":"2016-12-25 00:59:06",
+			"end_prop_period":null,
+			"observer":"N. Morrell",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016izf_2457747.54105294_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016izf_2457747.54105294_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457750
 		}
 	],
 	"type":"3"

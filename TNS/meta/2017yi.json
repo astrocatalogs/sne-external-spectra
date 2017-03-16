@@ -27,32 +27,32 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457790,
-			"remarks":"A spectrum taken on Feb. 02.94 2017 with the Xinglong 2.16-m telescope of NAOC,the \"Supernova Identification\" code (SNID; Blondin and Tonry 2007, ApJ, 666, 1024) shows that it matches with SN 2003du at t = -9 days from the maximum light.",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017yi_2457785.9472_BAO-2.16m_Cassegrain.txt",
-			"public":"1",
-			"instrument":{
-				"name":"Cassegrain",
-				"id":"80"
-			},
-			"observer":"Junjun Jia,Min He(NAOC)",
-			"end_prop_period":null,
-			"reducer":"Liming Rui",
-			"obsdate":"2017-02-01 10:43:58",
 			"exptime":"3600",
+			"public":"1",
+			"source_group_name":null,
 			"assoc_groups":[
 				{
-					"name":"TNTS",
-					"id":"25"
+					"id":"25",
+					"name":"TNTS"
 				}
 			],
+			"obsdate":"2017-02-01 10:43:58",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Junjun Jia,Min He(NAOC)",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017yi_2457785.9472_BAO-2.16m_Cassegrain.txt",
+			"reducer":"Liming Rui",
+			"remarks":"A spectrum taken on Feb. 02.94 2017 with the Xinglong 2.16-m telescope of NAOC,the \"Supernova Identification\" code (SNID; Blondin and Tonry 2007, ApJ, 666, 1024) shows that it matches with SN 2003du at t = -9 days from the maximum light.",
+			"jd":2457790
 		}
 	],
 	"type":"3"

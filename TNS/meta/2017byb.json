@@ -27,26 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457820,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017byb_2017-03-05.95_LT_SPRAT.ascii",
-			"public":"1",
-			"instrument":{
-				"name":"SPRAT",
-				"id":"156"
-			},
-			"observer":"Inserra",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2017-03-05 22:48:00",
 			"exptime":null,
+			"public":"1",
+			"source_group_name":null,
+			"obsdate":"2017-03-05 22:48:00",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Inserra",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
 			"telescope":{
-				"name":"LT",
-				"id":"70"
-			}
+				"id":"70",
+				"name":"LT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017byb_2017-03-05.95_LT_SPRAT.ascii",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457820
 		}
 	],
 	"type":"3"

@@ -27,32 +27,32 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457760,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hn_2017-01-11.9_BAO-2.16m_Phot-spec.txt",
-			"public":"1",
-			"instrument":{
-				"name":"Phot-spec",
-				"id":"55"
-			},
-			"observer":"Junjun Jia",
-			"end_prop_period":null,
-			"reducer":"Danfeng Xiang",
-			"obsdate":"2017-01-11 21:36:00",
 			"exptime":"3000",
+			"public":"1",
+			"source_group_name":null,
 			"assoc_groups":[
 				{
-					"name":"TNTS",
-					"id":"25"
+					"id":"25",
+					"name":"TNTS"
 				}
 			],
+			"obsdate":"2017-01-11 21:36:00",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Junjun Jia",
+			"fitsfile":"",
+			"instrument":{
+				"id":"55",
+				"name":"Phot-spec"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hn_2017-01-11.9_BAO-2.16m_Phot-spec.txt",
+			"reducer":"Danfeng Xiang",
+			"remarks":"",
+			"jd":2457760
 		}
 	],
 	"type":"3"

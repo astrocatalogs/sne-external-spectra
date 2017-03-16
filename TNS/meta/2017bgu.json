@@ -27,62 +27,62 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017bgu_2017-02-24_06-15-42_NOT_ALFOSC_NUTS.fits",
-			"instrument":{
-				"name":"ALFOSC",
-				"id":"41"
-			},
-			"telescope":{
-				"name":"NOT",
-				"id":"12"
-			},
-			"jd":2457810,
-			"remarks":"",
-			"source_group":{
-				"name":"NUTS",
-				"id":"28"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017bgu_2017-02-24_06-15-42_NOT_ALFOSC_NUTS.txt",
-			"public":"1",
-			"observer":"C. Gall, J. Prieto-Arranz",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2017-02-24 06:15:42",
 			"exptime":"900",
-			"assoc_groups":[
-				{
-					"name":"NUTS",
-					"id":"28"
-				}
-			]
-		},
-		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457810,
-			"remarks":"A spectrum taken on UT Feb. 23.87 2017 indicates that this transient is consistent with a type Ib supernova near maximum magnitude.",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017bgu_2457808.3748_BAO-2.16m_Cassegrain.txt",
 			"public":"1",
-			"instrument":{
-				"name":"Cassegrain",
-				"id":"80"
-			},
-			"observer":"Junjun Jia(NAOC), Xuebing Wu(PKU)",
-			"end_prop_period":null,
-			"reducer":"Danfeng Xiang",
-			"obsdate":"2017-02-23 20:59:42",
-			"exptime":"2400",
 			"assoc_groups":[
 				{
-					"name":"TNTS",
-					"id":"25"
+					"id":"28",
+					"name":"NUTS"
 				}
 			],
+			"obsdate":"2017-02-24 06:15:42",
+			"end_prop_period":null,
+			"observer":"C. Gall, J. Prieto-Arranz",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017bgu_2017-02-24_06-15-42_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"12",
+				"name":"NOT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017bgu_2017-02-24_06-15-42_NOT_ALFOSC_NUTS.txt",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457810
+		},
+		{
+			"exptime":"2400",
+			"public":"1",
+			"source_group_name":null,
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"obsdate":"2017-02-23 20:59:42",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Junjun Jia(NAOC), Xuebing Wu(PKU)",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017bgu_2457808.3748_BAO-2.16m_Cassegrain.txt",
+			"reducer":"Danfeng Xiang",
+			"remarks":"A spectrum taken on UT Feb. 23.87 2017 indicates that this transient is consistent with a type Ib supernova near maximum magnitude.",
+			"jd":2457810
 		}
 	],
 	"type":"4"

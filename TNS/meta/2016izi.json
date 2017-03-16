@@ -27,34 +27,34 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.fits",
-			"instrument":{
-				"name":"EFOSC2-NTT",
-				"id":"31"
-			},
-			"telescope":{
-				"name":"ESO-NTT",
-				"id":"30"
-			},
-			"jd":2457750,
-			"remarks":"",
-			"source_group":{
-				"name":"PESSTO",
-				"id":"1"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.asci",
-			"public":"1",
-			"observer":"Smith/Cikota",
-			"end_prop_period":null,
-			"reducer":"Magee/Kankare",
-			"obsdate":"2016-12-29 06:32:41",
 			"exptime":"300",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"PESSTO",
-					"id":"1"
+					"id":"1",
+					"name":"PESSTO"
 				}
-			]
+			],
+			"obsdate":"2016-12-29 06:32:41",
+			"end_prop_period":null,
+			"observer":"Smith/Cikota",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016izi_2016-12-29_06-32-41_ESO-NTT_EFOSC2-NTT.asci",
+			"reducer":"Magee/Kankare",
+			"remarks":"",
+			"jd":2457750
 		}
 	],
 	"type":"28"

@@ -27,78 +27,78 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017lf_2457777.3255_Ekar_AFOSC_Padova-Asiago.fits",
-			"instrument":{
-				"name":"AFOSC",
-				"id":"37"
-			},
-			"telescope":{
-				"name":"Ekar",
-				"id":"34"
-			},
-			"jd":2457780,
-			"remarks":"",
-			"source_group":{
-				"name":"Padova-Asiago",
-				"id":"16"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017lf_2457777.3255_Ekar_AFOSC_Padova-Asiago.txt",
-			"public":"1",
-			"observer":"Ochner",
-			"end_prop_period":null,
-			"reducer":"Pastorello",
-			"obsdate":"2017-01-23 19:48:43",
 			"exptime":"1800",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"Padova-Asiago",
-					"id":"16"
+					"id":"16",
+					"name":"Padova-Asiago"
 				}
-			]
+			],
+			"obsdate":"2017-01-23 19:48:43",
+			"end_prop_period":null,
+			"observer":"Ochner",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017lf_2457777.3255_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017lf_2457777.3255_Ekar_AFOSC_Padova-Asiago.txt",
+			"reducer":"Pastorello",
+			"remarks":"",
+			"jd":2457780
 		},
 		{
-			"fitsfile":"",
+			"exptime":"3600",
+			"public":"1",
 			"source_group_name":null,
+			"obsdate":"2017-01-23 13:06:14",
 			"groupid":"0",
-			"jd":2457780,
-			"remarks":"",
+			"end_prop_period":null,
+			"observer":"Zhibin Dai(YAOC),Feng Xiao",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lf_2457777.0460_BAO-2.16m_Cassegrain_0.txt",
-			"public":"1",
-			"instrument":{
-				"name":"Cassegrain",
-				"id":"80"
-			},
-			"observer":"Zhibin Dai(YAOC),Feng Xiao",
-			"end_prop_period":null,
 			"reducer":"Liming Rui",
-			"obsdate":"2017-01-23 13:06:14",
-			"exptime":"3600",
-			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+			"remarks":"",
+			"jd":2457780
 		},
 		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457780,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lf_2457777.0460_BAO-2.16m_Cassegrain.txt",
-			"public":"1",
-			"instrument":{
-				"name":"Cassegrain",
-				"id":"80"
-			},
-			"observer":"Zhibin Dai(YAOC),Feng Xiao",
-			"end_prop_period":null,
-			"reducer":"Liming Rui",
-			"obsdate":"2017-01-23 13:06:14",
 			"exptime":"3600",
+			"public":"1",
+			"source_group_name":null,
+			"obsdate":"2017-01-23 13:06:14",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Zhibin Dai(YAOC),Feng Xiao",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lf_2457777.0460_BAO-2.16m_Cassegrain.txt",
+			"reducer":"Liming Rui",
+			"remarks":"",
+			"jd":2457780
 		}
 	],
 	"type":"3"

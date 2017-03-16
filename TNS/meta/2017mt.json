@@ -27,34 +27,34 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"instrument":{
-				"name":"YFOSC",
-				"id":"107"
-			},
-			"telescope":{
-				"name":"LJT",
-				"id":"77"
-			},
-			"jd":2457780,
-			"remarks":"",
-			"source_group":{
-				"name":"PTSS",
-				"id":"22"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017mt_2017-01-27.9_LJT_YFOSC_PTSS.dat",
-			"public":"1",
-			"observer":"Jujia Zhang",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2017-01-27 21:36:00",
 			"exptime":"1700",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"PTSS",
-					"id":"22"
+					"id":"22",
+					"name":"PTSS"
 				}
-			]
+			],
+			"obsdate":"2017-01-27 21:36:00",
+			"end_prop_period":null,
+			"observer":"Jujia Zhang",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017mt_2017-01-27.9_LJT_YFOSC_PTSS.dat",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457780
 		}
 	],
 	"type":"3"

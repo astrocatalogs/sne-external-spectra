@@ -27,32 +27,32 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457820,
-			"remarks":"A spectrum taken on UT Mar. 09.89 2017 indicates that this transient is consistent with a type Ia supernova about 5 days after maximum light.",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cal_2017-03-09_20-53-21_BAO-2.16m_Cassegrain.txt",
-			"public":"1",
-			"instrument":{
-				"name":"Cassegrain",
-				"id":"80"
-			},
-			"observer":"J. Jia",
-			"end_prop_period":null,
-			"reducer":"D. Xiang",
-			"obsdate":"2017-03-09 20:53:21",
 			"exptime":"1800",
+			"public":"1",
+			"source_group_name":null,
 			"assoc_groups":[
 				{
-					"name":"TNTS",
-					"id":"25"
+					"id":"25",
+					"name":"TNTS"
 				}
 			],
+			"obsdate":"2017-03-09 20:53:21",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"J. Jia",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cal_2017-03-09_20-53-21_BAO-2.16m_Cassegrain.txt",
+			"reducer":"D. Xiang",
+			"remarks":"A spectrum taken on UT Mar. 09.89 2017 indicates that this transient is consistent with a type Ia supernova about 5 days after maximum light.",
+			"jd":2457820
 		}
 	],
 	"type":"3"

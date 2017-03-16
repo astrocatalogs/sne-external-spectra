@@ -27,34 +27,34 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017zv_2017-02-05_06-45-52_ESO-NTT_EFOSC2-NTT.fits",
-			"instrument":{
-				"name":"EFOSC2-NTT",
-				"id":"31"
-			},
-			"telescope":{
-				"name":"ESO-NTT",
-				"id":"30"
-			},
-			"jd":2457790,
-			"remarks":"",
-			"source_group":{
-				"name":"PESSTO",
-				"id":"1"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017zv_2017-02-05_06-45-52_ESO-NTT_EFOSC2-NTT.asci",
-			"public":"1",
-			"observer":"F. Taddia",
-			"end_prop_period":null,
-			"reducer":"C. Barbarino, E. Karamehmetoglu, A. Nyholm, J. Sollerman",
-			"obsdate":"2017-02-05 06:45:52",
 			"exptime":"1800",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"PESSTO",
-					"id":"1"
+					"id":"1",
+					"name":"PESSTO"
 				}
-			]
+			],
+			"obsdate":"2017-02-05 06:45:52",
+			"end_prop_period":null,
+			"observer":"F. Taddia",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017zv_2017-02-05_06-45-52_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017zv_2017-02-05_06-45-52_ESO-NTT_EFOSC2-NTT.asci",
+			"reducer":"C. Barbarino, E. Karamehmetoglu, A. Nyholm, J. Sollerman",
+			"remarks":"",
+			"jd":2457790
 		}
 	],
 	"type":"3"

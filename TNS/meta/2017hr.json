@@ -27,34 +27,34 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"instrument":{
-				"name":"SED-Machine",
-				"id":"149"
-			},
-			"telescope":{
-				"name":"P60",
-				"id":"2"
-			},
-			"jd":2457770,
-			"remarks":"",
-			"source_group":{
-				"name":"iPTF",
-				"id":"2"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hr_2017-01-17_10-02-01_P60_SED-Machine_iPTF.txt",
-			"public":"1",
-			"observer":"Walters",
-			"end_prop_period":null,
-			"reducer":"Neill",
-			"obsdate":"2017-01-17 10:02:01",
 			"exptime":"1200",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"iPTF",
-					"id":"2"
+					"id":"2",
+					"name":"iPTF"
 				}
-			]
+			],
+			"obsdate":"2017-01-17 10:02:01",
+			"end_prop_period":null,
+			"observer":"Walters",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hr_2017-01-17_10-02-01_P60_SED-Machine_iPTF.txt",
+			"reducer":"Neill",
+			"remarks":"",
+			"jd":2457770
 		}
 	],
 	"type":"3"

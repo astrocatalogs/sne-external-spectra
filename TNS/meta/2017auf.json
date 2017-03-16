@@ -27,66 +27,66 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.fits",
-			"instrument":{
-				"name":"EFOSC2-NTT",
-				"id":"31"
-			},
-			"telescope":{
-				"name":"ESO-NTT",
-				"id":"30"
-			},
-			"jd":2457800,
-			"remarks":"",
-			"source_group":{
-				"name":"PESSTO",
-				"id":"1"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.asci",
-			"public":"1",
-			"observer":"C. Barbarino, A. Nyholm",
-			"end_prop_period":null,
-			"reducer":"F. Taddia, C. Fremling, J. Sollerman",
-			"obsdate":"2017-02-18 01:58:10",
 			"exptime":"300",
-			"assoc_groups":[
-				{
-					"name":"PESSTO",
-					"id":"1"
-				}
-			]
-		},
-		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457800,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017auf_2017-02-17.57_BAO-2.16m_Phot-spec.txt",
 			"public":"1",
-			"instrument":{
-				"name":"Phot-spec",
-				"id":"55"
-			},
-			"observer":"Linyi Li, Xinghan Zhang (THU)",
-			"end_prop_period":null,
-			"reducer":"Danfeng Xiang (THU)",
-			"obsdate":"2017-02-17 13:40:47",
-			"exptime":"3000",
 			"assoc_groups":[
 				{
-					"name":"PTSS",
-					"id":"22"
-				},
-				{
-					"name":"TNTS",
-					"id":"25"
+					"id":"1",
+					"name":"PESSTO"
 				}
 			],
+			"obsdate":"2017-02-18 01:58:10",
+			"end_prop_period":null,
+			"observer":"C. Barbarino, A. Nyholm",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"30",
+				"name":"ESO-NTT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.asci",
+			"reducer":"F. Taddia, C. Fremling, J. Sollerman",
+			"remarks":"",
+			"jd":2457800
+		},
+		{
+			"exptime":"3000",
+			"public":"1",
+			"source_group_name":null,
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				},
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"obsdate":"2017-02-17 13:40:47",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Linyi Li, Xinghan Zhang (THU)",
+			"fitsfile":"",
+			"instrument":{
+				"id":"55",
+				"name":"Phot-spec"
+			},
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017auf_2017-02-17.57_BAO-2.16m_Phot-spec.txt",
+			"reducer":"Danfeng Xiang (THU)",
+			"remarks":"",
+			"jd":2457800
 		}
 	],
 	"type":"10"

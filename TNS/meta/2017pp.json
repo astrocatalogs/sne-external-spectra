@@ -27,64 +27,64 @@
 	"sourceid":"1",
 	"spectra":[
 		{
+			"exptime":"1200",
+			"public":"1",
+			"assoc_groups":[
+				{
+					"id":"1",
+					"name":"PESSTO"
+				}
+			],
+			"obsdate":"2017-01-28 07:54:11",
+			"end_prop_period":null,
+			"observer":"F. Taddia, J. Sollerman",
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017pp_2017-01-28_07-54-11_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
-				"name":"EFOSC2-NTT",
-				"id":"31"
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
 			},
 			"telescope":{
-				"name":"ESO-NTT",
-				"id":"30"
-			},
-			"jd":2457780,
-			"remarks":"",
-			"source_group":{
-				"name":"PESSTO",
-				"id":"1"
+				"id":"30",
+				"name":"ESO-NTT"
 			},
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017pp_2017-01-28_07-54-11_ESO-NTT_EFOSC2-NTT.asci",
-			"public":"1",
-			"observer":"F. Taddia, J. Sollerman",
-			"end_prop_period":null,
 			"reducer":"E. Karamehmetoglu, A. Nyholm, C. Barbarino",
-			"obsdate":"2017-01-28 07:54:11",
-			"exptime":"1200",
-			"assoc_groups":[
-				{
-					"name":"PESSTO",
-					"id":"1"
-				}
-			]
+			"remarks":"",
+			"jd":2457780
 		},
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017pp_2017-01-28.258_NOT_ALFOSC_NUTS.fits",
-			"instrument":{
-				"name":"ALFOSC",
-				"id":"41"
-			},
-			"telescope":{
-				"name":"NOT",
-				"id":"12"
-			},
-			"jd":2457780,
-			"remarks":"gm4 spectrum (3100-9600 A); 2017-01-28.258 UT",
-			"source_group":{
-				"name":"NUTS",
-				"id":"28"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017pp_2017-01-28.258_NOT_ALFOSC_NUTS.",
-			"public":"1",
-			"observer":"F. Grundahl, R. Tronsgaard",
-			"end_prop_period":null,
-			"reducer":"A. Pastorello",
-			"obsdate":"2017-01-28 06:11:31",
 			"exptime":"1800",
+			"public":"1",
 			"assoc_groups":[
 				{
-					"name":"NUTS",
-					"id":"28"
+					"id":"28",
+					"name":"NUTS"
 				}
-			]
+			],
+			"obsdate":"2017-01-28 06:11:31",
+			"end_prop_period":null,
+			"observer":"F. Grundahl, R. Tronsgaard",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017pp_2017-01-28.258_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017pp_2017-01-28.258_NOT_ALFOSC_NUTS.",
+			"reducer":"A. Pastorello",
+			"remarks":"gm4 spectrum (3100-9600 A); 2017-01-28.258 UT",
+			"jd":2457780
 		}
 	],
 	"type":"104"

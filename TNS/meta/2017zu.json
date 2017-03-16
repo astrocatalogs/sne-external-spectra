@@ -27,62 +27,62 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017zu_2457808.9746602_MDM-2.4_OSMOS_ASAS-SN.fits",
-			"instrument":{
-				"name":"OSMOS",
-				"id":"150"
-			},
-			"telescope":{
-				"name":"MDM-2.4",
-				"id":"11"
-			},
-			"jd":2457810,
-			"remarks":"",
-			"source_group":{
-				"name":"ASAS-SN",
-				"id":"3"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017zu_2457808.9746602_MDM-2.4_OSMOS_ASAS-SN.txt",
-			"public":"1",
-			"observer":"J. Klusmeyer",
-			"end_prop_period":null,
-			"reducer":"",
-			"obsdate":"2017-02-24 11:23:30",
 			"exptime":null,
-			"assoc_groups":[
-				{
-					"name":"ASAS-SN",
-					"id":"3"
-				}
-			]
-		},
-		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457790,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017zu_2017-02-04.89_LJT_YFOSC.dat",
 			"public":"1",
-			"instrument":{
-				"name":"YFOSC",
-				"id":"107"
-			},
-			"observer":"Kaixin Lu",
-			"end_prop_period":null,
-			"reducer":"Jujia Zhang",
-			"obsdate":"2017-02-04 21:21:36",
-			"exptime":"900",
 			"assoc_groups":[
 				{
-					"name":"PTSS",
-					"id":"22"
+					"id":"3",
+					"name":"ASAS-SN"
 				}
 			],
+			"obsdate":"2017-02-24 11:23:30",
+			"end_prop_period":null,
+			"observer":"J. Klusmeyer",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017zu_2457808.9746602_MDM-2.4_OSMOS_ASAS-SN.fits",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
 			"telescope":{
-				"name":"LJT",
-				"id":"77"
-			}
+				"id":"11",
+				"name":"MDM-2.4"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017zu_2457808.9746602_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"reducer":"",
+			"remarks":"",
+			"jd":2457810
+		},
+		{
+			"exptime":"900",
+			"public":"1",
+			"source_group_name":null,
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"obsdate":"2017-02-04 21:21:36",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Kaixin Lu",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017zu_2017-02-04.89_LJT_YFOSC.dat",
+			"reducer":"Jujia Zhang",
+			"remarks":"",
+			"jd":2457790
 		}
 	],
 	"type":"10"

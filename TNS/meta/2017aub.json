@@ -27,36 +27,36 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"fitsfile":"",
-			"source_group_name":null,
-			"groupid":"0",
-			"jd":2457800,
-			"remarks":"",
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017aub_2017-02-17.63_BAO-2.16m_Phot-spec.txt",
-			"public":"1",
-			"instrument":{
-				"name":"Phot-spec",
-				"id":"55"
-			},
-			"observer":"Linyi Li, Xinghan Zhang (THU)",
-			"end_prop_period":null,
-			"reducer":"Danfeng Xiang (THU)",
-			"obsdate":"2017-02-17 15:07:12",
 			"exptime":"3600",
+			"public":"1",
+			"source_group_name":null,
 			"assoc_groups":[
 				{
-					"name":"PTSS",
-					"id":"22"
+					"id":"22",
+					"name":"PTSS"
 				},
 				{
-					"name":"TNTS",
-					"id":"25"
+					"id":"25",
+					"name":"TNTS"
 				}
 			],
+			"obsdate":"2017-02-17 15:07:12",
+			"groupid":"0",
+			"end_prop_period":null,
+			"observer":"Linyi Li, Xinghan Zhang (THU)",
+			"fitsfile":"",
+			"instrument":{
+				"id":"55",
+				"name":"Phot-spec"
+			},
 			"telescope":{
-				"name":"BAO-2.16m",
-				"id":"45"
-			}
+				"id":"45",
+				"name":"BAO-2.16m"
+			},
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017aub_2017-02-17.63_BAO-2.16m_Phot-spec.txt",
+			"reducer":"Danfeng Xiang (THU)",
+			"remarks":"",
+			"jd":2457800
 		}
 	],
 	"type":"10"
