@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":"300",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
 					"name":"PESSTO"
 				}
 			],
-			"obsdate":"2017-02-18 01:58:10",
 			"end_prop_period":null,
-			"observer":"C. Barbarino, A. Nyholm",
+			"exptime":"300",
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"
 			},
+			"jd":2457800,
+			"obsdate":"2017-02-18 01:58:10",
+			"observer":"C. Barbarino, A. Nyholm",
+			"public":"1",
+			"reducer":"F. Taddia, C. Fremling, J. Sollerman",
+			"remarks":"",
 			"source_group":{
 				"id":"1",
 				"name":"PESSTO"
@@ -50,16 +54,10 @@
 			"telescope":{
 				"id":"30",
 				"name":"ESO-NTT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017auf_2017-02-18_01-58-10_ESO-NTT_EFOSC2-NTT.asci",
-			"reducer":"F. Taddia, C. Fremling, J. Sollerman",
-			"remarks":"",
-			"jd":2457800
+			}
 		},
 		{
-			"exptime":"3000",
-			"public":"1",
-			"source_group_name":null,
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017auf_2017-02-17.57_BAO-2.16m_Phot-spec.txt",
 			"assoc_groups":[
 				{
 					"id":"22",
@@ -70,23 +68,25 @@
 					"name":"TNTS"
 				}
 			],
-			"obsdate":"2017-02-17 13:40:47",
-			"groupid":"0",
 			"end_prop_period":null,
-			"observer":"Linyi Li, Xinghan Zhang (THU)",
+			"exptime":"3000",
 			"fitsfile":"",
+			"groupid":"0",
 			"instrument":{
 				"id":"55",
 				"name":"Phot-spec"
 			},
+			"jd":2457800,
+			"obsdate":"2017-02-17 13:40:47",
+			"observer":"Linyi Li, Xinghan Zhang (THU)",
+			"public":"1",
+			"reducer":"Danfeng Xiang (THU)",
+			"remarks":"",
+			"source_group_name":null,
 			"telescope":{
 				"id":"45",
 				"name":"BAO-2.16m"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017auf_2017-02-17.57_BAO-2.16m_Phot-spec.txt",
-			"reducer":"Danfeng Xiang (THU)",
-			"remarks":"",
-			"jd":2457800
+			}
 		}
 	],
 	"type":"10"

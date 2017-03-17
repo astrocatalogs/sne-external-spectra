@@ -27,32 +27,32 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":"3000",
-			"public":"1",
-			"source_group_name":null,
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hq_2017-01-13.9_BAO-2.16m_Phot-spec.txt",
 			"assoc_groups":[
 				{
 					"id":"25",
 					"name":"TNTS"
 				}
 			],
-			"obsdate":"2017-01-13 21:36:00",
-			"groupid":"0",
 			"end_prop_period":null,
-			"observer":"Junjun Jia",
+			"exptime":"3000",
 			"fitsfile":"",
+			"groupid":"0",
 			"instrument":{
 				"id":"55",
 				"name":"Phot-spec"
 			},
+			"jd":2457770,
+			"obsdate":"2017-01-13 21:36:00",
+			"observer":"Junjun Jia",
+			"public":"1",
+			"reducer":"Danfeng Xiang",
+			"remarks":"",
+			"source_group_name":null,
 			"telescope":{
 				"id":"45",
 				"name":"BAO-2.16m"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hq_2017-01-13.9_BAO-2.16m_Phot-spec.txt",
-			"reducer":"Danfeng Xiang",
-			"remarks":"",
-			"jd":2457770
+			}
 		}
 	],
 	"type":"3"

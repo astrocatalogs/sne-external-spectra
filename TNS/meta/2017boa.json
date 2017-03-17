@@ -27,26 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
-			"source_group_name":null,
-			"obsdate":"2016-03-15 09:30:00",
-			"groupid":"0",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017boa_2016-03-15_09-30-00_Other_Other.dat",
 			"end_prop_period":null,
-			"observer":"MaNGA  team",
+			"exptime":null,
 			"fitsfile":"",
+			"groupid":"0",
 			"instrument":{
 				"id":"0",
 				"name":"Other"
 			},
+			"jd":2457460,
+			"obsdate":"2016-03-15 09:30:00",
+			"observer":"MaNGA  team",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Spectrum of the transient observed at the 2.5m APO telescope with the MaNGA IFU spectrum in plate 8547 IFU 12701. The initial cube was processed with the following software versions of the pipeline:\nVERSDRP2= 'v2_0_1  '           / MaNGA DRP version (2d processing)\nVERSDRP3= 'v2_0_1  '           / MaNGA DRP Version (3d processing)\nVERSPLDS= 'v2_52   '           / Platedesign Version\nVERSFLAT= 'v1_26   '           / Specflat Version\nVERSCORE= 'v1_3_1  '           / MaNGAcore Version\nVERSPRIM= 'v2_2    '           / MaNGA Preimaging Version\nVERSUTIL= 'v5_5_25 '           / Version of idlutils\nVERSIDL = 'x86_64 linux unix linux 7.1.1 Aug 21 2009 64 64 ' / Version of IDL\nVERSPY  = '3.5.1   '           / Python version\nVERSNP  = '1.11.0  '           / Numpy version\nVERSSCI = '0.17.1  '           / Scipy version\nVERSAST = '1.1.2   '           / Astropy version\nVERSPYDL= '0.5.0   '           / pydl version\nVERSDAP = '2.0.2   '           / MaNGA DAP version\n\nFunding for the Sloan Digital Sky Survey IV has been provided by the Alfred P. Sloan Foundation, the U.S. Department of Energy Office of Science, and the Participating Institutions. SDSS acknowledges support and resources from the Center for High-Performance Computing at the University of Utah. The SDSS web site is www.sdss.org.\nSDSS is managed by the Astrophysical Research Consortium for the Participating Institutions of the SDSS Collaboration\nincluding the Brazilian Participation Group, the Carnegie Institution for Science, Carnegie Mellon University, the\nChilean Participation Group, the French Participation Group, Harvard-Smithsonian Center for Astrophysics, Instituto de\nAstrofísica de Canarias, The Johns Hopkins University, Kavli Institute for the Physics and Mathematics of the Universe\n(IPMU) / University of Tokyo, Lawrence Berkeley National Laboratory, Leibniz Institut für Astrophysik Potsdam (AIP),\nMax-Planck-Institut für Astronomie (MPIA Heidelberg), Max-Planck-Institut für Astrophysik (MPA Garching),\nMax-Planck-Institut für Extraterrestrische Physik (MPE), National Astronomical Observatories of China, New Mexico State\nUniversity, New York University, University of Notre Dame, Observatório Nacional / MCTI, The Ohio State University,\nPennsylvania State University, Shanghai Astronomical Observatory, United Kingdom Participation Group, Universidad\nNacional Autónoma de México, University of Arizona, University of Colorado Boulder, University of Oxford, University of\nPortsmouth, University of Utah, University of Virginia, University of Washington, University of Wisconsin, Vanderbilt\nUniversity, and Yale University.",
+			"source_group_name":null,
 			"telescope":{
 				"id":"0",
 				"name":"Other"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017boa_2016-03-15_09-30-00_Other_Other.dat",
-			"reducer":"",
-			"remarks":"Spectrum of the transient observed at the 2.5m APO telescope with the MaNGA IFU spectrum in plate 8547 IFU 12701. The initial cube was processed with the following software versions of the pipeline:\nVERSDRP2= 'v2_0_1  '           / MaNGA DRP version (2d processing)\nVERSDRP3= 'v2_0_1  '           / MaNGA DRP Version (3d processing)\nVERSPLDS= 'v2_52   '           / Platedesign Version\nVERSFLAT= 'v1_26   '           / Specflat Version\nVERSCORE= 'v1_3_1  '           / MaNGAcore Version\nVERSPRIM= 'v2_2    '           / MaNGA Preimaging Version\nVERSUTIL= 'v5_5_25 '           / Version of idlutils\nVERSIDL = 'x86_64 linux unix linux 7.1.1 Aug 21 2009 64 64 ' / Version of IDL\nVERSPY  = '3.5.1   '           / Python version\nVERSNP  = '1.11.0  '           / Numpy version\nVERSSCI = '0.17.1  '           / Scipy version\nVERSAST = '1.1.2   '           / Astropy version\nVERSPYDL= '0.5.0   '           / pydl version\nVERSDAP = '2.0.2   '           / MaNGA DAP version\n\nFunding for the Sloan Digital Sky Survey IV has been provided by the Alfred P. Sloan Foundation, the U.S. Department of Energy Office of Science, and the Participating Institutions. SDSS acknowledges support and resources from the Center for High-Performance Computing at the University of Utah. The SDSS web site is www.sdss.org.\nSDSS is managed by the Astrophysical Research Consortium for the Participating Institutions of the SDSS Collaboration\nincluding the Brazilian Participation Group, the Carnegie Institution for Science, Carnegie Mellon University, the\nChilean Participation Group, the French Participation Group, Harvard-Smithsonian Center for Astrophysics, Instituto de\nAstrofísica de Canarias, The Johns Hopkins University, Kavli Institute for the Physics and Mathematics of the Universe\n(IPMU) / University of Tokyo, Lawrence Berkeley National Laboratory, Leibniz Institut für Astrophysik Potsdam (AIP),\nMax-Planck-Institut für Astronomie (MPIA Heidelberg), Max-Planck-Institut für Astrophysik (MPA Garching),\nMax-Planck-Institut für Extraterrestrische Physik (MPE), National Astronomical Observatories of China, New Mexico State\nUniversity, New York University, University of Notre Dame, Observatório Nacional / MCTI, The Ohio State University,\nPennsylvania State University, Shanghai Astronomical Observatory, United Kingdom Participation Group, Universidad\nNacional Autónoma de México, University of Arizona, University of Colorado Boulder, University of Oxford, University of\nPortsmouth, University of Utah, University of Virginia, University of Washington, University of Wisconsin, Vanderbilt\nUniversity, and Yale University.",
-			"jd":2457460
+			}
 		}
 	],
 	"type":"3"

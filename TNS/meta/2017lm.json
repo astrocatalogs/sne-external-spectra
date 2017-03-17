@@ -27,26 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":"1933",
-			"public":"1",
-			"source_group_name":null,
-			"obsdate":"2017-01-19 19:58:01",
-			"groupid":"0",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.dat",
 			"end_prop_period":null,
-			"observer":"R. Kuhn",
+			"exptime":"1933",
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.fits",
+			"groupid":"0",
 			"instrument":{
 				"id":"117",
 				"name":"RSS"
 			},
+			"jd":2457770,
+			"obsdate":"2017-01-19 19:58:01",
+			"observer":"R. Kuhn",
+			"public":"1",
+			"reducer":"S. W. Jha",
+			"remarks":"",
+			"source_group_name":null,
 			"telescope":{
 				"id":"82",
 				"name":"SALT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017lm_2457773.331956017_SALT_RSS.dat",
-			"reducer":"S. W. Jha",
-			"remarks":"",
-			"jd":2457770
+			}
 		}
 	],
 	"type":"3"

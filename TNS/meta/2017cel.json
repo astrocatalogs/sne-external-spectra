@@ -27,48 +27,48 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
-			"source_group_name":null,
-			"obsdate":"2017-03-14 22:48:00",
-			"groupid":"0",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2017-03-14.95_LT_SPRAT.asci",
 			"end_prop_period":null,
-			"observer":"Inserra",
+			"exptime":null,
 			"fitsfile":"",
+			"groupid":"0",
 			"instrument":{
 				"id":"156",
 				"name":"SPRAT"
 			},
-			"telescope":{
-				"id":"70",
-				"name":"LT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2017-03-14.95_LT_SPRAT.asci",
+			"jd":2457830,
+			"obsdate":"2017-03-14 22:48:00",
+			"observer":"Inserra",
+			"public":"1",
 			"reducer":"Inserra",
 			"remarks":"",
-			"jd":2457830
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
 		},
 		{
-			"exptime":null,
-			"public":"1",
-			"source_group_name":null,
-			"obsdate":"2017-03-14 21:13:47",
-			"groupid":"0",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.txt",
 			"end_prop_period":null,
-			"observer":"Simon Prentice",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.fits",
+			"groupid":"0",
 			"instrument":{
 				"id":"156",
 				"name":"SPRAT"
 			},
+			"jd":2457830,
+			"obsdate":"2017-03-14 21:13:47",
+			"observer":"Simon Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
 			"telescope":{
 				"id":"70",
 				"name":"LT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cel_2457827.38458_LT_SPRAT.txt",
-			"reducer":"",
-			"remarks":"",
-			"jd":2457830
+			}
 		}
 	],
 	"type":"27"

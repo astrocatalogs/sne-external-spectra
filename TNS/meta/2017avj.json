@@ -27,22 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":"900",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Pan-STARRS1/tns_2017avj_2017-02-22_11-24-55_UH88_SNIFS_Pan-STARRS1.txt",
 			"assoc_groups":[
 				{
 					"id":"4",
 					"name":"Pan-STARRS1"
 				}
 			],
-			"obsdate":"2017-02-22 11:24:55",
 			"end_prop_period":null,
-			"observer":"M. Huber, K. W. Smith, P. Clark",
+			"exptime":"900",
 			"fitsfile":"",
 			"instrument":{
 				"id":"11",
 				"name":"SNIFS"
 			},
+			"jd":2457810,
+			"obsdate":"2017-02-22 11:24:55",
+			"observer":"M. Huber, K. W. Smith, P. Clark",
+			"public":"1",
+			"reducer":"M. Huber",
+			"remarks":"",
 			"source_group":{
 				"id":"4",
 				"name":"Pan-STARRS1"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"17",
 				"name":"UH88"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Pan-STARRS1/tns_2017avj_2017-02-22_11-24-55_UH88_SNIFS_Pan-STARRS1.txt",
-			"reducer":"M. Huber",
-			"remarks":"",
-			"jd":2457810
+			}
 		}
 	],
 	"type":"103"

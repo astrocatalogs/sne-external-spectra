@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bos_2457814.727242_FLWO_1.5m_FAST_ASAS-SN.txt",
 			"assoc_groups":[
 				{
 					"id":"3",
 					"name":"ASAS-SN"
 				}
 			],
-			"obsdate":"2017-03-02 05:27:13",
 			"end_prop_period":null,
-			"observer":"M. Calkins",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bos_2457814.727242_FLWO_1.5m_FAST_ASAS-SN.fits",
 			"instrument":{
 				"id":"44",
 				"name":"FAST"
 			},
+			"jd":2457810,
+			"obsdate":"2017-03-02 05:27:13",
+			"observer":"M. Calkins",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
 			"source_group":{
 				"id":"3",
 				"name":"ASAS-SN"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"36",
 				"name":"FLWO 1.5m"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017bos_2457814.727242_FLWO_1.5m_FAST_ASAS-SN.txt",
-			"reducer":"",
-			"remarks":"",
-			"jd":2457810
+			}
 		}
 	],
 	"type":"3"

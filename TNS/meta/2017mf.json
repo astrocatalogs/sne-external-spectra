@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":"1800",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017mf_2457776.5363_Ekar_AFOSC_Padova-Asiago.txt",
 			"assoc_groups":[
 				{
 					"id":"16",
 					"name":"Padova-Asiago"
 				}
 			],
-			"obsdate":"2017-01-23 00:52:16",
 			"end_prop_period":null,
-			"observer":"Ochner",
+			"exptime":"1800",
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017mf_2457776.5363_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
 				"id":"37",
 				"name":"AFOSC"
 			},
+			"jd":2457780,
+			"obsdate":"2017-01-23 00:52:16",
+			"observer":"Ochner",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
 			"source_group":{
 				"id":"16",
 				"name":"Padova-Asiago"
@@ -50,67 +54,63 @@
 			"telescope":{
 				"id":"34",
 				"name":"Ekar"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017mf_2457776.5363_Ekar_AFOSC_Padova-Asiago.txt",
-			"reducer":"Benetti",
-			"remarks":"",
-			"jd":2457780
+			}
 		},
 		{
-			"exptime":"1800",
-			"public":"1",
-			"source_group_name":null,
-			"assoc_groups":[
-				{
-					"id":"22",
-					"name":"PTSS"
-				}
-			],
-			"obsdate":"2017-01-22 22:48:00",
-			"groupid":"0",
-			"end_prop_period":null,
-			"observer":"Xiangming Zheng",
-			"fitsfile":"",
-			"instrument":{
-				"id":"107",
-				"name":"YFOSC"
-			},
-			"telescope":{
-				"id":"77",
-				"name":"LJT"
-			},
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017mf_2017-01-22.95_LJT_YFOSC_0.dat",
-			"reducer":"Jujia Zhang",
-			"remarks":"",
-			"jd":2457780
-		},
-		{
-			"exptime":"1800",
-			"public":"1",
-			"source_group_name":null,
 			"assoc_groups":[
 				{
 					"id":"22",
 					"name":"PTSS"
 				}
 			],
-			"obsdate":"2017-01-22 22:48:00",
-			"groupid":"0",
 			"end_prop_period":null,
-			"observer":"Xiangming Zheng",
+			"exptime":"1800",
 			"fitsfile":"",
+			"groupid":"0",
 			"instrument":{
 				"id":"107",
 				"name":"YFOSC"
 			},
+			"jd":2457780,
+			"obsdate":"2017-01-22 22:48:00",
+			"observer":"Xiangming Zheng",
+			"public":"1",
+			"reducer":"Jujia Zhang",
+			"remarks":"",
+			"source_group_name":null,
 			"telescope":{
 				"id":"77",
 				"name":"LJT"
-			},
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017mf_2017-01-22.95_LJT_YFOSC.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2457780,
+			"obsdate":"2017-01-22 22:48:00",
+			"observer":"Xiangming Zheng",
+			"public":"1",
 			"reducer":"Jujia Zhang",
 			"remarks":"",
-			"jd":2457780
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
 		}
 	],
 	"type":"3"

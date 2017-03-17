@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdk_2457752.54309489_LCO-duPont_WFCCD_ASAS-SN.txt",
 			"assoc_groups":[
 				{
 					"id":"3",
 					"name":"ASAS-SN"
 				}
 			],
-			"obsdate":"2016-12-30 01:02:02",
 			"end_prop_period":null,
-			"observer":"M. Seidel",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdk_2457752.54309489_LCO-duPont_WFCCD_ASAS-SN.fits",
 			"instrument":{
 				"id":"62",
 				"name":"WFCCD"
 			},
+			"jd":2457750,
+			"obsdate":"2016-12-30 01:02:02",
+			"observer":"M. Seidel",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
 			"source_group":{
 				"id":"3",
 				"name":"ASAS-SN"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"50",
 				"name":"LCO-duPont"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdk_2457752.54309489_LCO-duPont_WFCCD_ASAS-SN.txt",
-			"reducer":"",
-			"remarks":"",
-			"jd":2457750
+			}
 		}
 	],
 	"type":"3"

@@ -27,22 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":"2700",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017bj_2017-01-18_04-08-48_P60_SED-Machine_iPTF.txt",
 			"assoc_groups":[
 				{
 					"id":"2",
 					"name":"iPTF"
 				}
 			],
-			"obsdate":"2017-01-18 04:08:48",
 			"end_prop_period":null,
-			"observer":"Walters",
+			"exptime":"2700",
 			"fitsfile":"",
 			"instrument":{
 				"id":"149",
 				"name":"SED-Machine"
 			},
+			"jd":2457770,
+			"obsdate":"2017-01-18 04:08:48",
+			"observer":"Walters",
+			"public":"1",
+			"reducer":"Neill",
+			"remarks":"Quality 2",
 			"source_group":{
 				"id":"2",
 				"name":"iPTF"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"2",
 				"name":"P60"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017bj_2017-01-18_04-08-48_P60_SED-Machine_iPTF.txt",
-			"reducer":"Neill",
-			"remarks":"Quality 2",
-			"jd":2457770
+			}
 		}
 	],
 	"type":"3"

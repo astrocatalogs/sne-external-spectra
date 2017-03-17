@@ -27,22 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017jl_2017-01-22.87_NOT_ALFOSC_NUTS.dat",
 			"assoc_groups":[
 				{
 					"id":"28",
 					"name":"NUTS"
 				}
 			],
-			"obsdate":"2017-01-22 20:52:48",
 			"end_prop_period":null,
-			"observer":"Service",
+			"exptime":null,
 			"fitsfile":"",
 			"instrument":{
 				"id":"41",
 				"name":"ALFOSC"
 			},
+			"jd":2457780,
+			"obsdate":"2017-01-22 20:52:48",
+			"observer":"Service",
+			"public":"1",
+			"reducer":"H. Kuncarayakti",
+			"remarks":"",
 			"source_group":{
 				"id":"28",
 				"name":"NUTS"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"12",
 				"name":"NOT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017jl_2017-01-22.87_NOT_ALFOSC_NUTS.dat",
-			"reducer":"H. Kuncarayakti",
-			"remarks":"",
-			"jd":2457780
+			}
 		}
 	],
 	"type":"3"

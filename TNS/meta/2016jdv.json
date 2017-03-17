@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.txt",
 			"assoc_groups":[
 				{
 					"id":"3",
 					"name":"ASAS-SN"
 				}
 			],
-			"obsdate":"2016-12-30 08:38:24",
 			"end_prop_period":null,
-			"observer":"M. K. Seidel",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.fits",
 			"instrument":{
 				"id":"62",
 				"name":"WFCCD"
 			},
+			"jd":2457750,
+			"obsdate":"2016-12-30 08:38:24",
+			"observer":"M. K. Seidel",
+			"public":"1",
+			"reducer":"N. Morrell ",
+			"remarks":"We report optical spectroscopic observation of supernova candidate ASASSN-16pl (ATel #9918, AT 2016jdv) using the du Pont 2.5-m telescope (+ WFCCD) at Las Campanas Observatory on UT 2016-12-30.36. The target was discovered by the All-Sky Automated Survey for Supernovae (ASAS-SN; Shappee et al. 2014, ApJ, 788, 48). We used SNID (Blondin & Tonry, 2007, ApJ, 666, 1024) to identify the type and phase of the SN spectra. The spectrum matches with SNe Ia-norm, around maximum light. SNID estimates the redshift to be z=0.029.",
 			"source_group":{
 				"id":"3",
 				"name":"ASAS-SN"
@@ -50,29 +54,29 @@
 			"telescope":{
 				"id":"50",
 				"name":"LCO-duPont"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2016-12-30.36_LCO-duPont_WFCCD_ASAS-SN.txt",
-			"reducer":"N. Morrell ",
-			"remarks":"We report optical spectroscopic observation of supernova candidate ASASSN-16pl (ATel #9918, AT 2016jdv) using the du Pont 2.5-m telescope (+ WFCCD) at Las Campanas Observatory on UT 2016-12-30.36. The target was discovered by the All-Sky Automated Survey for Supernovae (ASAS-SN; Shappee et al. 2014, ApJ, 788, 48). We used SNID (Blondin & Tonry, 2007, ApJ, 666, 1024) to identify the type and phase of the SN spectra. The spectrum matches with SNe Ia-norm, around maximum light. SNID estimates the redshift to be z=0.029.",
-			"jd":2457750
+			}
 		},
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.txt",
 			"assoc_groups":[
 				{
 					"id":"3",
 					"name":"ASAS-SN"
 				}
 			],
-			"obsdate":"2016-12-30 08:26:46",
 			"end_prop_period":null,
-			"observer":"M. Seidel",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.fits",
 			"instrument":{
 				"id":"62",
 				"name":"WFCCD"
 			},
+			"jd":2457750,
+			"obsdate":"2016-12-30 08:26:46",
+			"observer":"M. Seidel",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
 			"source_group":{
 				"id":"3",
 				"name":"ASAS-SN"
@@ -80,11 +84,7 @@
 			"telescope":{
 				"id":"50",
 				"name":"LCO-duPont"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2016jdv_2457752.85192765_LCO-duPont_WFCCD_ASAS-SN.txt",
-			"reducer":"",
-			"remarks":"",
-			"jd":2457750
+			}
 		}
 	],
 	"type":"3"

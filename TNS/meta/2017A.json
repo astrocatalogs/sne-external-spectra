@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":"1800",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.txt",
 			"assoc_groups":[
 				{
 					"id":"16",
 					"name":"Padova-Asiago"
 				}
 			],
-			"obsdate":"2017-01-24 04:33:36",
 			"end_prop_period":null,
-			"observer":"Ochner",
+			"exptime":"1800",
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
 				"id":"37",
 				"name":"AFOSC"
 			},
+			"jd":2457780,
+			"obsdate":"2017-01-24 04:33:36",
+			"observer":"Ochner",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
 			"source_group":{
 				"id":"16",
 				"name":"Padova-Asiago"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"34",
 				"name":"Ekar"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017A_2457777.69_Ekar_AFOSC_Padova-Asiago.txt",
-			"reducer":"Benetti",
-			"remarks":"",
-			"jd":2457780
+			}
 		}
 	],
 	"type":"3"

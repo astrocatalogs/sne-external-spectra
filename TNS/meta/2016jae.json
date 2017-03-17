@@ -27,22 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":"300",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016jae_2016-12-28_08-15-27_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
 					"name":"PESSTO"
 				}
 			],
-			"obsdate":"2016-12-28 08:15:27",
 			"end_prop_period":null,
-			"observer":"Smith/Cikota",
+			"exptime":"300",
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016jae_2016-12-28_08-15-27_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"
 			},
+			"jd":2457750,
+			"obsdate":"2016-12-28 08:15:27",
+			"observer":"Smith/Cikota",
+			"public":"1",
+			"reducer":"Magee/Kankare",
+			"remarks":"",
 			"source_group":{
 				"id":"1",
 				"name":"PESSTO"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"30",
 				"name":"ESO-NTT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2016jae_2016-12-28_08-15-27_ESO-NTT_EFOSC2-NTT.asci",
-			"reducer":"Magee/Kankare",
-			"remarks":"",
-			"jd":2457750
+			}
 		}
 	],
 	"type":"3"

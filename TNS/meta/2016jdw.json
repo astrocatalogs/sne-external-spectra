@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":"2200",
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2016jdw_2016-12-30.94_LJT_YFOSC_PTSS.dat",
 			"assoc_groups":[
 				{
 					"id":"22",
 					"name":"PTSS"
 				}
 			],
-			"obsdate":"2016-12-30 22:33:36",
 			"end_prop_period":null,
-			"observer":"Xiaoguang Yu",
+			"exptime":"2200",
 			"fitsfile":"",
 			"instrument":{
 				"id":"107",
 				"name":"YFOSC"
 			},
+			"jd":2457750,
+			"obsdate":"2016-12-30 22:33:36",
+			"observer":"Xiaoguang Yu",
+			"public":"1",
+			"reducer":"Jujia Zhang",
+			"remarks":"",
 			"source_group":{
 				"id":"22",
 				"name":"PTSS"
@@ -50,11 +54,7 @@
 			"telescope":{
 				"id":"77",
 				"name":"LJT"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2016jdw_2016-12-30.94_LJT_YFOSC_PTSS.dat",
-			"reducer":"Jujia Zhang",
-			"remarks":"",
-			"jd":2457750
+			}
 		}
 	],
 	"type":"4"

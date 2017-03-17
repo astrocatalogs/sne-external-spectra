@@ -27,26 +27,26 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"exptime":"900",
-			"public":"1",
-			"source_group_name":null,
-			"obsdate":"2017-02-24 08:23:18",
-			"groupid":"0",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ays_2017-02-24_08-23-18_SOAR_Goodman.flm",
 			"end_prop_period":null,
-			"observer":"Yen-Chen Pan/ Draco Reed",
+			"exptime":"900",
 			"fitsfile":"",
+			"groupid":"0",
 			"instrument":{
 				"id":"127",
 				"name":"Goodman"
 			},
+			"jd":2457810,
+			"obsdate":"2017-02-24 08:23:18",
+			"observer":"Yen-Chen Pan/ Draco Reed",
+			"public":"1",
+			"reducer":"Yen-Chen Pan",
+			"remarks":"SOAR/Goodman spectrum obtained on Feb 24.",
+			"source_group_name":null,
 			"telescope":{
 				"id":"86",
 				"name":"SOAR"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ays_2017-02-24_08-23-18_SOAR_Goodman.flm",
-			"reducer":"Yen-Chen Pan",
-			"remarks":"SOAR/Goodman spectrum obtained on Feb 24.",
-			"jd":2457810
+			}
 		}
 	],
 	"type":"10"

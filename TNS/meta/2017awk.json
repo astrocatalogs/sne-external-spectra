@@ -27,22 +27,26 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.asc",
 			"assoc_groups":[
 				{
 					"id":"16",
 					"name":"Padova-Asiago"
 				}
 			],
-			"obsdate":"2017-02-18 02:24:00",
 			"end_prop_period":null,
-			"observer":"Tomasella",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.fits",
 			"instrument":{
 				"id":"37",
 				"name":"AFOSC"
 			},
+			"jd":2457800,
+			"obsdate":"2017-02-18 02:24:00",
+			"observer":"Tomasella",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
 			"source_group":{
 				"id":"16",
 				"name":"Padova-Asiago"
@@ -50,29 +54,29 @@
 			"telescope":{
 				"id":"34",
 				"name":"Ekar"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago_0.asc",
-			"reducer":"Benetti",
-			"remarks":"",
-			"jd":2457800
+			}
 		},
 		{
-			"exptime":null,
-			"public":"1",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc",
 			"assoc_groups":[
 				{
 					"id":"16",
 					"name":"Padova-Asiago"
 				}
 			],
-			"obsdate":"2017-02-18 02:24:00",
 			"end_prop_period":null,
-			"observer":"Tomasella",
+			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
 				"id":"37",
 				"name":"AFOSC"
 			},
+			"jd":2457800,
+			"obsdate":"2017-02-18 02:24:00",
+			"observer":"Tomasella",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
 			"source_group":{
 				"id":"16",
 				"name":"Padova-Asiago"
@@ -80,11 +84,7 @@
 			"telescope":{
 				"id":"34",
 				"name":"Ekar"
-			},
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017awk_2017-02-18.1_Ekar_AFOSC_Padova-Asiago.asc",
-			"reducer":"Benetti",
-			"remarks":"",
-			"jd":2457800
+			}
 		}
 	],
 	"type":"3"
