@@ -10,21 +10,52 @@
 	"hostname":"GALEXASC J133917.08+350841.1",
 	"internal_name":"PTSS-17nem",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN IIP",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"11",
 		"name":null
 	},
 	"objname":"2017cff",
 	"public":"1",
 	"ra":"13:39:17.00",
-	"redshift":null,
+	"redshift":"0.019",
 	"source_group":{
 		"group_name":"PTSS",
 		"groupid":"22"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017cff_2017-03-19.76_LJT_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2457830,
+			"obsdate":"2017-03-19 18:14:24",
+			"observer":"Yuxin Xin (YNAO)",
+			"public":"1",
+			"reducer":"Jujia Zhang (YNAO)",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"11"
 }
