@@ -10,21 +10,44 @@
 	"hostname":null,
 	"internal_name":"Gaia17apq",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN IIb",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"14",
 		"name":null
 	},
 	"objname":"2017cao",
 	"public":"1",
 	"ra":"19:24:02.19",
-	"redshift":null,
+	"redshift":"0.02",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cao_2017-03-16_12-07-59_P200_DBSP.txt",
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2457829.005544,
+			"obsdate":"2017-03-16 12:07:59",
+			"observer":"Nadejda Blagorodnova",
+			"public":"1",
+			"reducer":"Scott Adams",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"14"
 }

@@ -10,21 +10,44 @@
 	"hostname":null,
 	"internal_name":"Gaia17apv",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN II",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"10",
 		"name":null
 	},
 	"objname":"2017cat",
 	"public":"1",
 	"ra":"17:58:52.09",
-	"redshift":null,
+	"redshift":"0.02",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cat_2017-03-16_11-32-12_P200_DBSP.txt",
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2457828.9806944,
+			"obsdate":"2017-03-16 11:32:12",
+			"observer":"Nadejda Blagorodnova",
+			"public":"1",
+			"reducer":"Scott Adams",
+			"remarks":"Best phase is +5 days.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"10"
 }
