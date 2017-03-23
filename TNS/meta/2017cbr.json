@@ -10,21 +10,52 @@
 	"hostname":"CGCG 098-015",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN Ia",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"3",
 		"name":null
 	},
 	"objname":"2017cbr",
 	"public":"1",
 	"ra":"11:58:46.83",
-	"redshift":null,
+	"redshift":"0.0173",
 	"source_group":{
 		"group_name":"TNTS",
 		"groupid":"25"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2017cbr_2017-03-22.7_BAO-2.16m_Phot-spec_TNTS.dat",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"55",
+				"name":"Phot-spec"
+			},
+			"jd":2457835.1999884,
+			"obsdate":"2017-03-22 16:47:59",
+			"observer":"Jianguo Wang",
+			"public":"1",
+			"reducer":"Jujia Zhang",
+			"remarks":"",
+			"source_group":{
+				"id":"25",
+				"name":"TNTS"
+			},
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
 }
