@@ -1,0 +1,61 @@
+{
+	"dec":"+09:42:17.70",
+	"discmagfilter":"1",
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-03-23 13:58:42",
+	"discoverymag":"15.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC4779",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"SN II",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":null
+	},
+	"objname":"2017cjb",
+	"public":"1",
+	"ra":"12:53:50.45",
+	"redshift":null,
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017cjb_2017-03-23.945_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457836.445,
+			"obsdate":"2017-03-23 22:40:48",
+			"observer":"T. Reynolds",
+			"public":"1",
+			"reducer":"T. Reynolds",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"10"
+}
