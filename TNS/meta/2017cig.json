@@ -10,21 +10,52 @@
 	"hostname":null,
 	"internal_name":"ASASSN-17dt",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN Ia",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"3",
 		"name":null
 	},
 	"objname":"2017cig",
 	"public":"1",
 	"ra":"11:06:47.20",
-	"redshift":null,
+	"redshift":"0.05",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cig_2017-03-24_23-05-55_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2457837.4624421,
+			"obsdate":"2017-03-24 23:05:55",
+			"observer":"Bersier",
+			"public":"1",
+			"reducer":"Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

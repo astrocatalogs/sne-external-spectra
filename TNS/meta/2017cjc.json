@@ -10,21 +10,52 @@
 	"hostname":"GALEXASC J202948.67-424303.8",
 	"internal_name":"ASASSN-17dw",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN Ia",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"3",
 		"name":null
 	},
 	"objname":"2017cjc",
 	"public":"1",
 	"ra":"20:29:49.39",
-	"redshift":null,
+	"redshift":"0.034",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cjc_2017-03-24_08-39-20_ESO-NTT_EFOSC2-NTT.asci",
+			"assoc_groups":[
+				{
+					"id":"1",
+					"name":"PESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cjc_2017-03-24_08-39-20_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457836.8606481,
+			"obsdate":"2017-03-24 08:39:20",
+			"observer":"Onori/Hamanowicz",
+			"public":"1",
+			"reducer":"Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
 }

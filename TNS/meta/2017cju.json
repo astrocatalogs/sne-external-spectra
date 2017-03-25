@@ -1,0 +1,61 @@
+{
+	"dec":"+13:20:52.48",
+	"discmagfilter":"12",
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-03-23 14:24:00",
+	"discoverymag":"17.8",
+	"end_prop_period":null,
+	"host_redshift":"0.049334",
+	"hostname":"2MASX J15383353+1320423",
+	"internal_name":"ASASSN-17eb",
+	"isTNS_AT":"1",
+	"name":"SN Ia",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":null
+	},
+	"objname":"2017cju",
+	"public":"1",
+	"ra":"15:38:34.07",
+	"redshift":"0.049",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017cju_2017-03-25_00-05-32_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017cju_2017-03-25_00-05-32_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2457837.5038426,
+			"obsdate":"2017-03-25 00:05:32",
+			"observer":"tomasella",
+			"public":"1",
+			"reducer":"tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}

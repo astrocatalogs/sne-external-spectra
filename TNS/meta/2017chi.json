@@ -19,12 +19,43 @@
 	"objname":"2017chi",
 	"public":"1",
 	"ra":"13:52:16.09",
-	"redshift":null,
+	"redshift":"0.0328",
 	"source_group":{
 		"group_name":"SUNBIRD",
 		"groupid":"34"
 	},
 	"sourceid":"1",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017chi_2017-03-24_09-16-37_ESO-NTT_EFOSC2-NTT.asci",
+			"assoc_groups":[
+				{
+					"id":"1",
+					"name":"PESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017chi_2017-03-24_09-16-37_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457836.8865394,
+			"obsdate":"2017-03-24 09:16:37",
+			"observer":"Onori/Hamanowicz",
+			"public":"1",
+			"reducer":"Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
 	"type":null
 }
