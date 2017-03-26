@@ -1,25 +1,25 @@
 {
-	"dec":"+26:54:58.62",
+	"dec":"+09:49:20.96",
 	"discmagfilter":"72",
 	"discoverer":null,
 	"discovererid":"35595",
-	"discoverydate":"2017-03-17 14:24:00",
-	"discoverymag":"18.34",
+	"discoverydate":"2017-03-14 14:42:43",
+	"discoverymag":"17.61",
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_name":"ATLAS17czh",
+	"internal_name":"ATLAS17byq",
 	"isTNS_AT":"1",
-	"name":"SN IIn",
+	"name":"SN Ia",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"13",
+		"id":"3",
 		"name":null
 	},
-	"objname":"2017cin",
+	"objname":"2017cka",
 	"public":"1",
-	"ra":"16:14:00.66",
-	"redshift":"0.033",
+	"ra":"17:07:47.34",
+	"redshift":"0.04",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
@@ -27,7 +27,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cin_2017-03-25_08-23-47_ESO-NTT_EFOSC2-NTT.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cka_2017-03-25_09-45-24_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
@@ -35,14 +35,14 @@
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"900",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cin_2017-03-25_08-23-47_ESO-NTT_EFOSC2-NTT.fits",
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cka_2017-03-25_09-45-24_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"
 			},
-			"jd":2457837.8498495,
-			"obsdate":"2017-03-25 08:23:47",
+			"jd":2457837.9065278,
+			"obsdate":"2017-03-25 09:45:24",
 			"observer":"Onori/Hamanowicz",
 			"public":"1",
 			"reducer":"Fraser",
@@ -57,5 +57,5 @@
 			}
 		}
 	],
-	"type":"13"
+	"type":"3"
 }
