@@ -10,21 +10,52 @@
 	"hostname":null,
 	"internal_name":"Gaia17asu",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN Ia",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"3",
 		"name":null
 	},
 	"objname":"2017cir",
 	"public":"1",
 	"ra":"08:16:02.70",
-	"redshift":null,
+	"redshift":"0.07",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cir_2017-03-26_05-25-42_ESO-NTT_EFOSC2-NTT.asci",
+			"assoc_groups":[
+				{
+					"id":"1",
+					"name":"PESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cir_2017-03-26_05-25-42_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457838.7261806,
+			"obsdate":"2017-03-26 05:25:42",
+			"observer":"Onori/Hamanowicz",
+			"public":"1",
+			"reducer":"Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
 }

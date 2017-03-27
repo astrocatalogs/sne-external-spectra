@@ -10,21 +10,52 @@
 	"hostname":null,
 	"internal_name":"ATLAS17cpj",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"SN",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
+		"id":"1",
 		"name":null
 	},
 	"objname":"2017cfo",
 	"public":"1",
 	"ra":"10:38:12.92",
-	"redshift":null,
+	"redshift":"0.042",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cfo_2017-03-26_04-32-02_ESO-NTT_EFOSC2-NTT.asci",
+			"assoc_groups":[
+				{
+					"id":"1",
+					"name":"PESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cfo_2017-03-26_04-32-02_ESO-NTT_EFOSC2-NTT.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457838.688912,
+			"obsdate":"2017-03-26 04:32:02",
+			"observer":"Onori/Hamanowicz",
+			"public":"1",
+			"reducer":"Fraser",
+			"remarks":"Likely a young, but luminous type II. Further spectra with PESSTO will be taken.",
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"1"
 }
