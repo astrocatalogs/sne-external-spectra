@@ -1,6 +1,10 @@
 {
 	"dec":"+08:30:26.50",
-	"discmagfilter":"12",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
 	"discoverer":"Stanek",
 	"discovererid":"82",
 	"discoverydate":"2017-01-10 15:50:24",
@@ -10,11 +14,11 @@
 	"hostname":"CGCG 073-079",
 	"internal_name":"ASASSN-17am",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017hq",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017hq",
 	"public":"1",

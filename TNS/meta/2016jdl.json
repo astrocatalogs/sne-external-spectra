@@ -1,6 +1,10 @@
 {
 	"dec":"+40:36:53.93",
-	"discmagfilter":"12",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
 	"discoverer":"Stanek",
 	"discovererid":"82",
 	"discoverydate":"2016-12-29 13:12:00",
@@ -10,11 +14,11 @@
 	"hostname":"SDSS J122739.66+403649.0 ",
 	"internal_name":"ASASSN-16pk",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2016jdl",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2016jdl",
 	"public":"1",

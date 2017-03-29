@@ -1,6 +1,10 @@
 {
 	"dec":"+28:56:26.00",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Tsuboi",
 	"discovererid":"125",
 	"discoverydate":"2016-12-30 18:11:44",
@@ -10,11 +14,11 @@
 	"hostname":"NGC4793",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN IIP",
+	"name":"2016jfu",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"11",
-		"name":null
+		"name":"SN IIP"
 	},
 	"objname":"2016jfu",
 	"public":"1",

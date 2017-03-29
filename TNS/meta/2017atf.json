@@ -1,6 +1,10 @@
 {
 	"dec":"+11:55:21.96",
-	"discmagfilter":"50",
+	"discmagfilter":{
+		"family":"PTF",
+		"id":"50",
+		"name":"R"
+	},
 	"discoverer":null,
 	"discovererid":"11756",
 	"discoverydate":"2017-02-14 06:57:36",
@@ -10,7 +14,7 @@
 	"hostname":"",
 	"internal_name":"iPTF17atf",
 	"isTNS_AT":"1",
-	"name":null,
+	"name":"2017atf",
 	"name_prefix":"AT",
 	"object_type":{
 		"id":null,

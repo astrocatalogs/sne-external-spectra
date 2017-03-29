@@ -1,6 +1,10 @@
 {
 	"dec":"-18:35:44.96",
-	"discmagfilter":"72",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
 	"discoverer":null,
 	"discovererid":"35595",
 	"discoverydate":"2017-03-19 11:36:57",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"ATLAS17dbm",
 	"isTNS_AT":"1",
-	"name":"SN Ic",
+	"name":"2017cjd",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"5",
-		"name":null
+		"name":"SN Ic"
 	},
 	"objname":"2017cjd",
 	"public":"1",
@@ -27,7 +31,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cjd_2017-03-24_08-56-07_ESO-NTT_EFOSC2-NTT.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017cjd_2017-03-24_08-56-07_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
@@ -36,7 +40,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":"600",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cjd_2017-03-24_08-56-07_ESO-NTT_EFOSC2-NTT.fits",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017cjd_2017-03-24_08-56-07_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"

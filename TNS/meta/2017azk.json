@@ -1,6 +1,10 @@
 {
 	"dec":"+07:20:00.80",
-	"discmagfilter":"23",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
 	"discoverer":null,
 	"discovererid":"35588",
 	"discoverydate":"2017-02-16 13:00:28",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"PS17bii",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017azk",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017azk",
 	"public":"1",

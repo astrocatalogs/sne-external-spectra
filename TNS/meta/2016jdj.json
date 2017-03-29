@@ -1,6 +1,10 @@
 {
 	"dec":"+02:17:00.80",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Gao",
 	"discovererid":"297",
 	"discoverydate":"2016-12-28 23:24:57",
@@ -10,11 +14,11 @@
 	"hostname":"PGC 1221823",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2016jdj",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2016jdj",
 	"public":"1",

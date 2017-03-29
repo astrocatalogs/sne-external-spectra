@@ -1,6 +1,10 @@
 {
 	"dec":"+29:54:22.60",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Shima",
 	"discovererid":"94",
 	"discoverydate":"2017-01-02 19:02:05",
@@ -10,11 +14,11 @@
 	"hostname":"NGC5685",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017B",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017B",
 	"public":"1",

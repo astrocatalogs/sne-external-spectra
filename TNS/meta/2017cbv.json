@@ -1,6 +1,10 @@
 {
 	"dec":"-44:08:02.74",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":null,
 	"discovererid":"37975",
 	"discoverydate":"2017-03-10 04:06:14",
@@ -10,11 +14,11 @@
 	"hostname":"NGC5643",
 	"internal_name":"DLT17u",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017cbv",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017cbv",
 	"public":"1",

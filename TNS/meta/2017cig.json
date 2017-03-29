@@ -1,6 +1,10 @@
 {
 	"dec":"+14:12:24.90",
-	"discmagfilter":"12",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
 	"discoverer":"Prieto",
 	"discovererid":"253",
 	"discoverydate":"2017-03-20 09:08:38",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"ASASSN-17dt",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017cig",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017cig",
 	"public":"1",

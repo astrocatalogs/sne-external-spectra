@@ -1,6 +1,10 @@
 {
 	"dec":"+52:42:15.57",
-	"discmagfilter":"22",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
 	"discoverer":"Boquien",
 	"discovererid":"495",
 	"discoverydate":"2017-01-18 15:00:00",
@@ -10,11 +14,11 @@
 	"hostname":"SDSS J143031.19+524225.8",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017boa",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017boa",
 	"public":"1",

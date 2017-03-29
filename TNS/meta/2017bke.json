@@ -1,6 +1,10 @@
 {
 	"dec":"-03:43:15.69",
-	"discmagfilter":"22",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
 	"discoverer":"Li",
 	"discovererid":"294",
 	"discoverydate":"2017-02-24 15:37:25",
@@ -10,11 +14,11 @@
 	"hostname":"APMUKS(BJ) B102145.77-032803.1",
 	"internal_name":"PTSS-17hcz",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017bke",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017bke",
 	"public":"1",

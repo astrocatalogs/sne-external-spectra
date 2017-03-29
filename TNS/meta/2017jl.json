@@ -1,6 +1,10 @@
 {
 	"dec":"+30:11:06.83",
-	"discmagfilter":"72",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
 	"discoverer":null,
 	"discovererid":"35595",
 	"discoverydate":"2017-01-16 05:16:48",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"ATLAS17air",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017jl",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017jl",
 	"public":"1",

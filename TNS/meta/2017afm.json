@@ -1,6 +1,10 @@
 {
 	"dec":"+21:33:54.64",
-	"discmagfilter":"26",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
 	"discoverer":null,
 	"discovererid":"35588",
 	"discoverydate":"2017-02-04 12:36:00",
@@ -10,7 +14,7 @@
 	"hostname":null,
 	"internal_name":"PS17aaw",
 	"isTNS_AT":"1",
-	"name":null,
+	"name":"2017afm",
 	"name_prefix":"AT",
 	"object_type":{
 		"id":null,
@@ -27,7 +31,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017afm_2017-02-18_05-04-41_ESO-NTT_EFOSC2-NTT.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017afm_2017-02-18_05-04-41_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
@@ -36,7 +40,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":"1500",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017afm_2017-02-18_05-04-41_ESO-NTT_EFOSC2-NTT.fits",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017afm_2017-02-18_05-04-41_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"

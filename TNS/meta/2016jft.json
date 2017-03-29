@@ -1,6 +1,10 @@
 {
 	"dec":"+41:41:17.82",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"cortini",
 	"discovererid":"252",
 	"discoverydate":"2016-12-31 01:12:00",
@@ -10,11 +14,11 @@
 	"hostname":"UGC 5198",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN IIP",
+	"name":"2016jft",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"11",
-		"name":null
+		"name":"SN IIP"
 	},
 	"objname":"2016jft",
 	"public":"1",

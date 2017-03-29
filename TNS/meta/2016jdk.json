@@ -1,6 +1,10 @@
 {
 	"dec":"-36:14:20.58",
-	"discmagfilter":"12",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
 	"discoverer":"Stanek",
 	"discovererid":"82",
 	"discoverydate":"2016-12-29 01:40:48",
@@ -10,11 +14,11 @@
 	"hostname":"GALEXASC J232303.16-361420.6",
 	"internal_name":"ASASSN-16pj",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2016jdk",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2016jdk",
 	"public":"1",

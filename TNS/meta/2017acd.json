@@ -1,6 +1,10 @@
 {
 	"dec":"-38:08:37.50",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Parker",
 	"discovererid":"110",
 	"discoverydate":"2017-02-02 12:44:59",
@@ -10,11 +14,11 @@
 	"hostname":"PGC612475",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017acd",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017acd",
 	"public":"1",

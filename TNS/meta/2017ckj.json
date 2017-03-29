@@ -1,6 +1,10 @@
 {
 	"dec":"+48:02:07.45",
-	"discmagfilter":"71",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
 	"discoverer":null,
 	"discovererid":"35595",
 	"discoverydate":"2017-03-26 13:17:45",
@@ -10,21 +14,21 @@
 	"hostname":null,
 	"internal_name":"ATLAS17deh",
 	"isTNS_AT":"1",
-	"name":null,
-	"name_prefix":"AT",
+	"name":"2017ckj",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"1",
+		"name":"SN"
 	},
 	"objname":"2017ckj",
 	"public":"1",
 	"ra":"16:09:44.42",
-	"redshift":null,
+	"redshift":"0.037",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
 	"spectra":[],
-	"type":null
+	"type":"1"
 }

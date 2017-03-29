@@ -1,6 +1,10 @@
 {
 	"dec":"+52:01:41.36",
-	"discmagfilter":"50",
+	"discmagfilter":{
+		"family":"PTF",
+		"id":"50",
+		"name":"R"
+	},
 	"discoverer":null,
 	"discovererid":"11756",
 	"discoverydate":"2017-01-07 06:18:43",
@@ -10,11 +14,11 @@
 	"hostname":"",
 	"internal_name":"iPTF17bj",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017bj",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017bj",
 	"public":"1",

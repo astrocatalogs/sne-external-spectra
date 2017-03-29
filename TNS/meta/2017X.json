@@ -1,6 +1,10 @@
 {
 	"dec":"-43:54:21.49",
-	"discmagfilter":"75",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
 	"discoverer":null,
 	"discovererid":"35587",
 	"discoverydate":"2017-01-01 08:00:57",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"Gaia17aag",
 	"isTNS_AT":"1",
-	"name":"SN Ia-91T-like",
+	"name":"2017X",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"104",
-		"name":null
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2017X",
 	"public":"1",
@@ -27,7 +31,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017X_2017-01-05_08-07-18_ESO-NTT_EFOSC2-NTT.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017X_2017-01-05_08-07-18_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
@@ -36,7 +40,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":"600",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017X_2017-01-05_08-07-18_ESO-NTT_EFOSC2-NTT.fits",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017X_2017-01-05_08-07-18_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"

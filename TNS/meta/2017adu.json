@@ -1,6 +1,10 @@
 {
 	"dec":"+26:05:42.02",
-	"discmagfilter":"26",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
 	"discoverer":null,
 	"discovererid":"35588",
 	"discoverydate":"2017-01-29 08:15:21",
@@ -10,7 +14,7 @@
 	"hostname":null,
 	"internal_name":"PS17amv",
 	"isTNS_AT":"1",
-	"name":null,
+	"name":"2017adu",
 	"name_prefix":"AT",
 	"object_type":{
 		"id":null,

@@ -1,6 +1,10 @@
 {
 	"dec":"+28:08:19.70",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Itagaki",
 	"discovererid":"87",
 	"discoverydate":"2017-01-06 16:33:10",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017hr",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017hr",
 	"public":"1",

@@ -1,6 +1,10 @@
 {
 	"dec":"+26:05:07.10",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Li",
 	"discovererid":"294",
 	"discoverydate":"2017-01-08 21:07:12",
@@ -10,11 +14,11 @@
 	"hostname":"KUG 1242+263",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN IIP",
+	"name":"2017hk",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"11",
-		"name":null
+		"name":"SN IIP"
 	},
 	"objname":"2017hk",
 	"public":"1",

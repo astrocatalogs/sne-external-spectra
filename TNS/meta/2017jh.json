@@ -1,6 +1,10 @@
 {
 	"dec":"+04:23:57.05",
-	"discmagfilter":"75",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
 	"discoverer":null,
 	"discovererid":"35587",
 	"discoverydate":"2017-01-12 19:49:26",
@@ -10,7 +14,7 @@
 	"hostname":null,
 	"internal_name":"Gaia17acj",
 	"isTNS_AT":"1",
-	"name":null,
+	"name":"2017jh",
 	"name_prefix":"AT",
 	"object_type":{
 		"id":null,

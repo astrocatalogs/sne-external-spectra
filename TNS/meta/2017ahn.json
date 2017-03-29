@@ -1,6 +1,10 @@
 {
 	"dec":"-41:37:05.27",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":null,
 	"discovererid":"37975",
 	"discoverydate":"2017-02-08 08:35:31",
@@ -10,11 +14,11 @@
 	"hostname":"NGC3318",
 	"internal_name":"DLT17h",
 	"isTNS_AT":"1",
-	"name":"SN II",
+	"name":"2017ahn",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"10",
-		"name":null
+		"name":"SN II"
 	},
 	"objname":"2017ahn",
 	"public":"1",

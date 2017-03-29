@@ -1,6 +1,10 @@
 {
 	"dec":"-15:48:57.89",
-	"discmagfilter":"71",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
 	"discoverer":null,
 	"discovererid":"35595",
 	"discoverydate":"2017-01-26 05:24:00",
@@ -10,7 +14,7 @@
 	"hostname":null,
 	"internal_name":"ATLAS17aui",
 	"isTNS_AT":"1",
-	"name":null,
+	"name":"2017zc",
 	"name_prefix":"AT",
 	"object_type":{
 		"id":null,

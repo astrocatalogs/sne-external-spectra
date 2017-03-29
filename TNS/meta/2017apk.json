@@ -1,6 +1,10 @@
 {
 	"dec":"+16:29:08.87",
-	"discmagfilter":"26",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
 	"discoverer":null,
 	"discovererid":"35588",
 	"discoverydate":"2017-01-26 07:39:21",
@@ -10,7 +14,7 @@
 	"hostname":null,
 	"internal_name":"PS17axi",
 	"isTNS_AT":"1",
-	"name":null,
+	"name":"2017apk",
 	"name_prefix":"AT",
 	"object_type":{
 		"id":null,

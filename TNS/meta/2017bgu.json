@@ -1,6 +1,10 @@
 {
 	"dec":"+42:33:36.01",
-	"discmagfilter":"71",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
 	"discoverer":null,
 	"discovererid":"35595",
 	"discoverydate":"2017-02-22 14:55:40",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"ATLAS17bem",
 	"isTNS_AT":"1",
-	"name":"SN Ib",
+	"name":"2017bgu",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"4",
-		"name":null
+		"name":"SN Ib"
 	},
 	"objname":"2017bgu",
 	"public":"1",

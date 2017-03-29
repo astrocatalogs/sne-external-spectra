@@ -1,6 +1,10 @@
 {
 	"dec":"+06:20:14.60",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Puckett",
 	"discovererid":"111",
 	"discoverydate":"2017-01-09 09:55:45",
@@ -10,11 +14,11 @@
 	"hostname":"UGC 08204",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017hn",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017hn",
 	"public":"1",

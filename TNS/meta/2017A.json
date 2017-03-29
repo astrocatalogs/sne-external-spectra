@@ -1,6 +1,10 @@
 {
 	"dec":"+30:03:39.10",
-	"discmagfilter":"18",
+	"discmagfilter":{
+		"family":"",
+		"id":"18",
+		"name":"L"
+	},
 	"discoverer":"Duszanowicz",
 	"discovererid":"211",
 	"discoverydate":"2017-01-01 05:26:01",
@@ -10,11 +14,11 @@
 	"hostname":"UGC10104",
 	"internal_name":"",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017A",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017A",
 	"public":"1",

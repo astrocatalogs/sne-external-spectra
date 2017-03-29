@@ -1,6 +1,10 @@
 {
 	"dec":"+73:29:15.14",
-	"discmagfilter":"1",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
 	"discoverer":"Zheng",
 	"discovererid":"172",
 	"discoverydate":"2017-03-16 06:32:37",
@@ -10,11 +14,11 @@
 	"hostname":"IC 511",
 	"internal_name":"kait-17I",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017cfd",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017cfd",
 	"public":"1",

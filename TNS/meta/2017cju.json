@@ -1,6 +1,10 @@
 {
 	"dec":"+13:20:52.48",
-	"discmagfilter":"12",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
 	"discoverer":"Stanek",
 	"discovererid":"82",
 	"discoverydate":"2017-03-23 14:24:00",
@@ -10,11 +14,11 @@
 	"hostname":"2MASX J15383353+1320423",
 	"internal_name":"ASASSN-17eb",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017cju",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017cju",
 	"public":"1",
@@ -27,7 +31,7 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cju_2017-03-25_09-07-07_ESO-NTT_EFOSC2-NTT.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017cju_2017-03-25_09-07-07_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
 				{
 					"id":"1",
@@ -36,7 +40,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":"600",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded//tns_2017cju_2017-03-25_09-07-07_ESO-NTT_EFOSC2-NTT.fits",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017cju_2017-03-25_09-07-07_ESO-NTT_EFOSC2-NTT.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"

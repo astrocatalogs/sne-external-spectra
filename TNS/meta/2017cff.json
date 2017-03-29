@@ -1,6 +1,10 @@
 {
 	"dec":"+35:08:39.03",
-	"discmagfilter":"22",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
 	"discoverer":"Li",
 	"discovererid":"294",
 	"discoverydate":"2017-03-16 20:00:05",
@@ -10,11 +14,11 @@
 	"hostname":"GALEXASC J133917.08+350841.1",
 	"internal_name":"PTSS-17nem",
 	"isTNS_AT":"1",
-	"name":"SN IIP",
+	"name":"2017cff",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"11",
-		"name":null
+		"name":"SN IIP"
 	},
 	"objname":"2017cff",
 	"public":"1",

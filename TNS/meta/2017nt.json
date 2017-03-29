@@ -1,6 +1,10 @@
 {
 	"dec":"+03:44:08.18",
-	"discmagfilter":"71",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
 	"discoverer":null,
 	"discovererid":"35595",
 	"discoverydate":"2017-01-23 05:08:09",
@@ -10,11 +14,11 @@
 	"hostname":null,
 	"internal_name":"ATLAS17akw",
 	"isTNS_AT":"1",
-	"name":"SN Ia-91T-like",
+	"name":"2017nt",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"104",
-		"name":null
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2017nt",
 	"public":"1",

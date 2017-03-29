@@ -1,6 +1,10 @@
 {
 	"dec":"+30:40:32.67",
-	"discmagfilter":"22",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
 	"discoverer":"Li",
 	"discovererid":"294",
 	"discoverydate":"2016-12-29 20:22:52",
@@ -10,11 +14,11 @@
 	"hostname":"SDSS J131620.53+304042.0",
 	"internal_name":"PTSS-16sjp",
 	"isTNS_AT":"1",
-	"name":"SN Ib",
+	"name":"2016jdw",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"4",
-		"name":null
+		"name":"SN Ib"
 	},
 	"objname":"2016jdw",
 	"public":"1",

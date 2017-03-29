@@ -1,6 +1,10 @@
 {
 	"dec":"+10:41:35.10",
-	"discmagfilter":"12",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
 	"discoverer":"Dong",
 	"discovererid":"59",
 	"discoverydate":"2017-01-04 15:45:32",
@@ -10,11 +14,11 @@
 	"hostname":"2017-01-04.6566313",
 	"internal_name":"ASASSN-17ae",
 	"isTNS_AT":"1",
-	"name":"SN Ia",
+	"name":"2017ai",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
-		"name":null
+		"name":"SN Ia"
 	},
 	"objname":"2017ai",
 	"public":"1",
