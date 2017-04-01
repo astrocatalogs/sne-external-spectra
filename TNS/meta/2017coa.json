@@ -15,20 +15,49 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017coa",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017coa",
 	"public":"1",
 	"ra":"08:49:55.49",
-	"redshift":null,
+	"redshift":"0.04",
 	"source_group":{
 		"group_name":"TNTS",
 		"groupid":"25"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017coa_2457843.9905_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457843.9905,
+			"obsdate":"2017-03-31 11:46:19",
+			"observer":"Xianmin Meng(YNAO)",
+			"public":"1",
+			"reducer":"Danfeng Xiang",
+			"remarks":"A spectrum taken on UT Mar. 31.49 2017 indicates that this transient is consistent with a type Ia supernova before maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
 }

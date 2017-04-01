@@ -15,20 +15,49 @@
 	"internal_name":"PTSS-17ntl",
 	"isTNS_AT":"1",
 	"name":"2017cne",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2017cne",
 	"public":"1",
 	"ra":"15:08:42.93",
-	"redshift":null,
+	"redshift":"0.034",
 	"source_group":{
 		"group_name":"PTSS",
 		"groupid":"22"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cne_2457844.2613_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457844.2613,
+			"obsdate":"2017-03-31 18:16:16",
+			"observer":"Xianmin Meng",
+			"public":"1",
+			"reducer":"Danfeng Xiang",
+			"remarks":"A spectrum taken on UT Mar. 31.76 2017 indicates that this transient is consistent with a type Ia-91T-like supernova before maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"104"
 }
