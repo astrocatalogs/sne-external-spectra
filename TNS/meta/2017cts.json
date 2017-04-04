@@ -1,0 +1,65 @@
+{
+	"dec":"+61:27:26.06",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-04-02 11:02:24",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":"0.01976",
+	"hostname":"CGCG 299-048",
+	"internal_name":"ASASSN-17em",
+	"isTNS_AT":"1",
+	"name":"2017cts",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017cts",
+	"public":"1",
+	"ra":"17:03:11.76",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cts_2017-04-04_02-53-16_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2457847.6203241,
+			"obsdate":"2017-04-04 02:53:16",
+			"observer":"Bersier",
+			"public":"1",
+			"reducer":"Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}
