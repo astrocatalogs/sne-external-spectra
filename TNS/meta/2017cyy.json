@@ -1,0 +1,57 @@
+{
+	"dec":"-63:56:54.68",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":"37975",
+	"discoverydate":"2017-04-12 18:02:52",
+	"discoverymag":"18.6841",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"ESO091-015",
+	"internal_name":"DLT17ar",
+	"isTNS_AT":"1",
+	"name":"2017cyy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017cyy",
+	"public":"1",
+	"ra":"09:36:36.30",
+	"redshift":"0.0098",
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":"30"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cyy_2457856.3254051_SALT_RSS.dat",
+			"end_prop_period":null,
+			"exptime":"1136",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017cyy_2457856.3254051_SALT_RSS.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2457856.3254051,
+			"obsdate":"2017-04-12 19:48:35",
+			"observer":"R. Kuhn",
+			"public":"1",
+			"reducer":"S. W. Jha",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
+}

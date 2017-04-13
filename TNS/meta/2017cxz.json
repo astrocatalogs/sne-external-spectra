@@ -15,20 +15,51 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017cxz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"4",
+		"name":"SN Ib"
 	},
 	"objname":"2017cxz",
 	"public":"1",
 	"ra":"17:19:19.78",
-	"redshift":null,
+	"redshift":"0.0289",
 	"source_group":{
 		"group_name":"ISSP",
 		"groupid":"27"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017cxz_2017-04-12.83_LJT_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2100",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2457856.33,
+			"obsdate":"2017-04-12 19:55:12",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"Jujia Zhang",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"4"
 }
