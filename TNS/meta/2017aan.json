@@ -1,1 +1,34 @@
-{"objname": "2017aan", "ra": "07:39:26.28", "redshift": null, "hostname": "", "host_redshift": null, "isTNS_AT": "1", "discoverydate": "2017-02-01 07:35:02", "discoverymag": "17.9213", "discmagfilter": "51", "public": "1", "end_prop_period": "2017-02-02", "sourceid": "2", "discovererid": "11756", "name_prefix": "AT", "type": null, "name": null, "discoverer": null, "internal_name": "iPTF17aan", "spectra": [], "dec": "+13:55:09.74", "object_type": {"name": null, "id": null}, "source_group": {"groupid": "2", "group_name": "iPTF"}}
+{
+	"dec":"+13:55:09.74",
+	"discmagfilter":{
+		"family":"PTF",
+		"id":"51",
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":"11756",
+	"discoverydate":"2017-02-01 07:35:02",
+	"discoverymag":"17.9213",
+	"end_prop_period":"2017-02-02",
+	"host_redshift":null,
+	"hostname":"",
+	"internal_name":"iPTF17aan",
+	"isTNS_AT":"1",
+	"name":"2017aan",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":null,
+		"name":null
+	},
+	"objname":"2017aan",
+	"public":"1",
+	"ra":"07:39:26.28",
+	"redshift":null,
+	"source_group":{
+		"group_name":"iPTF",
+		"groupid":"2"
+	},
+	"sourceid":"2",
+	"spectra":[],
+	"type":null
+}
