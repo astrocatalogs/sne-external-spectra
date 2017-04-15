@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-17en",
 	"isTNS_AT":"1",
 	"name":"2017cxy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017cxy",
 	"public":"1",
 	"ra":"18:23:17.93",
-	"redshift":null,
+	"redshift":"0.02",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017cxy_2017-04-14_17-51-02_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017cxy_2017-04-14_17-51-02_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":"125",
+				"name":"FLOYDS-S"
+			},
+			"jd":2457858.2437731,
+			"obsdate":"2017-04-14 17:51:02",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Griffin Hosseinzadeh",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"75",
+				"name":"FTS"
+			}
+		}
+	],
+	"type":"3"
 }
