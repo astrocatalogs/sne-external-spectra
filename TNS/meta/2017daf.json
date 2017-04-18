@@ -1,28 +1,28 @@
 {
-	"dec":"-13:22:50.66",
+	"dec":"+40:44:52.87",
 	"discmagfilter":{
 		"family":"Johnson",
-		"id":"12",
-		"name":"V"
+		"id":"11",
+		"name":"B"
 	},
 	"discoverer":"Stanek",
 	"discovererid":"82",
-	"discoverydate":"2017-04-11 06:57:36",
-	"discoverymag":"15.8",
+	"discoverydate":"2017-04-15 12:28:48",
+	"discoverymag":"16",
 	"end_prop_period":null,
-	"host_redshift":"0.01486",
-	"hostname":"NGC 3546",
-	"internal_name":"ASASSN-17er",
+	"host_redshift":"0.019001",
+	"hostname":"UGC 09386",
+	"internal_name":"ASASSN-17ez",
 	"isTNS_AT":"1",
-	"name":"2017cze",
+	"name":"2017daf",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
 		"name":"SN Ia"
 	},
-	"objname":"2017cze",
+	"objname":"2017daf",
 	"public":"1",
-	"ra":"11:09:46.82",
+	"ra":"14:34:52.70",
 	"redshift":null,
 	"source_group":{
 		"group_name":"ASAS-SN",
@@ -31,7 +31,7 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017cze_2457859.67152647_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017daf_2457859.72959061_MDM-2.4_OSMOS_ASAS-SN.txt",
 			"assoc_groups":[
 				{
 					"id":"3",
@@ -45,8 +45,8 @@
 				"id":"150",
 				"name":"OSMOS"
 			},
-			"jd":2457859.6715265,
-			"obsdate":"2017-04-16 04:07:00",
+			"jd":2457859.7295906,
+			"obsdate":"2017-04-16 05:30:36",
 			"observer":"J. Klusmeyer",
 			"public":"1",
 			"reducer":"",
