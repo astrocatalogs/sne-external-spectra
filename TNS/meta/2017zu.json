@@ -1,5 +1,5 @@
 {
-	"dec":"+50:29:25.55",
+	"dec":"+50:29:26.48",
 	"discmagfilter":{
 		"family":"Johnson",
 		"id":"12",
@@ -22,7 +22,7 @@
 	},
 	"objname":"2017zu",
 	"public":"1",
-	"ra":"16:58:37.37",
+	"ra":"16:58:37.69",
 	"redshift":"0.01",
 	"source_group":{
 		"group_name":"ASAS-SN",
@@ -30,6 +30,36 @@
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017dbf_2457859.871502_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"jd":2457859.871502,
+			"obsdate":"2017-04-16 08:54:57",
+			"observer":"J. Klusmeyer",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"11",
+				"name":"MDM-2.4"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017zu_2457808.9746602_MDM-2.4_OSMOS_ASAS-SN.txt",
 			"assoc_groups":[
