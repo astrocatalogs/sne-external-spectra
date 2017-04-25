@@ -17,18 +17,41 @@
 	"name":"2017dau",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"24",
+		"name":"LBV"
 	},
 	"objname":"2017dau",
 	"public":"1",
 	"ra":"14:14:17.08",
-	"redshift":null,
+	"redshift":"0.01062",
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":"4"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017dau_2017-04-19_07-45-12_P200_DBSP.txt",
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2457862.8230556,
+			"obsdate":"2017-04-19 07:45:12",
+			"observer":"K. Burdge",
+			"public":"1",
+			"reducer":"T. Kupfer",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"24"
 }

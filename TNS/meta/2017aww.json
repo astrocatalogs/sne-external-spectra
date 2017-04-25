@@ -15,10 +15,10 @@
 	"internal_name":"ATLAS17bax",
 	"isTNS_AT":"1",
 	"name":"2017aww",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":"30",
-		"name":"Galaxy"
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017aww",
 	"public":"1",
@@ -30,6 +30,36 @@
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017aww_2017-03-06_01-55-08_ESO-NTT_EFOSC2-NTT_PESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"1",
+					"name":"PESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017aww_2017-03-06_01-55-08_ESO-NTT_EFOSC2-NTT_PESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457818.5799537,
+			"obsdate":"2017-03-06 01:55:08",
+			"observer":"C. Barbarino, A. Nyholm",
+			"public":"1",
+			"reducer":"F. Taddia, J. Sollerman, C. Fremling",
+			"remarks":"Dominated by narrow host lines, spectrum showing very low velocity (~1000/3000 km/s) Balmer P-Cygni profiles, therefore a type II.",
+			"source_group":{
+				"id":"1",
+				"name":"PESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PESSTO/tns_2017aww_2017-02-18_02-45-26_ESO-NTT_EFOSC2-NTT.asci",
 			"assoc_groups":[
@@ -61,5 +91,5 @@
 			}
 		}
 	],
-	"type":"30"
+	"type":"10"
 }
