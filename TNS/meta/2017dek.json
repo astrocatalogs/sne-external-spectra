@@ -15,20 +15,51 @@
 	"internal_name":"Gaia17bav",
 	"isTNS_AT":"1",
 	"name":"2017dek",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017dek",
 	"public":"1",
 	"ra":"20:25:44.71",
-	"redshift":null,
+	"redshift":"0.063",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017dek_2017-04-24_07-17-02_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017dek_2017-04-24_07-17-02_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457867.8034954,
+			"obsdate":"2017-04-24 07:17:02",
+			"observer":"C. Gutierrez, R. Cartier",
+			"public":"1",
+			"reducer":"R. Cartier, C. Gutierrez",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
 }
