@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS17ewe",
 	"isTNS_AT":"1",
 	"name":"2017diy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017diy",
 	"public":"1",
 	"ra":"08:38:55.11",
-	"redshift":null,
+	"redshift":"0.044",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017diy_2017-04-30_04-25-49_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2457873.6845949,
+			"obsdate":"2017-04-30 04:25:49",
+			"observer":"Dave Coulter; Yen-Chen Pan",
+			"public":"1",
+			"reducer":"Yen-Chen Pan",
+			"remarks":"The spectrum observed with the Kast spectrograph on the Shane telescope.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
 }

@@ -15,20 +15,51 @@
 	"internal_name":"Gaia17bci",
 	"isTNS_AT":"1",
 	"name":"2017dit",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017dit",
 	"public":"1",
 	"ra":"15:27:58.92",
-	"redshift":null,
+	"redshift":"0.01859",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017dit_2017-04-30.30_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"jd":2457873.8,
+			"obsdate":"2017-04-30 07:12:00",
+			"observer":"T. Holoien",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"11",
+				"name":"MDM-2.4"
+			}
+		}
+	],
+	"type":"3"
 }
