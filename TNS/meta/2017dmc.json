@@ -1,0 +1,57 @@
+{
+	"dec":"+00:57:22.57",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-04-24 07:04:48",
+	"discoverymag":"19",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17cpm",
+	"isTNS_AT":"1",
+	"name":"2017dmc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017dmc",
+	"public":"1",
+	"ra":"10:15:13.50",
+	"redshift":"0.072",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017dmc_2017-05-01_02-12-00_SOAR_Goodman.flm",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2457874.5916667,
+			"obsdate":"2017-05-01 02:12:00",
+			"observer":"Kilpatrick, C. D.",
+			"public":"1",
+			"reducer":"Pan, Y.-C.",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
+}
