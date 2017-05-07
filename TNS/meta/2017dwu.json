@@ -1,0 +1,63 @@
+{
+	"dec":"+32:27:05.87",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-05-03 17:32:38",
+	"discoverymag":"16.04",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17beb",
+	"isTNS_AT":"1",
+	"name":"2017dwu",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2017dwu",
+	"public":"1",
+	"ra":"18:28:46.80",
+	"redshift":null,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017dwu_2457880.2133_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457880.2133,
+			"obsdate":"2017-05-06 17:07:09",
+			"observer":"Z. Sun(PMO),F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"27"
+}
