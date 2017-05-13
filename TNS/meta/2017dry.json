@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-17fs",
 	"isTNS_AT":"1",
 	"name":"2017dry",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017dry",
 	"public":"1",
 	"ra":"22:32:44.53",
-	"redshift":null,
+	"redshift":"0.040415",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017dry_2017-05-09_18-38-25_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017dry_2017-05-09_18-38-25_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":"125",
+				"name":"FLOYDS-S"
+			},
+			"jd":2457883.2766782,
+			"obsdate":"2017-05-09 18:38:25",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Griffin Hosseinzadeh",
+			"remarks":"Using Superfit (Howell et al. 2005, ApJ, 634, 1190) and SNID (Blondin & Tonry 2007, ApJ, 666, 1024), we find good fits to several normal Type Ia supernovae at the redshift of the proposed host galaxy (z=0.040; Jones et al. 2009, \"The 6dF Galaxy Survey Data Release 3,\" via NED). Heavy host contamination prevents us from determining the phase accurately.",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"75",
+				"name":"FTS"
+			}
+		}
+	],
+	"type":"3"
 }
