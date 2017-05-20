@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS17fgz",
 	"isTNS_AT":"1",
 	"name":"2017ebp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017ebp",
 	"public":"1",
 	"ra":"11:09:45.27",
-	"redshift":null,
+	"redshift":"0.074",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017ebp_2017-05-18.92_NOT_ALFOSC_NUTS.dat",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017ebp_2017-05-18.92_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457892.42,
+			"obsdate":"2017-05-18 22:04:48",
+			"observer":"I. Rivero Losada (NOT)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
 }
