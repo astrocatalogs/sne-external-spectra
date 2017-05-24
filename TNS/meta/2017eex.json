@@ -15,10 +15,10 @@
 	"internal_name":"ASASSN-17gl",
 	"isTNS_AT":"1",
 	"name":"2017eex",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017eex",
 	"public":"1",
@@ -29,6 +29,37 @@
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017eex_2457896.696195_FLWO_1.5m_FAST_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017eex_2457896.696195_FLWO_1.5m_FAST_ASAS-SN.fits",
+			"instrument":{
+				"id":"44",
+				"name":"FAST"
+			},
+			"jd":2457896.696195,
+			"obsdate":"2017-05-23 04:42:30",
+			"observer":"M. Calkins (Harvard CfA)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"36",
+				"name":"FLWO 1.5m"
+			}
+		}
+	],
+	"type":"3"
 }
