@@ -15,20 +15,49 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017ein",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"5",
+		"name":"SN Ic"
 	},
 	"objname":"2017ein",
 	"public":"1",
 	"ra":"11:52:53.25",
-	"redshift":null,
+	"redshift":"0.0027",
 	"source_group":{
 		"group_name":null,
 		"groupid":"0"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ein_2457900.0677_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457900.0677,
+			"obsdate":"2017-05-26 13:37:29",
+			"observer":"H. Song(THU),F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT May. 26.57 2017 indicates that this transient is consistent with a type Ic supernova near maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"5"
 }
