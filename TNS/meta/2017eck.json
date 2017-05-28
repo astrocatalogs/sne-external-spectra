@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS17fll",
 	"isTNS_AT":"1",
 	"name":"2017eck",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017eck",
 	"public":"1",
 	"ra":"18:00:31.28",
-	"redshift":null,
+	"redshift":"0.025",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eck_2017-05-27_01-12-18_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":"500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2457900.5502083,
+			"obsdate":"2017-05-27 01:12:18",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

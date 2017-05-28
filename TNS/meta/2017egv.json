@@ -17,8 +17,8 @@
 	"name":"2017egv",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"27",
+		"name":"CV"
 	},
 	"objname":"2017egv",
 	"public":"1",
@@ -29,6 +29,37 @@
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017egv_2017-05-26_23-22-55_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"500",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2457900.4742477,
+			"obsdate":"2017-05-26 23:22:55",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"27"
 }
