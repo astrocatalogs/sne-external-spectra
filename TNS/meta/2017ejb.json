@@ -29,6 +29,37 @@
 		"groupid":"30"
 	},
 	"sourceid":"2",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017ejb_2017-05-29_08-08-56_FTS_FLOYDS-S_Global_SN_Project.asci",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017ejb_2017-05-29_08-08-56_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":"125",
+				"name":"FLOYDS-S"
+			},
+			"jd":2457902.839537,
+			"obsdate":"2017-05-29 08:08:56",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Stefano Valenti",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"75",
+				"name":"FTS"
+			}
+		}
+	],
 	"type":"103"
 }

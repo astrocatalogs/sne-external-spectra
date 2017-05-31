@@ -15,10 +15,10 @@
 	"internal_name":"PTSS-17tal",
 	"isTNS_AT":"1",
 	"name":"2017ejd",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017ejd",
 	"public":"1",
@@ -29,6 +29,35 @@
 		"groupid":"22"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ejd_2457904.1739_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457904.1739,
+			"obsdate":"2017-05-30 16:10:24",
+			"observer":"K. Zhang(THU), J. Jia(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT May. 30.67 2017 indicates that this transient is consistent with a normal type Ia supernova near maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
 }
