@@ -15,20 +15,51 @@
 	"internal_name":"Gaia17bjp",
 	"isTNS_AT":"1",
 	"name":"2017eiy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"14",
+		"name":"SN IIb"
 	},
 	"objname":"2017eiy",
 	"public":"1",
 	"ra":"23:49:28.27",
-	"redshift":null,
+	"redshift":"0.047",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017eiy_2017-06-02_08-21-45_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017eiy_2017-06-02_08-21-45_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457906.8484375,
+			"obsdate":"2017-06-02 08:21:45",
+			"observer":"G. Pignata, L. Wang",
+			"public":"1",
+			"reducer":"L. Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"14"
 }

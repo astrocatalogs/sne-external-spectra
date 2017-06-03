@@ -23,13 +23,43 @@
 	"objname":"2017eby",
 	"public":"1",
 	"ra":"14:38:50.74",
-	"redshift":"0.084",
+	"redshift":"0.081",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017eby_2017-06-02_03-29-01_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017eby_2017-06-02_03-29-01_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457906.6451505,
+			"obsdate":"2017-06-02 03:29:01",
+			"observer":"G. Pignata, L. Wang",
+			"public":"1",
+			"reducer":"L. Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eby_2017-05-26_23-03-10_LT_SPRAT.dat",
 			"end_prop_period":null,
