@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS17fph",
 	"isTNS_AT":"1",
 	"name":"2017eef",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2017eef",
 	"public":"1",
 	"ra":"11:38:36.86",
-	"redshift":null,
+	"redshift":"0.065",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017eef_2017-06-03_03-20-42_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017eef_2017-06-03_03-20-42_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457907.639375,
+			"obsdate":"2017-06-03 03:20:42",
+			"observer":"Wang, Pignata",
+			"public":"1",
+			"reducer":"Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"104"
 }
