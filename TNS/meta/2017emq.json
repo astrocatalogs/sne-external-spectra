@@ -15,20 +15,49 @@
 	"internal_name":"PS17dfh",
 	"isTNS_AT":"1",
 	"name":"2017emq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017emq",
 	"public":"1",
 	"ra":"10:00:18.57",
-	"redshift":null,
+	"redshift":"0.005247",
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":"4"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017emq_2457912.0409_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457912.0409,
+			"obsdate":"2017-06-07 12:58:53",
+			"observer":"H. Yuan(NAOC), F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT Jun. 07.54 2017 indicates that this transient is consistent with a type Ia supernova near maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
 }
