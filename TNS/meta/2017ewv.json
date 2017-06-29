@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-17ia",
 	"isTNS_AT":"1",
 	"name":"2017ewv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"11",
+		"name":"SN IIP"
 	},
 	"objname":"2017ewv",
 	"public":"1",
 	"ra":"13:10:59.31",
-	"redshift":null,
+	"redshift":"0.022516",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017ewv_2017-06-25.9_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017ewv_2017-06-25.9_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457930.4,
+			"obsdate":"2017-06-25 21:36:00",
+			"observer":"C. Gall",
+			"public":"1",
+			"reducer":"M. Stritzinger",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"11"
 }
