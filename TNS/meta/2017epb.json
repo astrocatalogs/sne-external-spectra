@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS17gvn",
 	"isTNS_AT":"1",
 	"name":"2017epb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017epb",
 	"public":"1",
 	"ra":"14:18:27.70",
-	"redshift":null,
+	"redshift":"0.025",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017epb_2017-06-21_01-34-00_SOAR_Goodman.flm",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2457925.5652778,
+			"obsdate":"2017-06-21 01:34:00",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
 }

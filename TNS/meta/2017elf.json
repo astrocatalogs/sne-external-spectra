@@ -15,20 +15,43 @@
 	"internal_name":"Gaia17bki",
 	"isTNS_AT":"1",
 	"name":"2017elf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017elf",
 	"public":"1",
 	"ra":"00:57:06.74",
-	"redshift":null,
+	"redshift":"0.031",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017elf_2017-06-29_10-31-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2457933.9381944,
+			"obsdate":"2017-06-29 10:31:00",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Pan",
+			"remarks":"Mayall/KOSMOS",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
 }

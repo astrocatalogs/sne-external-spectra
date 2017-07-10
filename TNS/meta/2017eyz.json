@@ -15,20 +15,43 @@
 	"internal_name":"PS17dlw",
 	"isTNS_AT":"1",
 	"name":"2017eyz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017eyz",
 	"public":"1",
 	"ra":"22:04:07.00",
-	"redshift":null,
+	"redshift":"0.164",
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":"4"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eyz_2017-06-30_09-40-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"2100",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2457934.9027778,
+			"obsdate":"2017-06-30 09:40:00",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
 }

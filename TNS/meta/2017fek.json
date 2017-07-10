@@ -1,0 +1,57 @@
+{
+	"dec":"-10:43:53.27",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-07-05 11:55:40",
+	"discoverymag":"17.25",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17iif",
+	"isTNS_AT":"1",
+	"name":"2017fek",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"1",
+		"name":"SN"
+	},
+	"objname":"2017fek",
+	"public":"1",
+	"ra":"20:21:47.44",
+	"redshift":"0.033",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fek_2017-07-08.1_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2457942.6,
+			"obsdate":"2017-07-08 02:24:00",
+			"observer":"Maguire",
+			"public":"1",
+			"reducer":"Maguire",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"1"
+}

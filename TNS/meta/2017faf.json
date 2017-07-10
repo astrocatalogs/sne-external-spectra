@@ -15,20 +15,65 @@
 	"internal_name":"ATLAS17hpt",
 	"isTNS_AT":"1",
 	"name":"2017faf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017faf",
 	"public":"1",
 	"ra":"17:34:39.98",
-	"redshift":null,
+	"redshift":"0.0295",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017faf_2017-06-30_07-42-39_Mayall_RC_Spec.flm",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"5",
+				"name":"RC Spec"
+			},
+			"jd":2457934.8212847,
+			"obsdate":"2017-06-30 07:42:39",
+			"observer":"M. R. Siebert and C. D. Kilpatrick",
+			"public":"1",
+			"reducer":"Yen-Chen Pan",
+			"remarks":"The is a corrected spectrum to replace the original spectrum observed on 20170630 with Mayall/KOSMOS.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"6",
+				"name":"Mayall"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017faf_2017-06-30_07-42-39_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2457934.8212847,
+			"obsdate":"2017-06-30 07:42:39",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Pan",
+			"remarks":"Observed with Mayall/KOSMOS",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"10"
 }
