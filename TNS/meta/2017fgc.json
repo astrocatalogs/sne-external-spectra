@@ -1,0 +1,65 @@
+{
+	"dec":"+03:24:09.96",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":"37975",
+	"discoverydate":"2017-07-11 11:15:21",
+	"discoverymag":"17.3239",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC0474",
+	"internal_name":"DLT17bx",
+	"isTNS_AT":"1",
+	"name":"2017fgc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017fgc",
+	"public":"1",
+	"ra":"01:20:14.44",
+	"redshift":"0.008",
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":"30"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017fgc_2017-07-11_12-49-48_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017fgc_2017-07-11_12-49-48_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2457946.0345833,
+			"obsdate":"2017-07-11 12:49:48",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Stefano Valenti",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"3"
+}
