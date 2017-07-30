@@ -15,20 +15,43 @@
 	"internal_name":"ASASSN-17jp",
 	"isTNS_AT":"1",
 	"name":"2017fqk",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017fqk",
 	"public":"1",
 	"ra":"02:54:02.21",
-	"redshift":null,
+	"redshift":"0.015",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fqk_2457962.99_Lick_3m_KAST.asci",
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fqk_2457962.99_Lick_3m_KAST.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2457962.99,
+			"obsdate":"2017-07-28 11:45:36",
+			"observer":"Tartaglia",
+			"public":"1",
+			"reducer":"Valenti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"10"
 }
