@@ -15,20 +15,43 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017fut",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017fut",
 	"public":"1",
 	"ra":"01:28:58.84",
-	"redshift":null,
+	"redshift":"0.042",
 	"source_group":{
 		"group_name":"ISSP",
 		"groupid":"27"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fut_2457967.56_Ekar_AFOSC.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fut_2457967.56_Ekar_AFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2457967.56,
+			"obsdate":"2017-08-02 01:26:24",
+			"observer":"Tomasella/Benetti",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
 }
