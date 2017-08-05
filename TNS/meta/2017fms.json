@@ -15,20 +15,51 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017fms",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017fms",
 	"public":"1",
 	"ra":"21:20:14.60",
-	"redshift":null,
+	"redshift":"0.031",
 	"source_group":{
 		"group_name":"POSS",
 		"groupid":"6"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TexSNs/tns_2017fms_2017-07-29.3_HET_HET-LRS_TexSNs.flm",
+			"assoc_groups":[
+				{
+					"id":"43",
+					"name":"TexSNs"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"43",
+				"name":"HET-LRS"
+			},
+			"jd":2457963.8,
+			"obsdate":"2017-07-29 07:12:00",
+			"observer":"J. Caldwell, A. Westfall",
+			"public":"1",
+			"reducer":"J. Vinko",
+			"remarks":"",
+			"source_group":{
+				"id":"43",
+				"name":"TexSNs"
+			},
+			"telescope":{
+				"id":"7",
+				"name":"HET"
+			}
+		}
+	],
+	"type":"3"
 }
