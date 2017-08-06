@@ -17,8 +17,8 @@
 	"name":"2017fek",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"1",
-		"name":"SN"
+		"id":"14",
+		"name":"SN IIb"
 	},
 	"objname":"2017fek",
 	"public":"1",
@@ -30,6 +30,36 @@
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017fek_2457966.80049_SOAR_Goodman_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017fek_2457966.80049_SOAR_Goodman_ASAS-SN.fits",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2457966.80049,
+			"obsdate":"2017-08-01 07:12:42",
+			"observer":"J. Strader",
+			"public":"1",
+			"reducer":"J. Strader",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fek_2017-07-08.1_LT_SPRAT.txt",
 			"end_prop_period":null,
@@ -53,5 +83,5 @@
 			}
 		}
 	],
-	"type":"1"
+	"type":"14"
 }
