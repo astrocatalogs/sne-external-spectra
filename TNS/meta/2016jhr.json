@@ -1,0 +1,65 @@
+{
+	"dec":"+00:15:17.38",
+	"discmagfilter":{
+		"family":"HSC",
+		"id":"91",
+		"name":"g"
+	},
+	"discoverer":"Jiang",
+	"discovererid":"578",
+	"discoverydate":"2016-04-04 08:23:59",
+	"discoverymag":"25.14",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"MUSSES1604D",
+	"isTNS_AT":"1",
+	"name":"2016jhr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2016jhr",
+	"public":"1",
+	"ra":"12:18:19.85",
+	"redshift":null,
+	"source_group":{
+		"group_name":"MUSSES",
+		"groupid":"42"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/MUSSES/tns_2016jhr_2457533.83_Gemini-N_GMOS_MUSSES.txt",
+			"assoc_groups":[
+				{
+					"id":"42",
+					"name":"MUSSES"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"6",
+				"name":"GMOS"
+			},
+			"jd":2457533.83,
+			"obsdate":"2016-05-25 07:55:12",
+			"observer":"Ji-an Jiang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"42",
+				"name":"MUSSES"
+			},
+			"telescope":{
+				"id":"15",
+				"name":"Gemini-N"
+			}
+		}
+	],
+	"type":"3"
+}
