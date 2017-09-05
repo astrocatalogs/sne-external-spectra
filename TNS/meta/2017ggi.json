@@ -1,0 +1,65 @@
+{
+	"dec":"-35:51:49.83",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-08-12 12:50:24",
+	"discoverymag":"19.71",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17ecn",
+	"isTNS_AT":"1",
+	"name":"2017ggi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"4",
+		"name":"SN Ib"
+	},
+	"objname":"2017ggi",
+	"public":"1",
+	"ra":"00:58:52.76",
+	"redshift":"0.039",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ggi_2017-08-22_04-37-36_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ggi_2017-08-22_04-37-36_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457987.6927778,
+			"obsdate":"2017-08-22 04:37:36",
+			"observer":"Joe Lyman, David Homan",
+			"public":"1",
+			"reducer":"Giorgos Leloudas",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"4"
+}

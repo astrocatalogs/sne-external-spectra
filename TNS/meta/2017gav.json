@@ -1,0 +1,65 @@
+{
+	"dec":"+45:24:48.64",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-08-12 07:53:45",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J170321.30+452447.5 ",
+	"internal_name":"ASASSN-17kt",
+	"isTNS_AT":"1",
+	"name":"2017gav",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017gav",
+	"public":"1",
+	"ra":"17:03:21.09",
+	"redshift":"0.033",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2017gav_2017-08-16.25_Plaskett_Telescope_Plaskett_DAO_OTS.dat",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2017gav_2017-08-16.25_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2457981.75,
+			"obsdate":"2017-08-16 06:00:00",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam, Hsiao",
+			"remarks":"",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		}
+	],
+	"type":"3"
+}

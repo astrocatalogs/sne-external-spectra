@@ -1,0 +1,95 @@
+{
+	"dec":"+00:51:28.66",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-08-22 12:15:53",
+	"discoverymag":"18.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PTSS-17uym",
+	"isTNS_AT":"1",
+	"name":"2017ghm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ghm",
+	"public":"1",
+	"ra":"18:11:46.20",
+	"redshift":"0.023",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TexSNs/tns_2017ghm_2017-08-31.17_HET_HET-LRS_TexSNs.dat",
+			"assoc_groups":[
+				{
+					"id":"43",
+					"name":"TexSNs"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"43",
+				"name":"HET-LRS"
+			},
+			"jd":2457996.67,
+			"obsdate":"2017-08-31 04:04:48",
+			"observer":"S. Rostopchin",
+			"public":"1",
+			"reducer":"J. Vinko",
+			"remarks":"",
+			"source_group":{
+				"id":"43",
+				"name":"TexSNs"
+			},
+			"telescope":{
+				"id":"7",
+				"name":"HET"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ghm_2017-08-31_03-02-02_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ghm_2017-08-31_03-02-02_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457996.626412,
+			"obsdate":"2017-08-31 03:02:02",
+			"observer":"Homan, Lyman",
+			"public":"1",
+			"reducer":"Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

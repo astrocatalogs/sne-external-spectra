@@ -1,0 +1,65 @@
+{
+	"dec":"+05:41:34.96",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-08-21 12:41:45",
+	"discoverymag":"19.56",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17jua",
+	"isTNS_AT":"1",
+	"name":"2017ghl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ghl",
+	"public":"1",
+	"ra":"23:30:06.14",
+	"redshift":"0.114",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ghl_2017-08-30_03-02-38_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ghl_2017-08-30_03-02-38_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457995.6268287,
+			"obsdate":"2017-08-30 03:02:38",
+			"observer":"Lyman,Homan",
+			"public":"1",
+			"reducer":"Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

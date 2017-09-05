@@ -1,0 +1,65 @@
+{
+	"dec":"-33:21:00.90",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-08-15 09:36:00",
+	"discoverymag":"16.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"LEDA 075547",
+	"internal_name":"ASASSN-17kw",
+	"isTNS_AT":"1",
+	"name":"2017gbk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017gbk",
+	"public":"1",
+	"ra":"06:11:11.72",
+	"redshift":"0.033",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gbk_2017-08-17_09-07-58_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gbk_2017-08-17_09-07-58_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457982.8805324,
+			"obsdate":"2017-08-17 09:07:58",
+			"observer":"J. Lyman, D. Homan",
+			"public":"1",
+			"reducer":"M. Magee",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

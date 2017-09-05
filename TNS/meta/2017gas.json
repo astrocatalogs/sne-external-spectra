@@ -1,0 +1,95 @@
+{
+	"dec":"+58:12:09.00",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-08-10 09:36:00",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J20171114+5812094",
+	"internal_name":"ASASSN-17kr",
+	"isTNS_AT":"1",
+	"name":"2017gas",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"13",
+		"name":"SN IIn"
+	},
+	"objname":"2017gas",
+	"public":"1",
+	"ra":"20:17:11.34",
+	"redshift":"0.01",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017gas_2017-08-18.35_P200_DBSP_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2457983.8499884,
+			"obsdate":"2017-08-18 08:23:59",
+			"observer":"S. Dong, F. Sun",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2017gas_2017-08-16.31_Plaskett_Telescope_Plaskett_DAO_OTS.dat",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2017gas_2017-08-16.31_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2457981.81,
+			"obsdate":"2017-08-16 07:26:24",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam",
+			"remarks":"",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		}
+	],
+	"type":"13"
+}

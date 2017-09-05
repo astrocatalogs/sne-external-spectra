@@ -1,0 +1,65 @@
+{
+	"dec":"-20:24:13.85",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-08-10 11:21:07",
+	"discoverymag":"19.49",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17ebt",
+	"isTNS_AT":"1",
+	"name":"2017gjc",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"30",
+		"name":"Galaxy"
+	},
+	"objname":"2017gjc",
+	"public":"1",
+	"ra":"01:01:27.77",
+	"redshift":"0.063",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gjc_2017-08-29_08-39-56_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gjc_2017-08-29_08-39-56_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457994.8610648,
+			"obsdate":"2017-08-29 08:39:56",
+			"observer":"Lyman, Homan",
+			"public":"1",
+			"reducer":"Lyman",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"30"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"+76:28:44.10",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-08-31 18:52:02",
+	"discoverymag":"14.7",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC2748",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017gkk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"14",
+		"name":"SN IIb"
+	},
+	"objname":"2017gkk",
+	"public":"1",
+	"ra":"09:13:44.74",
+	"redshift":"0.004923",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017gkk_2017-09-02_05-39-59_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017gkk_2017-09-02_05-39-59_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457998.7360995,
+			"obsdate":"2017-09-02 05:39:59",
+			"observer":"Illa R. Losada (SU, Nordita, NOT) / E. Gafton (NOT, SU, OKC)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"14"
+}

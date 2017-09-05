@@ -1,0 +1,65 @@
+{
+	"dec":"-30:34:55.42",
+	"discmagfilter":{
+		"family":"SkyMapper",
+		"id":"61",
+		"name":"r-SM"
+	},
+	"discoverer":null,
+	"discovererid":"36338",
+	"discoverydate":"2017-08-23 17:32:38",
+	"discoverymag":"19.09",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"SMT17smz",
+	"isTNS_AT":"1",
+	"name":"2017gig",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017gig",
+	"public":"1",
+	"ra":"00:36:32.94",
+	"redshift":"0.065",
+	"source_group":{
+		"group_name":"SkyMapper",
+		"groupid":"5"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gig_2017-08-29_08-22-14_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gig_2017-08-29_08-22-14_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457994.8487731,
+			"obsdate":"2017-08-29 08:22:14",
+			"observer":"Lyman, Homan",
+			"public":"1",
+			"reducer":"Lyman",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

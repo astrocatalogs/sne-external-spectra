@@ -1,0 +1,65 @@
+{
+	"dec":"+34:05:41.17",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-08-17 14:09:36",
+	"discoverymag":"17.1",
+	"end_prop_period":null,
+	"host_redshift":"0.031795",
+	"hostname":"KUG 0241+338",
+	"internal_name":"ASASSN-17kz",
+	"isTNS_AT":"1",
+	"name":"2017gea",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017gea",
+	"public":"1",
+	"ra":"02:44:57.43",
+	"redshift":"0.031795",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017gea_2017-08-18.46_P200_DBSP_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2457983.96,
+			"obsdate":"2017-08-18 11:02:24",
+			"observer":"S. Dong, F. Sun",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"3"
+}

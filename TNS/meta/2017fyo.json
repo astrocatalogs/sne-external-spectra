@@ -1,0 +1,65 @@
+{
+	"dec":"-43:40:13.08",
+	"discmagfilter":{
+		"family":"SkyMapper",
+		"id":"61",
+		"name":"r-SM"
+	},
+	"discoverer":null,
+	"discovererid":"36338",
+	"discoverydate":"2017-07-26 11:02:24",
+	"discoverymag":"18.51",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"SMT17rfk",
+	"isTNS_AT":"1",
+	"name":"2017fyo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017fyo",
+	"public":"1",
+	"ra":"21:08:19.62",
+	"redshift":"0.036",
+	"source_group":{
+		"group_name":"SkyMapper",
+		"groupid":"5"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017fyo_2017-08-20_02-08-17_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017fyo_2017-08-20_02-08-17_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457985.5890856,
+			"obsdate":"2017-08-20 02:08:17",
+			"observer":"Joe Lyman, David Homan",
+			"public":"1",
+			"reducer":"Kate Maguire",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}
