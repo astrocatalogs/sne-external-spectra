@@ -15,20 +15,43 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017gqr",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017gqr",
 	"public":"1",
 	"ra":"19:28:21.60",
-	"redshift":null,
+	"redshift":"0.025",
 	"source_group":{
 		"group_name":"POSS",
 		"groupid":"6"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017gqr_2017-09-09.833_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017gqr_2017-09-09.833_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458006.3329977,
+			"obsdate":"2017-09-09 19:59:31",
+			"observer":"Razimbeau Verilhac",
+			"public":"1",
+			"reducer":"D Verilhac",
+			"remarks":"T 600 mm in Mars (France) + spectro Lisa + Atik 460 ex bin 2x2   2 pictures of 600s\r\nMade with very bad weather (clouds) so only 1200 sec exposure   has can be used....\r\nThe spectral type was given by Gelato (IAC) with a probability of 86 %\r\nMUST BE IMPROVED !\r\n",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
 }
