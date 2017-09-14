@@ -15,20 +15,51 @@
 	"internal_name":"SMT17swb",
 	"isTNS_AT":"1",
 	"name":"2017gjp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017gjp",
 	"public":"1",
 	"ra":"02:47:59.53",
-	"redshift":null,
+	"redshift":"0.036",
 	"source_group":{
 		"group_name":"SkyMapper",
 		"groupid":"5"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gjp_2017-09-12_03-34-13_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gjp_2017-09-12_03-34-13_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458008.6487616,
+			"obsdate":"2017-09-12 03:34:13",
+			"observer":"Rybicki,Gromadzki",
+			"public":"1",
+			"reducer":"Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
 }
