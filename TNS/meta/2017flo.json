@@ -1,0 +1,57 @@
+{
+	"dec":"+10:37:31.11",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-07-11 06:27:21",
+	"discoverymag":"19.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17duu",
+	"isTNS_AT":"1",
+	"name":"2017flo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017flo",
+	"public":"1",
+	"ra":"10:48:09.80",
+	"redshift":"0.07855",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017flo_2017-07-20.25_Keck1_LRIS.spec",
+			"end_prop_period":null,
+			"exptime":"1250",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2457954.75,
+			"obsdate":"2017-07-20 06:00:00",
+			"observer":"M. Siebert, R. J. Foley, C. Kilpatrick, and Y.-C. Pan (UC Santa Cruz), A.V. Filippenko (UC Berkeley)",
+			"public":"1",
+			"reducer":"Perley",
+			"remarks":"Taken at very high airmass (~2.7), telluric A+B bands removed.  See also ATEL 10592.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-00:16:00.52",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-06-22 05:34:04",
+	"discoverymag":"18.1",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17bpn",
+	"isTNS_AT":"1",
+	"name":"2017exh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017exh",
+	"public":"1",
+	"ra":"22:58:27.30",
+	"redshift":"0.054",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017exh_2017-06-30_10-23-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2457934.9326389,
+			"obsdate":"2017-06-30 10:23:00",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Pan",
+			"remarks":"Mayall/KOSMOS",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
+}

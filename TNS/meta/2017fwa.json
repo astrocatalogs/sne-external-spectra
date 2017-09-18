@@ -1,0 +1,65 @@
+{
+	"dec":"-28:24:11.41",
+	"discmagfilter":{
+		"family":"SkyMapper",
+		"id":"61",
+		"name":"r-SM"
+	},
+	"discoverer":null,
+	"discovererid":"36338",
+	"discoverydate":"2017-07-27 17:42:43",
+	"discoverymag":"19.73",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"SMT17qul",
+	"isTNS_AT":"1",
+	"name":"2017fwa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017fwa",
+	"public":"1",
+	"ra":"22:19:14.20",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"SkyMapper",
+		"groupid":"5"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017fwa_2017-08-12_11-07-56_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2017fwa_2017-08-12_11-07-56_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2457977.9638426,
+			"obsdate":"2017-08-12 11:07:56",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Griffin Hosseinzadeh",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"3"
+}

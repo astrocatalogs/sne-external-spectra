@@ -1,0 +1,57 @@
+{
+	"dec":"+56:06:36.30",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Xu",
+	"discovererid":"169",
+	"discoverydate":"2017-09-03 16:50:30",
+	"discoverymag":"14.5",
+	"end_prop_period":null,
+	"host_redshift":"0.011294",
+	"hostname":"NGC 6824",
+	"internal_name":"PSP17B",
+	"isTNS_AT":"1",
+	"name":"2017glx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2017glx",
+	"public":"1",
+	"ra":"19:43:40.29",
+	"redshift":"0.011",
+	"source_group":{
+		"group_name":"XOSS",
+		"groupid":"10"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017glx_2017-09-04.7_LJT_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"556",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458001.1999884,
+			"obsdate":"2017-09-04 16:47:59",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"104"
+}

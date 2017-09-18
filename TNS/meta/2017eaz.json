@@ -1,0 +1,65 @@
+{
+	"dec":"+03:24:40.25",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-05-14 07:12:00",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":"0.023583",
+	"hostname":"IC 0939 ",
+	"internal_name":"ASASSN-17ge",
+	"isTNS_AT":"1",
+	"name":"2017eaz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017eaz",
+	"public":"1",
+	"ra":"13:47:43.68",
+	"redshift":"0.024",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017eaz_2017-05-17.9_NOT_ALFOSC_NUTS.dat",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017eaz_2017-05-17.9_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457891.4,
+			"obsdate":"2017-05-17 21:36:00",
+			"observer":"I. Rivero Losada (NOT)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

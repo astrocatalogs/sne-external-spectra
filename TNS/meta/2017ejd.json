@@ -1,0 +1,63 @@
+{
+	"dec":"+01:05:48.68",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":"Wang",
+	"discovererid":"173",
+	"discoverydate":"2017-05-28 14:24:00",
+	"discoverymag":"18.15",
+	"end_prop_period":null,
+	"host_redshift":"0.03383",
+	"hostname":"2MASX J14430777+0105599",
+	"internal_name":"PTSS-17tal",
+	"isTNS_AT":"1",
+	"name":"2017ejd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ejd",
+	"public":"1",
+	"ra":"14:43:07.45",
+	"redshift":null,
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ejd_2457904.1739_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457904.1739,
+			"obsdate":"2017-05-30 16:10:24",
+			"observer":"K. Zhang(THU), J. Jia(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT May. 30.67 2017 indicates that this transient is consistent with a normal type Ia supernova near maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
+}

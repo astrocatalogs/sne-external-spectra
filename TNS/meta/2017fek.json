@@ -1,0 +1,87 @@
+{
+	"dec":"-10:43:53.27",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-07-05 11:55:40",
+	"discoverymag":"17.25",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17iif",
+	"isTNS_AT":"1",
+	"name":"2017fek",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"14",
+		"name":"SN IIb"
+	},
+	"objname":"2017fek",
+	"public":"1",
+	"ra":"20:21:47.44",
+	"redshift":"0.033",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017fek_2457966.80049_SOAR_Goodman_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017fek_2457966.80049_SOAR_Goodman_ASAS-SN.fits",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2457966.80049,
+			"obsdate":"2017-08-01 07:12:42",
+			"observer":"J. Strader",
+			"public":"1",
+			"reducer":"J. Strader",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fek_2017-07-08.1_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2457942.6,
+			"obsdate":"2017-07-08 02:24:00",
+			"observer":"Maguire",
+			"public":"1",
+			"reducer":"Maguire",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"14"
+}

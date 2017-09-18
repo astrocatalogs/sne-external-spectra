@@ -1,0 +1,57 @@
+{
+	"dec":"-03:00:02.41",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-06-25 13:06:14",
+	"discoverymag":"19.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17dlv",
+	"isTNS_AT":"1",
+	"name":"2017eza",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017eza",
+	"public":"1",
+	"ra":"21:54:18.70",
+	"redshift":"0.053",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eza_2017-06-30_08-15-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"2100",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2457934.84375,
+			"obsdate":"2017-06-30 08:15:00",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Pan",
+			"remarks":"Mayall/KOSMOS",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"10"
+}

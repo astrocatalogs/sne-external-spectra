@@ -1,0 +1,63 @@
+{
+	"dec":"+46:27:14.08",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-05-23 21:40:19",
+	"discoverymag":"16.72",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17biu",
+	"isTNS_AT":"1",
+	"name":"2017egm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"18",
+		"name":"SLSN-I"
+	},
+	"objname":"2017egm",
+	"public":"1",
+	"ra":"10:19:05.62",
+	"redshift":"0.030721",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017egm_2457900.0313_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457900.0313,
+			"obsdate":"2017-05-26 12:45:04",
+			"observer":"H. Song(THU),F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT May. 26.53 2017 indicates that this transient is consistent with a type II supernova a few days after explosion.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"18"
+}

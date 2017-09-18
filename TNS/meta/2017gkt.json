@@ -1,0 +1,65 @@
+{
+	"dec":"+27:23:53.84",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-08-27 08:23:59",
+	"discoverymag":"17.1",
+	"end_prop_period":null,
+	"host_redshift":"0.030464",
+	"hostname":"2MASX J23362597+2723541",
+	"internal_name":"ASASSN-17lm",
+	"isTNS_AT":"1",
+	"name":"2017gkt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017gkt",
+	"public":"1",
+	"ra":"23:36:25.80",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017gkt_2017-09-04_23-05-38_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"500",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458001.4622454,
+			"obsdate":"2017-09-04 23:05:38",
+			"observer":"Bersier",
+			"public":"1",
+			"reducer":"Bersier",
+			"remarks":"Fairly red spectrum although some of this may be caused by contamination from the host galaxy",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-07:18:00.97",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-07-30 01:20:38",
+	"discoverymag":"17.81",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17bxm",
+	"isTNS_AT":"1",
+	"name":"2017fvf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2017fvf",
+	"public":"1",
+	"ra":"03:17:53.31",
+	"redshift":"0.017",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fvf_2017-08-26.2_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457991.7,
+			"obsdate":"2017-08-26 04:48:00",
+			"observer":"M. D. Stritzinger",
+			"public":"1",
+			"reducer":"M. D. Stritzinger",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"11"
+}

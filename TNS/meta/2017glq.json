@@ -1,0 +1,57 @@
+{
+	"dec":"+06:23:16.60",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Post",
+	"discovererid":"168",
+	"discoverydate":"2017-09-03 08:34:51",
+	"discoverymag":"18.9",
+	"end_prop_period":null,
+	"host_redshift":"0.12",
+	"hostname":"IC208",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017glq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017glq",
+	"public":"1",
+	"ra":"02:08:28.00",
+	"redshift":"0.011755",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017glq_2017-09-07_02-57-22_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"360",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458003.6231713,
+			"obsdate":"2017-09-07 02:57:22",
+			"observer":"Chris Ashall/Simon Prentice",
+			"public":"1",
+			"reducer":"Simon Prentice",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

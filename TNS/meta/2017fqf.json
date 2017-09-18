@@ -1,0 +1,63 @@
+{
+	"dec":"+09:38:58.42",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-07-24 08:38:24",
+	"discoverymag":"16.8",
+	"end_prop_period":null,
+	"host_redshift":"0.030855",
+	"hostname":" CGCG 413-042",
+	"internal_name":"ASASSN-17jm",
+	"isTNS_AT":"1",
+	"name":"2017fqf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017fqf",
+	"public":"1",
+	"ra":"02:06:14.79",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fqf_2457962.959_Lick_3m_KAST.asci",
+			"assoc_groups":[
+				{
+					"id":"30",
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2457962.959,
+			"obsdate":"2017-07-28 11:00:57",
+			"observer":"Tartaglia",
+			"public":"1",
+			"reducer":"Valenti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
+}

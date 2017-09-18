@@ -1,0 +1,63 @@
+{
+	"dec":"+32:35:13.18",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-06-01 13:14:52",
+	"discoverymag":"16.65",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17glh",
+	"isTNS_AT":"1",
+	"name":"2017ekr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ekr",
+	"public":"1",
+	"ra":"23:02:32.19",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ekr_2457908.2620_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457908.262,
+			"obsdate":"2017-06-03 18:17:16",
+			"observer":"Y. Yang(HNU), S. Liu(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT Jun. 03.76 2017 indicates that this transient is consistent with a type Ia supernova near maximum light, with redshift of 0.012 by SNID.The flux calibration may be inaccurate since a flux standard star on another observation night near the OT position is used.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
+}

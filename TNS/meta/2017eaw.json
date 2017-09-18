@@ -1,0 +1,85 @@
+{
+	"dec":"+60:11:35.90",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Schmeer",
+	"discovererid":"415",
+	"discoverydate":"2017-05-14 05:42:43",
+	"discoverymag":"12.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 6946",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017eaw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017eaw",
+	"public":"1",
+	"ra":"20:34:44.24",
+	"redshift":null,
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eaw_2017-05-19_21-41-15_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"3635",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eaw_2017-05-19_21-41-15_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2457893.4036458,
+			"obsdate":"2017-05-19 21:41:15",
+			"observer":"D Verilhac &al ",
+			"public":"1",
+			"reducer":"D Verilhac",
+			"remarks":"My first contribution (comments will be welcome !-)\r\nTel: 600 mm F/D=8 spectro Lisa R+/- 700\r\nAquired at Clubastromars.org in France",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017eaw_2457888.2939_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2457888.2939,
+			"obsdate":"2017-05-14 19:03:12",
+			"observer":"J. Fu(BNU),F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"D. Xiang(THU)",
+			"remarks":"A spectrum taken on UT May 14.79 2017 indicates that this transient is consistent with a type IIP supernova a few days after explosion.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"10"
+}

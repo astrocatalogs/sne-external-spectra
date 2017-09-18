@@ -1,0 +1,57 @@
+{
+	"dec":"+41:20:09.70",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Leonini",
+	"discovererid":"162",
+	"discoverydate":"2017-07-16 21:21:23",
+	"discoverymag":"17.56",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC10602",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017fof",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"103",
+		"name":"SN Ia-91bg-like"
+	},
+	"objname":"2017fof",
+	"public":"1",
+	"ra":"16:54:23.79",
+	"redshift":"0.028308",
+	"source_group":{
+		"group_name":"ISSP",
+		"groupid":"27"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fof_2017-07-20.88_Ekar_AFOSC.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017fof_2017-07-20.88_Ekar_AFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2457955.38,
+			"obsdate":"2017-07-20 21:07:12",
+			"observer":"L. Tomasella",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"103"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"+62:20:50.24",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-06-26 07:26:24",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":"0.027422",
+	"hostname":"CGCG 316-010",
+	"internal_name":"ASASSN-17io",
+	"isTNS_AT":"1",
+	"name":"2017fbh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2017fbh",
+	"public":"1",
+	"ra":"13:07:48.58",
+	"redshift":"0.0274",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017fbh_2017-07-03.00_NOT_ALFOSC_NUTS.",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457937.5,
+			"obsdate":"2017-07-03 00:00:00",
+			"observer":"G. Fedorets",
+			"public":"1",
+			"reducer":"A. Pastorello",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"104"
+}

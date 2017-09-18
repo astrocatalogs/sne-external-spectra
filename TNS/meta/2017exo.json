@@ -1,0 +1,65 @@
+{
+	"dec":"+16:39:07.34",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-06-24 10:19:12",
+	"discoverymag":"16.7",
+	"end_prop_period":null,
+	"host_redshift":"0.016288",
+	"hostname":"IRAS  18294+1636",
+	"internal_name":"ASASSN-17ie",
+	"isTNS_AT":"1",
+	"name":"2017exo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017exo",
+	"public":"1",
+	"ra":"18:31:41.90",
+	"redshift":"0.01",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017exo_2017-07-12_23-23-11_LT_FRODOspec_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"500",
+			"fitsfile":"",
+			"instrument":{
+				"id":"95",
+				"name":"FRODOspec"
+			},
+			"jd":2457947.4744329,
+			"obsdate":"2017-07-12 23:23:11",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"Flux calibration is approximate as it is based on an old calibration file",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

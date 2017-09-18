@@ -1,0 +1,57 @@
+{
+	"dec":"-16:57:38.28",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-08-28 14:52:48",
+	"discoverymag":"17.1",
+	"end_prop_period":null,
+	"host_redshift":"0.037092",
+	"hostname":"2MASX J04512765-1657381",
+	"internal_name":"ASASSN-17ll",
+	"isTNS_AT":"1",
+	"name":"2017glb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017glb",
+	"public":"1",
+	"ra":"04:51:27.75",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017glb_2017-09-05.38_SOAR_Goodman.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458001.88,
+			"obsdate":"2017-09-05 09:07:12",
+			"observer":"Jay Strader",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Spectrum contaminated by host.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
+}

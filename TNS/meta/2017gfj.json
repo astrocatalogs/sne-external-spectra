@@ -1,0 +1,57 @@
+{
+	"dec":"+38:40:37.70",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Arbour",
+	"discovererid":"101",
+	"discoverydate":"2017-08-19 22:45:07",
+	"discoverymag":"18.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC11950",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017gfj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017gfj",
+	"public":"1",
+	"ra":"22:12:34.43",
+	"redshift":"0.072",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017gfj_2017-08-22.70_LJT_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2457988.1999884,
+			"obsdate":"2017-08-22 16:47:59",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-11:20:03.20",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-06-13 15:01:28",
+	"discoverymag":"16.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC5861",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017erp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017erp",
+	"public":"1",
+	"ra":"15:09:14.81",
+	"redshift":"0.006174",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017erp_2457918.43065104_SALT_RSS.dat",
+			"end_prop_period":null,
+			"exptime":"2117",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017erp_2457918.43065104_SALT_RSS.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2457918.430651,
+			"obsdate":"2017-06-13 22:20:08",
+			"observer":"R. Skelton",
+			"public":"1",
+			"reducer":"S. W. Jha",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
+}

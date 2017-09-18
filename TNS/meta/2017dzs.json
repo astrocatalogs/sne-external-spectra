@@ -1,0 +1,57 @@
+{
+	"dec":"+23:56:11.20",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-05-11 18:51:35",
+	"discoverymag":"16.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC 12655",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017dzs",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"103",
+		"name":"SN Ia-91bg-like"
+	},
+	"objname":"2017dzs",
+	"public":"1",
+	"ra":"23:32:28.90",
+	"redshift":"0.0173",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017dzs_2017-05-13.8_Kanata_HOWPol.ascii",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2457887.3,
+			"obsdate":"2017-05-13 19:12:00",
+			"observer":"T. Nakaoka, M. Kawabata",
+			"public":"1",
+			"reducer":"T. Nakaoka",
+			"remarks":"The spectrum was consistent with a subluminous Type Ia\r\nsupernova at a few weeks after the maximum date, showing remarkable\r\nabsorption lines of SiII 5972 and 6355, whose line velocities reached\r\nabout 9,500 km/s. The ratio of the absorption depths of SiII 5972 to\r\nSiII 6355 was roughly 0.5, indicating that this SN could be a\r\nSN 1991bg-like SN. The CaII IR triplet was also seen.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"103"
+}
