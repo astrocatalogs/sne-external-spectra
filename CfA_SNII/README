@@ -1,0 +1,78 @@
+#
+# 195 spectra of 48 type II supernovae published by Hicken et al.
+#
+#      "Type II Supernova Light Curves and Spectra From the CfA"
+#
+# submitted for publication in ApJS
+#
+
+
+
+############################
+# GENERAL INFORMATION
+############################
+
+The spectra (*.flm) are organized in subdirectories, one per
+supernova. The file naming convention for each spectrum is:
+
+   <SN name>-<UT date>-<tel/inst>.flm
+
+   SN name : supernova name (e.g., sn2008bf)
+   UT date : UT date at midpoint of observations, YYYYMMDD.ddd format
+   tel/inst: name of telescope or instrument; choices are:
+
+   	     fast : FLWO 1.5m+FAST
+	     mmt  : MMT 6.5m+Blue/Red Channel
+
+The spectra are all in three-column ascii format:
+
+1st column = *observed* wavelength (units = Angstroems [A])
+2nd column = *observed* flux (units = erg/s/cm^2/A)
+3rd column = flux error (one sigma; units = erg/s/cm^2/A)
+
+NOTES: 
+
+(1) the flux error is computed based on the optimal extraction
+    algorithm of Horne (1986).
+
+(2) no attempt has been made to scale the spectra to match the
+    available photometry.
+
+(3) the observed wavelength includes a heliocentric correction.
+
+
+====> THE SPECTRA HAVE *NOT* BEEN DE-REDSHIFTED OR DE-REDDENED <====
+
+
+Other files are also included:
+
+cfaspec_snII.pdf - single document containing plots of all the spectra
+cfasnII_mjdspec.dat - table giving MJD of each spectrum
+
+
+
+############################
+# ACKNOWLEDGEMENTS
+############################
+
+You are free to use these spectra for your own research. However, we
+ask that you please acknowledge your sources. These include:
+
+(1) Hicken et al. 2017
+    ===> Please check ADS for the final reference
+
+(2) Since you downloaded these spectra from the CfA SN Archive, please
+    also include the following acknowledgement in your paper:
+
+    "This research has made use of the CfA Supernova Archive, which is
+    funded in part by the National Science Foundation through grant
+    AST 0907903."
+
+
+
+############################
+# CONTACT
+############################
+
+Please contact Malcolm Hicken (malcolmhicken@hotmail.com) if you have
+any comments/questions on this data set.
