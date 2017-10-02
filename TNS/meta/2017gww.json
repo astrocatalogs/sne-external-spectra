@@ -15,20 +15,79 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017gww",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017gww",
 	"public":"1",
 	"ra":"00:03:49.21",
-	"redshift":null,
+	"redshift":"0.017",
 	"source_group":{
 		"group_name":null,
 		"groupid":"0"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gww_2017-09-28_03-25-18_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"617",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gww_2017-09-28_03-25-18_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458024.6425694,
+			"obsdate":"2017-09-28 03:25:18",
+			"observer":"S.T. Hodgkin, K. Rybicki",
+			"public":"1",
+			"reducer":"M. Fraser, E. Callis",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017gww_2458024.2077_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458024.2077,
+			"obsdate":"2017-09-27 16:59:05",
+			"observer":"Qian Yang(PKU), Feng Xiao(NAOC)",
+			"public":"1",
+			"reducer":"Han Lin(THU)",
+			"remarks":"A spectrum taken on UT Sept. 27.71 2017of this transient shows very blue and contimum spectral feaure like typical SNe II in early phase. ",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"10"
 }

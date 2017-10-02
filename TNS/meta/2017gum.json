@@ -23,12 +23,43 @@
 	"objname":"2017gum",
 	"public":"1",
 	"ra":"02:38:37.94",
-	"redshift":null,
+	"redshift":"0",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gum_2017-09-28_02-31-40_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gum_2017-09-28_02-31-40_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458024.6053241,
+			"obsdate":"2017-09-28 02:31:40",
+			"observer":"S.T. Hodgkin, K. Rybicki",
+			"public":"1",
+			"reducer":"M. Fraser, E. Callis",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
 	"type":null
 }
