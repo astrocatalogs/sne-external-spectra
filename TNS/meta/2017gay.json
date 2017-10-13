@@ -1,0 +1,57 @@
+{
+	"dec":"+41:04:03.20",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Conseil",
+	"discovererid":"166",
+	"discoverydate":"2017-08-15 00:02:00",
+	"discoverymag":"15.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"M31",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017gay",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2017gay",
+	"public":"1",
+	"ra":"00:40:24.37",
+	"redshift":null,
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017gay_2017-08-24.16_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2457989.66,
+			"obsdate":"2017-08-24 03:50:24",
+			"observer":"M. D. Stritzinger",
+			"public":"1",
+			"reducer":"M. D. Stritzinger",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"27"
+}
