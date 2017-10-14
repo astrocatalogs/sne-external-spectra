@@ -29,6 +29,29 @@
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hhs_2017-10-12_04-17-48_P60_SED-Machine.txt",
+			"end_prop_period":null,
+			"exptime":"4200",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458038.6790278,
+			"obsdate":"2017-10-12 04:17:48",
+			"observer":"Walters/Neill/Blagorodnvoa",
+			"public":"1",
+			"reducer":"Neill",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
 	"type":null
 }
