@@ -1,0 +1,95 @@
+{
+	"dec":"+05:29:06.07",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-11-08 15:32:17",
+	"discoverymag":"18.3",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J03024953+0529054 ",
+	"internal_name":"PTSS-17zfr",
+	"isTNS_AT":"1",
+	"name":"2017hxo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hxo",
+	"public":"1",
+	"ra":"03:02:50.12",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hxo_2017-11-12_10-27-53_P200_DBSP_iPTF.txt",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458069.9360301,
+			"obsdate":"2017-11-12 10:27:53",
+			"observer":"Ho Yang Frederick Cunningham",
+			"public":"1",
+			"reducer":"Ho",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017hxo_2017-11-11.7_LJT_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458069.1999884,
+			"obsdate":"2017-11-11 16:47:59",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"3"
+}

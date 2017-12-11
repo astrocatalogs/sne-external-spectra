@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS17lss",
 	"isTNS_AT":"1",
 	"name":"2017hcb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"4",
+		"name":"SN Ib"
 	},
 	"objname":"2017hcb",
 	"public":"1",
 	"ra":"02:36:23.72",
-	"redshift":null,
+	"redshift":"0.017",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hcb_2017-10-17_09-09-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458043.88125,
+			"obsdate":"2017-10-17 09:09:00",
+			"observer":"M. Siebert, C. Rojas-Bravo",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"4"
 }

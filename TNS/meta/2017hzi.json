@@ -1,0 +1,57 @@
+{
+	"dec":"+31:20:13.12",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-11-06 12:36:00",
+	"discoverymag":"18.484",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17ncv",
+	"isTNS_AT":"1",
+	"name":"2017hzi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017hzi",
+	"public":"1",
+	"ra":"06:47:47.15",
+	"redshift":"0.017",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hzi_2017-11-16_15-24-00_Keck1_LRIS.flm",
+			"end_prop_period":null,
+			"exptime":"310",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458074.1416667,
+			"obsdate":"2017-11-16 15:24:00",
+			"observer":"R. J. Foley, D. O. Jones, M. R. Siebert",
+			"public":"1",
+			"reducer":"R. J. Foley",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"10"
+}

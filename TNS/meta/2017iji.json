@@ -1,0 +1,65 @@
+{
+	"dec":"+29:08:57.66",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"11",
+		"name":"B"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-11-20 15:21:36",
+	"discoverymag":"15.2",
+	"end_prop_period":null,
+	"host_redshift":"0.013493",
+	"hostname":"NGC 4174",
+	"internal_name":"ASASSN-17pk",
+	"isTNS_AT":"1",
+	"name":"2017iji",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017iji",
+	"public":"1",
+	"ra":"12:12:27.01",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017iji_2458079.001340_FLWO_1.5m_FAST_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017iji_2458079.001340_FLWO_1.5m_FAST_ASAS-SN.fits",
+			"instrument":{
+				"id":"44",
+				"name":"FAST"
+			},
+			"jd":2458079.00134,
+			"obsdate":"2017-11-21 12:01:55",
+			"observer":"P. Berlind",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"36",
+				"name":"FLWO 1.5m"
+			}
+		}
+	],
+	"type":"3"
+}

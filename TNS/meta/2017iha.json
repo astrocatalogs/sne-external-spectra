@@ -1,0 +1,65 @@
+{
+	"dec":"+28:36:59.90",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-11-19 10:19:12",
+	"discoverymag":"17.5",
+	"end_prop_period":null,
+	"host_redshift":"0.047931",
+	"hostname":"2MASX J08572853+2836599",
+	"internal_name":"ASASSN-17pi",
+	"isTNS_AT":"1",
+	"name":"2017iha",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017iha",
+	"public":"1",
+	"ra":"08:57:28.63",
+	"redshift":"0.048",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017iha_2017-11-28.2_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458085.7,
+			"obsdate":"2017-11-28 04:48:00",
+			"observer":"ToO",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

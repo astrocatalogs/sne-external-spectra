@@ -15,20 +15,43 @@
 	"internal_name":"PTSS-17xpm",
 	"isTNS_AT":"1",
 	"name":"2017hia",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"5",
+		"name":"SN Ic"
 	},
 	"objname":"2017hia",
 	"public":"1",
 	"ra":"01:56:09.34",
-	"redshift":null,
+	"redshift":"0.038",
 	"source_group":{
 		"group_name":"PTSS",
 		"groupid":"22"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hia_2017-10-18_06-15-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458044.7604167,
+			"obsdate":"2017-10-18 06:15:00",
+			"observer":"E. Xhakaj, Y.-C. Pan",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"5"
 }

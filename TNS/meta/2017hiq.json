@@ -1,0 +1,57 @@
+{
+	"dec":"+16:06:53.40",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Mikuz",
+	"discovererid":"275",
+	"discoverydate":"2017-10-13 22:06:54",
+	"discoverymag":"18.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017hiq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hiq",
+	"public":"1",
+	"ra":"00:52:53.62",
+	"redshift":"0.091",
+	"source_group":{
+		"group_name":"PIKA",
+		"groupid":"33"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hiq_2017-10-17_22-59-43_Ekar_AFOSC.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hiq_2017-10-17_22-59-43_Ekar_AFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458044.4581366,
+			"obsdate":"2017-10-17 22:59:43",
+			"observer":"L. Tomasella",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"+53:27:40.41",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"24",
+		"name":"z"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-11-10 15:27:21",
+	"discoverymag":"19.11",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17fbm",
+	"isTNS_AT":"1",
+	"name":"2017icq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017icq",
+	"public":"1",
+	"ra":"08:37:41.28",
+	"redshift":"0.09",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017icq_2017-11-15_15-51-24_Keck1_LRIS_iPTF.spec",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"420",
+			"fitsfile":"",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458073.1606944,
+			"obsdate":"2017-11-15 15:51:24",
+			"observer":"Blagorodnova,Fremling,Frederick,Cunningham",
+			"public":"1",
+			"reducer":"Ho",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"3"
+}

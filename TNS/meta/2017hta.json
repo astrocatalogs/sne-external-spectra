@@ -1,0 +1,65 @@
+{
+	"dec":"+66:43:05.99",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Zheng",
+	"discovererid":"172",
+	"discoverydate":"2017-11-02 07:27:11",
+	"discoverymag":"18.1",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"kait-17df",
+	"isTNS_AT":"1",
+	"name":"2017hta",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017hta",
+	"public":"1",
+	"ra":"03:39:47.58",
+	"redshift":"0.006",
+	"source_group":{
+		"group_name":"LOSS",
+		"groupid":"8"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2017hta_2017-11-16.213_Keck2_DEIMOS_LOSS.txt",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"instrument":{
+				"id":"4",
+				"name":"DEIMOS"
+			},
+			"jd":2458073.7129977,
+			"obsdate":"2017-11-16 05:06:43",
+			"observer":"WeiKang Zheng, Thomas de Jaeger, Thomas G. Brink, Alexei. V. Filippenko (UC Berkeley)",
+			"public":"1",
+			"reducer":"Thomas de Jaeger",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"5",
+				"name":"Keck2"
+			}
+		}
+	],
+	"type":"10"
+}

@@ -15,20 +15,51 @@
 	"internal_name":"Gaia17cow",
 	"isTNS_AT":"1",
 	"name":"2017hig",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017hig",
 	"public":"1",
 	"ra":"10:33:17.60",
-	"redshift":null,
+	"redshift":"0.045",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2017hig_2017-11-14.652_Keck2_DEIMOS_LOSS.txt",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"instrument":{
+				"id":"4",
+				"name":"DEIMOS"
+			},
+			"jd":2458072.1519907,
+			"obsdate":"2017-10-14 15:38:52",
+			"observer":"WeiKang Zheng, Thomas de Jaeger, Thomas G. Brink, Alexei. V. Filippenko (UC Berkeley)",
+			"public":"1",
+			"reducer":"Thomas de Jaeger",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"5",
+				"name":"Keck2"
+			}
+		}
+	],
+	"type":"3"
 }

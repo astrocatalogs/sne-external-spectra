@@ -1,0 +1,63 @@
+{
+	"dec":"+40:03:36.00",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-10-28 08:18:14",
+	"discoverymag":"18.765",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17mwv",
+	"isTNS_AT":"1",
+	"name":"2017hro",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017hro",
+	"public":"1",
+	"ra":"22:16:15.85",
+	"redshift":"0.015",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hro_2017-11-01.8_NOT_ALFOSC.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458059.3,
+			"obsdate":"2017-11-01 19:12:00",
+			"observer":"C. Babooram, J. Jormanainen, S. Wagner, F. Wierda, H. Kuncarayakti, G. Fedorets, S. Dyrbye",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"10"
+}

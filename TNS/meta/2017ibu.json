@@ -1,0 +1,65 @@
+{
+	"dec":"+44:54:00.82",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-11-10 14:18:14",
+	"discoverymag":"20.15",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17fbk",
+	"isTNS_AT":"1",
+	"name":"2017ibu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ibu",
+	"public":"1",
+	"ra":"06:59:39.09",
+	"redshift":"0.127",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017ibu_2017-11-15_15-34-36_Keck1_LRIS_iPTF.spec",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"480",
+			"fitsfile":"",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458073.1490278,
+			"obsdate":"2017-11-15 15:34:36",
+			"observer":"Blagorodnova,Fremling",
+			"public":"1",
+			"reducer":"Ho",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-23:22:53.35",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":"Foley",
+	"discovererid":"151",
+	"discoverydate":"2017-08-17 23:31:12",
+	"discoverymag":"17.3",
+	"end_prop_period":"2017-10-16",
+	"host_redshift":"0.009727",
+	"hostname":"NGC 4993",
+	"internal_name":"SSS17a",
+	"isTNS_AT":"1",
+	"name":"2017gfo",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"70",
+		"name":"Kilonova"
+	},
+	"objname":"2017gfo",
+	"public":"1",
+	"ra":"13:09:48.09",
+	"redshift":"0.00984",
+	"source_group":{
+		"group_name":"Swope SN Survey",
+		"groupid":"45"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gfo_2017-08-18_23-20-00_ESO-NTT_EFOSC2-NTT_ePESSTO.txt",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":"2017-10-16",
+			"exptime":"2700",
+			"fitsfile":"",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457984.4722222,
+			"obsdate":"2017-08-18 23:20:00",
+			"observer":"J. Lyman, D. Homan",
+			"public":"1",
+			"reducer":"M. Fraser",
+			"remarks":"The observations were performed on the ESO New Technology Telescope at La Silla with the EFOSC2 instrument in spectroscopic mode starting from 2018-08-18 at 23:20 UT, using the Gr11 and Gr16 which provide coverage 3345-9995 at a resolution between 260-396 (v = 1150 - 756 km/s) for a 1.5\" slit, which was used in roughly 1.5-2.0\" seeing. This spectrum is fully reduced and corrected to r-band photometry. \r\n",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"70"
+}
