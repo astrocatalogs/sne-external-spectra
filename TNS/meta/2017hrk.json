@@ -1,0 +1,65 @@
+{
+	"dec":"+42:38:39.79",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-10-30 12:30:28",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"ABELL 0426:[BM99] 328 ",
+	"internal_name":"PTSS-17yln",
+	"isTNS_AT":"1",
+	"name":"2017hrk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hrk",
+	"public":"1",
+	"ra":"03:20:31.46",
+	"redshift":"0.0347",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hrk_2017-11-01_05-39-46_P60_SED-Machine_iPTF.txt",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2100",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458058.7359491,
+			"obsdate":"2017-11-01 05:39:46",
+			"observer":"Walters/Neill/Blagorodnova",
+			"public":"1",
+			"reducer":"Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"3"
+}

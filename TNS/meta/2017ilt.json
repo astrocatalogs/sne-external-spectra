@@ -1,0 +1,65 @@
+{
+	"dec":"-25:41:48.59",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-11-22 03:21:36",
+	"discoverymag":"18.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J004913.42-254148.6",
+	"internal_name":"ASASN-17pq",
+	"isTNS_AT":"1",
+	"name":"2017ilt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ilt",
+	"public":"1",
+	"ra":"00:49:13.39",
+	"redshift":"0.068",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ilt_2017-11-28_05-28-01_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ilt_2017-11-28_05-28-01_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458085.7277894,
+			"obsdate":"2017-11-28 05:28:01",
+			"observer":"K. M. Lopez, Z. Kostrzewa-Rutkowska",
+			"public":"1",
+			"reducer":"K. M. Lopez, Z. Kostrzewa-Rutkowska",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

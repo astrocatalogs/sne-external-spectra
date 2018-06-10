@@ -1,0 +1,57 @@
+{
+	"dec":"+31:28:56.57",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-10-01 11:32:38",
+	"discoverymag":"18.634",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17lui",
+	"isTNS_AT":"1",
+	"name":"2017hcd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"13",
+		"name":"SN IIn"
+	},
+	"objname":"2017hcd",
+	"public":"1",
+	"ra":"01:42:51.83",
+	"redshift":"0.035",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hcd_2017-10-17_08-29-00_Other_Other.flm",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458043.8534722,
+			"obsdate":"2017-10-17 08:29:00",
+			"observer":"M. Siebert, C. Rojas-Bravo",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"13"
+}

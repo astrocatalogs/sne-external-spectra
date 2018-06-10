@@ -1,0 +1,65 @@
+{
+	"dec":"+07:03:54.90",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Puckett",
+	"discovererid":"111",
+	"discoverydate":"2017-10-25 08:18:16",
+	"discoverymag":"17.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC 3122",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017hpa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hpa",
+	"public":"1",
+	"ra":"04:39:50.75",
+	"redshift":"0.015654",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017hpa_2017-10-25_23-55-02_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017hpa_2017-10-25_23-55-02_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458052.4965509,
+			"obsdate":"2017-10-25 23:55:02",
+			"observer":"Taubenberger",
+			"public":"1",
+			"reducer":"Taubenberger",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}

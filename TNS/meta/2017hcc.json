@@ -1,0 +1,65 @@
+{
+	"dec":"-11:28:28.78",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-10-02 09:04:19",
+	"discoverymag":"17.444",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17lsn",
+	"isTNS_AT":"1",
+	"name":"2017hcc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"13",
+		"name":"SN IIn"
+	},
+	"objname":"2017hcc",
+	"public":"1",
+	"ra":"00:03:50.58",
+	"redshift":"0.0173",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017hcc_2458033.882424_FTS_FLOYDS-S_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017hcc_2458033.882424_FTS_FLOYDS-S_ASAS-SN.fits",
+			"instrument":{
+				"id":"125",
+				"name":"FLOYDS-S"
+			},
+			"jd":2458033.882424,
+			"obsdate":"2017-10-07 09:10:41",
+			"observer":"D. Bersier",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"75",
+				"name":"FTS"
+			}
+		}
+	],
+	"type":"13"
+}

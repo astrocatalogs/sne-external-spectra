@@ -1,0 +1,95 @@
+{
+	"dec":"-08:05:31.25",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-09-28 14:15:21",
+	"discoverymag":"16.155",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17lsr",
+	"isTNS_AT":"1",
+	"name":"2017hca",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017hca",
+	"public":"1",
+	"ra":"08:49:41.07",
+	"redshift":"0.0134",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017hca_2017-10-21.37_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017hca_2017-10-21.37_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458047.87,
+			"obsdate":"2017-10-21 08:52:48",
+			"observer":"M. Seibert",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2017hca_2017-10-14.652_Keck2_DEIMOS_LOSS.txt",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"120",
+			"fitsfile":"",
+			"instrument":{
+				"id":"4",
+				"name":"DEIMOS"
+			},
+			"jd":2458041.1519907,
+			"obsdate":"2017-10-14 15:38:52",
+			"observer":"WeiKang Zheng, Thomas de Jaeger, Thomas G. Brink, Alexei. V. Filippenko (UC Berkeley)",
+			"public":"1",
+			"reducer":"Thomas de Jaeger",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"5",
+				"name":"Keck2"
+			}
+		}
+	],
+	"type":"10"
+}

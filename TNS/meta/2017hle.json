@@ -1,0 +1,87 @@
+{
+	"dec":"+32:24:30.00",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Tan",
+	"discovererid":"198",
+	"discoverydate":"2017-10-18 16:25:32",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":"0.017005",
+	"hostname":"NGC 383",
+	"internal_name":"PSP17E",
+	"isTNS_AT":"1",
+	"name":"2017hle",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"103",
+		"name":"SN Ia-91bg-like"
+	},
+	"objname":"2017hle",
+	"public":"1",
+	"ra":"01:07:33.06",
+	"redshift":"0.015",
+	"source_group":{
+		"group_name":"XOSS",
+		"groupid":"10"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hle_2458046.53_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458046.53,
+			"obsdate":"2017-10-20 00:43:12",
+			"observer":"Simon Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017hle_2458046.42_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017hle_2458046.42_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458046.42,
+			"obsdate":"2017-10-19 22:04:48",
+			"observer":"tomasella",
+			"public":"1",
+			"reducer":"tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"103"
+}

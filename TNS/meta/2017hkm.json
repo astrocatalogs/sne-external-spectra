@@ -1,0 +1,57 @@
+{
+	"dec":"+32:29:05.10",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-10-15 20:03:50",
+	"discoverymag":"17.39",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17cqc",
+	"isTNS_AT":"1",
+	"name":"2017hkm",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2017hkm",
+	"public":"1",
+	"ra":"21:57:47.42",
+	"redshift":null,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hkm_2017-10-17_21-56-10_Ekar_AFOSC.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hkm_2017-10-17_21-56-10_Ekar_AFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458044.4140046,
+			"obsdate":"2017-10-17 21:56:10",
+			"observer":"L. Tomasella",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"27"
+}

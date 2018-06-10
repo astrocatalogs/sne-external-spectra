@@ -1,0 +1,65 @@
+{
+	"dec":"+14:47:37.54",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-11-08 14:28:15",
+	"discoverymag":"19.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J02592769+1447417 ",
+	"internal_name":"PTSS-17zix",
+	"isTNS_AT":"1",
+	"name":"2017hxu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2017hxu",
+	"public":"1",
+	"ra":"02:59:27.60",
+	"redshift":"0.04",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017hxu_2017-11-12.7_LJT_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2100",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458070.1999884,
+			"obsdate":"2017-11-12 16:47:59",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"11"
+}

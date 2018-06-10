@@ -1,0 +1,65 @@
+{
+	"dec":"+26:19:32.90",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-09-17 04:48:00",
+	"discoverymag":"19.4",
+	"end_prop_period":null,
+	"host_redshift":"0.031",
+	"hostname":"KUG 2329+260  ",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017gut",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"1",
+		"name":"SN"
+	},
+	"objname":"2017gut",
+	"public":"1",
+	"ra":"23:31:56.56",
+	"redshift":"0.031",
+	"source_group":{
+		"group_name":"TNTS",
+		"groupid":"25"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gut_2017-09-21_02-34-27_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gut_2017-09-21_02-34-27_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458017.6072569,
+			"obsdate":"2017-09-21 02:34:27",
+			"observer":"Kostrzewa-Rutkowska,Hodgkin,Gromadzki",
+			"public":"1",
+			"reducer":"Fraser,Callis",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"1"
+}

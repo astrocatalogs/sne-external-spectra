@@ -1,0 +1,95 @@
+{
+	"dec":"-34:57:10.62",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-10-10 00:28:48",
+	"discoverymag":"15.5",
+	"end_prop_period":null,
+	"host_redshift":"0.016151",
+	"hostname":"NGC 7130",
+	"internal_name":"ASASSN-17ng",
+	"isTNS_AT":"1",
+	"name":"2017hgz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hgz",
+	"public":"1",
+	"ra":"21:48:20.08",
+	"redshift":"0.016",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hgz_2017-10-12_03-48-12_P60_SED-Machine_iPTF.txt",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458038.6584722,
+			"obsdate":"2017-10-12 03:48:12",
+			"observer":"Walters/Neill/Blagorodnova",
+			"public":"1",
+			"reducer":"Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017hgz_2017-10-12_03-45-14_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017hgz_2017-10-12_03-45-14_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458038.656412,
+			"obsdate":"2017-10-12 03:45:14",
+			"observer":"E. Kankare, D. O'Neill",
+			"public":"1",
+			"reducer":"M. Magee",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

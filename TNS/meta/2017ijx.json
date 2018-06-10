@@ -1,0 +1,63 @@
+{
+	"dec":"+51:00:28.90",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-11-21 16:29:10",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 3410",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017ijx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ijx",
+	"public":"1",
+	"ra":"10:51:53.02",
+	"redshift":null,
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ijx_2458084.3579_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458084.3579,
+			"obsdate":"2017-11-26 20:35:22",
+			"observer":"X. Zhang(THU), J. Jia(NAOC)",
+			"public":"1",
+			"reducer":"Han Lin(THU)",
+			"remarks":"A spectrum taken on UT NOV. 27.86 2017 indicates that this transient is consistent with a type Ia supernova a about one week before maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
+}

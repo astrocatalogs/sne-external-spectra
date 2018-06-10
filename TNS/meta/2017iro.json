@@ -1,0 +1,79 @@
+{
+	"dec":"+50:43:20.20",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Wiggins",
+	"discovererid":"531",
+	"discoverydate":"2017-11-30 10:42:24",
+	"discoverymag":"15.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 5480",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017iro",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"4",
+		"name":"SN Ib"
+	},
+	"objname":"2017iro",
+	"public":"1",
+	"ra":"14:06:23.11",
+	"redshift":null,
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017iro_2017-12-02_03-52-59_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"4800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017iro_2017-12-02_03-52-59_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458089.661794,
+			"obsdate":"2017-12-02 03:52:59",
+			"observer":"Etienne Bertrand",
+			"public":"1",
+			"reducer":"Etienne Bertrand (club Les Cepheides)",
+			"remarks":"Alpy600, C8 f=1260mm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017iro_2458089.6618_Other_Other.log",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017iro_2458089.6618_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458089.6618,
+			"obsdate":"2017-12-02 03:52:59",
+			"observer":"etienne bertrand",
+			"public":"1",
+			"reducer":"",
+			"remarks":"2 x 2400s - Spectrographe Alpy600 - telescope C8 - focale=1260mm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"4"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-63:19:11.10",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Parker",
+	"discovererid":"110",
+	"discoverydate":"2017-10-03 01:31:41",
+	"discoverymag":"16",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"ESO-084-G-020",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017hbj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017hbj",
+	"public":"1",
+	"ra":"04:31:07.68",
+	"redshift":"0.017",
+	"source_group":{
+		"group_name":"BOSS",
+		"groupid":"7"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017hbj_2017-10-10_09-11-51_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017hbj_2017-10-10_09-11-51_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458036.8832292,
+			"obsdate":"2017-10-10 09:11:51",
+			"observer":"E. Kankare, D. O'Neill",
+			"public":"1",
+			"reducer":"M. Magee",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
+}

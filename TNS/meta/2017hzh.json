@@ -1,0 +1,63 @@
+{
+	"dec":"+06:09:46.65",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-11-11 10:56:38",
+	"discoverymag":"16.914",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17ncw",
+	"isTNS_AT":"1",
+	"name":"2017hzh",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2017hzh",
+	"public":"1",
+	"ra":"04:55:48.70",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hzh_2458071.3519_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458071.3519,
+			"obsdate":"2017-11-13 20:26:44",
+			"observer":"J. Zhang(THU)",
+			"public":"1",
+			"reducer":"Han Lin(THU)",
+			"remarks":"A spectrum taken on UT NOV. 13.85 2017 indicates that this transient has blue continum spectra and the hydrgen emmision lines show a redshift of about 0.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"27"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-19:31:15.08",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-12-04 14:49:55",
+	"discoverymag":"15.345",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17nmh",
+	"isTNS_AT":"1",
+	"name":"2017isq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017isq",
+	"public":"1",
+	"ra":"13:13:12.18",
+	"redshift":"0.009",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017isq_2017-12-07.25_NOT_ALFOSC_NUTS.dat",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2017isq_2017-12-07.25_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458094.75,
+			"obsdate":"2017-12-07 06:00:00",
+			"observer":"I. Rivero Losada",
+			"public":"1",
+			"reducer":"S. Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

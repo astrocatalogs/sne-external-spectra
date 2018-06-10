@@ -1,0 +1,65 @@
+{
+	"dec":"+43:16:31.52",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-11-03 10:52:19",
+	"discoverymag":"18.076",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17myk",
+	"isTNS_AT":"1",
+	"name":"2017hvs",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2017hvs",
+	"public":"1",
+	"ra":"02:15:26.27",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2017hvs_2017-11-12_04-28-17_P200_DBSP_iPTF.txt",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458069.6863079,
+			"obsdate":"2017-11-12 04:28:17",
+			"observer":"Ho Yang Frederick Cunningham",
+			"public":"1",
+			"reducer":"Ho",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"27"
+}

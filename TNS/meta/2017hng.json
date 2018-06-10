@@ -1,0 +1,95 @@
+{
+	"dec":"-03:32:26.35",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"22",
+		"name":"r"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2017-10-21 17:45:13",
+	"discoverymag":"19.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J04214029-0332267 ",
+	"internal_name":"PTSS-17xsq",
+	"isTNS_AT":"1",
+	"name":"2017hng",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hng",
+	"public":"1",
+	"ra":"04:21:40.59",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017hng_2017-10-26_00-42-32_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017hng_2017-10-26_00-42-32_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458052.529537,
+			"obsdate":"2017-10-26 00:42:32",
+			"observer":"Taubenberger",
+			"public":"1",
+			"reducer":"Taubenberger",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2017hng_2017-10-25.7_LJT_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2200",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458052.1999884,
+			"obsdate":"2017-10-25 16:47:59",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"LJT"
+			}
+		}
+	],
+	"type":"3"
+}

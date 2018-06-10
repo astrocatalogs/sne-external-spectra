@@ -1,0 +1,65 @@
+{
+	"dec":"-16:20:42.11",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-11-11 07:40:48",
+	"discoverymag":"17.8",
+	"end_prop_period":null,
+	"host_redshift":"0.03813",
+	"hostname":"2MASX J04470897-1620433",
+	"internal_name":"ASASSN-17or",
+	"isTNS_AT":"1",
+	"name":"2017hyx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hyx",
+	"public":"1",
+	"ra":"04:47:09.17",
+	"redshift":"0.038",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017hyx_2017-11-13_08-34-51_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017hyx_2017-11-13_08-34-51_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458070.8575347,
+			"obsdate":"2017-11-13 08:34:51",
+			"observer":"F. Onori, G. Cannizzaro",
+			"public":"1",
+			"reducer":"F. Onori, G. Cannizzaro",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"+23:11:12.62",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-10-23 09:12:57",
+	"discoverymag":"18.845",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17mup",
+	"isTNS_AT":"1",
+	"name":"2017hqb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017hqb",
+	"public":"1",
+	"ra":"23:30:56.28",
+	"redshift":"0.062",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hqb_2017-10-28_03-25-39_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458054.6428125,
+			"obsdate":"2017-10-28 03:25:39",
+			"observer":"Cesar Rojas-Bravo",
+			"public":"1",
+			"reducer":"Yen-Chen Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
+}

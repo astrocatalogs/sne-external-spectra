@@ -15,20 +15,43 @@
 	"internal_name":"Gaia17cfc",
 	"isTNS_AT":"1",
 	"name":"2017glw",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"11",
+		"name":"SN IIP"
 	},
 	"objname":"2017glw",
 	"public":"1",
 	"ra":"07:35:04.60",
-	"redshift":null,
+	"redshift":"0.0093",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017glw_2017-10-04.300_SOAR_Goodman.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458030.8,
+			"obsdate":"2017-10-04 07:12:00",
+			"observer":"Jay Strader",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"11"
 }

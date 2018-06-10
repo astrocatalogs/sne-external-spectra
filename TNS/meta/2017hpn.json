@@ -1,0 +1,57 @@
+{
+	"dec":"+27:15:05.30",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Puckett",
+	"discovererid":"111",
+	"discoverydate":"2017-10-26 12:44:23",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":"0.02121",
+	"hostname":"PGC25678",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017hpn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2017hpn",
+	"public":"1",
+	"ra":"09:08:01.76",
+	"redshift":"0.025",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hpn_2017-10-27.104_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"10888",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017hpn_2017-10-27.104_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458053.6039931,
+			"obsdate":"2017-10-27 02:29:45",
+			"observer":"R Leadbeater",
+			"public":"1",
+			"reducer":"R Leadbeater",
+			"remarks":"R~150 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"11"
+}

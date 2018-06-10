@@ -15,15 +15,15 @@
 	"internal_name":"SMT17scn",
 	"isTNS_AT":"1",
 	"name":"2017gga",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017gga",
 	"public":"1",
 	"ra":"22:02:41.49",
-	"redshift":"0",
+	"redshift":"0.066",
 	"source_group":{
 		"group_name":"SkyMapper",
 		"groupid":"5"
@@ -50,6 +50,36 @@
 			"observer":"Gromadzki,Rybicki",
 			"public":"1",
 			"reducer":"Fraser,Callis",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gga_2017-08-20_03-44-49_ESO-NTT_EFOSC2-NTT_ePESSTO.txt",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017gga_2017-08-20_03-44-49_ESO-NTT_EFOSC2-NTT_ePESSTO_0.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2457985.6561227,
+			"obsdate":"2017-08-20 03:44:49",
+			"observer":"Joe Lyman, David Homan",
+			"public":"1",
+			"reducer":"Kate Maguire",
 			"remarks":"",
 			"source_group":{
 				"id":"37",
@@ -91,5 +121,5 @@
 			}
 		}
 	],
-	"type":null
+	"type":"10"
 }
