@@ -1,5 +1,5 @@
 {
-	"dec":"+61:45:19.62",
+	"dec":"+61:45:17.60",
 	"discmagfilter":{
 		"family":"Sloan",
 		"id":"21",
@@ -15,20 +15,49 @@
 	"internal_name":"ASASSN-17qc",
 	"isTNS_AT":"1",
 	"name":"2017ipi",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017ipi",
 	"public":"1",
-	"ra":"08:59:38.99",
-	"redshift":null,
+	"ra":"08:59:39.37",
+	"redshift":"0.037",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ipi_2458113.1782_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458113.1782,
+			"obsdate":"2017-12-25 16:16:36",
+			"observer":"F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":" This transient is consistent with  type Ia supernova",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
 }

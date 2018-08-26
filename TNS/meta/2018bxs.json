@@ -1,0 +1,65 @@
+{
+	"dec":"+16:55:44.63",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-05-21 10:59:31",
+	"discoverymag":"19.223",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18ppz",
+	"isTNS_AT":"1",
+	"name":"2018bxs",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bxs",
+	"public":"1",
+	"ra":"15:28:10.43",
+	"redshift":"0.046",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/AZTEC/tns_2018bxs_2458263.8_Bok_B%26C-Bok_AZTEC.ascii",
+			"assoc_groups":[
+				{
+					"id":"52",
+					"name":"AZTEC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"68",
+				"name":"B&C-Bok"
+			},
+			"jd":2458263.8,
+			"obsdate":"2018-05-25 07:12:00",
+			"observer":"Jennifer Andrews, Samuel Wyatt",
+			"public":"1",
+			"reducer":"Jennifer Andrews",
+			"remarks":"",
+			"source_group":{
+				"id":"52",
+				"name":"AZTEC"
+			},
+			"telescope":{
+				"id":"53",
+				"name":"Bok"
+			}
+		}
+	],
+	"type":"3"
+}

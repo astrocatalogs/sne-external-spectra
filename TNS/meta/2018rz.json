@@ -1,0 +1,63 @@
+{
+	"dec":"-02:16:10.07",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Leonini",
+	"discovererid":"162",
+	"discoverydate":"2018-02-11 04:36:09",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC5618",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018rz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2018rz",
+	"public":"1",
+	"ra":"14:27:11.44",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"ISSP",
+		"groupid":"27"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018rz_2458162.3628_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458162.3628,
+			"obsdate":"2018-02-12 20:42:25",
+			"observer":"Z. Chen(THU), F. Xiao, H. Wang(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"11"
+}

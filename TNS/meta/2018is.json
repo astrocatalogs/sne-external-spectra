@@ -1,0 +1,65 @@
+{
+	"dec":"-16:37:04.43",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":"37975",
+	"discoverydate":"2018-01-20 15:25:55",
+	"discoverymag":"17.9792",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC5054",
+	"internal_name":"DLT18a",
+	"isTNS_AT":"1",
+	"name":"2018is",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018is",
+	"public":"1",
+	"ra":"13:16:57.35",
+	"redshift":null,
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":"30"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DLT40/tns_2018is_2018-01-21_07-47-18_SOAR_Goodman_DLT40.ascii",
+			"assoc_groups":[
+				{
+					"id":"30",
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458139.8245139,
+			"obsdate":"2018-01-21 07:47:18",
+			"observer":"Strader",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"30",
+				"name":"DLT40"
+			},
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"10"
+}

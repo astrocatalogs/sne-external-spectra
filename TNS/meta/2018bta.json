@@ -1,0 +1,65 @@
+{
+	"dec":"-62:43:53.70",
+	"discmagfilter":{
+		"family":"",
+		"id":"0",
+		"name":"Other"
+	},
+	"discoverer":"Parker",
+	"discovererid":"110",
+	"discoverydate":"2018-05-17 12:06:00",
+	"discoverymag":"16.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"ESO-101-G-20",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018bta",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bta",
+	"public":"1",
+	"ra":"16:57:58.75",
+	"redshift":"0.0195",
+	"source_group":{
+		"group_name":"BOSS",
+		"groupid":"7"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bta_2018-05-20_03-44-49_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bta_2018-05-20_03-44-49_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458258.6561227,
+			"obsdate":"2018-05-20 03:44:49",
+			"observer":"Peter Clark",
+			"public":"1",
+			"reducer":"Stephen Smartt",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

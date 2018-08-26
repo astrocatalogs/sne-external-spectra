@@ -1,0 +1,125 @@
+{
+	"dec":"+18:37:10.09",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-04-16 06:00:00",
+	"discoverymag":"17.9",
+	"end_prop_period":null,
+	"host_redshift":"0.052717",
+	"hostname":"SDSS J130026.83+183711.1",
+	"internal_name":"ASASSN-18ii",
+	"isTNS_AT":"1",
+	"name":"2018avp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018avp",
+	"public":"1",
+	"ra":"13:00:26.55",
+	"redshift":"0.048",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018avp_2018-04-22_04-26-46_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018avp_2018-04-22_04-26-46_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458230.6852546,
+			"obsdate":"2018-04-22 04:26:46",
+			"observer":"K. E. Heintz, D. Malesani",
+			"public":"1",
+			"reducer":"G. Leloudas, P. D'Avanzo",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018avp_2018-04-21_19-33-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018avp_2018-04-21_19-33-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458230.3145833,
+			"obsdate":"2018-04-21 19:33:00",
+			"observer":"Tomasella",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018avp_2018-04-10.0_APO_3.5m_DIS_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"70",
+				"name":"DIS"
+			},
+			"jd":2458218.5,
+			"obsdate":"2018-04-10 00:00:00",
+			"observer":"M. Graham",
+			"public":"1",
+			"reducer":"M. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"55",
+				"name":"APO 3.5m"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS17njh",
 	"isTNS_AT":"1",
 	"name":"2017ilo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017ilo",
 	"public":"1",
 	"ra":"03:31:20.63",
-	"redshift":null,
+	"redshift":"0.02",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ilo_2017-12-15_04-35-17_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458102.691169,
+			"obsdate":"2017-12-15 04:35:17",
+			"observer":"G. Dimitriadis",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"10"
 }

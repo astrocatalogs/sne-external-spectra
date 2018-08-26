@@ -1,0 +1,65 @@
+{
+	"dec":"+17:29:19.57",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2018-06-04 06:38:52",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia18blf",
+	"isTNS_AT":"1",
+	"name":"2018cho",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2018cho",
+	"public":"1",
+	"ra":"00:13:26.52",
+	"redshift":null,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018cho_2018-06-13_10-08-13_P60_SED-Machine_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458282.9223727,
+			"obsdate":"2018-06-13 10:08:13",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"Anna Ho.",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"11"
+}

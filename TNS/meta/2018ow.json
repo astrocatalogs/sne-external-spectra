@@ -1,0 +1,57 @@
+{
+	"dec":"+09:06:44.32",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2018-01-30 05:42:43",
+	"discoverymag":"19.39",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS18gc",
+	"isTNS_AT":"1",
+	"name":"2018ow",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"14",
+		"name":"SN IIb"
+	},
+	"objname":"2018ow",
+	"public":"1",
+	"ra":"02:51:04.41",
+	"redshift":"0.01",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ow_2018-02-08_03-13-18_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"2460",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458157.6342361,
+			"obsdate":"2018-02-08 03:13:18",
+			"observer":"C. Rojas-Bravo",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"14"
+}

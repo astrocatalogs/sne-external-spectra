@@ -1,0 +1,93 @@
+{
+	"dec":"+43:25:04.70",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Ruan",
+	"discovererid":"368",
+	"discoverydate":"2018-03-08 18:03:56",
+	"discoverymag":"16.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC 48989",
+	"internal_name":"PSP18B",
+	"isTNS_AT":"1",
+	"name":"2018acj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018acj",
+	"public":"1",
+	"ra":"13:48:40.63",
+	"redshift":"0.0078",
+	"source_group":{
+		"group_name":"XOSS",
+		"groupid":"10"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018acj_2458187.2863_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458187.2863,
+			"obsdate":"2018-03-09 18:52:16",
+			"observer":"W. Li(THU), Y. Wang(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"This spectrum matches type IIP supernova near maximum",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018acj_2018-03-08.0_P200_DBSP_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458185.5,
+			"obsdate":"2018-03-08 00:00:00",
+			"observer":"C. Fremling",
+			"public":"1",
+			"reducer":"C. Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"10"
+}

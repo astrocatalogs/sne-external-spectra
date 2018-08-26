@@ -1,0 +1,65 @@
+{
+	"dec":"-56:04:57.29",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-07-07 05:45:36",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"APMUKS(BJ) B220137.90-561932.4",
+	"internal_name":"ASASSN-18om",
+	"isTNS_AT":"1",
+	"name":"2018ddx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018ddx",
+	"public":"1",
+	"ra":"22:04:59.86",
+	"redshift":"0.0229",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ddx_2458313.78942_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ddx_2458313.78942_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458313.78942,
+			"obsdate":"2018-07-14 06:56:45",
+			"observer":"L. Khlat (ENS-Lyon), J. L. Prieto (UDP)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":"10"
+}

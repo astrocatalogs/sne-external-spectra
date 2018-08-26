@@ -1,0 +1,95 @@
+{
+	"dec":"+46:22:42.24",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-12-23 05:45:36",
+	"discoverymag":"18.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J07150015+4622455",
+	"internal_name":"ASASSN-17rl",
+	"isTNS_AT":"1",
+	"name":"2017jea",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"6",
+		"name":"SN Ib/c"
+	},
+	"objname":"2017jea",
+	"public":"1",
+	"ra":"07:14:59.80",
+	"redshift":"0.045",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jea_2018-01-11.92_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458130.42,
+			"obsdate":"2018-01-11 22:04:48",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jea_2017-12-28.47_P200_DBSP_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jea_2017-12-28.47_P200_DBSP_ASAS-SN.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458115.97,
+			"obsdate":"2017-12-28 11:16:48",
+			"observer":"Subhash Bose, P. Chen",
+			"public":"1",
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"6"
+}

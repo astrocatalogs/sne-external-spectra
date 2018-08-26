@@ -1,0 +1,65 @@
+{
+	"dec":"-40:11:44.05",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-01-07 00:28:48",
+	"discoverymag":"16.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXMSC J051147.86-401142.5 ",
+	"internal_name":"ASASSN-18aa",
+	"isTNS_AT":"1",
+	"name":"2018bg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bg",
+	"public":"1",
+	"ra":"05:11:47.87",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bg_2018-01-12_04-32-35_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bg_2018-01-12_04-32-35_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458130.689294,
+			"obsdate":"2018-01-12 04:32:35",
+			"observer":"M. Berton, F. Bufano",
+			"public":"1",
+			"reducer":"A. Floers, S. Taubenberger, C. Vogl",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

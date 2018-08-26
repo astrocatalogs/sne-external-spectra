@@ -1,0 +1,65 @@
+{
+	"dec":"+28:51:58.61",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2018-04-28 12:08:38",
+	"discoverymag":"18.56",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia18bca",
+	"isTNS_AT":"1",
+	"name":"2018bdo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bdo",
+	"public":"1",
+	"ra":"15:26:38.30",
+	"redshift":"0.08",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2018bdo_2018-05-01.00_NOT_ALFOSC_NUTS.dat",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458239.5,
+			"obsdate":"2018-05-01 00:00:00",
+			"observer":"T. Pursimo",
+			"public":"1",
+			"reducer":"M. Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

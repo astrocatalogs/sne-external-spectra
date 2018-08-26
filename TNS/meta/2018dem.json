@@ -1,0 +1,65 @@
+{
+	"dec":"-00:13:05.16",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Zheng",
+	"discovererid":"172",
+	"discoverydate":"2018-07-08 11:02:42",
+	"discoverymag":"18.2",
+	"end_prop_period":null,
+	"host_redshift":"0.05976",
+	"hostname":"SDSS J211158.77-001309.9",
+	"internal_name":"kait-18ac",
+	"isTNS_AT":"1",
+	"name":"2018dem",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018dem",
+	"public":"1",
+	"ra":"21:11:58.53",
+	"redshift":null,
+	"source_group":{
+		"group_name":"LOSS",
+		"groupid":"8"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2018dem_2018-07-19.350_Lick_3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458318.8499884,
+			"obsdate":"2018-07-19 08:23:59",
+			"observer":"Thomas Brink and WeiKang Zheng",
+			"public":"1",
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
+}

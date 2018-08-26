@@ -1,0 +1,65 @@
+{
+	"dec":"+16:25:35.40",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Puckett",
+	"discovererid":"111",
+	"discoverydate":"2018-03-13 03:19:35",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":"0.016291",
+	"hostname":"UGC 4139",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018afm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018afm",
+	"public":"1",
+	"ra":"07:59:25.03",
+	"redshift":"0.0163",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2018afm_2018-03-20_10-50-06_P60_SED-Machine_iPTF.txt",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458197.9514583,
+			"obsdate":"2018-03-20 10:50:06",
+			"observer":"SEDM robot",
+			"public":"1",
+			"reducer":"Don Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"10"
+}

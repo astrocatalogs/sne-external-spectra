@@ -1,0 +1,65 @@
+{
+	"dec":"-09:38:36.56",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Dong",
+	"discovererid":"59",
+	"discoverydate":"2018-08-11 00:06:52",
+	"discoverymag":"16.5",
+	"end_prop_period":null,
+	"host_redshift":"0.024971",
+	"hostname":"MCG -01-35-011",
+	"internal_name":"ASASSN-18ro",
+	"isTNS_AT":"1",
+	"name":"2018evt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018evt",
+	"public":"1",
+	"ra":"13:46:39.32",
+	"redshift":"0.029",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018evt_2018-08-12_23-59-19_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018evt_2018-08-12_23-59-19_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458343.4995255,
+			"obsdate":"2018-08-12 23:59:19",
+			"observer":"R. Stein, E. Callis,  Z. Kostrzewa-Rutkowska",
+			"public":"1",
+			"reducer":"M. Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

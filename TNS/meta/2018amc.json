@@ -1,0 +1,57 @@
+{
+	"dec":"+72:26:26.56",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-03-23 06:00:00",
+	"discoverymag":"17.1",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J105800.28+722628.0",
+	"internal_name":"ASASSN-18gg",
+	"isTNS_AT":"1",
+	"name":"2018amc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018amc",
+	"public":"1",
+	"ra":"10:58:00.78",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018amc_2018-03-27_06-01-54_P60_SED-Machine.txt",
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458204.7513194,
+			"obsdate":"2018-03-27 06:01:54",
+			"observer":"SEDM Robot",
+			"public":"1",
+			"reducer":"James Neill",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"10"
+}

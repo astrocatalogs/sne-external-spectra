@@ -1,0 +1,65 @@
+{
+	"dec":"+39:49:12.47",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"111",
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-05-28 07:06:14",
+	"discoverymag":"19.27",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18aaxcntm",
+	"isTNS_AT":"1",
+	"name":"2018ccl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ccl",
+	"public":"1",
+	"ra":"16:28:11.13",
+	"redshift":"0.026922",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ccl_2458286.830411_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ccl_2458286.830411_MDM-2.4_OSMOS_ASAS-SN.fits",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"jd":2458286.830411,
+			"obsdate":"2018-06-17 07:55:47",
+			"observer":"Justin Rupert",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"11",
+				"name":"MDM-2.4"
+			}
+		}
+	],
+	"type":"3"
+}

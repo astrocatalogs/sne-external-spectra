@@ -1,0 +1,57 @@
+{
+	"dec":"-35:54:52.97",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-07-22 14:18:14",
+	"discoverymag":"19.173",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18sll",
+	"isTNS_AT":"1",
+	"name":"2018ecb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018ecb",
+	"public":"1",
+	"ra":"02:09:28.50",
+	"redshift":"0.061",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ecb_2018-07-26_09-38-38_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ecb_2018-07-26_09-38-38_SOAR_Goodman.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458325.9018287,
+			"obsdate":"2018-07-26 09:38:38",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"10"
+}

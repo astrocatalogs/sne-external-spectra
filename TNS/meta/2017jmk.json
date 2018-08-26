@@ -1,0 +1,95 @@
+{
+	"dec":"+04:31:51.10",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Post",
+	"discovererid":"168",
+	"discoverydate":"2017-12-31 01:57:14",
+	"discoverymag":"18.5",
+	"end_prop_period":null,
+	"host_redshift":"0.00947",
+	"hostname":"NGC7541",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017jmk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017jmk",
+	"public":"1",
+	"ra":"23:14:45.10",
+	"redshift":"0.00947",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jmk_2018-01-05.1_MDM-2.4_OSMOS_ASAS-SN_0.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jmk_2018-01-05.1_MDM-2.4_OSMOS_ASAS-SN_0.fits",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"jd":2458123.6,
+			"obsdate":"2018-01-05 02:24:00",
+			"observer":"J. Rupert",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"11",
+				"name":"MDM-2.4"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jmk_2018-01-05.1_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jmk_2018-01-05.1_MDM-2.4_OSMOS_ASAS-SN.fits",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"jd":2458123.6,
+			"obsdate":"2018-01-05 02:24:00",
+			"observer":"J. Rupert",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"11",
+				"name":"MDM-2.4"
+			}
+		}
+	],
+	"type":"10"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"+45:27:11.70",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2018-07-08 08:11:02",
+	"discoverymag":"20.88",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS18bby",
+	"isTNS_AT":"1",
+	"name":"2018ekt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ekt",
+	"public":"1",
+	"ra":"16:11:28.40",
+	"redshift":"0.015",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ekt_2018-08-15.1_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ekt_2018-08-15.1_NOT_ALFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458345.6,
+			"obsdate":"2018-08-15 02:24:00",
+			"observer":"the Danish Summer School in Observational Astrophysics",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Type Ia supernova around two weeks or more past maximum light. SNID (Blondin and Tonry 2007, ApJ, 666, 1024) determines good template fits for the redshift z=0.015. ",
+			"source_group_name":null,
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

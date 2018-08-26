@@ -1,0 +1,65 @@
+{
+	"dec":"+41:30:32.90",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2018-08-03 13:40:47",
+	"discoverymag":"15.05",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia18bzv",
+	"isTNS_AT":"1",
+	"name":"2018eqq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018eqq",
+	"public":"1",
+	"ra":"03:06:55.16",
+	"redshift":"0.016",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018eqq_2018-08-07_09-50-56_Plaskett_Telescope_Plaskett_DAO_OTS.txt",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018eqq_2018-08-07_09-50-56_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2458337.9103704,
+			"obsdate":"2018-08-07 09:50:56",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam, Hsiao",
+			"remarks":"",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-31:15:52.70",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-12-25 23:31:12",
+	"discoverymag":"17.58",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17dkl",
+	"isTNS_AT":"1",
+	"name":"2017jfv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"9",
+		"name":"SN Ibn"
+	},
+	"objname":"2017jfv",
+	"public":"1",
+	"ra":"13:38:25.35",
+	"redshift":"0.038",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017jfv_2018-01-06_07-04-36_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017jfv_2018-01-06_07-04-36_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458124.7948611,
+			"obsdate":"2018-01-06 07:04:36",
+			"observer":"M. Berton, F. Bufano",
+			"public":"1",
+			"reducer":"A. Floers, S. Taubenberger, C. Vogl",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"9"
+}

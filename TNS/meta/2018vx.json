@@ -1,0 +1,57 @@
+{
+	"dec":"+17:28:18.23",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-02-17 10:24:57",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J144310.44+172816.5",
+	"internal_name":"ASASSN-18db",
+	"isTNS_AT":"1",
+	"name":"2018vx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2018vx",
+	"public":"1",
+	"ra":"14:43:10.44",
+	"redshift":"0.043",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018vx_2018-02-19.8_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458169.3,
+			"obsdate":"2018-02-19 19:12:00",
+			"observer":"Xiaoguang Yu",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"104"
+}

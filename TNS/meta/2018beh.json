@@ -1,0 +1,65 @@
+{
+	"dec":"+17:48:29.92",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-05-04 00:57:36",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J093123.09+174828.0",
+	"internal_name":"ASASSN-18ji",
+	"isTNS_AT":"1",
+	"name":"2018beh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"6",
+		"name":"SN Ib/c"
+	},
+	"objname":"2018beh",
+	"public":"1",
+	"ra":"09:31:23.00",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018beh_2018-05-06_00-58-49_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018beh_2018-05-06_00-58-49_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458244.5408449,
+			"obsdate":"2018-05-06 00:58:49",
+			"observer":"O. McBrien, P. Clark",
+			"public":"1",
+			"reducer":"E. Kankare",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"6"
+}

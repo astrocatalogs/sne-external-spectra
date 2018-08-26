@@ -1,0 +1,57 @@
+{
+	"dec":"+36:59:11.60",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Tsuboi",
+	"discovererid":"125",
+	"discoverydate":"2018-02-03 15:09:07",
+	"discoverymag":"15.1",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC3941",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018pv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018pv",
+	"public":"1",
+	"ra":"11:52:55.70",
+	"redshift":"0.0031",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018pv_2018-02-08.7_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2458158.1999884,
+			"obsdate":"2018-02-08 16:47:59",
+			"observer":"T. Nakaoka, M. Kawabata, R. Huang",
+			"public":"1",
+			"reducer":"M. Yamanaka",
+			"remarks":"The spectrum resembles with that of a normal Type Ia supernova (SN Ia) at the pre-maximum stage. Using the automatic SN classification tool, GELATO (Harutyunyan et al., 2008, A&A, 488, 383), the spectrum would be similar to that of SN 1992A at the 5 days before maximum. We identified the absorption lines of the CaII IR triplet, OI 7774, SiII 6355, SiII 5972, SII W-shape feature, and Fe II multiplet in our spectrum. The CaII IR triplet, OI 7774, and SiII 6355 line velocities were measured to be ~16500, ~16500, and ~13000 km/s, respectively.  The SiII 5972 absorption line was significantly deeper than that of SN 1992A, suggesting that this SN might be a more subluminous event.  We measured the equivalent width (EW) of the NaID line as to 0.9 angstrom, suggesting that the host galactic extinction could be very large (A_V~0.5-2.0). Even if the extinction is corrected for, this SN could be still in the rising phase. Follow-up observations could be encouraged. ",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"3"
+}

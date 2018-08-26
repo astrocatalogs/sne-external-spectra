@@ -1,0 +1,65 @@
+{
+	"dec":"+23:11:53.62",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-01-07 14:32:38",
+	"discoverymag":"19.04",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18mhs",
+	"isTNS_AT":"1",
+	"name":"2018abm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018abm",
+	"public":"1",
+	"ra":"08:37:11.41",
+	"redshift":"0.043",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018abm_2018-03-22.0_APO_3.5m_DIS_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"70",
+				"name":"DIS"
+			},
+			"jd":2458199.5,
+			"obsdate":"2018-03-22 00:00:00",
+			"observer":"M. Graham",
+			"public":"1",
+			"reducer":"M. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"55",
+				"name":"APO 3.5m"
+			}
+		}
+	],
+	"type":"10"
+}

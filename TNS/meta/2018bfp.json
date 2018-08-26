@@ -1,0 +1,57 @@
+{
+	"dec":"-02:34:51.99",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Narayan",
+	"discovererid":"661",
+	"discoverydate":"2018-04-24 16:38:36",
+	"discoverymag":"22.444",
+	"end_prop_period":null,
+	"host_redshift":"0.06",
+	"hostname":"SDSS J132438.21-023450.3",
+	"internal_name":"C17-0116",
+	"isTNS_AT":"1",
+	"name":"2018bfp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"4",
+		"name":"SN Ib"
+	},
+	"objname":"2018bfp",
+	"public":"1",
+	"ra":"13:24:38.22",
+	"redshift":"0.053",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018bfp_2018-05-10_09-13-42_Gemini-N_GMOS.flm",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"6",
+				"name":"GMOS"
+			},
+			"jd":2458248.8845139,
+			"obsdate":"2018-05-10 09:13:42",
+			"observer":"T. Dupuy",
+			"public":"1",
+			"reducer":"Yen-Chen Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"15",
+				"name":"Gemini-N"
+			}
+		}
+	],
+	"type":"4"
+}

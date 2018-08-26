@@ -1,0 +1,65 @@
+{
+	"dec":"+43:03:27.18",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-08-04 08:35:31",
+	"discoverymag":"14.899",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18szp",
+	"isTNS_AT":"1",
+	"name":"2018epf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"2",
+		"name":"SN I"
+	},
+	"objname":"2018epf",
+	"public":"1",
+	"ra":"16:50:31.70",
+	"redshift":"0.038",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018epf_2458336.321863_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458336.321863,
+			"obsdate":"2018-08-05 19:43:28",
+			"observer":"M.A.Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced using a summit quick reduction pipeline, care should be taken before re-using this data for further studies.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"2"
+}

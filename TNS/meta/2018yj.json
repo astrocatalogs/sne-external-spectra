@@ -1,0 +1,57 @@
+{
+	"dec":"-10:58:20.24",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-02-25 02:24:00",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J05031988-1058163",
+	"internal_name":"ASASSN-18dv",
+	"isTNS_AT":"1",
+	"name":"2018yj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018yj",
+	"public":"1",
+	"ra":"05:03:19.66",
+	"redshift":"0.035",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018yj_2018-02-28.5_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458178,
+			"obsdate":"2018-02-28 12:00:00",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"3"
+}

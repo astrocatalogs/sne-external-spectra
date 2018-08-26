@@ -1,0 +1,87 @@
+{
+	"dec":"-33:58:42.60",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Chen",
+	"discovererid":"142",
+	"discoverydate":"2018-03-03 22:04:48",
+	"discoverymag":"16",
+	"end_prop_period":null,
+	"host_redshift":"0.013763",
+	"hostname":"NGC 5419",
+	"internal_name":"ASASSN-18en",
+	"isTNS_AT":"1",
+	"name":"2018zz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018zz",
+	"public":"1",
+	"ra":"14:03:39.06",
+	"redshift":"0.0138",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018zz_2018-03-08_08-09-09_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"450",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018zz_2018-03-08_08-09-09_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458185.8396875,
+			"obsdate":"2018-03-08 08:09:09",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018zz_2018-03-08_08-09-09_ESO-3.6m_EFOSC2-3.6.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018zz_2018-03-08_08-09-09_ESO-3.6m_EFOSC2-3.6.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"32",
+				"name":"EFOSC2-3.6"
+			},
+			"jd":2458185.8396875,
+			"obsdate":"2018-03-08 08:09:09",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"32",
+				"name":"ESO-3.6m"
+			}
+		}
+	],
+	"type":"3"
+}

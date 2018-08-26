@@ -1,0 +1,57 @@
+{
+	"dec":"-63:36:54.25",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Vallely",
+	"discovererid":"668",
+	"discoverydate":"2018-08-21 07:26:24",
+	"discoverymag":"16.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J04180598-6336523",
+	"internal_name":"ASASSN-18tb",
+	"isTNS_AT":"1",
+	"name":"2018fhw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018fhw",
+	"public":"1",
+	"ra":"04:18:06.27",
+	"redshift":"0.017",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018fhw_2458353.610975117_SALT_RSS.dat",
+			"end_prop_period":null,
+			"exptime":"1933",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018fhw_2458353.610975117_SALT_RSS.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458353.6109751,
+			"obsdate":"2018-08-23 02:39:48",
+			"observer":"M. Kotze",
+			"public":"1",
+			"reducer":"Y. Eweis, S. W. Jha",
+			"remarks":"Type Ia SN at maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
+}

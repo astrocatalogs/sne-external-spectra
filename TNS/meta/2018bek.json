@@ -1,0 +1,67 @@
+{
+	"dec":"+68:14:31.00",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Grzegorzek",
+	"discovererid":"145",
+	"discoverydate":"2018-05-05 01:26:24",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"IC 1129",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018bek",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018bek",
+	"public":"1",
+	"ra":"15:32:01.55",
+	"redshift":"0.0218",
+	"source_group":{
+		"group_name":"PSH",
+		"groupid":"39"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018bek_2018-05-07.7_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				},
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458246.1999884,
+			"obsdate":"2018-05-07 16:47:59",
+			"observer":"Lei Hu, Maokai Hu",
+			"public":"1",
+			"reducer":"Han Lin",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"10"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"+41:34:09.95",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-03-17 07:42:14",
+	"discoverymag":"19.428",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18mlt",
+	"isTNS_AT":"1",
+	"name":"2018ahi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ahi",
+	"public":"1",
+	"ra":"07:22:02.39",
+	"redshift":"0.09",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ahi_2458195.327_UH88_SNIFS.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458195.327,
+			"obsdate":"2018-03-17 19:50:52",
+			"observer":"Tucker/Shappee",
+			"public":"1",
+			"reducer":"Tucker/Shappee",
+			"remarks":"Spectrum reduced using automated quick reduction with no flux or telluric correction applied. ",
+			"source_group_name":null,
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
+}

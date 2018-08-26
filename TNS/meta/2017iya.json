@@ -1,0 +1,57 @@
+{
+	"dec":"+08:43:27.21",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2017-12-12 06:33:07",
+	"discoverymag":"19.208",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS17nsh",
+	"isTNS_AT":"1",
+	"name":"2017iya",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017iya",
+	"public":"1",
+	"ra":"23:00:54.34",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017iya_2018-01-05_02-29-28_MMT_MMT-Blue.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"58",
+				"name":"MMT-Blue"
+			},
+			"jd":2458123.6037963,
+			"obsdate":"2018-01-05 02:29:28",
+			"observer":"P. Blanchard",
+			"public":"1",
+			"reducer":"P. Blanchard",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"47",
+				"name":"MMT"
+			}
+		}
+	],
+	"type":"3"
+}

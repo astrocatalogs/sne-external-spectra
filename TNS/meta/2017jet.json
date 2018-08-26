@@ -1,0 +1,87 @@
+{
+	"dec":"+81:41:42.50",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-12-26 12:00:00",
+	"discoverymag":"16.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J083701.19+814145.7",
+	"internal_name":"ASASSN-17rr",
+	"isTNS_AT":"1",
+	"name":"2017jet",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2017jet",
+	"public":"1",
+	"ra":"08:37:00.96",
+	"redshift":"0.04",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jet_2017-12-28.48_P200_DBSP_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017jet_2017-12-28.48_P200_DBSP_ASAS-SN.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458115.98,
+			"obsdate":"2017-12-28 11:31:12",
+			"observer":"S. Bose, P. Chen",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jet_2017-12-27_23-15-54_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"7828",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jet_2017-12-27_23-15-54_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458115.469375,
+			"obsdate":"2017-12-27 23:15:54",
+			"observer":"R Leadbeater",
+			"public":"1",
+			"reducer":"R Leadbeater",
+			"remarks":"R~150 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"104"
+}

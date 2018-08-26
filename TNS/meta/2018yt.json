@@ -1,0 +1,65 @@
+{
+	"dec":"+45:36:41.90",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"111",
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-02-09 06:00:00",
+	"discoverymag":"18.9",
+	"end_prop_period":"2018-04-24",
+	"host_redshift":null,
+	"hostname":"",
+	"internal_name":"ZTF18aaayemw",
+	"isTNS_AT":"1",
+	"name":"2018yt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018yt",
+	"public":"1",
+	"ra":"08:59:35.59",
+	"redshift":"0.052",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018yt_2018-02-14.0_NOT_ALFOSC_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458163.5,
+			"obsdate":"2018-02-14 00:00:00",
+			"observer":"F. Taddia",
+			"public":"1",
+			"reducer":"F. Taddia",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"10"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-22:40:36.11",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-04-15 09:33:07",
+	"discoverymag":"18.455",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18nfr",
+	"isTNS_AT":"1",
+	"name":"2018awd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"2",
+		"name":"SN I"
+	},
+	"objname":"2018awd",
+	"public":"1",
+	"ra":"12:50:28.57",
+	"redshift":"0.0451",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018awd_2018-04-22_07-57-03_P60_SED-Machine.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458230.8312847,
+			"obsdate":"2018-04-22 07:57:03",
+			"observer":"SEDM Robot",
+			"public":"1",
+			"reducer":"James Neill",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"2"
+}

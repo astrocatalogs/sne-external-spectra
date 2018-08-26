@@ -1,0 +1,57 @@
+{
+	"dec":"+43:32:58.20",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Zheng",
+	"discovererid":"172",
+	"discoverydate":"2018-07-10 11:35:47",
+	"discoverymag":"18.7",
+	"end_prop_period":null,
+	"host_redshift":"0.013519",
+	"hostname":"UGC 11801",
+	"internal_name":"kait-18ad",
+	"isTNS_AT":"1",
+	"name":"2018dfy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2018dfy",
+	"public":"1",
+	"ra":"21:43:32.91",
+	"redshift":"0.013",
+	"source_group":{
+		"group_name":"LOSS",
+		"groupid":"8"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018dfy_2018-07-15_09-47-00_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"2490",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458314.9076389,
+			"obsdate":"2018-07-15 09:47:00",
+			"observer":"M. R. Siebert",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"11"
+}

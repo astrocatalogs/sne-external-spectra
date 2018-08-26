@@ -1,0 +1,95 @@
+{
+	"dec":"+39:33:29.14",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2018-03-08 12:59:02",
+	"discoverymag":"18.42",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS18mh",
+	"isTNS_AT":"1",
+	"name":"2018aej",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aej",
+	"public":"1",
+	"ra":"15:44:23.01",
+	"redshift":"0.048",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2018aej_2018-03-24.1_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458201.6,
+			"obsdate":"2018-03-24 02:24:00",
+			"observer":"NOT ToO",
+			"public":"1",
+			"reducer":"H. Kuncarayakti",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018aej_2018-03-24.0_APO_3.5m_DIS_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"70",
+				"name":"DIS"
+			},
+			"jd":2458201.5,
+			"obsdate":"2018-03-24 00:00:00",
+			"observer":"M. Graham",
+			"public":"1",
+			"reducer":"M. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"55",
+				"name":"APO 3.5m"
+			}
+		}
+	],
+	"type":"3"
+}

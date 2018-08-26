@@ -1,0 +1,65 @@
+{
+	"dec":"+45:23:52.07",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Post",
+	"discovererid":"168",
+	"discoverydate":"2018-07-10 03:54:07",
+	"discoverymag":"18.4",
+	"end_prop_period":null,
+	"host_redshift":"0.031",
+	"hostname":"UGC10586",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018dfi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018dfi",
+	"public":"1",
+	"ra":"16:50:50.14",
+	"redshift":"0.031302",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018dfi_2018-07-12_06-08-43_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018dfi_2018-07-12_06-08-43_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458311.7560532,
+			"obsdate":"2018-07-12 06:08:43",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"10"
+}

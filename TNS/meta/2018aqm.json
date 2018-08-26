@@ -1,0 +1,93 @@
+{
+	"dec":"+42:42:47.60",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"li",
+	"discovererid":"384",
+	"discoverydate":"2018-04-06 18:06:12",
+	"discoverymag":"17.29",
+	"end_prop_period":null,
+	"host_redshift":"0.032402",
+	"hostname":"2MFGC 13255",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018aqm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aqm",
+	"public":"1",
+	"ra":"16:32:11.58",
+	"redshift":"0.032",
+	"source_group":{
+		"group_name":"TNTS",
+		"groupid":"25"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018aqm_2458219.3126_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458219.3126,
+			"obsdate":"2018-04-10 19:30:08",
+			"observer":"J. Jia, H. Wang(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018aqm_2018-04-10.0_P200_DBSP_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458218.5,
+			"obsdate":"2018-04-10 00:00:00",
+			"observer":"C. Fremling",
+			"public":"1",
+			"reducer":"C. Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"3"
+}

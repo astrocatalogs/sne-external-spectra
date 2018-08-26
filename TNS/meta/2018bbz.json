@@ -1,0 +1,65 @@
+{
+	"dec":"+60:05:45.80",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Ciabattari",
+	"discovererid":"149",
+	"discoverydate":"2018-04-26 00:28:48",
+	"discoverymag":"17.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC60339",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018bbz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bbz",
+	"public":"1",
+	"ra":"17:27:52.33",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"ISSP",
+		"groupid":"27"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2018bbz_2018-04-28.990_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":"2018-05-11",
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2018bbz_2018-04-28.990_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458237.49,
+			"obsdate":"2018-04-28 23:45:36",
+			"observer":"A. Sagues",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

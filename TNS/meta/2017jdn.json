@@ -1,0 +1,63 @@
+{
+	"dec":"+53:06:20.50",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Ciabattari",
+	"discovererid":"149",
+	"discoverydate":"2017-12-24 04:33:36",
+	"discoverymag":"17.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC5615",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017jdn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"14",
+		"name":"SN IIb"
+	},
+	"objname":"2017jdn",
+	"public":"1",
+	"ra":"10:23:45.51",
+	"redshift":"0.0317",
+	"source_group":{
+		"group_name":"ISSP",
+		"groupid":"27"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jdn_2458115.3456_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458115.3456,
+			"obsdate":"2017-12-27 20:17:39",
+			"observer":"F. Xiao, P. Qiu(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"Cross-correlation with a library of supernova spectra using the \"Supernova Identification\" code (SNID; Blondin and Tonry 2007, Ap.J., 666, 1024) shows that this transient is consistant with type IIb supernova",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"14"
+}

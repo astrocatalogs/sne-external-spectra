@@ -1,0 +1,65 @@
+{
+	"dec":"-47:58:41.30",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Bersier",
+	"discovererid":"112",
+	"discoverydate":"2018-08-02 19:12:00",
+	"discoverymag":"16.7",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC64082",
+	"internal_name":"ASASSN-18qs",
+	"isTNS_AT":"1",
+	"name":"2018enj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018enj",
+	"public":"1",
+	"ra":"20:05:41.10",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018enj_2018-08-04_03-53-32_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"299",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018enj_2018-08-04_03-53-32_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458334.6621759,
+			"obsdate":"2018-08-04 03:53:32",
+			"observer":"F. Onori, R. Stein",
+			"public":"1",
+			"reducer":"G. Cannizzaro",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

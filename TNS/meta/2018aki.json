@@ -1,0 +1,65 @@
+{
+	"dec":"+56:00:19.01",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-03-21 03:21:36",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":"0.030211",
+	"hostname":"2MASX J08170689+5600187",
+	"internal_name":"ASASSN-18fw",
+	"isTNS_AT":"1",
+	"name":"2018aki",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aki",
+	"public":"1",
+	"ra":"08:17:06.91",
+	"redshift":"0.030211",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018aki_2018-03-18_18-59-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018aki_2018-03-18_18-59-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458196.2909722,
+			"obsdate":"2018-03-18 18:59:00",
+			"observer":"Ochner",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}

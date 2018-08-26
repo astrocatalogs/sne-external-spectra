@@ -1,0 +1,57 @@
+{
+	"dec":"-25:36:06.13",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-06-12 07:29:16",
+	"discoverymag":"18.628",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18qlv",
+	"isTNS_AT":"1",
+	"name":"2018cjy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018cjy",
+	"public":"1",
+	"ra":"12:59:45.30",
+	"redshift":"0.064",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cjy_2018-06-18_01-01-00_SOAR_Goodman.flm",
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458287.5423611,
+			"obsdate":"2018-06-18 01:01:00",
+			"observer":"Y.-C. Pan",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
+}

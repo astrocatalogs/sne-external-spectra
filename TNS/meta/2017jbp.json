@@ -1,0 +1,57 @@
+{
+	"dec":"+63:32:46.78",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2017-12-07 13:43:40",
+	"discoverymag":"20.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS17fjq",
+	"isTNS_AT":"1",
+	"name":"2017jbp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017jbp",
+	"public":"1",
+	"ra":"08:57:17.68",
+	"redshift":"0.14",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jbp_2018-01-08_07-01-32_MMT_MMT-Blue.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"58",
+				"name":"MMT-Blue"
+			},
+			"jd":2458126.7927315,
+			"obsdate":"2018-01-08 07:01:32",
+			"observer":"M. Nicholl",
+			"public":"1",
+			"reducer":"P. Blanchard",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"47",
+				"name":"MMT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"+20:30:16.88",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-07-22 12:57:36",
+	"discoverymag":"16.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J024116.45+203016.8",
+	"internal_name":"ASASSN-18pw",
+	"isTNS_AT":"1",
+	"name":"2018ebw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ebw",
+	"public":"1",
+	"ra":"02:41:16.40",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ebw_2018-07-24_03-13-16_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458323.634213,
+			"obsdate":"2018-07-24 03:13:16",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

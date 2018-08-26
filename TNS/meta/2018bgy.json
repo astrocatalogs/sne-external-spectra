@@ -1,0 +1,65 @@
+{
+	"dec":"-36:13:50.51",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-05-07 10:04:48",
+	"discoverymag":"17.194",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18nwa",
+	"isTNS_AT":"1",
+	"name":"2018bgy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bgy",
+	"public":"1",
+	"ra":"14:55:11.65",
+	"redshift":"0.032",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018bgy_2018-05-14_19-06-10_SALT_RSS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018bgy_2018-05-14_19-06-10_SALT_RSS_ASAS-SN.fits",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458253.2959491,
+			"obsdate":"2018-05-14 19:06:10",
+			"observer":"Mariusz Gromadzki",
+			"public":"1",
+			"reducer":"Mariusz Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
+}

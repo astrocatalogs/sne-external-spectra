@@ -1,0 +1,65 @@
+{
+	"dec":"-71:12:25.50",
+	"discmagfilter":{
+		"family":"Cousins",
+		"id":"14",
+		"name":"I"
+	},
+	"discoverer":"Wyrzykowski",
+	"discovererid":"221",
+	"discoverydate":"2017-12-27 06:16:12",
+	"discoverymag":"21.018",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"OGLE-GAL-MBR131.24-1694.208-1278.927",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017jei",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017jei",
+	"public":"1",
+	"ra":"03:14:12.03",
+	"redshift":"0.058",
+	"source_group":{
+		"group_name":"OGLE",
+		"groupid":"17"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017jei_2017-12-30_02-43-46_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017jei_2017-12-30_02-43-46_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458117.6137269,
+			"obsdate":"2017-12-30 02:43:46",
+			"observer":"C.R. Angus, S. Jones",
+			"public":"1",
+			"reducer":"C.R. Angus, S. Jones",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
+}

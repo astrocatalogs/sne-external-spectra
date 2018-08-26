@@ -1,0 +1,65 @@
+{
+	"dec":"-05:34:11.57",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-07-15 01:12:00",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J125510.22-053406.8",
+	"internal_name":"ASASSN-18ph",
+	"isTNS_AT":"1",
+	"name":"2018dys",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"5",
+		"name":"SN Ic"
+	},
+	"objname":"2018dys",
+	"public":"1",
+	"ra":"12:55:10.23",
+	"redshift":"0.055",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018dys_2458321.271_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458321.271,
+			"obsdate":"2018-07-21 18:30:14",
+			"observer":"Tucker, Rowan, Shappee",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced using a summit quick reduction pipeline intended for quick look and classifications purposes. Care should be taken before re-using this spectrum for further science.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"5"
+}

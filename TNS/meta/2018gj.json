@@ -1,0 +1,79 @@
+{
+	"dec":"+78:12:41.13",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Wiggins",
+	"discovererid":"531",
+	"discoverydate":"2018-01-14 09:49:23",
+	"discoverymag":"14.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 6217",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018gj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018gj",
+	"public":"1",
+	"ra":"16:32:02.40",
+	"redshift":"0.004556",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gj_2018-01-15_15-00-08_FTN_FLOYDS-N.flm",
+			"end_prop_period":null,
+			"exptime":"480",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458134.1250926,
+			"obsdate":"2018-01-15 15:00:08",
+			"observer":"Kilpatrick",
+			"public":"1",
+			"reducer":"Kilpatrick",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gj_2458133.2929_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"4800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gj_2458133.2929_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458133.2929,
+			"obsdate":"2018-01-14 19:01:46",
+			"observer":"Etienne Bertrand",
+			"public":"1",
+			"reducer":"Etienne Bertrand",
+			"remarks":"4 x 1200s (Atik 414EX - ccd)\r\n with C8 telescope, Alpy600 spectrograph and ISIS software.\r\n(Thanks to Robin Leadbeater)",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"10"
+}

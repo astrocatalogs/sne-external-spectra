@@ -17,18 +17,49 @@
 	"name":"2017ita",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"30",
+		"name":"Galaxy"
 	},
 	"objname":"2017ita",
 	"public":"1",
 	"ra":"07:18:02.98",
-	"redshift":null,
+	"redshift":"0.033",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ita_2017-12-16_04-32-42_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ita_2017-12-16_04-32-42_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458103.689375,
+			"obsdate":"2017-12-16 04:32:42",
+			"observer":"M.Smith, C.R.Angus",
+			"public":"1",
+			"reducer":"M.Smith, C.R.Angus",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"30"
 }

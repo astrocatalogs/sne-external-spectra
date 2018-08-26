@@ -1,0 +1,57 @@
+{
+	"dec":"-29:09:46.19",
+	"discmagfilter":{
+		"family":"SkyMapper",
+		"id":"61",
+		"name":"r-SM"
+	},
+	"discoverer":null,
+	"discovererid":"36338",
+	"discoverydate":"2018-05-13 15:34:33",
+	"discoverymag":"19.32",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"SMT18iy",
+	"isTNS_AT":"1",
+	"name":"2018bwq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bwq",
+	"public":"1",
+	"ra":"21:29:11.76",
+	"redshift":"0.084",
+	"source_group":{
+		"group_name":"SkyMapper",
+		"groupid":"5"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018bwq_2018-05-11_18-30-00_Other_Other.txt",
+			"end_prop_period":null,
+			"exptime":"1000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458250.2708333,
+			"obsdate":"2018-05-11 18:30:00",
+			"observer":"A. R. Lopez-Sanchez (AAO/Macquarie U.), Lluis Galbany (Pitt), Yago Ascasibar (UAM), Kristin Fiegert (AAO)",
+			"public":"1",
+			"reducer":"A. R. Lopez-Sanchez (AAO/Macquarie U.), Lluis Galbany (Pitt), Yago Ascasibar (UAM)",
+			"remarks":"Observations were performed on the 4m Anglo-Australian Telescope at Siding Spring Observatory on 2018 May 22 18:20 UT, using Koala+AAOmega and Grisms 580V+385R (3700-5700A and 6100-9300A).",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
+}

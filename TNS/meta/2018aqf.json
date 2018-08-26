@@ -1,0 +1,65 @@
+{
+	"dec":"+51:08:25.69",
+	"discmagfilter":{
+		"family":"CRTS",
+		"id":"55",
+		"name":"V-crts"
+	},
+	"discoverer":"Drake",
+	"discovererid":"212",
+	"discoverydate":"2018-04-05 10:52:52",
+	"discoverymag":"18.9",
+	"end_prop_period":null,
+	"host_redshift":"0.0331",
+	"hostname":"UGC 11241",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018aqf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"4",
+		"name":"SN Ib"
+	},
+	"objname":"2018aqf",
+	"public":"1",
+	"ra":"18:26:48.85",
+	"redshift":"0.033",
+	"source_group":{
+		"group_name":"SNHunt",
+		"groupid":"14"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018aqf_2018-04-10.0_P200_DBSP_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458218.5,
+			"obsdate":"2018-04-10 00:00:00",
+			"observer":"C. Fremling",
+			"public":"1",
+			"reducer":"C. Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"4"
+}

@@ -1,0 +1,63 @@
+{
+	"dec":"+39:03:42.30",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-01-10 06:57:36",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J091612.25+390341.8",
+	"internal_name":"ASASSN-18aj",
+	"isTNS_AT":"1",
+	"name":"2018dx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018dx",
+	"public":"1",
+	"ra":"09:16:12.33",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018dx_2458130.2522_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458130.2522,
+			"obsdate":"2018-01-11 18:03:10",
+			"observer":"F. Xiao, J. Ren(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"Cross-correlation with a library of supernova spectra using the \"Supernova Identification\" code (SNID; Blondin and Tonry 2007, Ap.J., 666, 1024) indicates that this transient is consistent with a type Ia supernova about  a few days before maximum light.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
+}

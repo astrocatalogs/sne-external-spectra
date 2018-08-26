@@ -1,0 +1,65 @@
+{
+	"dec":"-49:54:28.48",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-08-13 01:26:24",
+	"discoverymag":"17.7",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J04175445-4954290",
+	"internal_name":"ASASSN-18sd",
+	"isTNS_AT":"1",
+	"name":"2018fcu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018fcu",
+	"public":"1",
+	"ra":"04:17:54.69",
+	"redshift":"0.05",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018fcu_2018-08-18_08-26-17_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018fcu_2018-08-18_08-26-17_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458348.8515856,
+			"obsdate":"2018-08-18 08:26:17",
+			"observer":"E. Callis, Z. Kostrzewa-Rutkowska",
+			"public":"1",
+			"reducer":"M. Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

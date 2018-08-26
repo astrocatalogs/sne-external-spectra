@@ -1,0 +1,57 @@
+{
+	"dec":"-26:47:06.79",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-06-26 07:55:12",
+	"discoverymag":"16.7",
+	"end_prop_period":null,
+	"host_redshift":"0.0198",
+	"hostname":"ESO 476- G 016",
+	"internal_name":"ASASSN-18oa",
+	"isTNS_AT":"1",
+	"name":"2018cvn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"13",
+		"name":"SN IIn"
+	},
+	"objname":"2018cvn",
+	"public":"1",
+	"ra":"01:30:27.12",
+	"redshift":"0.019",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cvn_2018-06-29_09-28-35_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cvn_2018-06-29_09-28-35_SOAR_Goodman.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458298.8948495,
+			"obsdate":"2018-06-29 09:28:35",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"13"
+}

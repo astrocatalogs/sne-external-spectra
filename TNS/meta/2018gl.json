@@ -1,0 +1,57 @@
+{
+	"dec":"+10:21:33.84",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-01-13 13:40:47",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":"0.017906",
+	"hostname":"NGC 3070",
+	"internal_name":"ASASSN-18an",
+	"isTNS_AT":"1",
+	"name":"2018gl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018gl",
+	"public":"1",
+	"ra":"09:58:06.25",
+	"redshift":"0.018",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gl_2018-01-15_09-46-04_Keck1_LRIS.dat",
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458133.9069907,
+			"obsdate":"2018-01-15 09:46:04",
+			"observer":"G. Dimitriadis, M. R. Siebert, R. J. Foley (UCSC)",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"3"
+}

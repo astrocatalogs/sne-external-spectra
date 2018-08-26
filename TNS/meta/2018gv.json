@@ -1,0 +1,87 @@
+{
+	"dec":"-11:26:16.30",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2018-01-15 16:21:06",
+	"discoverymag":"16.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 2525",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018gv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018gv",
+	"public":"1",
+	"ra":"08:05:34.61",
+	"redshift":"0.0053",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gv_2018-01-16_09-20-20_Keck1_LRIS.dat",
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458134.8891204,
+			"obsdate":"2018-01-16 09:20:20",
+			"observer":"M. R. Siebert, G. Dimitriadis, R. J. Foley (UCSC)",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018gv_2018-01-16_03-27-50_ESO-NTT_EFOSC2-NTT_ePESSTO_0.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018gv_2018-01-16_03-27-50_ESO-NTT_EFOSC2-NTT_ePESSTO_0.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458134.6443287,
+			"obsdate":"2018-01-16 03:27:50",
+			"observer":"M. Berton, F. Bufano",
+			"public":"1",
+			"reducer":"A. Floers, S. Taubenberger, C. Vogl",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"+39:23:47.00",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Zheng",
+	"discovererid":"172",
+	"discoverydate":"2018-04-01 10:21:29",
+	"discoverymag":"15.3",
+	"end_prop_period":null,
+	"host_redshift":"0.003319",
+	"hostname":"NGC 4151",
+	"internal_name":"kait-18P",
+	"isTNS_AT":"1",
+	"name":"2018aoq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018aoq",
+	"public":"1",
+	"ra":"12:10:38.19",
+	"redshift":"0.003319",
+	"source_group":{
+		"group_name":"LOSS",
+		"groupid":"8"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018aoq_2018-04-02.6_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2458211.1,
+			"obsdate":"2018-04-02 14:24:00",
+			"observer":"Nakaoka, T., Kawabata, M., Takagi, K.",
+			"public":"1",
+			"reducer":"M. Yamanaka",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"10"
+}

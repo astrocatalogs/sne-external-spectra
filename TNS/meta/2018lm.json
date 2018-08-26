@@ -1,0 +1,65 @@
+{
+	"dec":"-36:37:29.47",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-01-28 07:12:00",
+	"discoverymag":"17.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J103204.97-363738.3",
+	"internal_name":"ASASSN-18bm",
+	"isTNS_AT":"1",
+	"name":"2018lm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018lm",
+	"public":"1",
+	"ra":"10:32:04.88",
+	"redshift":"0.045",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018lm_2018-02-05_04-06-00_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018lm_2018-02-05_04-06-00_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458154.6708333,
+			"obsdate":"2018-02-05 04:06:00",
+			"observer":"R. Cartier, A. Razza",
+			"public":"1",
+			"reducer":"P. Clark, O. McBrien",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

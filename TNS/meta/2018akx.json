@@ -1,0 +1,65 @@
+{
+	"dec":"-26:10:55.85",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-03-22 18:28:48",
+	"discoverymag":"17.5",
+	"end_prop_period":null,
+	"host_redshift":"0.001431",
+	"hostname":"NGC 3109",
+	"internal_name":"ASASSN-18gb",
+	"isTNS_AT":"1",
+	"name":"2018akx",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"24",
+		"name":"LBV"
+	},
+	"objname":"2018akx",
+	"public":"1",
+	"ra":"10:03:23.22",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018akx_2018-04-09_05-14-05_P60_SED-Machine_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458217.7181134,
+			"obsdate":"2018-04-09 05:14:05",
+			"observer":"SEDM",
+			"public":"1",
+			"reducer":"Don Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"24"
+}

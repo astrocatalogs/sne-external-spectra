@@ -1,0 +1,57 @@
+{
+	"dec":"-28:02:30.84",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-04-13 07:55:12",
+	"discoverymag":"18.1",
+	"end_prop_period":null,
+	"host_redshift":"0.025164",
+	"hostname":"2MASX J14220184-2802358 ",
+	"internal_name":"ASASSN-18hw",
+	"isTNS_AT":"1",
+	"name":"2018aum",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018aum",
+	"public":"1",
+	"ra":"14:22:02.53",
+	"redshift":"0.025",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018aum_2018-04-21_03-04-00_SOAR_Goodman.flm",
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458229.6277778,
+			"obsdate":"2018-04-21 03:04:00",
+			"observer":"Y.-C. Pan",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"10"
+}

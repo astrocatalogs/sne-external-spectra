@@ -1,0 +1,65 @@
+{
+	"dec":"+39:22:54.10",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"li",
+	"discovererid":"384",
+	"discoverydate":"2018-04-06 19:40:19",
+	"discoverymag":"18.22",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J165705.00+392253.8",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018aql",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2018aql",
+	"public":"1",
+	"ra":"16:57:04.96",
+	"redshift":"0.074",
+	"source_group":{
+		"group_name":"TNTS",
+		"groupid":"25"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2018aql_2458218.3549_Lijiang-2.4m_YFOSC_TNTS.dat",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458218.3549,
+			"obsdate":"2018-04-09 20:31:03",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"25",
+				"name":"TNTS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"11"
+}

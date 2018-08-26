@@ -1,0 +1,57 @@
+{
+	"dec":"+10:13:55.34",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-02-21 03:36:00",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":"0.030875",
+	"hostname":"CGCG 062-012",
+	"internal_name":"ASASSN-18dk",
+	"isTNS_AT":"1",
+	"name":"2018xy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018xy",
+	"public":"1",
+	"ra":"09:16:22.06",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018xy_2018-02-26_20-52-50_SALT_RSS.ascii",
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458176.3700231,
+			"obsdate":"2018-02-26 20:52:50",
+			"observer":"Service",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
+}

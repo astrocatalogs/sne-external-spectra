@@ -1,0 +1,65 @@
+{
+	"dec":"+54:24:28.80",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Caimmi",
+	"discovererid":"153",
+	"discoverydate":"2018-04-02 03:49:47",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"IC1069",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018aoy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aoy",
+	"public":"1",
+	"ra":"14:50:47.92",
+	"redshift":"0.05",
+	"source_group":{
+		"group_name":"ISSP",
+		"groupid":"27"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018aoy_2018-04-09_11-28-52_P60_SED-Machine_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458217.9783796,
+			"obsdate":"2018-04-09 11:28:52",
+			"observer":"SEDM",
+			"public":"1",
+			"reducer":"Don Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"3"
+}

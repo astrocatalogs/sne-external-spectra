@@ -1,0 +1,57 @@
+{
+	"dec":"+39:49:19.09",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2017-12-15 06:56:09",
+	"discoverymag":"18.52",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia17dhk",
+	"isTNS_AT":"1",
+	"name":"2017izn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017izn",
+	"public":"1",
+	"ra":"01:53:31.36",
+	"redshift":"0.09",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017izn_2018-01-08_05-18-35_MMT_MMT-Blue.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"58",
+				"name":"MMT-Blue"
+			},
+			"jd":2458126.7212384,
+			"obsdate":"2018-01-08 05:18:35",
+			"observer":"M. Nicholl",
+			"public":"1",
+			"reducer":"P. Blanchard",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"47",
+				"name":"MMT"
+			}
+		}
+	],
+	"type":"3"
+}

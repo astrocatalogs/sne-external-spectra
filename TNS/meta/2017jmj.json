@@ -1,0 +1,57 @@
+{
+	"dec":"+06:45:54.50",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Post",
+	"discovererid":"168",
+	"discoverydate":"2017-12-31 10:51:56",
+	"discoverymag":"18.5",
+	"end_prop_period":null,
+	"host_redshift":"0.027881",
+	"hostname":"NGC3349",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017jmj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"5",
+		"name":"SN Ic"
+	},
+	"objname":"2017jmj",
+	"public":"1",
+	"ra":"10:43:50.40",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jmj_2018-01-14_10-25-18_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"2160",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458132.9342361,
+			"obsdate":"2018-01-14 10:25:18",
+			"observer":"C. Rojas-Bravo, R. T. Case",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"5"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"+28:46:30.60",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Post",
+	"discovererid":"168",
+	"discoverydate":"2018-06-04 10:05:27",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":"0.02245",
+	"hostname":"NGC7775",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018cew",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"4",
+		"name":"SN Ib"
+	},
+	"objname":"2018cew",
+	"public":"1",
+	"ra":"23:52:24.20",
+	"redshift":null,
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018cew_2018-06-11_10-02-39_P60_SED-Machine_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458280.9185069,
+			"obsdate":"2018-06-11 10:02:39",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"Y. Sharma",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"4"
+}

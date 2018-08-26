@@ -1,0 +1,65 @@
+{
+	"dec":"-39:41:49.09",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":"37975",
+	"discoverydate":"2018-02-21 09:10:04",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC4767",
+	"internal_name":"DLT18h",
+	"isTNS_AT":"1",
+	"name":"2018xx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018xx",
+	"public":"1",
+	"ra":"12:53:48.25",
+	"redshift":null,
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":"30"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DLT40/tns_2018xx_2018-02-22_03-54-36_SOAR_Goodman_DLT40.txt",
+			"assoc_groups":[
+				{
+					"id":"30",
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458171.6629167,
+			"obsdate":"2018-02-22 03:54:36",
+			"observer":"A Bahramian and L Shishkovsky",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"30",
+				"name":"DLT40"
+			},
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
+}

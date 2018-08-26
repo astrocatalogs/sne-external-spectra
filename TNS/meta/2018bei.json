@@ -1,0 +1,65 @@
+{
+	"dec":"+12:34:04.44",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Zheng",
+	"discovererid":"172",
+	"discoverydate":"2018-05-03 11:45:24",
+	"discoverymag":"18.6",
+	"end_prop_period":null,
+	"host_redshift":"0.02837",
+	"hostname":"LEDA 214391",
+	"internal_name":"kait-18T",
+	"isTNS_AT":"1",
+	"name":"2018bei",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018bei",
+	"public":"1",
+	"ra":"15:35:33.12",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"LOSS",
+		"groupid":"8"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bei_2018-05-12_04-52-54_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bei_2018-05-12_04-52-54_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458250.7034028,
+			"obsdate":"2018-05-12 04:52:54",
+			"observer":"Peter Clark, Owen McBrien",
+			"public":"1",
+			"reducer":"Ken Smith, David O'Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
+}

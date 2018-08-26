@@ -1,0 +1,65 @@
+{
+	"dec":"+71:25:45.12",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-12-18 07:12:00",
+	"discoverymag":"15.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"VII Zw 218 ",
+	"internal_name":"ASASSN-17qz",
+	"isTNS_AT":"1",
+	"name":"2017iyw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017iyw",
+	"public":"1",
+	"ra":"08:13:30.63",
+	"redshift":"0.0215",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017iyw_2017-10-20_19-45-00_Ekar_AFOSC_Padova-Asiago.txt",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2017iyw_2017-10-20_19-45-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458047.3229167,
+			"obsdate":"2017-10-20 19:45:00",
+			"observer":"Nascimbeni",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}

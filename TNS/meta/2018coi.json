@@ -1,0 +1,65 @@
+{
+	"dec":"+56:43:00.77",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"110",
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-06-12 06:21:36",
+	"discoverymag":"19.53",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18aazixbw",
+	"isTNS_AT":"1",
+	"name":"2018coi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018coi",
+	"public":"1",
+	"ra":"16:18:57.98",
+	"redshift":"0.0594",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018coi_2018-06-11_10-39-27_Gemini-N_GMOS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":"2018-07-16",
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"6",
+				"name":"GMOS"
+			},
+			"jd":2458280.9440625,
+			"obsdate":"2018-06-11 10:39:27",
+			"observer":"Service",
+			"public":"1",
+			"reducer":"E. Karamehmetoglu",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"15",
+				"name":"Gemini-N"
+			}
+		}
+	],
+	"type":"3"
+}

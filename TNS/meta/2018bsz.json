@@ -1,0 +1,95 @@
+{
+	"dec":"-32:03:45.22",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-05-17 00:00:00",
+	"discoverymag":"17.3",
+	"end_prop_period":null,
+	"host_redshift":"0.026665",
+	"hostname":"2MASX J16093905-3203443",
+	"internal_name":"ASASSN-18km",
+	"isTNS_AT":"1",
+	"name":"2018bsz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018bsz",
+	"public":"1",
+	"ra":"16:09:39.20",
+	"redshift":"0.027",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bsz_2018-05-21_05-37-31_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018bsz_2018-05-21_05-37-31_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458259.7343866,
+			"obsdate":"2018-05-21 05:37:31",
+			"observer":"P. Clark, O. McBrien",
+			"public":"1",
+			"reducer":"M. Magee",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018bsz_2018-05-20_11-30-37_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018bsz_2018-05-20_11-30-37_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458258.9795949,
+			"obsdate":"2018-05-20 11:30:37",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"Using Superfit (Howell et al. 2005, ApJ, 634, 1190) and SNID (Blondin & Tonry 2007, ApJ, 666, 1024), we find good fits to several young Type II supernovae around the redshift of the proposed host galaxy (z=0.026665; 6dF DR4, via NED).",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"10"
+}

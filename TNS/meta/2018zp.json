@@ -1,0 +1,117 @@
+{
+	"dec":"+26:35:45.67",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-02-28 15:44:38",
+	"discoverymag":"18.333",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18mgm",
+	"isTNS_AT":"1",
+	"name":"2018zp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018zp",
+	"public":"1",
+	"ra":"16:43:39.77",
+	"redshift":"0.055",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018zp_2018-03-24.0_APO_3.5m_DIS_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"70",
+				"name":"DIS"
+			},
+			"jd":2458201.5,
+			"obsdate":"2018-03-24 00:00:00",
+			"observer":"M. Graham",
+			"public":"1",
+			"reducer":"M. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"55",
+				"name":"APO 3.5m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018zp_2018-03-08_08-58-19_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018zp_2018-03-08_08-58-19_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458185.873831,
+			"obsdate":"2018-03-08 08:58:19",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018zp_2018-03-08_08-58-19_ESO-3.6m_EFOSC2-3.6.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018zp_2018-03-08_08-58-19_ESO-3.6m_EFOSC2-3.6.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"32",
+				"name":"EFOSC2-3.6"
+			},
+			"jd":2458185.873831,
+			"obsdate":"2018-03-08 08:58:19",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"32",
+				"name":"ESO-3.6m"
+			}
+		}
+	],
+	"type":"3"
+}

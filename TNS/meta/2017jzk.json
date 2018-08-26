@@ -1,0 +1,65 @@
+{
+	"dec":"+16:40:28.30",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Jiang",
+	"discovererid":"578",
+	"discoverydate":"2017-12-17 17:02:24",
+	"discoverymag":"19.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"SKYS1712b",
+	"isTNS_AT":"1",
+	"name":"2017jzk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017jzk",
+	"public":"1",
+	"ra":"09:07:00.04",
+	"redshift":"0.08",
+	"source_group":{
+		"group_name":"SKYS",
+		"groupid":"41"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SKYS/tns_2017jzk_2017-12-29_00-00-00_FTN_FLOYDS-N_SKYS.ascii",
+			"assoc_groups":[
+				{
+					"id":"41",
+					"name":"SKYS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458116.5,
+			"obsdate":"2017-12-29 00:00:00",
+			"observer":"Iair Arcavi",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"41",
+				"name":"SKYS"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"3"
+}

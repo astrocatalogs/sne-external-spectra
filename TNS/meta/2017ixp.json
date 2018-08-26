@@ -1,0 +1,57 @@
+{
+	"dec":"-20:42:56.20",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-12-16 01:55:12",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J02273684-2042513",
+	"internal_name":"ASASSN-17qt",
+	"isTNS_AT":"1",
+	"name":"2017ixp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017ixp",
+	"public":"1",
+	"ra":"02:27:36.60",
+	"redshift":"0.036",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixp_2017-12-17_02-59-29_LCO-duPont_WFCCD.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458104.6246412,
+			"obsdate":"2017-12-17 02:59:29",
+			"observer":"N. Morrell",
+			"public":"1",
+			"reducer":"N. Morrell",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":"10"
+}

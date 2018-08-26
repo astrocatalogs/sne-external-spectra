@@ -1,0 +1,57 @@
+{
+	"dec":"+17:30:28.66",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-06-17 02:09:36",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":"0.022115",
+	"hostname":"IC 0964",
+	"internal_name":"ASASSN-18mz",
+	"isTNS_AT":"1",
+	"name":"2018cqi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2018cqi",
+	"public":"1",
+	"ra":"13:57:40.90",
+	"redshift":"0.02218",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cqi_2018-06-18_07-01-05_Lick_3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1645",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458287.792419,
+			"obsdate":"2018-06-18 07:01:05",
+			"observer":"D. O. Jones, C. Rojas-Bravo",
+			"public":"1",
+			"reducer":"G. Dimitriadis, Y. -C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"11"
+}

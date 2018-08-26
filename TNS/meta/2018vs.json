@@ -1,0 +1,65 @@
+{
+	"dec":"-49:43:33.10",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-02-14 03:07:12",
+	"discoverymag":"17.7",
+	"end_prop_period":null,
+	"host_redshift":"0.045825",
+	"hostname":"ESO 207- G 015",
+	"internal_name":"ASASSN-18cy",
+	"isTNS_AT":"1",
+	"name":"2018vs",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018vs",
+	"public":"1",
+	"ra":"07:02:22.20",
+	"redshift":"0.046",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018vs_2018-02-18_05-25-44_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018vs_2018-02-18_05-25-44_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458167.7262037,
+			"obsdate":"2018-02-18 05:25:44",
+			"observer":"K. Smith, J. Palmerio",
+			"public":"1",
+			"reducer":"M. Magee",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

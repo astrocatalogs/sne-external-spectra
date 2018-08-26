@@ -1,0 +1,57 @@
+{
+	"dec":"+46:25:05.12",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2018-04-10 17:18:14",
+	"discoverymag":"18.19",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia18axn",
+	"isTNS_AT":"1",
+	"name":"2018ats",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ats",
+	"public":"1",
+	"ra":"10:12:56.29",
+	"redshift":"0.0382",
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ats_2018-04-26.990_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ats_2018-04-26.990_NOT_ALFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458235.49,
+			"obsdate":"2018-04-26 23:45:36",
+			"observer":"I. Rivero Losada",
+			"public":"1",
+			"reducer":"S. Benetti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
+}

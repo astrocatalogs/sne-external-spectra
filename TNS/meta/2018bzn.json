@@ -1,0 +1,65 @@
+{
+	"dec":"+05:27:59.08",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-05-26 01:12:00",
+	"discoverymag":"16.7",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J103746.12+052802.0 ",
+	"internal_name":"ASASSN-18lh",
+	"isTNS_AT":"1",
+	"name":"2018bzn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bzn",
+	"public":"1",
+	"ra":"10:37:46.08",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018bzn_2018-05-30_21-14-45_LT_FRODOspec_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"95",
+				"name":"FRODOspec"
+			},
+			"jd":2458269.3852431,
+			"obsdate":"2018-05-30 21:14:45",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

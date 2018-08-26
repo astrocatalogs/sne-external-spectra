@@ -1,0 +1,87 @@
+{
+	"dec":"-02:41:18.60",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-03-06 01:40:48",
+	"discoverymag":"17.5",
+	"end_prop_period":null,
+	"host_redshift":"0.0309",
+	"hostname":"LCRS B103002.1-022549",
+	"internal_name":"ASASSN-18et",
+	"isTNS_AT":"1",
+	"name":"2018aay",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aay",
+	"public":"1",
+	"ra":"10:32:34.85",
+	"redshift":"0.0309",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018aay_2018-03-08_05-29-23_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018aay_2018-03-08_05-29-23_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458185.7287384,
+			"obsdate":"2018-03-08 05:29:23",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018aay_2018-03-08_05-29-23_ESO-NTT_EFOSC2-NTT.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018aay_2018-03-08_05-29-23_ESO-NTT_EFOSC2-NTT.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458185.7287384,
+			"obsdate":"2018-03-08 05:29:23",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

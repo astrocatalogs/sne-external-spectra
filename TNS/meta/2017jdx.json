@@ -1,0 +1,79 @@
+{
+	"dec":"+22:22:26.26",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2017-12-20 02:09:36",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":"0.019417",
+	"hostname":"IC 1586",
+	"internal_name":"ASASSN-17ri",
+	"isTNS_AT":"1",
+	"name":"2017jdx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017jdx",
+	"public":"1",
+	"ra":"00:47:56.19",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jdx_2017-12-26_17-27-28_Other_Other_0.dat",
+			"end_prop_period":null,
+			"exptime":"4209",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jdx_2017-12-26_17-27-28_Other_Other_0.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458114.2274074,
+			"obsdate":"2017-12-26 17:27:28",
+			"observer":"R Leadbeater",
+			"public":"1",
+			"reducer":"R Leadbeater",
+			"remarks":"R~150 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm  \r\nImproved spectrum with host galaxy contribution removed",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jdx_2017-12-26_17-27-28_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"4209",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017jdx_2017-12-26_17-27-28_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458114.2274074,
+			"obsdate":"2017-12-26 17:27:28",
+			"observer":"R Leadbeater",
+			"public":"1",
+			"reducer":"R Leadbeater",
+			"remarks":"R~150 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-10:10:49.91",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Li",
+	"discovererid":"294",
+	"discoverydate":"2018-06-13 13:31:30",
+	"discoverymag":"18.5",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J150122.78-101044.8 ",
+	"internal_name":"PTSS-18fdb",
+	"isTNS_AT":"1",
+	"name":"2018cni",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"100",
+		"name":"SN Ia-pec"
+	},
+	"objname":"2018cni",
+	"public":"1",
+	"ra":"15:01:22.83",
+	"redshift":"0.032",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2018cni_2458287.1912_Lijiang-2.4m_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458287.1912,
+			"obsdate":"2018-06-17 16:35:19",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"100"
+}

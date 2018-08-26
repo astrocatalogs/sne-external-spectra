@@ -1,0 +1,65 @@
+{
+	"dec":"+79:16:42.50",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"110",
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-01-11 10:52:26",
+	"discoverymag":"20.1",
+	"end_prop_period":"2018-02-07",
+	"host_redshift":null,
+	"hostname":"",
+	"internal_name":"ZTF18aaaoktp",
+	"isTNS_AT":"1",
+	"name":"2018mg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018mg",
+	"public":"1",
+	"ra":"10:56:53.58",
+	"redshift":"0.11",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018mg_2018-01-22_12-32-41_P200_DBSP_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"700",
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458141.0226968,
+			"obsdate":"2018-01-22 12:32:41",
+			"observer":"C. Fremling",
+			"public":"1",
+			"reducer":"C. Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"3"
+}

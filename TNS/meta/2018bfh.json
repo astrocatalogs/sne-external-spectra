@@ -1,0 +1,87 @@
+{
+	"dec":"+15:56:20.11",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-05-06 03:50:24",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":"0.044541",
+	"hostname":"CGCG 094-019",
+	"internal_name":"ASASSN-18jn",
+	"isTNS_AT":"1",
+	"name":"2018bfh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bfh",
+	"public":"1",
+	"ra":"10:22:41.19",
+	"redshift":"0.044",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018bfh_2018-05-08_06-41-04_Lick_3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1545",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458246.7785185,
+			"obsdate":"2018-05-08 06:41:04",
+			"observer":"G. Dimitriadis",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018bfh_2018-05-08_06-01-05_Plaskett_Telescope_Plaskett_DAO_OTS.txt",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018bfh_2018-05-08_06-01-05_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2458246.7507523,
+			"obsdate":"2018-05-08 06:01:05",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam",
+			"remarks":"The SNid fit yields a SN Ia at T = -8 days",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		}
+	],
+	"type":"3"
+}

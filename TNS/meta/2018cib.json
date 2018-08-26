@@ -1,0 +1,65 @@
+{
+	"dec":"-52:54:22.21",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-06-04 09:07:12",
+	"discoverymag":"16.6",
+	"end_prop_period":null,
+	"host_redshift":"0.027272",
+	"hostname":"2MASX J00593045-5254215",
+	"internal_name":"ASASSN-18lz",
+	"isTNS_AT":"1",
+	"name":"2018cib",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2018cib",
+	"public":"1",
+	"ra":"00:59:30.36",
+	"redshift":"0.03",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018cib_2458281.630868_SALT_RSS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018cib_2458281.630868_SALT_RSS_ASAS-SN.fits",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458281.630868,
+			"obsdate":"2018-06-12 03:08:27",
+			"observer":"D. A. H. Buckley",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"SN Ia (91T-like) a few days before peak.",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"104"
+}

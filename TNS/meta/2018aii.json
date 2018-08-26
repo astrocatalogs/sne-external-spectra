@@ -1,0 +1,65 @@
+{
+	"dec":"+26:59:40.44",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-01-15 16:07:40",
+	"discoverymag":"-20.303",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18mmu",
+	"isTNS_AT":"1",
+	"name":"2018aii",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"2",
+		"name":"SN I"
+	},
+	"objname":"2018aii",
+	"public":"1",
+	"ra":"12:22:10.41",
+	"redshift":"0.0792",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018aii_2018-03-25_05-32-37_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018aii_2018-03-25_05-32-37_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458202.7309838,
+			"obsdate":"2018-03-25 05:32:37",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"2"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"+13:40:22.12",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-04-04 04:04:48",
+	"discoverymag":"16.5",
+	"end_prop_period":null,
+	"host_redshift":"0.02883",
+	"hostname":"CGCG 062-004 ",
+	"internal_name":"ASASSN-18gu",
+	"isTNS_AT":"1",
+	"name":"2018aqa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aqa",
+	"public":"1",
+	"ra":"09:12:20.18",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018aqa_2018-04-10_02-33-46_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018aqa_2018-04-10_02-33-46_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458218.6067824,
+			"obsdate":"2018-04-10 02:33:46",
+			"observer":"A. Rubin, D. Malesani",
+			"public":"1",
+			"reducer":"G. Leloudas, K. E. Heintz",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-05:20:31.57",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2018-03-18 11:26:52",
+	"discoverymag":"20.87",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS18mv",
+	"isTNS_AT":"1",
+	"name":"2018ajj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ajj",
+	"public":"1",
+	"ra":"13:47:35.71",
+	"redshift":"0.113",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ajj_2018-03-22_06-41-35_SOAR_Goodman.flm",
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458199.7788773,
+			"obsdate":"2018-03-22 06:41:35",
+			"observer":"Y.-C. Pan, G. Dimitriadis",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
+}

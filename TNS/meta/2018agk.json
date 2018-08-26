@@ -1,0 +1,65 @@
+{
+	"dec":"-04:29:08.67",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Narayan",
+	"discovererid":"661",
+	"discoverydate":"2018-03-10 19:06:06",
+	"discoverymag":"20.235",
+	"end_prop_period":null,
+	"host_redshift":"0.026128",
+	"hostname":"IC 0855",
+	"internal_name":"C17-0010",
+	"isTNS_AT":"1",
+	"name":"2018agk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018agk",
+	"public":"1",
+	"ra":"13:10:36.39",
+	"redshift":"0.026128",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018agk_2018-03-19.26_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018agk_2018-03-19.26_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458196.76,
+			"obsdate":"2018-03-19 06:14:24",
+			"observer":"T. Holoien",
+			"public":"1",
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-13:31:23.23",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-01-15 04:19:12",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":"0.040978",
+	"hostname":"2MASX J03301134-1331226",
+	"internal_name":"ASASSN-18ar",
+	"isTNS_AT":"1",
+	"name":"2018hv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018hv",
+	"public":"1",
+	"ra":"03:30:11.06",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hv_2458134.65350695_FLWO_1.5m_FAST_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hv_2458134.65350695_FLWO_1.5m_FAST_ASAS-SN.fits",
+			"instrument":{
+				"id":"44",
+				"name":"FAST"
+			},
+			"jd":2458134.653507,
+			"obsdate":"2018-01-16 03:41:03",
+			"observer":"M. Calkins",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"36",
+				"name":"FLWO 1.5m"
+			}
+		}
+	],
+	"type":"3"
+}

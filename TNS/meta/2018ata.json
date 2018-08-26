@@ -1,0 +1,65 @@
+{
+	"dec":"+26:01:59.16",
+	"discmagfilter":{
+		"family":"CRTS",
+		"id":"55",
+		"name":"V-crts"
+	},
+	"discoverer":"Drake",
+	"discovererid":"212",
+	"discoverydate":"2018-04-10 06:30:17",
+	"discoverymag":"20.1",
+	"end_prop_period":null,
+	"host_redshift":"0.0161",
+	"hostname":"NGC 4614",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018ata",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018ata",
+	"public":"1",
+	"ra":"12:41:31.34",
+	"redshift":"0.19",
+	"source_group":{
+		"group_name":"SNHunt",
+		"groupid":"14"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018ata_2018-04-20.03_Ekar_AFOSC_Padova-Asiago.",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018ata_2018-04-20.03_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458228.53,
+			"obsdate":"2018-04-20 00:43:12",
+			"observer":"S. Chen, Y. Cai, A. Reguitti, E. Congiu ",
+			"public":"1",
+			"reducer":"A. Pastorello",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}

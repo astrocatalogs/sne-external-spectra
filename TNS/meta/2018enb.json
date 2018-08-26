@@ -1,0 +1,87 @@
+{
+	"dec":"+08:52:47.30",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2018-08-02 15:54:59",
+	"discoverymag":"16.7",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 7101",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018enb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018enb",
+	"public":"1",
+	"ra":"21:39:34.57",
+	"redshift":"0.023",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018enb_2018-08-05_09-10-59_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"2280",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458335.8826273,
+			"obsdate":"2018-08-05 09:10:59",
+			"observer":"C. Rojas-Bravo, D. A. Coulter, R. J. Foley",
+			"public":"1",
+			"reducer":"R. J. Foley",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018enb_2018-08-05_05-54-54_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018enb_2018-08-05_05-54-54_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458335.7464583,
+			"obsdate":"2018-08-05 05:54:54",
+			"observer":"F. Onori, R. Stein",
+			"public":"1",
+			"reducer":"G. Cannizzaro",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

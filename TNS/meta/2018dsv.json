@@ -1,0 +1,65 @@
+{
+	"dec":"+38:35:25.95",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-07-13 09:44:38",
+	"discoverymag":"17.83",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18sdg",
+	"isTNS_AT":"1",
+	"name":"2018dsv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018dsv",
+	"public":"1",
+	"ra":"17:11:13.49",
+	"redshift":"0.04",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018dsv_2018-07-24_07-26-00_Plaskett_Telescope_Plaskett_DAO_OTS.txt",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018dsv_2018-07-24_07-26-00_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2458323.8097222,
+			"obsdate":"2018-07-24 07:26:00",
+			"observer":"D. Balam, C. K. Gallon",
+			"public":"1",
+			"reducer":"Balam, Hsiao",
+			"remarks":"presumed host is SDSS J171113.18+383531.0 with photo-Z = 0.039. The spectrum is best fit by the template of SN 1998aq at phase T = -8 days. The solution, via superfit, yields a redshift of z=0.04",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		}
+	],
+	"type":"3"
+}

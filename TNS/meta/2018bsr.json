@@ -1,0 +1,65 @@
+{
+	"dec":"+61:56:48.59",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-05-16 07:40:48",
+	"discoverymag":"17.2",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"VII Zw 884",
+	"internal_name":"ASASSN-18kl",
+	"isTNS_AT":"1",
+	"name":"2018bsr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bsr",
+	"public":"1",
+	"ra":"19:27:38.60",
+	"redshift":"0.04",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018bsr_2018-05-18_00-49-45_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458256.5345486,
+			"obsdate":"2018-05-18 00:49:45",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"The spectrum was obtained on the Liverpool Telescope with the SPRAT spectrograph, at a resolution ~0.9nm",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-25:03:41.58",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-07-04 23:02:24",
+	"discoverymag":"16",
+	"end_prop_period":null,
+	"host_redshift":"0.018229",
+	"hostname":"ESO 532- G 021",
+	"internal_name":"ASASSN-18od",
+	"isTNS_AT":"1",
+	"name":"2018dda",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018dda",
+	"public":"1",
+	"ra":"22:08:14.15",
+	"redshift":"0.018",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018dda_2018-07-15_10-36-00_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"1245",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458314.9416667,
+			"obsdate":"2018-07-15 10:36:00",
+			"observer":"M. R. Siebert",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
+}

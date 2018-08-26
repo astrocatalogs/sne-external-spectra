@@ -1,0 +1,57 @@
+{
+	"dec":"-64:28:57.27",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":"37975",
+	"discoverydate":"2018-06-23 15:53:16",
+	"discoverymag":"17.4431",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"IC5092",
+	"internal_name":"DLT18ab",
+	"isTNS_AT":"1",
+	"name":"2018cuf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018cuf",
+	"public":"1",
+	"ra":"21:16:11.57",
+	"redshift":"0.0108",
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":"30"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cuf_2458294.49695602_SALT_RSS.flm",
+			"end_prop_period":null,
+			"exptime":"1932.82",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cuf_2458294.49695602_SALT_RSS.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458294.496956,
+			"obsdate":"2018-06-24 23:55:37",
+			"observer":"I. Monageng",
+			"public":"1",
+			"reducer":"S. W. Jha",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"10"
+}

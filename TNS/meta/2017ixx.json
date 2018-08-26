@@ -1,0 +1,57 @@
+{
+	"dec":"+49:08:15.20",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"li",
+	"discovererid":"384",
+	"discoverydate":"2017-12-17 16:55:47",
+	"discoverymag":"19.29",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J07145210+4908155",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017ixx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2017ixx",
+	"public":"1",
+	"ra":"07:14:52.73",
+	"redshift":"0.041",
+	"source_group":{
+		"group_name":"TNTS",
+		"groupid":"25"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixx_2017-12-22_05-22-38_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458109.7240509,
+			"obsdate":"2017-12-22 05:22:38",
+			"observer":"D. O. Jones, G. Dimitriadis",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"10"
+}

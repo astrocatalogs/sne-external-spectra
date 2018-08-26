@@ -1,0 +1,65 @@
+{
+	"dec":"-76:42:47.60",
+	"discmagfilter":{
+		"family":"Cousins",
+		"id":"14",
+		"name":"I"
+	},
+	"discoverer":"Wyrzykowski",
+	"discovererid":"221",
+	"discoverydate":"2018-01-06 01:11:15",
+	"discoverymag":"19.432",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"OGLE-GAL-SMC735.04-932.565-1928.930",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018be",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"2",
+		"name":"SN I"
+	},
+	"objname":"2018be",
+	"public":"1",
+	"ra":"01:08:49.00",
+	"redshift":null,
+	"source_group":{
+		"group_name":"OGLE",
+		"groupid":"17"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018be_2018-01-17_01-49-16_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018be_2018-01-17_01-49-16_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458135.5758796,
+			"obsdate":"2018-01-17 01:49:16",
+			"observer":"M. Berton, F. Bufano",
+			"public":"1",
+			"reducer":"A. Floers, S. Taubenberger, C. Vogl",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"2"
+}

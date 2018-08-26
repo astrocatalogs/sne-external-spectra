@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS17ner",
 	"isTNS_AT":"1",
 	"name":"2017ifu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"106",
+		"name":"SN Ia-CSM"
 	},
 	"objname":"2017ifu",
 	"public":"1",
 	"ra":"02:50:55.03",
-	"redshift":null,
+	"redshift":"0.183",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ifu_2017-12-17_03-43-04_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2017ifu_2017-12-17_03-43-04_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458104.6549074,
+			"obsdate":"2017-12-17 03:43:04",
+			"observer":"C. R. Angus, M. Smith",
+			"public":"1",
+			"reducer":"C. R. Angus, M. Smith",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"106"
 }

@@ -1,0 +1,65 @@
+{
+	"dec":"+59:16:34.57",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-05-13 14:13:55",
+	"discoverymag":"19.244",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18oqb",
+	"isTNS_AT":"1",
+	"name":"2018bpd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bpd",
+	"public":"1",
+	"ra":"14:17:15.06",
+	"redshift":"0.037",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018bpd_2458281.404_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458281.404,
+			"obsdate":"2018-06-11 21:41:45",
+			"observer":"Tucker, Rowan, Shappee",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced using an automated reduction pipeline, intended for classification and quick-look purposes. Care should be taken before re-using the spectrum for further analysis.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
+}

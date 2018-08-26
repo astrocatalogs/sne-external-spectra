@@ -1,0 +1,57 @@
+{
+	"dec":"+55:35:27.20",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"111",
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-07-15 04:42:14",
+	"discoverymag":"18.54",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18abgmcmv",
+	"isTNS_AT":"1",
+	"name":"2018eay",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2018eay",
+	"public":"1",
+	"ra":"18:16:13.08",
+	"redshift":"0.018506",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018eay_2018-07-20_09-17-00_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458319.8868056,
+			"obsdate":"2018-07-20 09:17:00",
+			"observer":"Y. Yin, D. O. Jones, K. Siellez",
+			"public":"1",
+			"reducer":"Y.-C. Pan",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"104"
+}

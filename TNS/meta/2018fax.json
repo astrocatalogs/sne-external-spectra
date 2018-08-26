@@ -1,0 +1,57 @@
+{
+	"dec":"+02:49:36.43",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Jacques",
+	"discovererid":"171",
+	"discoverydate":"2018-08-11 23:04:15",
+	"discoverymag":"14.9",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018fax",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2018fax",
+	"public":"1",
+	"ra":"17:49:31.08",
+	"redshift":null,
+	"source_group":{
+		"group_name":"BraTS",
+		"groupid":"54"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018fax_2458346.41_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018fax_2458346.41_NOT_ALFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458346.41,
+			"obsdate":"2018-08-15 21:50:24",
+			"observer":"Anne Grosch, Cecillie Patricia Knudsen, Karoline Løve, Kristine Simone Nielsen, Freja Liebach Guttesen",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"27"
+}

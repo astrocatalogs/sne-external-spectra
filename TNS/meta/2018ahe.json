@@ -1,0 +1,65 @@
+{
+	"dec":"+19:42:00.00",
+	"discmagfilter":{
+		"family":"CRTS",
+		"id":"55",
+		"name":"V-crts"
+	},
+	"discoverer":"Drake",
+	"discovererid":"212",
+	"discoverydate":"2018-03-16 10:24:37",
+	"discoverymag":"18.6",
+	"end_prop_period":null,
+	"host_redshift":"0.0156",
+	"hostname":"UGC 9620",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018ahe",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2018ahe",
+	"public":"1",
+	"ra":"14:57:09.50",
+	"redshift":null,
+	"source_group":{
+		"group_name":"SNHunt",
+		"groupid":"14"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ahe_2458195.595_UH88_SNIFS_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458195.595,
+			"obsdate":"2018-03-18 02:16:48",
+			"observer":"Tucker/Shappee",
+			"public":"1",
+			"reducer":"Tucker/Shappee",
+			"remarks":"Spectrum reduced using automated quick reduction with no flux or telluric correction applied. ",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"11"
+}

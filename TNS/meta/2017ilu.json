@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-17pr",
 	"isTNS_AT":"1",
 	"name":"2017ilu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2017ilu",
 	"public":"1",
 	"ra":"02:23:09.48",
-	"redshift":null,
+	"redshift":"0.0615",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ilu_2017-11-24.2_Magellan-Clay_LDSS-3_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2017ilu_2017-11-24.2_Magellan-Clay_LDSS-3_ASAS-SN.fits",
+			"instrument":{
+				"id":"78",
+				"name":"LDSS-3"
+			},
+			"jd":2458081.7,
+			"obsdate":"2017-11-24 04:48:00",
+			"observer":"N. Morrell",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"63",
+				"name":"Magellan-Clay"
+			}
+		}
+	],
+	"type":"3"
 }

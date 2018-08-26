@@ -1,0 +1,57 @@
+{
+	"dec":"+09:42:12.38",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-02-26 07:12:00",
+	"discoverymag":"18.2",
+	"end_prop_period":null,
+	"host_redshift":"0.050822",
+	"hostname":"2MASX J11515984+0942111",
+	"internal_name":"ASASSN-18ex",
+	"isTNS_AT":"1",
+	"name":"2018abo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"5",
+		"name":"SN Ic"
+	},
+	"objname":"2018abo",
+	"public":"1",
+	"ra":"11:51:59.92",
+	"redshift":"0.051",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018abo_2018-03-09_08-02-04_ESO-NTT_EFOSC2-NTT.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018abo_2018-03-09_08-02-04_ESO-NTT_EFOSC2-NTT.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458186.8347685,
+			"obsdate":"2018-03-09 08:02:04",
+			"observer":"Christian Vogl, Andreas Flörs, Stefan Taubenberger",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"5"
+}

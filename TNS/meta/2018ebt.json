@@ -1,0 +1,117 @@
+{
+	"dec":"+64:12:52.65",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-07-21 11:52:48",
+	"discoverymag":"15.582",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18sld",
+	"isTNS_AT":"1",
+	"name":"2018ebt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"5",
+		"name":"SN Ic"
+	},
+	"objname":"2018ebt",
+	"public":"1",
+	"ra":"20:41:54.99",
+	"redshift":"0.01",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018ebt_2018-07-26_10-27-00_Plaskett_Telescope_Plaskett_DAO_OTS.txt",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018ebt_2018-07-26_10-27-00_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2458325.9354167,
+			"obsdate":"2018-07-26 10:27:00",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam",
+			"remarks":"",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018ebt_2018-07-24_09-28-00_Plaskett_Telescope_Plaskett_DAO_OTS.txt",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2018ebt_2018-07-24_09-28-00_Plaskett_Telescope_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2458323.8944444,
+			"obsdate":"2018-07-24 09:28:00",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam, Hsiao",
+			"remarks":"follow-up spectroscopy",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett Telescope"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ebt_2018-07-23_13-47-51_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2458323.0748958,
+			"obsdate":"2018-07-23 13:47:51",
+			"observer":"Kawabata, M., and Nakaoka, T.",
+			"public":"1",
+			"reducer":"Yamanaka, M., and Kawabata, M.",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"5"
+}

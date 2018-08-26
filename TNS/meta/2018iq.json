@@ -1,0 +1,57 @@
+{
+	"dec":"+35:22:24.00",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2018-01-19 11:52:07",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 2746",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018iq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018iq",
+	"public":"1",
+	"ra":"09:05:59.78",
+	"redshift":"0.0235",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018iq_2018-01-20.74_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458139.24,
+			"obsdate":"2018-01-20 17:45:36",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"3"
+}

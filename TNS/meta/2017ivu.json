@@ -1,0 +1,57 @@
+{
+	"dec":"+16:36:19.40",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2017-12-11 20:34:32",
+	"discoverymag":"15.4",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 5962",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017ivu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2017ivu",
+	"public":"1",
+	"ra":"15:36:32.70",
+	"redshift":"0.0065",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ivu_2017-12-21.8_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2458109.3,
+			"obsdate":"2017-12-21 19:12:00",
+			"observer":"R. Huang, T. Nakaoka, M. Kawabata",
+			"public":"1",
+			"reducer":"M. Kawabata",
+			"remarks":"The spectrum shows a prominent P Cyg profile of H-alpha line, \r\nof which the absorption component has a line velocity of ~11,000 km/s, \r\nsuggesting that this is type IIP supernova at a few weeks after the explosion.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"11"
+}

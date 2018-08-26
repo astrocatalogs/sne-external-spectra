@@ -1,0 +1,65 @@
+{
+	"dec":"+27:22:47.99",
+	"discmagfilter":{
+		"family":"PTF",
+		"id":"51",
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":"11756",
+	"discoverydate":"2016-10-20 08:39:50",
+	"discoverymag":"18.6217",
+	"end_prop_period":"2018-06-28",
+	"host_redshift":null,
+	"hostname":"",
+	"internal_name":"iPTF16hgs",
+	"isTNS_AT":"1",
+	"name":"2016hgs",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"8",
+		"name":"SN Ib-Ca-rich"
+	},
+	"objname":"2016hgs",
+	"public":"1",
+	"ra":"00:50:51.39",
+	"redshift":"0.017",
+	"source_group":{
+		"group_name":"iPTF",
+		"groupid":"2"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/iPTF/tns_2016hgs_2457692.8_Keck1_LRIS_iPTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"2",
+					"name":"iPTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2457692.8,
+			"obsdate":"2016-10-31 07:12:00",
+			"observer":"Lunnan",
+			"public":"1",
+			"reducer":"Lunnan",
+			"remarks":"",
+			"source_group":{
+				"id":"2",
+				"name":"iPTF"
+			},
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"8"
+}

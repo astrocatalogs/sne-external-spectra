@@ -15,10 +15,10 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2017iub",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2017iub",
 	"public":"1",
@@ -29,6 +29,35 @@
 		"groupid":"27"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017iub_2458098.2590_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458098.259,
+			"obsdate":"2017-12-10 18:12:57",
+			"observer":"F. Xiao,J. Zhang(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"A spectrum with P-Cygni profile of Ha indicates that this transient is consistent with a type II supernova",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"10"
 }

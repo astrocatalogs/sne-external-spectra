@@ -1,0 +1,57 @@
+{
+	"dec":"-01:01:40.40",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-05-05 09:36:00",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":"0.034266",
+	"hostname":"SDSS J232258.36-010141.2",
+	"internal_name":"ASASSN-18jl",
+	"isTNS_AT":"1",
+	"name":"2018bfc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bfc",
+	"public":"1",
+	"ra":"23:22:58.34",
+	"redshift":"0.034",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018bfc_2018-05-10_14-59-00_Keck1_LRIS.flm",
+			"end_prop_period":null,
+			"exptime":"180",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458249.1243056,
+			"obsdate":"2018-05-10 14:59:00",
+			"observer":" R. J. Foley, C. Rojas-Bravo ",
+			"public":"1",
+			"reducer":" R. J. Foley",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"-04:07:04.10",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":"87",
+	"discoverydate":"2018-04-15 11:35:20",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"MCG-01-22-018",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018aup",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018aup",
+	"public":"1",
+	"ra":"08:31:40.24",
+	"redshift":"0.0405",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018aup_2018-04-18_03-37-08_P60_SED-Machine.txt",
+			"end_prop_period":null,
+			"exptime":"660",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458226.650787,
+			"obsdate":"2018-04-18 03:37:08",
+			"observer":"SEDM Robot",
+			"public":"1",
+			"reducer":"James Neill",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -1,0 +1,57 @@
+{
+	"dec":"+61:08:51.76",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"cortini",
+	"discovererid":"252",
+	"discoverydate":"2017-12-17 19:55:12",
+	"discoverymag":"16",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 6796",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017ixv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"7",
+		"name":"SN Ic-BL"
+	},
+	"objname":"2017ixv",
+	"public":"1",
+	"ra":"19:21:31.24",
+	"redshift":"0.007302",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixv_2017-12-17_22-20-19_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"6013",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixv_2017-12-17_22-20-19_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458105.4307755,
+			"obsdate":"2017-12-17 22:20:19",
+			"observer":"R Leadbeater",
+			"public":"1",
+			"reducer":"R Leadbeater",
+			"remarks":"R~150 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"7"
+}

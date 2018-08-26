@@ -1,0 +1,57 @@
+{
+	"dec":"-37:14:12.05",
+	"discmagfilter":{
+		"family":"SkyMapper",
+		"id":"61",
+		"name":"r-SM"
+	},
+	"discoverer":null,
+	"discovererid":"36338",
+	"discoverydate":"2018-05-04 09:50:24",
+	"discoverymag":"19.1",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"SMT18as",
+	"isTNS_AT":"1",
+	"name":"2018bwp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018bwp",
+	"public":"1",
+	"ra":"13:25:54.77",
+	"redshift":"0.065",
+	"source_group":{
+		"group_name":"SkyMapper",
+		"groupid":"5"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018bwp_2018-05-23_13-46-00_Other_Other.txt",
+			"end_prop_period":null,
+			"exptime":"1000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458262.0736111,
+			"obsdate":"2018-05-23 13:46:00",
+			"observer":"Angel R. Lopez-Sanchez (AAO/Macquarie U.), Lluis Galbany (U. Pittsburgh), Yago Ascasibar (UAM), Kristin Fiegert (AAO)",
+			"public":"1",
+			"reducer":"Angel R. Lopez-Sanchez (AAO/Macquarie U.), Lluis Galbany (U. Pittsburgh), Yago Ascasibar (UAM)",
+			"remarks":"The spectrum shows typical broad features characteristic of type Ia supernovae (SNe Ia) past-maximum light. SNID gives a relible fits to all its main spectral features with spectra of normal SNe Ia at 3-4 weeks after peak brightness placed at redshift consistent with that of the host galaxy (0.065). We measure a Si II 6355 velocity of -8,700 km/s.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
+}

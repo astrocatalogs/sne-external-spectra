@@ -1,0 +1,65 @@
+{
+	"dec":"-62:15:36.70",
+	"discmagfilter":{
+		"family":"Cousins",
+		"id":"14",
+		"name":"I"
+	},
+	"discoverer":"Gromadzki",
+	"discovererid":"579",
+	"discoverydate":"2018-03-31 00:41:38",
+	"discoverymag":"21.895",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"OGLE-GAL-LMC575.06-488.041-4078.836",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018auq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018auq",
+	"public":"1",
+	"ra":"05:16:46.14",
+	"redshift":"0.098",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018auq_2018-04-20_00-30-06_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018auq_2018-04-20_00-30-06_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458228.5209028,
+			"obsdate":"2018-04-20 00:30:06",
+			"observer":"D. Malesani, K. E. Heintz",
+			"public":"1",
+			"reducer":"P. D'Avanzo, G. Leloudas",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

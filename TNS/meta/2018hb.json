@@ -1,0 +1,57 @@
+{
+	"dec":"+17:20:21.64",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2018-01-14 13:16:19",
+	"discoverymag":"21.76",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS18eo",
+	"isTNS_AT":"1",
+	"name":"2018hb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"4",
+		"name":"SN Ib"
+	},
+	"objname":"2018hb",
+	"public":"1",
+	"ra":"09:06:15.26",
+	"redshift":"0.114",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hb_2018-01-16_08-29-29_Keck1_LRIS.flm",
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"3",
+				"name":"LRIS"
+			},
+			"jd":2458134.8538079,
+			"obsdate":"2018-01-16 08:29:29",
+			"observer":"G. Dimitriadis, M. R. Siebert, R. J. Foley (UCSC)",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"4",
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":"4"
+}

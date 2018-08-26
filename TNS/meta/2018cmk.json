@@ -1,0 +1,63 @@
+{
+	"dec":"+20:31:44.26",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-06-12 23:45:36",
+	"discoverymag":"17",
+	"end_prop_period":null,
+	"host_redshift":"0.025724",
+	"hostname":"UGC 06609",
+	"internal_name":"ASASSN-18mk",
+	"isTNS_AT":"1",
+	"name":"2018cmk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018cmk",
+	"public":"1",
+	"ra":"11:38:29.86",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018cmk_2458283.0784_BAO-2.16m_Cassegrain.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458283.0784,
+			"obsdate":"2018-06-13 13:52:53",
+			"observer":"L. Li(THU), F. Xiao(NAOC)",
+			"public":"1",
+			"reducer":"H. Lin(THU)",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
+}

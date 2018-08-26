@@ -1,0 +1,79 @@
+{
+	"dec":"+24:46:39.40",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"li",
+	"discovererid":"384",
+	"discoverydate":"2017-12-14 11:09:33",
+	"discoverymag":"17.57",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J23203073+2446317",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2017ixg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2017ixg",
+	"public":"1",
+	"ra":"23:20:30.57",
+	"redshift":"0.0277",
+	"source_group":{
+		"group_name":"TNTS",
+		"groupid":"25"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixg_2017-12-15_19-00-27_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"9024",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixg_2017-12-15_19-00-27_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458103.2919792,
+			"obsdate":"2017-12-15 19:00:27",
+			"observer":"R Leadbeater",
+			"public":"1",
+			"reducer":"R Leadbeater",
+			"remarks":"R~150 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2017ixg_2017-12-15.6_LJT_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1350",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458103.1,
+			"obsdate":"2017-12-15 14:24:00",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"3"
+}

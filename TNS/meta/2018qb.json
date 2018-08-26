@@ -1,0 +1,65 @@
+{
+	"dec":"+21:07:38.51",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"23",
+		"name":"i"
+	},
+	"discoverer":"Narayan",
+	"discovererid":"661",
+	"discoverydate":"2018-01-24 17:18:44",
+	"discoverymag":"18.23",
+	"end_prop_period":null,
+	"host_redshift":"0.082",
+	"hostname":"SDSS J085650.97+210738.4",
+	"internal_name":"C16-0060",
+	"isTNS_AT":"1",
+	"name":"2018qb",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":null,
+		"name":null
+	},
+	"objname":"2018qb",
+	"public":"1",
+	"ra":"08:56:50.98",
+	"redshift":"0.082",
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018qb_2018-02-13_04-01-38_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018qb_2018-02-13_04-01-38_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458162.6678009,
+			"obsdate":"2018-02-13 04:01:38",
+			"observer":" Ken W. Smith, Jesse T. Palmerio",
+			"public":"1",
+			"reducer":"David O'Neill",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":null
+}
