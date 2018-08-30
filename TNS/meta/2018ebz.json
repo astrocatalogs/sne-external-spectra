@@ -15,10 +15,10 @@
 	"internal_name":"kait-18ag",
 	"isTNS_AT":"1",
 	"name":"2018ebz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"11",
+		"name":"SN IIP"
 	},
 	"objname":"2018ebz",
 	"public":"1",
@@ -29,6 +29,37 @@
 		"groupid":"8"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2018ebz_2018-08-22.310_Lick_3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458352.81,
+			"obsdate":"2018-08-22 07:26:24",
+			"observer":"WeiKang Zheng",
+			"public":"1",
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"11"
 }
