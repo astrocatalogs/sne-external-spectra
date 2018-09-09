@@ -15,20 +15,51 @@
 	"internal_name":"ZTF18abqbuaj",
 	"isTNS_AT":"1",
 	"name":"2018fmt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"9",
+		"name":"SN Ibn"
 	},
 	"objname":"2018fmt",
 	"public":"1",
 	"ra":"01:21:00.87",
-	"redshift":null,
+	"redshift":"0.055",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018fmt_2018-09-08_05-07-17_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018fmt_2018-09-08_05-07-17_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458369.7133912,
+			"obsdate":"2018-09-08 05:07:17",
+			"observer":"M. Gromadzki, T. Wevers",
+			"public":"1",
+			"reducer":"G. Pignata, O. Rodriguez",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"9"
 }
