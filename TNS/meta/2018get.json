@@ -1,0 +1,57 @@
+{
+	"dec":"+04:32:57.91",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-09-10 14:39:50",
+	"discoverymag":"16.5",
+	"end_prop_period":null,
+	"host_redshift":"0.004086",
+	"hostname":"UGC 03912 ",
+	"internal_name":"ASASSN-18vc",
+	"isTNS_AT":"1",
+	"name":"2018get",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018get",
+	"public":"1",
+	"ra":"07:34:09.07",
+	"redshift":"0.004086",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018get_2018-09-12_05-51-32_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458373.7441204,
+			"obsdate":"2018-09-12 05:51:32",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"10"
+}
