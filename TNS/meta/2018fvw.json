@@ -15,20 +15,43 @@
 	"internal_name":"ZTF18absnqyo",
 	"isTNS_AT":"1",
 	"name":"2018fvw",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018fvw",
 	"public":"1",
 	"ra":"21:02:20.23",
-	"redshift":null,
+	"redshift":"0.04",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018fvw_2018-09-15_05-38-36_Lick_3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458376.7351389,
+			"obsdate":"2018-09-15 05:38:36",
+			"observer":"C. Rojas-Bravo, R. Case",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
 }

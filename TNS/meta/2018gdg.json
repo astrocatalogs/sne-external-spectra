@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS18uxc",
 	"isTNS_AT":"1",
 	"name":"2018gdg",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018gdg",
 	"public":"1",
 	"ra":"00:30:24.63",
-	"redshift":null,
+	"redshift":"0.057",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gdg_2018-09-15_06-15-16_Lick_3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458376.7606019,
+			"obsdate":"2018-09-15 06:15:16",
+			"observer":"C. Rojas-Bravo, R. Case",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
 }
