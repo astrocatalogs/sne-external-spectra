@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18ujl",
 	"isTNS_AT":"1",
 	"name":"2018fvb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018fvb",
 	"public":"1",
 	"ra":"16:00:00.65",
-	"redshift":null,
+	"redshift":"0.051",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018fvb_2018-09-18_00-13-14_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1000",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018fvb_2018-09-18_00-13-14_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458379.5091898,
+			"obsdate":"2018-09-18 00:13:14",
+			"observer":"M. Gromadzki, T. Wevers",
+			"public":"1",
+			"reducer":"J. Lyman",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
 }
