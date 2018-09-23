@@ -15,20 +15,43 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2018gro",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"103",
+		"name":"SN Ia-91bg-like"
 	},
 	"objname":"2018gro",
 	"public":"1",
 	"ra":"22:11:49.20",
-	"redshift":null,
+	"redshift":"0.0217",
 	"source_group":{
 		"group_name":"POSS",
 		"groupid":"6"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gro_2018-09-21_22-02-27_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458383.4183681,
+			"obsdate":"2018-09-21 22:02:27",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"103"
 }
