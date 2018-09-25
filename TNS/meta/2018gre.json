@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18vnk",
 	"isTNS_AT":"1",
 	"name":"2018gre",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018gre",
 	"public":"1",
 	"ra":"18:03:27.54",
-	"redshift":null,
+	"redshift":"0.05019",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018gre_2018-09-22_02-55-18_P60_SED-Machine_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2430",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458383.6217361,
+			"obsdate":"2018-09-22 02:55:18",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		}
+	],
+	"type":"3"
 }
