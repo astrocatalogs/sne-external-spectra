@@ -1,0 +1,57 @@
+{
+	"dec":"+23:00:20.93",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"111",
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-09-27 06:27:21",
+	"discoverymag":"18.55",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18abzrgim",
+	"isTNS_AT":"1",
+	"name":"2018gvt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018gvt",
+	"public":"1",
+	"ra":"23:07:32.54",
+	"redshift":"0.0208",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gvt_2018-09-28_21-34-18_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458390.3988194,
+			"obsdate":"2018-09-28 21:34:18",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"10"
+}

@@ -15,10 +15,10 @@
 	"internal_name":"ATLAS18vlh",
 	"isTNS_AT":"1",
 	"name":"2018gqd",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"2",
+		"name":"SN I"
 	},
 	"objname":"2018gqd",
 	"public":"1",
@@ -29,6 +29,29 @@
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gqd_2018-09-24_21-45-07_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458386.406331,
+			"obsdate":"2018-09-24 21:45:07",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"2"
 }
