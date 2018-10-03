@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18vor",
 	"isTNS_AT":"1",
 	"name":"2018gsv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018gsv",
 	"public":"1",
 	"ra":"05:03:43.67",
-	"redshift":null,
+	"redshift":"0.067",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018gsv_2452682.6464_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2452682.6464,
+			"obsdate":"2003-02-12 03:30:48",
+			"observer":"TuckerPayne",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit quick reduction pipeline, care should be taken before re-using this data for further science.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
 }
