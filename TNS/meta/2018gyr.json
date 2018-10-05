@@ -15,20 +15,73 @@
 	"internal_name":"ASASSN-18wf",
 	"isTNS_AT":"1",
 	"name":"2018gyr",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018gyr",
 	"public":"1",
 	"ra":"00:49:47.24",
-	"redshift":null,
+	"redshift":"0.035",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018gyr_2018-10-03_08-20-32_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018gyr_2018-10-03_08-20-32_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458394.8475926,
+			"obsdate":"2018-10-03 08:20:32",
+			"observer":"Tom Reynolds, Shane Moran",
+			"public":"1",
+			"reducer":"Jussi Harmanen, Hanin Kuncarayakti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gyr_2018-10-03.0_ESO-NTT_EFOSC2-NTT.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458394.5,
+			"obsdate":"2018-10-03 00:00:00",
+			"observer":"Reynolds, Moran",
+			"public":"1",
+			"reducer":"Harmanen, Kuncarayakti",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
 }
