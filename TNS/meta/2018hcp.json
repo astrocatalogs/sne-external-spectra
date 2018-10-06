@@ -1,29 +1,29 @@
 {
-	"dec":"+41:12:49.79",
+	"dec":"+27:42:10.54",
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
-		"name":"g"
+		"id":"111",
+		"name":"r"
 	},
 	"discoverer":null,
 	"discovererid":"48869",
-	"discoverydate":"2018-08-30 10:40:48",
-	"discoverymag":"18.8",
+	"discoverydate":"2018-09-17 12:12:57",
+	"discoverymag":"19.33",
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_name":"ZTF18abrytwr",
+	"internal_name":"ZTF18abxbmcl",
 	"isTNS_AT":"1",
-	"name":"2018fss",
+	"name":"2018hcp",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
-		"name":"SN Ia"
+		"id":"11",
+		"name":"SN IIP"
 	},
-	"objname":"2018fss",
+	"objname":"2018hcp",
 	"public":"1",
-	"ra":"03:06:26.81",
-	"redshift":"0.06",
+	"ra":"08:22:57.66",
+	"redshift":"0.01979",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
@@ -31,7 +31,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018fss_2018-09-12_06-58-54_P60_SED-Machine_ZTF.ascii",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018hcp_2018-09-23_11-42-23_P60_SED-Machine_ZTF.ascii",
 			"assoc_groups":[
 				{
 					"id":"48",
@@ -39,14 +39,14 @@
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2430",
+			"exptime":"1440",
 			"fitsfile":"",
 			"instrument":{
 				"id":"149",
 				"name":"SED-Machine"
 			},
-			"jd":2458373.7909028,
-			"obsdate":"2018-09-12 06:58:54",
+			"jd":2458384.9877662,
+			"obsdate":"2018-09-23 11:42:23",
 			"observer":"SEDmRobot",
 			"public":"1",
 			"reducer":"auto",
@@ -61,5 +61,5 @@
 			}
 		}
 	],
-	"type":"3"
+	"type":"11"
 }

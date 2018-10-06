@@ -15,10 +15,10 @@
 	"internal_name":"ASASSN-18ve",
 	"isTNS_AT":"1",
 	"name":"2018gex",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2018gex",
 	"public":"1",
@@ -30,6 +30,28 @@
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gex_2018-10-04_03-59-05_SOAR_Goodman.ascii",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458395.6660301,
+			"obsdate":"2018-10-04 03:59:05",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018gex_2018-09-15_02-20-46_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
@@ -61,5 +83,5 @@
 			}
 		}
 	],
-	"type":null
+	"type":"10"
 }

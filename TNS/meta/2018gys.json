@@ -15,20 +15,43 @@
 	"internal_name":"ASASSN-18wg",
 	"isTNS_AT":"1",
 	"name":"2018gys",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018gys",
 	"public":"1",
 	"ra":"23:17:53.47",
-	"redshift":null,
+	"redshift":"0.06",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gys_2018-10-04_07-13-22_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gys_2018-10-04_07-13-22_SOAR_Goodman.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458395.8009491,
+			"obsdate":"2018-10-04 07:13:22",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
 }
