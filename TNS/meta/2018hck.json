@@ -1,0 +1,65 @@
+{
+	"dec":"-13:29:00.96",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-10-05 00:00:00",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":"0.033226",
+	"hostname":"2MASX J04344671-1329047",
+	"internal_name":"ASASSN-18xa",
+	"isTNS_AT":"1",
+	"name":"2018hck",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018hck",
+	"public":"1",
+	"ra":"04:34:46.30",
+	"redshift":"0.033226",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2018hck_2458399.3451_BAO-2.16m_Cassegrain_TNTS.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458399.3451,
+			"obsdate":"2018-10-07 20:16:56",
+			"observer":"Xiao Feng",
+			"public":"1",
+			"reducer":"Hann Sai",
+			"remarks":"",
+			"source_group":{
+				"id":"25",
+				"name":"TNTS"
+			},
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		}
+	],
+	"type":"3"
+}

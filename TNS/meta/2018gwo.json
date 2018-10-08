@@ -17,19 +17,41 @@
 	"name":"2018gwo",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"2",
-		"name":"SN I"
+		"id":"5",
+		"name":"SN Ic"
 	},
 	"objname":"2018gwo",
 	"public":"1",
 	"ra":"12:08:38.91",
-	"redshift":null,
+	"redshift":"0.007759",
 	"source_group":{
 		"group_name":null,
 		"groupid":"0"
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gwo_2018-10-06_19-04-04_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"11860",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gwo_2018-10-06_19-04-04_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458398.2944907,
+			"obsdate":"2018-10-06 19:04:04",
+			"observer":"Leadbeater",
+			"public":"1",
+			"reducer":"Leadbeater",
+			"remarks":"R~130 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gwo_2018-09-30_19-48-57_Other_Other.dat",
 			"end_prop_period":null,
@@ -53,5 +75,5 @@
 			}
 		}
 	],
-	"type":"2"
+	"type":"5"
 }
