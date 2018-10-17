@@ -1,0 +1,57 @@
+{
+	"dec":"+05:42:57.60",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-10-09 21:36:00",
+	"discoverymag":"17.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ASASSN-18xp",
+	"isTNS_AT":"1",
+	"name":"2018hfu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"100",
+		"name":"SN Ia-pec"
+	},
+	"objname":"2018hfu",
+	"public":"1",
+	"ra":"23:54:51.09",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hfu_2018-10-15_22-17-51_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458407.4290625,
+			"obsdate":"2018-10-15 22:17:51",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"100"
+}

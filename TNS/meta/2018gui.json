@@ -15,20 +15,51 @@
 	"internal_name":"ZTF18abywcnl",
 	"isTNS_AT":"1",
 	"name":"2018gui",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018gui",
 	"public":"1",
 	"ra":"19:40:06.78",
-	"redshift":null,
+	"redshift":"0.028",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018gui_2018-10-14_20-07-25_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458406.3384838,
+			"obsdate":"2018-10-14 20:07:25",
+			"observer":"David Bersier",
+			"public":"1",
+			"reducer":"David Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

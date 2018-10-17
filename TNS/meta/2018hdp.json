@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-18xg",
 	"isTNS_AT":"1",
 	"name":"2018hdp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"5",
+		"name":"SN Ic"
 	},
 	"objname":"2018hdp",
 	"public":"1",
 	"ra":"02:13:45.05",
-	"redshift":null,
+	"redshift":"0.011",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018hdp_2018-10-10_05-35-55_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"400",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018hdp_2018-10-10_05-35-55_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458401.7332755,
+			"obsdate":"2018-10-10 05:35:55",
+			"observer":"Tom Reynolds, Shane Moran",
+			"public":"1",
+			"reducer":"Jussi Harmanen, Hanin Kuncarayakti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"5"
 }

@@ -15,20 +15,81 @@
 	"internal_name":"ASASSN-18xk",
 	"isTNS_AT":"1",
 	"name":"2018hfg",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"13",
+		"name":"SN IIn"
 	},
 	"objname":"2018hfg",
 	"public":"1",
 	"ra":"08:52:56.32",
-	"redshift":null,
+	"redshift":"0.023863",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2018hfg_2458402.3424_BAO-2.16m_Cassegrain_TNTS.txt",
+			"assoc_groups":[
+				{
+					"id":"25",
+					"name":"TNTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3000",
+			"fitsfile":"",
+			"instrument":{
+				"id":"80",
+				"name":"Cassegrain"
+			},
+			"jd":2458402.3424,
+			"obsdate":"2018-10-10 20:13:03",
+			"observer":"Jia junjun",
+			"public":"1",
+			"reducer":"Hann Sai",
+			"remarks":"",
+			"source_group":{
+				"id":"25",
+				"name":"TNTS"
+			},
+			"telescope":{
+				"id":"45",
+				"name":"BAO-2.16m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2018hfg_2018-10-10.540_Lick_3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458402.04,
+			"obsdate":"2018-10-10 12:57:36",
+			"observer":"WeiKang Zheng",
+			"public":"1",
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"13"
 }

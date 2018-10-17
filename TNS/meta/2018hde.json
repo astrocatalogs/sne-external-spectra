@@ -15,20 +15,51 @@
 	"internal_name":"kait-18at",
 	"isTNS_AT":"1",
 	"name":"2018hde",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"11",
+		"name":"SN IIP"
 	},
 	"objname":"2018hde",
 	"public":"1",
 	"ra":"19:21:18.22",
-	"redshift":null,
+	"redshift":"0.034",
 	"source_group":{
 		"group_name":"LOSS",
 		"groupid":"8"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2018hde_2018-10-09.198_Lick_3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458400.6979977,
+			"obsdate":"2018-10-09 04:45:07",
+			"observer":"Thomas Brink",
+			"public":"1",
+			"reducer":"Thomas Brink",
+			"remarks":"Matches several IIP a few days before maximum",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"11"
 }

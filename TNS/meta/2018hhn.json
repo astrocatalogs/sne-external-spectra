@@ -1,0 +1,57 @@
+{
+	"dec":"+11:40:26.70",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Grzegorzek",
+	"discovererid":"145",
+	"discoverydate":"2018-10-13 20:48:28",
+	"discoverymag":"17.1",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC 12222",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018hhn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018hhn",
+	"public":"1",
+	"ra":"22:52:32.06",
+	"redshift":"0.0288",
+	"source_group":{
+		"group_name":"PSH",
+		"groupid":"39"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hhn_2018-10-14_22-32-37_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"500",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458406.4393171,
+			"obsdate":"2018-10-14 22:32:37",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}

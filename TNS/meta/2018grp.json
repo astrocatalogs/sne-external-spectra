@@ -23,13 +23,43 @@
 	"objname":"2018grp",
 	"public":"1",
 	"ra":"01:24:05.19",
-	"redshift":"0.033",
+	"redshift":"0.045",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018grp_2018-10-10_08-53-11_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458401.8702662,
+			"obsdate":"2018-10-10 08:53:11",
+			"observer":"A. Dugas",
+			"public":"1",
+			"reducer":"A. Ho, Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018grp_2018-09-30_02-20-42_LT_SPRAT.txt",
 			"end_prop_period":null,

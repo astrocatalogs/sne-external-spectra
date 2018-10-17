@@ -15,20 +15,81 @@
 	"internal_name":"ASASSN-18xl",
 	"isTNS_AT":"1",
 	"name":"2018hfm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"1",
+		"name":"SN"
 	},
 	"objname":"2018hfm",
 	"public":"1",
 	"ra":"09:36:08.70",
-	"redshift":null,
+	"redshift":"0.008087",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018hfm_2018-10-11.15_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"750",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018hfm_2018-10-11.15_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458402.65,
+			"obsdate":"2018-10-11 03:36:00",
+			"observer":"Nascimbeni, Granata",
+			"public":"1",
+			"reducer":"Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2018hfm_2018-10-10.559_Lick_3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":"8",
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458402.0589931,
+			"obsdate":"2018-10-10 13:24:57",
+			"observer":"WeiKang Zheng",
+			"public":"1",
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":"8",
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"1"
 }
