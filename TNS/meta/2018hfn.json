@@ -17,8 +17,8 @@
 	"name":"2018hfn",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"28",
+		"name":"Varstar"
 	},
 	"objname":"2018hfn",
 	"public":"1",
@@ -29,6 +29,37 @@
 		"groupid":"55"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018hfn_2018-10-17_17-56-41_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018hfn_2018-10-17_17-56-41_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458409.2476968,
+			"obsdate":"2018-10-17 17:56:41",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"28"
 }

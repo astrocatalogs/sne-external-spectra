@@ -15,20 +15,43 @@
 	"internal_name":"ASASSN-18yc",
 	"isTNS_AT":"1",
 	"name":"2018hkx",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018hkx",
 	"public":"1",
 	"ra":"04:00:53.81",
-	"redshift":null,
+	"redshift":"0.025",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hkx_2458409.488266782_SALT_RSS.dat",
+			"end_prop_period":null,
+			"exptime":"1933",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hkx_2458409.488266782_SALT_RSS.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458409.4882668,
+			"obsdate":"2018-10-17 23:43:06",
+			"observer":"E. Depagne",
+			"public":"1",
+			"reducer":"S. W. Jha",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
 }

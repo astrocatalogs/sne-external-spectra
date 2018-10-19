@@ -15,20 +15,51 @@
 	"internal_name":"Gaia18czg",
 	"isTNS_AT":"1",
 	"name":"2018hib",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018hib",
 	"public":"1",
 	"ra":"02:56:21.27",
-	"redshift":null,
+	"redshift":"0.016291",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2018hib_2018-10-19_02-56-07_NOT_ALFOSC_NUTS.txt",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2018hib_2018-10-19_02-56-07_NOT_ALFOSC_NUTS.fits",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458410.6223032,
+			"obsdate":"2018-10-19 02:56:07",
+			"observer":"TP",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
 }
