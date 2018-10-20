@@ -15,20 +15,51 @@
 	"internal_name":"kait-18av",
 	"isTNS_AT":"1",
 	"name":"2018hle",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2018hle",
 	"public":"1",
 	"ra":"03:39:28.10",
-	"redshift":null,
+	"redshift":"0.014",
 	"source_group":{
 		"group_name":"LOSS",
 		"groupid":"8"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018hle_2018-10-19_08-28-19_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018hle_2018-10-19_08-28-19_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458410.8529977,
+			"obsdate":"2018-10-19 08:28:19",
+			"observer":"S. Moran",
+			"public":"1",
+			"reducer":"H. Kuncarayakti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
 }
