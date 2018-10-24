@@ -15,20 +15,51 @@
 	"internal_name":"Gaia18dcg",
 	"isTNS_AT":"1",
 	"name":"2018hmk",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"4",
+		"name":"SN Ib"
 	},
 	"objname":"2018hmk",
 	"public":"1",
 	"ra":"18:28:08.12",
-	"redshift":null,
+	"redshift":"0.023",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018hmk_2458415.734105_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2000",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458415.734105,
+			"obsdate":"2018-10-24 05:37:06",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit quick reduction pipeline, care should be taken before re-using this data for further science.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"4"
 }

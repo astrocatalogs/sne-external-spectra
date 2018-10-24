@@ -15,20 +15,51 @@
 	"internal_name":"PTSS-18jmj",
 	"isTNS_AT":"1",
 	"name":"2018hlr",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018hlr",
 	"public":"1",
 	"ra":"18:20:33.17",
-	"redshift":null,
+	"redshift":"0.031",
 	"source_group":{
 		"group_name":"PTSS",
 		"groupid":"22"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018hlr_2458414.754271_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458414.754271,
+			"obsdate":"2018-10-23 06:06:08",
+			"observer":"Payne, Do, Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with summit-based quick reduction pipeline. Care should be taken before using this spectrum for further science.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
 }
