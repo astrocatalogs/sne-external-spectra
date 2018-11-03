@@ -23,12 +23,35 @@
 	"objname":"2018gho",
 	"public":"1",
 	"ra":"16:27:21.90",
-	"redshift":null,
+	"redshift":"0.033",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018gho_2018-09-21_21-23-06_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458383.3910417,
+			"obsdate":"2018-09-21 21:23:06",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Both the transient and the core of the host were in the slit, this extraction is at the position of the transient.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
 	"type":null
 }
