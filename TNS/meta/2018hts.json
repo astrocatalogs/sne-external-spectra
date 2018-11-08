@@ -1,0 +1,57 @@
+{
+	"dec":"+17:05:35.30",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-11-01 21:36:00",
+	"discoverymag":"16.8",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J232432.96+170537.9",
+	"internal_name":"ASASSN-18yy",
+	"isTNS_AT":"1",
+	"name":"2018hts",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018hts",
+	"public":"1",
+	"ra":"23:24:32.96",
+	"redshift":"0.04",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hts_2018-11-04_02-23-20_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"1230",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458426.599537,
+			"obsdate":"2018-11-04 02:23:20",
+			"observer":"C. D. Kilpatrick, B. Garza, J. Decker",
+			"public":"1",
+			"reducer":"C. D. Kilpatrick,  M. R. Siebert",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
+}

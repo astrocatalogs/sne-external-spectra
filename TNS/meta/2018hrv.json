@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS18ycv",
 	"isTNS_AT":"1",
 	"name":"2018hrv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018hrv",
 	"public":"1",
 	"ra":"01:08:41.31",
-	"redshift":null,
+	"redshift":"0.06",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hrv_2018-11-04_05-31-08_Lick_3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":"1830",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458426.7299537,
+			"obsdate":"2018-11-04 05:31:08",
+			"observer":"C. D. Kilpatrick, B. Garza, J. Decker",
+			"public":"1",
+			"reducer":"C. D. Kilpatrick,  M. R. Siebert",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick 3m"
+			}
+		}
+	],
+	"type":"3"
 }

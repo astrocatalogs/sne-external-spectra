@@ -1,0 +1,65 @@
+{
+	"dec":"+11:50:39.40",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Post",
+	"discovererid":"168",
+	"discoverydate":"2018-11-03 05:51:59",
+	"discoverymag":"17.9",
+	"end_prop_period":null,
+	"host_redshift":"0.025661",
+	"hostname":"NGC1166",
+	"internal_name":"",
+	"isTNS_AT":"1",
+	"name":"2018htf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018htf",
+	"public":"1",
+	"ra":"03:00:35.00",
+	"redshift":"0.026",
+	"source_group":{
+		"group_name":"POSS",
+		"groupid":"6"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018htf_2018-11-06_07-15-59_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018htf_2018-11-06_07-15-59_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458428.8027662,
+			"obsdate":"2018-11-06 07:15:59",
+			"observer":"Marco Berton, Enrico Congiu",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
+}

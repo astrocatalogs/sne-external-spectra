@@ -1,0 +1,65 @@
+{
+	"dec":"-54:00:40.14",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-11-02 07:12:00",
+	"discoverymag":"17.7",
+	"end_prop_period":null,
+	"host_redshift":"0.061709",
+	"hostname":"FAIRALL 0761",
+	"internal_name":"ASASSN-18yx",
+	"isTNS_AT":"1",
+	"name":"2018hsz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018hsz",
+	"public":"1",
+	"ra":"03:56:20.72",
+	"redshift":"0.061709",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018hsz_2018-11-06_15-44-33_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018hsz_2018-11-06_15-44-33_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":"125",
+				"name":"FLOYDS-S"
+			},
+			"jd":2458429.1559375,
+			"obsdate":"2018-11-06 15:44:33",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"75",
+				"name":"FTS"
+			}
+		}
+	],
+	"type":"3"
+}

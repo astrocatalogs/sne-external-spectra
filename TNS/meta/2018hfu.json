@@ -17,19 +17,49 @@
 	"name":"2018hfu",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"100",
-		"name":"SN Ia-pec"
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2018hfu",
 	"public":"1",
 	"ra":"23:54:51.09",
-	"redshift":"0.06",
+	"redshift":"0.0498",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018hfu_2018-11-03_07-27-19_P60_SED-Machine_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458425.8106366,
+			"obsdate":"2018-11-03 07:27:19",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hfu_2018-10-15_22-17-51_LT_SPRAT.txt",
 			"end_prop_period":null,
@@ -53,5 +83,5 @@
 			}
 		}
 	],
-	"type":"100"
+	"type":"104"
 }

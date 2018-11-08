@@ -1,0 +1,65 @@
+{
+	"dec":"-49:32:51.08",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Vallely",
+	"discovererid":"668",
+	"discoverydate":"2018-10-28 01:40:48",
+	"discoverymag":"18",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J19141248-4932513",
+	"internal_name":"ASASSN-18yo",
+	"isTNS_AT":"1",
+	"name":"2018hrp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018hrp",
+	"public":"1",
+	"ra":"19:14:12.47",
+	"redshift":"0.035",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hrp_2458425.53508102_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hrp_2458425.53508102_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458425.535081,
+			"obsdate":"2018-11-03 00:50:30",
+			"observer":"Jeffrey Rich",
+			"public":"1",
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":"3"
+}

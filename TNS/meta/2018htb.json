@@ -1,0 +1,57 @@
+{
+	"dec":"+20:16:55.88",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-11-01 13:09:07",
+	"discoverymag":"19.61",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18yeq",
+	"isTNS_AT":"1",
+	"name":"2018htb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018htb",
+	"public":"1",
+	"ra":"04:37:30.69",
+	"redshift":"0.072",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018htb_2018-11-04_03-14-55_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458426.6353588,
+			"obsdate":"2018-11-04 03:14:55",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}
