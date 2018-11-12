@@ -23,13 +23,43 @@
 	"objname":"2018hyw",
 	"public":"1",
 	"ra":"08:20:17.35",
-	"redshift":"0.0175",
+	"redshift":"0.0168",
 	"source_group":{
 		"group_name":"SNHunt",
 		"groupid":"14"
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018hyw_2018-11-08_08-12-49_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018hyw_2018-11-08_08-12-49_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458430.8422338,
+			"obsdate":"2018-11-08 08:12:49",
+			"observer":"Marco Berton, Enrico Congiu",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018hyw_2018-11-07_11-31-48_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
