@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-18yr",
 	"isTNS_AT":"1",
 	"name":"2018hsh",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018hsh",
 	"public":"1",
 	"ra":"23:11:49.55",
-	"redshift":null,
+	"redshift":"0.036962",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hsh_2018-11-11.03_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hsh_2018-11-11.03_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458433.53,
+			"obsdate":"2018-11-11 00:43:12",
+			"observer":"Jeff Rich",
+			"public":"1",
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":"3"
 }

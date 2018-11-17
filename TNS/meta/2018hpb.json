@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18yaz",
 	"isTNS_AT":"1",
 	"name":"2018hpb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"13",
+		"name":"SN IIn"
 	},
 	"objname":"2018hpb",
 	"public":"1",
 	"ra":"22:01:34.52",
-	"redshift":null,
+	"redshift":"0.0177",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hpb_2018-11-06.11_MDM-2.4_OSMOS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hpb_2018-11-06.11_MDM-2.4_OSMOS_ASAS-SN.fits",
+			"instrument":{
+				"id":"150",
+				"name":"OSMOS"
+			},
+			"jd":2458428.61,
+			"obsdate":"2018-11-06 02:38:24",
+			"observer":"J. Rupert",
+			"public":"1",
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"11",
+				"name":"MDM-2.4"
+			}
+		}
+	],
+	"type":"13"
 }

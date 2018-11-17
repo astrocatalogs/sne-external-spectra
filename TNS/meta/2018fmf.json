@@ -15,20 +15,51 @@
 	"internal_name":"Gaia18ciw",
 	"isTNS_AT":"1",
 	"name":"2018fmf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"11",
+		"name":"SN IIP"
 	},
 	"objname":"2018fmf",
 	"public":"1",
 	"ra":"09:38:29.34",
-	"redshift":null,
+	"redshift":"0.007622",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018fmf_2018-09-08.51_P200_DBSP_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018fmf_2018-09-08.51_P200_DBSP_ASAS-SN.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458370.01,
+			"obsdate":"2018-09-08 12:14:24",
+			"observer":"Subhash Bose. Ping Chen",
+			"public":"1",
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"11"
 }

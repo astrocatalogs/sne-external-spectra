@@ -15,10 +15,10 @@
 	"internal_name":"ZTF18abucxcj",
 	"isTNS_AT":"1",
 	"name":"2018gho",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"1",
+		"name":"SN"
 	},
 	"objname":"2018gho",
 	"public":"1",
@@ -51,7 +51,37 @@
 				"id":"70",
 				"name":"LT"
 			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018gho_2018-09-20_04-04-09_P60_SED-Machine_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1440",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458381.6695486,
+			"obsdate":"2018-09-20 04:04:09",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
 		}
 	],
-	"type":null
+	"type":"1"
 }
