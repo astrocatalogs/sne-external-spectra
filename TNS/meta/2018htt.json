@@ -23,13 +23,43 @@
 	"objname":"2018htt",
 	"public":"1",
 	"ra":"03:06:02.90",
-	"redshift":"0.00867",
+	"redshift":"0.008673",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018htt_2018-11-17_05-25-50_P60_SED-Machine_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2000",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SED-Machine"
+			},
+			"jd":2458439.7262731,
+			"obsdate":"2018-11-17 05:25:50",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018htt_2018-11-09.30_Lick_3m_KAST_ASAS-SN.flm",
 			"assoc_groups":[

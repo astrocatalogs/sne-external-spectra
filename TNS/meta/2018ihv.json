@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18ysb",
 	"isTNS_AT":"1",
 	"name":"2018ihv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2018ihv",
 	"public":"1",
 	"ra":"00:12:32.68",
-	"redshift":null,
+	"redshift":"0.04",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018ihv_2018-11-18_00-56-02_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018ihv_2018-11-18_00-56-02_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458440.538912,
+			"obsdate":"2018-11-18 00:56:02",
+			"observer":"Berton Marco, Congiu Enrico",
+			"public":"1",
+			"reducer":"Reguitti Andrea, Pastorello Andrea, Fiore Achille",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
 }
