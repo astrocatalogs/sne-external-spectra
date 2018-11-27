@@ -1,0 +1,57 @@
+{
+	"dec":"-00:00:31.71",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":"37975",
+	"discoverydate":"2018-11-24 01:47:09",
+	"discoverymag":"14.6523",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC1068",
+	"internal_name":"DLT18aq",
+	"isTNS_AT":"1",
+	"name":"2018ivc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018ivc",
+	"public":"1",
+	"ra":"02:42:41.29",
+	"redshift":"0.00379",
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":"30"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018ivc_2018-11-24.6_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2458447.1,
+			"obsdate":"2018-11-24 14:24:00",
+			"observer":"M. Yamanaka",
+			"public":"1",
+			"reducer":"M. Yamanaka",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"10"
+}
