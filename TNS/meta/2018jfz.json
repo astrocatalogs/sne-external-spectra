@@ -1,0 +1,65 @@
+{
+	"dec":"-00:17:47.04",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-11-28 10:36:28",
+	"discoverymag":"19.117",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18zoj",
+	"isTNS_AT":"1",
+	"name":"2018jfz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"1",
+		"name":"SN"
+	},
+	"objname":"2018jfz",
+	"public":"1",
+	"ra":"03:20:18.738",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jfz_2018-12-02_05-32-48_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jfz_2018-12-02_05-32-48_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458454.7311111,
+			"obsdate":"2018-12-02 05:32:48",
+			"observer":"Pursiainen, M; Castro, N",
+			"public":"1",
+			"reducer":"Gutierrez, C. P.; Muller, T.",
+			"remarks":"The spectrum is blue and featureless. No redshift information available. Possibly a young Type II SN.",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"1"
+}

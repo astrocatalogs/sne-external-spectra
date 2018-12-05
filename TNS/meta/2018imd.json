@@ -15,20 +15,43 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2018imd",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018imd",
 	"public":"1",
-	"ra":"12:48:24.95",
-	"redshift":null,
+	"ra":"12:48:24.950",
+	"redshift":"0.005",
 	"source_group":{
 		"group_name":null,
 		"groupid":"0"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018imd_2018-11-29.8_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"138",
+				"name":"HOWPol"
+			},
+			"jd":2458452.3,
+			"obsdate":"2018-11-29 19:12:00",
+			"observer":"Takagi",
+			"public":"1",
+			"reducer":"M. y",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"90",
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":"3"
 }

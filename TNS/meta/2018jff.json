@@ -1,0 +1,65 @@
+{
+	"dec":"-44:58:49.06",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Vallely",
+	"discovererid":"668",
+	"discoverydate":"2018-11-27 22:19:12",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":"0.062577",
+	"hostname":"LCRS B234528.8-451528",
+	"internal_name":"ASASSN-18aaj",
+	"isTNS_AT":"1",
+	"name":"2018jff",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018jff",
+	"public":"1",
+	"ra":"23:48:06.423",
+	"redshift":"0.063",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jff_2018-12-02_02-11-54_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jff_2018-12-02_02-11-54_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458454.5915972,
+			"obsdate":"2018-12-02 02:11:54",
+			"observer":"Pursiainen, M; Castro, N",
+			"public":"1",
+			"reducer":"Gutierrez, C. P.; Muller, T.",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-18zz",
 	"isTNS_AT":"1",
 	"name":"2018ioa",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018ioa",
 	"public":"1",
-	"ra":"04:20:32.15",
-	"redshift":null,
+	"ra":"04:20:32.146",
+	"redshift":"0.041229",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ioa_2018-11-23.03_SALT_RSS_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018ioa_2018-11-23.03_SALT_RSS_ASAS-SN.fits",
+			"instrument":{
+				"id":"117",
+				"name":"RSS"
+			},
+			"jd":2458445.53,
+			"obsdate":"2018-11-23 00:43:12",
+			"observer":"D. A. H. Buckley, M. Gromadzki",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"82",
+				"name":"SALT"
+			}
+		}
+	],
+	"type":"3"
 }

@@ -1,0 +1,65 @@
+{
+	"dec":"-08:27:58.90",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-11-27 14:24:00",
+	"discoverymag":"16.3",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASS J11252566-0827587",
+	"internal_name":"ASASSN-18aah",
+	"isTNS_AT":"1",
+	"name":"2018jdq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018jdq",
+	"public":"1",
+	"ra":"11:25:25.858",
+	"redshift":"0.028",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018jdq_2458456.0916_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458456.0916,
+			"obsdate":"2018-12-03 14:11:54",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit quick-reduction pipeline.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
+}

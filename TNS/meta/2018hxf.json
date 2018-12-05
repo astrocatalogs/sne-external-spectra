@@ -17,19 +17,41 @@
 	"name":"2018hxf",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"1",
-		"name":"SN"
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2018hxf",
 	"public":"1",
-	"ra":"04:22:17.87",
-	"redshift":null,
+	"ra":"04:22:17.866",
+	"redshift":"0.0296",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018hxf_2018-11-28_02-02-58_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458450.5853935,
+			"obsdate":"2018-11-28 02:02:58",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018hxf_2018-11-11.22_LCO-duPont_WFCCD_ASAS-SN.txt",
 			"assoc_groups":[
@@ -61,5 +83,5 @@
 			}
 		}
 	],
-	"type":"1"
+	"type":"10"
 }
