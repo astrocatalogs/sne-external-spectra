@@ -15,20 +15,51 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2018jhf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2018jhf",
 	"public":"1",
 	"ra":"00:35:54.720",
-	"redshift":null,
+	"redshift":"0.058",
 	"source_group":{
 		"group_name":"OGLE",
 		"groupid":"17"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jhf_2018-12-04_00-28-16_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jhf_2018-12-04_00-28-16_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458456.5196296,
+			"obsdate":"2018-12-04 00:28:16",
+			"observer":"M. Pursiainen, N. Castro-Segura",
+			"public":"1",
+			"reducer":"C. P. Gutierrez, T. Muller",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"104"
 }
