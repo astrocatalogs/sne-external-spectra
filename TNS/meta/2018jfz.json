@@ -17,19 +17,49 @@
 	"name":"2018jfz",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"1",
-		"name":"SN"
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2018jfz",
 	"public":"1",
 	"ra":"03:20:18.738",
-	"redshift":null,
+	"redshift":"0.034",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jfz_2018-12-08_03-33-42_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jfz_2018-12-08_03-33-42_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458460.6484028,
+			"obsdate":"2018-12-08 03:33:42",
+			"observer":"M. Pursiainen, N. Castro-Segura",
+			"public":"1",
+			"reducer":"C. R. Angus, P. Wiseman",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018jfz_2018-12-02_05-32-48_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
@@ -61,5 +91,5 @@
 			}
 		}
 	],
-	"type":"1"
+	"type":"10"
 }
