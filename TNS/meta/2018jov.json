@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18bbdt",
 	"isTNS_AT":"1",
 	"name":"2018jov",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018jov",
 	"public":"1",
 	"ra":"08:00:07.140",
-	"redshift":null,
+	"redshift":"0.019213",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018jov_2018-12-10_11-43-25_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2018jov_2018-12-10_11-43-25_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458462.9884838,
+			"obsdate":"2018-12-10 11:43:25",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"3"
 }
