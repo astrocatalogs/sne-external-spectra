@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS18bafx",
 	"isTNS_AT":"1",
 	"name":"2018jly",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018jly",
 	"public":"1",
 	"ra":"22:17:05.362",
-	"redshift":null,
+	"redshift":"0.034",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2018jly_2018-12-11_05-30-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458463.7291667,
+			"obsdate":"2018-12-11 05:30:00",
+			"observer":"Aaron Do, Michael A. Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"phase +11 (2) days",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
 }
