@@ -15,20 +15,43 @@
 	"internal_name":"Gaia18dtf",
 	"isTNS_AT":"1",
 	"name":"2018jrp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018jrp",
 	"public":"1",
 	"ra":"14:23:51.790",
-	"redshift":null,
+	"redshift":"0.05",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018jrp_2018-12-16_06-00-24_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458468.7502778,
+			"obsdate":"2018-12-16 06:00:24",
+			"observer":"K. Skillen, K. Maguire, M. R. Magee, P. Clark, S. J. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

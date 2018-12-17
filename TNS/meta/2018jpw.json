@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS18bazl",
 	"isTNS_AT":"1",
 	"name":"2018jpw",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018jpw",
 	"public":"1",
 	"ra":"10:38:22.419",
-	"redshift":null,
+	"redshift":"0.09",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018jpw_2018-12-15_04-15-45_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458467.6776042,
+			"obsdate":"2018-12-15 04:15:45",
+			"observer":"S. J. Prentice, K. Maguire, M. R. Magee, P. Clark, K. Skillen",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }
