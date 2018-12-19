@@ -1,0 +1,57 @@
+{
+	"dec":"-17:59:12.08",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-12-17 10:20:38",
+	"discoverymag":"18.19",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18bbvc",
+	"isTNS_AT":"1",
+	"name":"2018kav",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018kav",
+	"public":"1",
+	"ra":"04:50:54.597",
+	"redshift":"0.0325",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018kav_2018-12-17_22-38-05_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"700",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458470.4431134,
+			"obsdate":"2018-12-17 22:38:05",
+			"observer":"S. J. Prentice, K. Maguire, M. R. Magee, P. Clark, K. Skillen",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
+}
