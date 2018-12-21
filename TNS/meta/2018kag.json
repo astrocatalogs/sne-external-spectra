@@ -1,0 +1,57 @@
+{
+	"dec":"+03:38:28.10",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2018-12-17 01:40:48",
+	"discoverymag":"17.2",
+	"end_prop_period":null,
+	"host_redshift":"0.027209",
+	"hostname":"SDSS J085548.84+033827.9",
+	"internal_name":"ASASSN-18abt",
+	"isTNS_AT":"1",
+	"name":"2018kag",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2018kag",
+	"public":"1",
+	"ra":"08:55:48.398",
+	"redshift":"0.027209",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018kag_2018-12-18_01-09-32_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458470.548287,
+			"obsdate":"2018-12-18 01:09:32",
+			"observer":"S. J. Prentice, K. Maguire, M. R. Magee, P. Clark, K. Skillen",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"10"
+}
