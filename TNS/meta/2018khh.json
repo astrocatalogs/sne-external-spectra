@@ -15,20 +15,43 @@
 	"internal_name":"ASASSN-18abz",
 	"isTNS_AT":"1",
 	"name":"2018khh",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"13",
+		"name":"SN IIn"
 	},
 	"objname":"2018khh",
 	"public":"1",
 	"ra":"22:03:16.279",
-	"redshift":null,
+	"redshift":"0.023",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018khh_2018-12-21_02-13-49_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018khh_2018-12-21_02-13-49_SOAR_Goodman.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458473.5929282,
+			"obsdate":"2018-12-21 02:13:49",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"13"
 }
