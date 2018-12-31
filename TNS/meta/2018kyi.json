@@ -1,0 +1,65 @@
+{
+	"dec":"+26:19:29.73",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2018-12-27 10:52:19",
+	"discoverymag":"17.512",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS18bchg",
+	"isTNS_AT":"1",
+	"name":"2018kyi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2018kyi",
+	"public":"1",
+	"ra":"07:07:09.504",
+	"redshift":"0.0214",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018kyi_2458481.407_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2018kyi_2458481.407_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458481.407,
+			"obsdate":"2018-12-28 21:46:04",
+			"observer":"benetti",
+			"public":"1",
+			"reducer":"benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}
