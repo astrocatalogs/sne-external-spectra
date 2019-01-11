@@ -1,0 +1,65 @@
+{
+	"dec":"-46:02:11.22",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2019-01-03 06:14:24",
+	"discoverymag":"18.3",
+	"end_prop_period":null,
+	"host_redshift":"0.044521",
+	"hostname":" AM 0454-460",
+	"internal_name":"ASASSN-19af",
+	"isTNS_AT":"1",
+	"name":"2019cj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"1",
+		"name":"SN"
+	},
+	"objname":"2019cj",
+	"public":"1",
+	"ra":"04:56:22.920",
+	"redshift":"0.0445",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019cj_2019-01-07_06-02-54_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019cj_2019-01-07_06-02-54_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458490.7520139,
+			"obsdate":"2019-01-07 06:02:54",
+			"observer":"G. Pignata, O. Rodrigguez",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"1"
+}

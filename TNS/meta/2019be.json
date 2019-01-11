@@ -1,0 +1,57 @@
+{
+	"dec":"+27:57:24.67",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-01-02 15:02:52",
+	"discoverymag":"18.432",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19aar",
+	"isTNS_AT":"1",
+	"name":"2019be",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"103",
+		"name":"SN Ia-91bg-like"
+	},
+	"objname":"2019be",
+	"public":"1",
+	"ra":"13:00:14.524",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019be_2019-01-02_04-53-34_LT_SPRAT.asci",
+			"end_prop_period":null,
+			"exptime":"400",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458485.7038657,
+			"obsdate":"2019-01-02 04:53:34",
+			"observer":"Inserra",
+			"public":"1",
+			"reducer":"Inserra",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"103"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-09:34:56.16",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-01-05 11:24:00",
+	"discoverymag":"18.795",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19adv",
+	"isTNS_AT":"1",
+	"name":"2019gf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"104",
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2019gf",
+	"public":"1",
+	"ra":"08:05:35.261",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019gf_2019-01-09_08-33-10_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019gf_2019-01-09_08-33-10_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458492.8563657,
+			"obsdate":"2019-01-09 08:33:10",
+			"observer":"O. Rodriguez, G. Pignata",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"104"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-05:23:26.82",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"71",
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-01-03 12:59:02",
+	"discoverymag":"19.403",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19abg",
+	"isTNS_AT":"1",
+	"name":"2019ci",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2019ci",
+	"public":"1",
+	"ra":"09:43:27.655",
+	"redshift":"0.04",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ci_2019-01-08_08-25-52_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ci_2019-01-08_08-25-52_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458491.8512963,
+			"obsdate":"2019-01-08 08:25:52",
+			"observer":"O. Rodriguez, G. Pignata",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
+}

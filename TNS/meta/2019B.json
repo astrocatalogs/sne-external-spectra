@@ -1,0 +1,65 @@
+{
+	"dec":"+22:06:05.94",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2019-01-01 06:00:00",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":"0.021",
+	"hostname":"UGC 00118 ",
+	"internal_name":"ASASSN-19ab",
+	"isTNS_AT":"1",
+	"name":"2019B",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2019B",
+	"public":"1",
+	"ra":"00:13:02.335",
+	"redshift":"0.021",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019B_2019-01-07.9_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019B_2019-01-07.9_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458491.4,
+			"obsdate":"2019-01-07 21:36:00",
+			"observer":"tomasella",
+			"public":"1",
+			"reducer":"tomasella",
+			"remarks":"Noisy spectrum similar to those of several type II supernovae about one/two weeks after explosion",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"10"
+}

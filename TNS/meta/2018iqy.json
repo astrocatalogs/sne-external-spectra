@@ -15,20 +15,51 @@
 	"internal_name":"MASTER OT J115627.11+034613.1",
 	"isTNS_AT":"1",
 	"name":"2018iqy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018iqy",
 	"public":"1",
 	"ra":"11:56:27.110",
-	"redshift":null,
+	"redshift":"0.02243",
 	"source_group":{
 		"group_name":"MASTER",
 		"groupid":"36"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018iqy_2019-01-02_10-57-37_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018iqy_2019-01-02_10-57-37_APO-3.5m_DIS_ZTF.fits",
+			"instrument":{
+				"id":"70",
+				"name":"DIS"
+			},
+			"jd":2458485.9566782,
+			"obsdate":"2019-01-02 10:57:37",
+			"observer":"M. L. Graham",
+			"public":"1",
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"55",
+				"name":"APO-3.5m"
+			}
+		}
+	],
+	"type":"3"
 }
