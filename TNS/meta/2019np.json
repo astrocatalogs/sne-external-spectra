@@ -15,20 +15,73 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2019np",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019np",
 	"public":"1",
 	"ra":"10:29:21.960",
-	"redshift":null,
+	"redshift":"0.004",
 	"source_group":{
 		"group_name":null,
 		"groupid":"0"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019np_2458494.1964_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"2000",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019np_2458494.1964_Lijiang-2.4m_YFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458494.1964,
+			"obsdate":"2019-01-10 16:42:48",
+			"observer":"Chengyuan Wu",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019np_2019-01-10_13-12-55_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019np_2019-01-10_13-12-55_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458494.0506366,
+			"obsdate":"2019-01-10 13:12:55",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"3"
 }

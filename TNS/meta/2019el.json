@@ -15,20 +15,43 @@
 	"internal_name":"MASTER OT J000256.70+323252.3",
 	"isTNS_AT":"1",
 	"name":"2019el",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"13",
+		"name":"SN IIn"
 	},
 	"objname":"2019el",
 	"public":"1",
 	"ra":"00:02:56.700",
-	"redshift":null,
+	"redshift":"0.0005",
 	"source_group":{
 		"group_name":"MASTER",
 		"groupid":"36"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019el_2458489.0345_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019el_2458489.0345_Lijiang-2.4m_YFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458489.0345,
+			"obsdate":"2019-01-05 12:49:40",
+			"observer":"Jujia Zhang",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"13"
 }
