@@ -15,20 +15,51 @@
 	"internal_name":"ZTF18adcbyiw",
 	"isTNS_AT":"1",
 	"name":"2019gj",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019gj",
 	"public":"1",
 	"ra":"01:39:42.100",
-	"redshift":null,
+	"redshift":"0.08",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019gj_2458497.2769_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458497.2769,
+			"obsdate":"2019-01-13 18:38:44",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit quick reduction pipeline, care should be taken before re-using this data for further studies.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
 }

@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS19bdc",
 	"isTNS_AT":"1",
 	"name":"2019rf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"1",
+		"name":"SN"
 	},
 	"objname":"2019rf",
 	"public":"1",
 	"ra":"03:12:13.522",
-	"redshift":null,
+	"redshift":"0.011",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rf_2019-01-12_21-22-17_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458496.3904745,
+			"obsdate":"2019-01-12 21:22:17",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"1"
 }

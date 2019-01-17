@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aadgimr",
 	"isTNS_AT":"1",
 	"name":"2019qt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"13",
+		"name":"SN IIn"
 	},
 	"objname":"2019qt",
 	"public":"1",
 	"ra":"14:59:10.652",
-	"redshift":null,
+	"redshift":"0.035",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019qt_2458496.6548_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458496.6548,
+			"obsdate":"2019-01-13 03:42:54",
+			"observer":"Payne",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with summit-based quick reduction pipeline. Care should be taken before using this spectrum for further science. ",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"13"
 }
