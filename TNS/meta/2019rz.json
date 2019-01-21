@@ -1,0 +1,65 @@
+{
+	"dec":"+43:03:11.70",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2019-01-14 09:50:24",
+	"discoverymag":"17.4",
+	"end_prop_period":null,
+	"host_redshift":"0.018853",
+	"hostname":"UGC 03554",
+	"internal_name":"ASASSN-19av",
+	"isTNS_AT":"1",
+	"name":"2019rz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"13",
+		"name":"SN IIn"
+	},
+	"objname":"2019rz",
+	"public":"1",
+	"ra":"06:50:25.800",
+	"redshift":"0.018853",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019rz_2019-01-15.98_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019rz_2019-01-15.98_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458499.48,
+			"obsdate":"2019-01-15 23:31:12",
+			"observer":"tomasella",
+			"public":"1",
+			"reducer":"benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"13"
+}

@@ -1,0 +1,65 @@
+{
+	"dec":"-12:31:58.68",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"111",
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":"49023",
+	"discoverydate":"2018-12-30 11:28:32",
+	"discoverymag":"18.01",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18adbzccu",
+	"isTNS_AT":"1",
+	"name":"2018lkb",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"29",
+		"name":"AGN"
+	},
+	"objname":"2018lkb",
+	"public":"1",
+	"ra":"11:31:51.598",
+	"redshift":"0.654",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018lkb_2019-01-08_07-25-59_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2018lkb_2019-01-08_07-25-59_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458491.8097106,
+			"obsdate":"2019-01-08 07:25:59",
+			"observer":"O. Rodriguez, G. Pignata",
+			"public":"1",
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"29"
+}
