@@ -1,0 +1,57 @@
+{
+	"dec":"+44:45:58.67",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-01-17 15:51:50",
+	"discoverymag":"16.733",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19bqg",
+	"isTNS_AT":"1",
+	"name":"2019va",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"11",
+		"name":"SN IIP"
+	},
+	"objname":"2019va",
+	"public":"1",
+	"ra":"13:35:14.684",
+	"redshift":"0.0088",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019va_2458497.0318_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019va_2458497.0318_Lijiang-2.4m_YFOSC.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458497.0318,
+			"obsdate":"2019-01-13 12:45:47",
+			"observer":"Jujia Zhang, Kaixing Lu (YNAO); Xiaofeng Wang(THU)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"11"
+}

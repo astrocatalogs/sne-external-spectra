@@ -15,20 +15,51 @@
 	"internal_name":"ZTF18acyawjf",
 	"isTNS_AT":"1",
 	"name":"2018ktc",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2018ktc",
 	"public":"1",
 	"ra":"10:51:46.106",
-	"redshift":null,
+	"redshift":"0.07",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018ktc_2019-01-02_09-49-21_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018ktc_2019-01-02_09-49-21_APO-3.5m_DIS_ZTF.fits",
+			"instrument":{
+				"id":"70",
+				"name":"DIS"
+			},
+			"jd":2458485.9092708,
+			"obsdate":"2019-01-02 09:49:21",
+			"observer":"M. L. Graham",
+			"public":"1",
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"55",
+				"name":"APO-3.5m"
+			}
+		}
+	],
+	"type":"3"
 }
