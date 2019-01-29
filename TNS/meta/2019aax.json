@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS19bvw",
 	"isTNS_AT":"1",
 	"name":"2019aax",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2019aax",
 	"public":"1",
 	"ra":"12:17:05.631",
-	"redshift":null,
+	"redshift":"0.013",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aax_2019-01-25_04-43-24_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aax_2019-01-25_04-43-24_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458508.6968056,
+			"obsdate":"2019-01-25 04:43:24",
+			"observer":"S. Piranomonte, R. Carini",
+			"public":"1",
+			"reducer":"A. Melandri, P. D'Avanzo",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"10"
 }

@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aadnxat",
 	"isTNS_AT":"1",
 	"name":"2019vu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019vu",
 	"public":"1",
 	"ra":"14:02:19.893",
-	"redshift":null,
+	"redshift":"0.033",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/NUTS/tns_2019vu_2019-01-26_04-41-28_NOT_ALFOSC_NUTS.dat",
+			"assoc_groups":[
+				{
+					"id":"28",
+					"name":"NUTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"41",
+				"name":"ALFOSC"
+			},
+			"jd":2458509.695463,
+			"obsdate":"2019-01-26 04:41:28",
+			"observer":"Emma Callis",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"28",
+				"name":"NUTS"
+			},
+			"telescope":{
+				"id":"12",
+				"name":"NOT"
+			}
+		}
+	],
+	"type":"3"
 }
