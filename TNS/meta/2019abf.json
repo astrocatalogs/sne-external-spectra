@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS19bwd",
 	"isTNS_AT":"1",
 	"name":"2019abf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019abf",
 	"public":"1",
 	"ra":"13:20:30.158",
-	"redshift":null,
+	"redshift":"0.0712",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019abf_2019-02-01_08-08-46_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019abf_2019-02-01_08-08-46_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458515.8394213,
+			"obsdate":"2019-02-01 08:08:46",
+			"observer":"Silvia Piranomonte, Roberta Carini",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
 }

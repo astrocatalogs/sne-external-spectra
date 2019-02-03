@@ -23,7 +23,7 @@
 	"objname":"2019vu",
 	"public":"1",
 	"ra":"14:02:19.893",
-	"redshift":"0.033",
+	"redshift":"0.03208",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
@@ -58,6 +58,36 @@
 			"telescope":{
 				"id":"12",
 				"name":"NOT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019vu_2019-01-25_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458508.5,
+			"obsdate":"2019-01-25 00:00:00",
+			"observer":"LTRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
 			}
 		}
 	],

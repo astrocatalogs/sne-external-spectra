@@ -15,20 +15,51 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2019uo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"9",
+		"name":"SN Ibn"
 	},
 	"objname":"2019uo",
 	"public":"1",
 	"ra":"12:02:36.560",
-	"redshift":null,
+	"redshift":"0.020454",
 	"source_group":{
 		"group_name":null,
 		"groupid":"0"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019uo_2019-01-29_17-16-26_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019uo_2019-01-29_17-16-26_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458513.2197454,
+			"obsdate":"2019-01-29 17:16:26",
+			"observer":"I. Andreoni",
+			"public":"1",
+			"reducer":"M. Hankins",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"9"
 }

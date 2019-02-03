@@ -1,0 +1,65 @@
+{
+	"dec":"-13:53:58.90",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"110",
+		"name":"g"
+	},
+	"discoverer":"Gal-Yam",
+	"discovererid":"21",
+	"discoverydate":"2019-01-24 04:59:59",
+	"discoverymag":"18.998",
+	"end_prop_period":null,
+	"host_redshift":"0.065282",
+	"hostname":"2MASX J06174344-1353587",
+	"internal_name":"ZTF19aaefxwq",
+	"isTNS_AT":"1",
+	"name":"2019ajb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019ajb",
+	"public":"1",
+	"ra":"06:17:43.440",
+	"redshift":"0.0653",
+	"source_group":{
+		"group_name":"ePESSTO",
+		"groupid":"37"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ajb_2019-02-01_03-50-25_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ajb_2019-02-01_03-50-25_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458515.6600116,
+			"obsdate":"2019-02-01 03:50:25",
+			"observer":"Silvia Piranomonte, Roberta Carini",
+			"public":"1",
+			"reducer":"Stefano Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
+}

@@ -15,20 +15,51 @@
 	"internal_name":"ZTF18acyxnyw",
 	"isTNS_AT":"1",
 	"name":"2018kyt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"18",
+		"name":"SLSN-I"
 	},
 	"objname":"2018kyt",
 	"public":"1",
 	"ra":"12:27:56.227",
-	"redshift":null,
+	"redshift":"0.108",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018kyt_2019-01-29_18-47-35_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018kyt_2019-01-29_18-47-35_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458513.283044,
+			"obsdate":"2019-01-29 18:47:35",
+			"observer":"I. Andreoni",
+			"public":"1",
+			"reducer":"M. Hankins",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"18"
 }
