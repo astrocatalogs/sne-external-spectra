@@ -1,0 +1,65 @@
+{
+	"dec":"-29:14:31.31",
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":"75",
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":"35587",
+	"discoverydate":"2019-02-02 05:49:55",
+	"discoverymag":"17.56",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia19akc",
+	"isTNS_AT":"1",
+	"name":"2019akv",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"27",
+		"name":"CV"
+	},
+	"objname":"2019akv",
+	"public":"1",
+	"ra":"06:15:34.190",
+	"redshift":null,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":"24"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019akv_2458518.8006_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458518.8006,
+			"obsdate":"2019-02-04 07:12:51",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit quick reduction pipeline, care should be taken before reusing this data for future studies.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"27"
+}

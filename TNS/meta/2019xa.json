@@ -15,20 +15,49 @@
 	"internal_name":"ZTF19aadoocn",
 	"isTNS_AT":"1",
 	"name":"2019xa",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019xa",
 	"public":"1",
 	"ra":"11:56:28.239",
-	"redshift":null,
+	"redshift":"0.041211",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xa_2019-01-28.3_Magellan-Clay_LDSS-3.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xa_2019-01-28.3_Magellan-Clay_LDSS-3.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"78",
+				"name":"LDSS-3"
+			},
+			"jd":2458511.8,
+			"obsdate":"2019-01-28 07:12:00",
+			"observer":"Nidia Morrell",
+			"public":"1",
+			"reducer":"Nidia Morrell",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"63",
+				"name":"Magellan-Clay"
+			}
+		}
+	],
+	"type":"3"
 }

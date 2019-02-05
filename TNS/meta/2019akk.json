@@ -1,5 +1,5 @@
 {
-	"dec":"-10:22:57.51",
+	"dec":"-06:59:27.17",
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":"72",
@@ -7,23 +7,23 @@
 	},
 	"discoverer":null,
 	"discovererid":"35595",
-	"discoverydate":"2019-01-29 12:05:45",
-	"discoverymag":"18.388",
+	"discoverydate":"2019-02-02 13:01:55",
+	"discoverymag":"19.092",
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_name":"ATLAS19cau",
+	"internal_name":"ATLAS19cdc",
 	"isTNS_AT":"1",
-	"name":"2019ahj",
+	"name":"2019akk",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
 		"name":"SN Ia"
 	},
-	"objname":"2019ahj",
+	"objname":"2019akk",
 	"public":"1",
-	"ra":"10:40:05.462",
-	"redshift":"0.053",
+	"ra":"11:42:08.889",
+	"redshift":"0.12",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
@@ -31,7 +31,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ahj_2458518.9024_UH88_SNIFS_SCAT.dat",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019akk_2458518.96_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
 					"id":"51",
@@ -45,12 +45,12 @@
 				"id":"11",
 				"name":"SNIFS"
 			},
-			"jd":2458518.9024,
-			"obsdate":"2019-02-04 09:39:27",
+			"jd":2458518.96,
+			"obsdate":"2019-02-04 11:02:24",
 			"observer":"Tucker",
 			"public":"1",
 			"reducer":"",
-			"remarks":"Reduced with a summit quick reduction pipeline.",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
 			"source_group":{
 				"id":"51",
 				"name":"SCAT"
