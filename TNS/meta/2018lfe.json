@@ -15,20 +15,43 @@
 	"internal_name":"PS18cpp",
 	"isTNS_AT":"1",
 	"name":"2018lfe",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"18",
+		"name":"SLSN-I"
 	},
 	"objname":"2018lfe",
 	"public":"1",
 	"ra":"09:33:29.556",
-	"redshift":null,
+	"redshift":"0.35",
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":"4"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2018lfe_2018-01-30_Magellan-Baade_IMACS.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"75",
+				"name":"IMACS"
+			},
+			"jd":2458148.5,
+			"obsdate":"2018-01-30 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":"1",
+			"reducer":"Sebastian Gomez",
+			"remarks":"Supernova classified using SNID (Blondin & Tonry, 2007, ApJ, 666, 1024) as a Type I SLSN at ~45 after peak, as inferred from the ZTF light curve. The redshift is calculated from host emission lines. Reported in ATel #12478.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"54",
+				"name":"Magellan-Baade"
+			}
+		}
+	],
+	"type":"18"
 }

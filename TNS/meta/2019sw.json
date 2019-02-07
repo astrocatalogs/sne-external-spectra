@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS19bju",
 	"isTNS_AT":"1",
 	"name":"2019sw",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019sw",
 	"public":"1",
 	"ra":"09:57:18.910",
-	"redshift":null,
+	"redshift":"0.12",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019sw_2018-01-30_Magellan-Baade_IMACS.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"75",
+				"name":"IMACS"
+			},
+			"jd":2458148.5,
+			"obsdate":"2018-01-30 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":"1",
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"54",
+				"name":"Magellan-Baade"
+			}
+		}
+	],
+	"type":"3"
 }
