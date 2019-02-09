@@ -1,5 +1,5 @@
 {
-	"dec":"-45:25:13.37",
+	"dec":"-30:01:23.59",
 	"discmagfilter":{
 		"family":"Sloan",
 		"id":"21",
@@ -7,23 +7,23 @@
 	},
 	"discoverer":"Stanek",
 	"discovererid":"82",
-	"discoverydate":"2019-02-05 08:09:36",
-	"discoverymag":"17.4",
+	"discoverydate":"2019-02-06 04:48:00",
+	"discoverymag":"17.5",
 	"end_prop_period":null,
-	"host_redshift":"0.035908",
-	"hostname":"2MASX J14162872-4525137",
-	"internal_name":"ASASSN-19cf",
+	"host_redshift":null,
+	"hostname":"GALEXASC J131238.32-300121.7",
+	"internal_name":"ASASSN-19co",
 	"isTNS_AT":"1",
-	"name":"2019amr",
+	"name":"2019aos",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
-		"name":"SN Ia"
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
-	"objname":"2019amr",
+	"objname":"2019aos",
 	"public":"1",
-	"ra":"14:16:27.686",
-	"redshift":"0.036",
+	"ra":"13:12:38.537",
+	"redshift":"0.03",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
@@ -31,7 +31,7 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019amr_2019-02-08_05-16-08_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aos_2019-02-08_05-28-06_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
 					"id":"37",
@@ -39,14 +39,14 @@
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"300",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019amr_2019-02-08_05-16-08_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aos_2019-02-08_05-28-06_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"
 			},
-			"jd":2458522.719537,
-			"obsdate":"2019-02-08 05:16:08",
+			"jd":2458522.7278472,
+			"obsdate":"2019-02-08 05:28:06",
 			"observer":"R. Carini, E. Palazzi",
 			"public":"1",
 			"reducer":"E. Cappellaro, A. Fiore",
@@ -61,5 +61,5 @@
 			}
 		}
 	],
-	"type":"3"
+	"type":"104"
 }

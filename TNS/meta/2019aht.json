@@ -17,18 +17,49 @@
 	"name":"2019aht",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"30",
+		"name":"Galaxy"
 	},
 	"objname":"2019aht",
 	"public":"1",
 	"ra":"09:30:16.992",
-	"redshift":null,
+	"redshift":"0.0057",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aht_2019-02-08_05-02-44_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"180",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aht_2019-02-08_05-02-44_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458522.7102315,
+			"obsdate":"2019-02-08 05:02:44",
+			"observer":"R. Carini, E. Palazzi",
+			"public":"1",
+			"reducer":"E. Cappellaro, A. Fiore",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"30"
 }

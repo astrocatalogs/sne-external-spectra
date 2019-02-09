@@ -1,0 +1,65 @@
+{
+	"dec":"+18:28:52.73",
+	"discmagfilter":{
+		"family":"PS1",
+		"id":"26",
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":"35588",
+	"discoverydate":"2019-02-05 09:27:21",
+	"discoverymag":"18.57",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19mq",
+	"isTNS_AT":"1",
+	"name":"2019ape",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"5",
+		"name":"SN Ic"
+	},
+	"objname":"2019ape",
+	"public":"1",
+	"ra":"10:51:42.538",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":"4"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ape_2019-02-08_06-04-04_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ape_2019-02-08_06-04-04_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458522.7528241,
+			"obsdate":"2019-02-08 06:04:04",
+			"observer":"R. Carini, E. Palazzi",
+			"public":"1",
+			"reducer":"E. Cappellaro, A. Fiore",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"5"
+}
