@@ -1,5 +1,5 @@
 {
-	"dec":"+24:29:58.29",
+	"dec":"+01:23:35.89",
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":"71",
@@ -7,23 +7,23 @@
 	},
 	"discoverer":null,
 	"discovererid":"35595",
-	"discoverydate":"2019-02-05 13:36:28",
-	"discoverymag":"18.444",
+	"discoverydate":"2019-02-08 15:23:02",
+	"discoverymag":"18.713",
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_name":"ATLAS19dbz",
+	"internal_name":"ATLAS19den",
 	"isTNS_AT":"1",
-	"name":"2019aof",
+	"name":"2019aqn",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
-		"name":"SN Ia"
+		"id":"10",
+		"name":"SN II"
 	},
-	"objname":"2019aof",
+	"objname":"2019aqn",
 	"public":"1",
-	"ra":"12:32:12.804",
-	"redshift":"0.073",
+	"ra":"15:33:36.041",
+	"redshift":"0.038",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
@@ -31,7 +31,7 @@
 	"sourceid":"2",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aof_2019-02-10_09-14-34_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aqn_2019-02-10_08-38-16_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
 					"id":"37",
@@ -39,14 +39,14 @@
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"600",
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aof_2019-02-10_09-14-34_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019aqn_2019-02-10_08-38-16_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
 			"instrument":{
 				"id":"31",
 				"name":"EFOSC2-NTT"
 			},
-			"jd":2458524.8851157,
-			"obsdate":"2019-02-10 09:14:34",
+			"jd":2458524.8599074,
+			"obsdate":"2019-02-10 08:38:16",
 			"observer":"R. Carini, E. Palazzi",
 			"public":"1",
 			"reducer":"E. Cappellaro, A. Fiore",
@@ -61,5 +61,5 @@
 			}
 		}
 	],
-	"type":"3"
+	"type":"10"
 }
