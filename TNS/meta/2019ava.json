@@ -1,0 +1,65 @@
+{
+	"dec":"+58:16:44.04",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"111",
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":"49023",
+	"discoverydate":"2019-02-08 05:18:48",
+	"discoverymag":"18.15",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19aahulyd",
+	"isTNS_AT":"1",
+	"name":"2019ava",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019ava",
+	"public":"1",
+	"ra":"07:32:58.888",
+	"redshift":"0.039807",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019ava_2458527.533875_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019ava_2458527.533875_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458527.533875,
+			"obsdate":"2019-02-13 00:48:47",
+			"observer":"Tomasella",
+			"public":"1",
+			"reducer":"Benetti, Tomasella",
+			"remarks":"Spectrum similar to those of several type Ia SNe, few days before maximum light. Redshift of the host galaxy KUG 0728+583 is from Rines et al. 2000 (AJ 120, 2338  via NED). Using this redshift, an expansion velocity of about 12900 km/s is derived from the SiII 635.5 nm minimum.",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
+}
