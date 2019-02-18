@@ -15,20 +15,43 @@
 	"internal_name":"ZTF19aafmvdb",
 	"isTNS_AT":"1",
 	"name":"2019ahs",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019ahs",
 	"public":"1",
 	"ra":"12:01:42.927",
-	"redshift":null,
+	"redshift":"0.022919",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ahs_2019-02-15_22-03-28_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":"9000",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ahs_2019-02-15_22-03-28_Other_Other.fit",
+			"groupid":"0",
+			"instrument":{
+				"id":"0",
+				"name":"Other"
+			},
+			"jd":2458530.4190741,
+			"obsdate":"2019-02-15 22:03:28",
+			"observer":"Claudio Balcon",
+			"public":"1",
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 of AT2019ahs using the FOSC-E spectrograph attached to a 0.2m telescope.",
+			"source_group_name":null,
+			"telescope":{
+				"id":"0",
+				"name":"Other"
+			}
+		}
+	],
+	"type":"3"
 }
