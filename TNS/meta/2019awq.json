@@ -15,20 +15,43 @@
 	"internal_name":"ATLAS19dhw",
 	"isTNS_AT":"1",
 	"name":"2019awq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019awq",
 	"public":"1",
 	"ra":"04:23:29.345",
-	"redshift":null,
+	"redshift":"0.036",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019awq_2019-02-14_01-00-48_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458528.5422222,
+			"obsdate":"2019-02-14 01:00:48",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"",
+			"remarks":"The SN seems to be young (<-10 d), we measure an ejecta expansion velocity of about 15000 km/s from the minimum of the SiII 6355 line. ",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
 }

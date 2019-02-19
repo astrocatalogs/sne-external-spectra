@@ -15,20 +15,43 @@
 	"internal_name":"Gaia19amv",
 	"isTNS_AT":"1",
 	"name":"2019atg",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"6",
+		"name":"SN Ib/c"
 	},
 	"objname":"2019atg",
 	"public":"1",
 	"ra":"12:02:58.100",
-	"redshift":null,
+	"redshift":"0.044",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019atg_2019-02-14_09-37-25_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458528.9009838,
+			"obsdate":"2019-02-14 09:37:25",
+			"observer":"R. Cartier",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Noisy spectrum obtained well into the twilight, the phase is uncertain. ",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"6"
 }
