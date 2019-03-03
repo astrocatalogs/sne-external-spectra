@@ -23,12 +23,43 @@
 	"objname":"2019azh",
 	"public":"1",
 	"ra":"08:13:17.054",
-	"redshift":null,
+	"redshift":"0.022",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019azh_2019-02-25_03-48-04_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019azh_2019-02-25_03-48-04_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458539.6583796,
+			"obsdate":"2019-02-25 03:48:04",
+			"observer":"Cristina Barbarino, Ana Sagues Carracedo",
+			"public":"1",
+			"reducer":"Leonardo Tartaglia",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
 	"type":null
 }

@@ -15,20 +15,43 @@
 	"internal_name":"ZTF19aakluwr",
 	"isTNS_AT":"1",
 	"name":"2019bam",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019bam",
 	"public":"1",
 	"ra":"02:48:58.502",
-	"redshift":null,
+	"redshift":"0.059",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019bam_2019-02-26_LT_SPRAT.asci",
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458540.5,
+			"obsdate":"2019-02-26 00:00:00",
+			"observer":"FDST",
+			"public":"1",
+			"reducer":"FDST",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aakpcfi",
 	"isTNS_AT":"1",
 	"name":"2019bar",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019bar",
 	"public":"1",
 	"ra":"16:24:59.466",
-	"redshift":null,
+	"redshift":"0.06321597",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bar_2019-03-02_04-11-20_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bar_2019-03-02_04-11-20_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458544.674537,
+			"obsdate":"2019-03-02 04:11:20",
+			"observer":"Vogt, Schuldt, Fiore, Taubenberger",
+			"public":"1",
+			"reducer":"Benetti, Cappellaro, Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"3"
 }
