@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS19dpp",
 	"isTNS_AT":"1",
 	"name":"2019big",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019big",
 	"public":"1",
 	"ra":"13:23:25.104",
-	"redshift":null,
+	"redshift":"0.051",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019big_2019-03-02_13-50-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458545.0763889,
+			"obsdate":"2019-03-02 13:50:00",
+			"observer":"Aaron Do",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Type Ia-91T supernova near maximum light. SNID phase 1.3(4.1) days, redshift 0.051(0.005)",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"104"
 }
