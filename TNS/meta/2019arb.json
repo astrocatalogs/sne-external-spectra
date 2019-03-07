@@ -23,13 +23,43 @@
 	"objname":"2019arb",
 	"public":"1",
 	"ra":"12:19:31.228",
-	"redshift":"0.014",
+	"redshift":"0.013696",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019arb_2019-02-12_07-26-22_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019arb_2019-02-12_07-26-22_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458526.8099769,
+			"obsdate":"2019-02-12 07:26:22",
+			"observer":"A. Dugas",
+			"public":"1",
+			"reducer":"I. Andreoni",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TNTS/tns_2019arb_2458524.1445_BAO-2.16m_Cassegrain_TNTS.txt",
 			"assoc_groups":[

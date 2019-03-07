@@ -17,13 +17,13 @@
 	"name":"2019bao",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"110",
-		"name":"SN II-pec"
+		"id":"14",
+		"name":"SN IIb"
 	},
 	"objname":"2019bao",
 	"public":"1",
 	"ra":"10:29:18.522",
-	"redshift":"0.011885",
+	"redshift":"0.01188",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
@@ -59,7 +59,37 @@
 				"id":"34",
 				"name":"Ekar"
 			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019bao_2019-02-24_22-33-34_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2250",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SEDM"
+			},
+			"jd":2458539.4399769,
+			"obsdate":"2019-02-24 22:33:34",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
 		}
 	],
-	"type":"110"
+	"type":"14"
 }

@@ -23,13 +23,43 @@
 	"objname":"2019ape",
 	"public":"1",
 	"ra":"10:51:42.538",
-	"redshift":"0.02",
+	"redshift":"0.02031",
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":"4"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ape_2019-02-12_08-28-58_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ape_2019-02-12_08-28-58_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458526.8534491,
+			"obsdate":"2019-02-12 08:28:58",
+			"observer":"A. Dugas",
+			"public":"1",
+			"reducer":"I. Andreoni",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ape_2019-02-08_06-04-04_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[

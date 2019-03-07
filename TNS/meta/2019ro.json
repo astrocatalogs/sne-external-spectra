@@ -31,6 +31,36 @@
 	"sourceid":"2",
 	"spectra":[
 		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ro_2019-03-04_06-47-10_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"450",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ro_2019-03-04_06-47-10_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458546.7827546,
+			"obsdate":"2019-03-04 06:47:10",
+			"observer":"A. Dugas",
+			"public":"1",
+			"reducer":"A. Ho",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019ro_2019-01-27.534_Lick-3m_KAST_ASAS-SN.flm",
 			"assoc_groups":[
 				{

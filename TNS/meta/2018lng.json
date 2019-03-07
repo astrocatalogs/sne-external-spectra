@@ -1,0 +1,65 @@
+{
+	"dec":"+55:10:12.55",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"110",
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":"48869",
+	"discoverydate":"2018-11-18 11:15:21",
+	"discoverymag":"20.46",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18acnnevs",
+	"isTNS_AT":"1",
+	"name":"2018lng",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"19",
+		"name":"SLSN-II"
+	},
+	"objname":"2018lng",
+	"public":"1",
+	"ra":"11:36:40.388",
+	"redshift":"0.191",
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018lng_2019-02-25_07-18-47_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018lng_2019-02-25_07-18-47_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":"1",
+				"name":"DBSP"
+			},
+			"jd":2458539.8047106,
+			"obsdate":"2019-02-25 07:18:47",
+			"observer":"Y. Fremling",
+			"public":"1",
+			"reducer":"K. De",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"3",
+				"name":"P200"
+			}
+		}
+	],
+	"type":"19"
+}

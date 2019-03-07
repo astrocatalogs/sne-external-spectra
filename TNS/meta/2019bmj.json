@@ -1,0 +1,65 @@
+{
+	"dec":"+39:04:20.56",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-03-04 14:51:21",
+	"discoverymag":"18.588",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19dsm",
+	"isTNS_AT":"1",
+	"name":"2019bmj",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"0",
+		"name":"Other"
+	},
+	"objname":"2019bmj",
+	"public":"1",
+	"ra":"14:41:10.005",
+	"redshift":"0.0538",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bmj_2019-03-06_03-07-30_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bmj_2019-03-06_03-07-30_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458548.6302083,
+			"obsdate":"2019-03-06 03:07:30",
+			"observer":"Vogt, Schuldt, Fiore, Taubenberger",
+			"public":"1",
+			"reducer":"Benetti, Tomasella",
+			"remarks":"The Asiago spectrum shows a blue, featureless continuum, from which we derived a black-body temperature of about 14800 K. The redshift is deduced from the position of the narrow emission lines of the host galaxy.\r\n\r\n",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"0"
+}
