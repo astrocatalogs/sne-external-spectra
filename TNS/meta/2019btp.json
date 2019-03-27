@@ -1,0 +1,87 @@
+{
+	"dec":"+05:38:19.03",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2019-03-15 08:23:59",
+	"discoverymag":"17.6",
+	"end_prop_period":null,
+	"host_redshift":"0.041856",
+	"hostname":"2MASX J17432751+0538323",
+	"internal_name":"ASASSN-19gl",
+	"isTNS_AT":"1",
+	"name":"2019btp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019btp",
+	"public":"1",
+	"ra":"17:43:26.102",
+	"redshift":"0.042",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019btp_2019-03-16_13-40-07_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1800",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019btp_2019-03-16_13-40-07_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458559.0695255,
+			"obsdate":"2019-03-16 13:40:07",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019btp_2019-03-16_12-08-30_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458559.0059028,
+			"obsdate":"2019-03-16 12:08:30",
+			"observer":"G. Dimitriadis",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":"3"
+}

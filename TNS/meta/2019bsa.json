@@ -1,0 +1,65 @@
+{
+	"dec":"+28:42:11.34",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2019-03-12 21:07:12",
+	"discoverymag":"16.9",
+	"end_prop_period":null,
+	"host_redshift":"0.033997",
+	"hostname":"MCG +05-27-004 NED02",
+	"internal_name":"ASASSN-19fi",
+	"isTNS_AT":"1",
+	"name":"2019bsa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019bsa",
+	"public":"1",
+	"ra":"11:10:51.989",
+	"redshift":"0.02",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019bsa_2019-03-14_09-50-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458556.9097222,
+			"obsdate":"2019-03-14 09:50:00",
+			"observer":"Aaron Do",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Possible Type Ia-norm supernova, SNID also finds decent fits with a Ia-91T. SNID redshift: 0.02(0.006), phase -2.3(4.7).",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
+}

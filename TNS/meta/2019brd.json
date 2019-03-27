@@ -1,0 +1,65 @@
+{
+	"dec":"+03:21:05.87",
+	"discmagfilter":{
+		"family":"Johnson",
+		"id":"12",
+		"name":"V"
+	},
+	"discoverer":"Tan",
+	"discovererid":"198",
+	"discoverydate":"2019-03-10 14:20:17",
+	"discoverymag":"18.33",
+	"end_prop_period":null,
+	"host_redshift":"0.058137",
+	"hostname":"2MASX J10030770+0321017",
+	"internal_name":"PTSS-19ckdz",
+	"isTNS_AT":"1",
+	"name":"2019brd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019brd",
+	"public":"1",
+	"ra":"10:03:07.240",
+	"redshift":"0.058",
+	"source_group":{
+		"group_name":"PTSS",
+		"groupid":"22"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2019brd_2019-03-12.8_Lijiang-2.4m_YFOSC_PTSS.dat",
+			"assoc_groups":[
+				{
+					"id":"22",
+					"name":"PTSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2100",
+			"fitsfile":"",
+			"instrument":{
+				"id":"107",
+				"name":"YFOSC"
+			},
+			"jd":2458555.3,
+			"obsdate":"2019-03-12 19:12:00",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"22",
+				"name":"PTSS"
+			},
+			"telescope":{
+				"id":"77",
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":"3"
+}

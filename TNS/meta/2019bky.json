@@ -15,20 +15,51 @@
 	"internal_name":"ATLAS19drf",
 	"isTNS_AT":"1",
 	"name":"2019bky",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019bky",
 	"public":"1",
 	"ra":"15:05:37.635",
-	"redshift":null,
+	"redshift":"0.061",
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":"18"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019bky_2019-03-09_09-01-19_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"900",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019bky_2019-03-09_09-01-19_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458551.8759144,
+			"obsdate":"2019-03-09 09:01:19",
+			"observer":"Ana Sagues Carracedo, Cristina Barbarino, Valery Brinnel",
+			"public":"1",
+			"reducer":"Leonardo Tartaglia",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"104"
 }

@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-19dy",
 	"isTNS_AT":"1",
 	"name":"2019bjy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019bjy",
 	"public":"1",
 	"ra":"13:06:01.615",
-	"redshift":null,
+	"redshift":"0.046",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019bjy_2019-03-09_09-42-13_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
+			"assoc_groups":[
+				{
+					"id":"37",
+					"name":"ePESSTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019bjy_2019-03-09_09-42-13_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
+			"instrument":{
+				"id":"31",
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458551.9043171,
+			"obsdate":"2019-03-09 09:42:13",
+			"observer":"Ana Sagues Carracedo, Cristina Barbarino, Valery Brinnel",
+			"public":"1",
+			"reducer":"Leonardo Tartaglia",
+			"remarks":"",
+			"source_group":{
+				"id":"37",
+				"name":"ePESSTO"
+			},
+			"telescope":{
+				"id":"30",
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":"3"
 }

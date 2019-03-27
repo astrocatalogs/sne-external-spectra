@@ -1,0 +1,57 @@
+{
+	"dec":"+00:59:43.96",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-03-14 10:43:40",
+	"discoverymag":"18.967",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19dxy",
+	"isTNS_AT":"1",
+	"name":"2019btk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"10",
+		"name":"SN II"
+	},
+	"objname":"2019btk",
+	"public":"1",
+	"ra":"10:43:26.597",
+	"redshift":"0.074",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019btk_2019-03-16_07-49-08_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1845",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458558.825787,
+			"obsdate":"2019-03-16 07:49:08",
+			"observer":"G. Dimitriadis",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":"10"
+}

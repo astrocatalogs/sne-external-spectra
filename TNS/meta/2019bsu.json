@@ -1,0 +1,65 @@
+{
+	"dec":"+27:56:43.52",
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":"72",
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":"35595",
+	"discoverydate":"2019-03-11 14:47:02",
+	"discoverymag":"18.96",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19dxn",
+	"isTNS_AT":"1",
+	"name":"2019bsu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019bsu",
+	"public":"1",
+	"ra":"17:03:07.314",
+	"redshift":"0.06",
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":"18"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019bsu_2019-03-14_02-20-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458556.5972222,
+			"obsdate":"2019-03-14 02:20:00",
+			"observer":"Aaron Do",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Type Ia supernova near maximum light. SNID phase: -0.2(5.1) days, host redshift 0.06(0.006)",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
+}

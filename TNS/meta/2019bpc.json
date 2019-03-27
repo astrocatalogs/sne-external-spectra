@@ -1,0 +1,57 @@
+{
+	"dec":"+46:57:33.44",
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":"21",
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":"82",
+	"discoverydate":"2019-03-07 10:19:12",
+	"discoverymag":"17.5",
+	"end_prop_period":null,
+	"host_redshift":"0.024449",
+	"hostname":"UGC 07744 ",
+	"internal_name":"ASASSN-19ew",
+	"isTNS_AT":"1",
+	"name":"2019bpc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019bpc",
+	"public":"1",
+	"ra":"12:34:43.454",
+	"redshift":"0.024",
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":"3"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019bpc_2019-03-16_06-13-14_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":"1545",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458558.7591898,
+			"obsdate":"2019-03-16 06:13:14",
+			"observer":"G. Dimitriadis",
+			"public":"1",
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"10",
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":"3"
+}
