@@ -17,8 +17,8 @@
 	"name":"2019cdc",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
-		"name":"SN Ia"
+		"id":"103",
+		"name":"SN Ia-91bg-like"
 	},
 	"objname":"2019cdc",
 	"public":"1",
@@ -30,6 +30,36 @@
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2019cdc_2019-03-29_10-11-12_Plaskett_Plaskett_DAO_OTS.txt",
+			"assoc_groups":[
+				{
+					"id":"9",
+					"name":"DAO_OTS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2019cdc_2019-03-29_10-11-12_Plaskett_Plaskett_DAO_OTS.fits",
+			"instrument":{
+				"id":"146",
+				"name":"Plaskett"
+			},
+			"jd":2458571.9244444,
+			"obsdate":"2019-03-29 10:11:12",
+			"observer":"Balam",
+			"public":"1",
+			"reducer":"Balam",
+			"remarks":"",
+			"source_group":{
+				"id":"9",
+				"name":"DAO_OTS"
+			},
+			"telescope":{
+				"id":"95",
+				"name":"Plaskett"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019cdc_2019-03-25_21-55-17_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
@@ -61,5 +91,5 @@
 			}
 		}
 	],
-	"type":"3"
+	"type":"103"
 }

@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aanjjhk",
 	"isTNS_AT":"1",
 	"name":"2019cew",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019cew",
 	"public":"1",
 	"ra":"10:15:05.992",
-	"redshift":null,
+	"redshift":"0.064",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019cew_2019-03-31_07-20-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1500",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458573.8055556,
+			"obsdate":"2019-03-31 07:20:00",
+			"observer":"Aaron Do",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Type Ia supernova near maximum light. SNID phase: -1.3(4.1) days, SNID redshift 0.064(0.009)",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
 }
