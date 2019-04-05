@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aamljom",
 	"isTNS_AT":"1",
 	"name":"2019cbc",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"13",
+		"name":"SN IIn"
 	},
 	"objname":"2019cbc",
 	"public":"1",
 	"ra":"18:06:09.172",
-	"redshift":null,
+	"redshift":"0.02",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019cbc_2019-03-31_00-55-11_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":"16",
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2700",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019cbc_2019-03-31_00-55-11_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":"37",
+				"name":"AFOSC"
+			},
+			"jd":2458573.5383218,
+			"obsdate":"2019-03-31 00:55:11",
+			"observer":"Ochner",
+			"public":"1",
+			"reducer":"Benetti, Tomasella",
+			"remarks":"The Spectrum is consistent with those of SN 1998S, about two/three weeks after explosion.",
+			"source_group":{
+				"id":"16",
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":"34",
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":"13"
 }
