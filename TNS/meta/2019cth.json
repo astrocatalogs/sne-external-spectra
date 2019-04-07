@@ -15,20 +15,51 @@
 	"internal_name":"",
 	"isTNS_AT":"1",
 	"name":"2019cth",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019cth",
 	"public":"1",
 	"ra":"14:45:47.500",
-	"redshift":null,
+	"redshift":"0.013433",
 	"source_group":{
 		"group_name":"POSS",
 		"groupid":"6"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019cth_2019-04-04_13-29-23_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019cth_2019-04-04_13-29-23_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458578.0620718,
+			"obsdate":"2019-04-04 13:29:23",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"3"
 }

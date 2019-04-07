@@ -23,12 +23,35 @@
 	"objname":"2019brs",
 	"public":"1",
 	"ra":"14:27:46.400",
-	"redshift":null,
+	"redshift":"0.37362",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019brs_2019-03-15_09-06-04_FTN_FLOYDS-N.ascii",
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019brs_2019-03-15_09-06-04_FTN_FLOYDS-N.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458557.879213,
+			"obsdate":"2019-03-15 09:06:04",
+			"observer":"Robotic",
+			"public":"1",
+			"reducer":"D. Hiramatsu",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
 	"type":null
 }

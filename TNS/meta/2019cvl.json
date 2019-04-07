@@ -1,29 +1,29 @@
 {
-	"dec":"-31:08:41.97",
+	"dec":"-29:23:08.50",
 	"discmagfilter":{
 		"family":"Sloan",
 		"id":"21",
 		"name":"g"
 	},
-	"discoverer":"Vallely",
-	"discovererid":"668",
-	"discoverydate":"2019-03-27 02:52:48",
-	"discoverymag":"17.8",
+	"discoverer":"Bersier",
+	"discovererid":"112",
+	"discoverydate":"2019-04-04 02:03:50",
+	"discoverymag":"17.021",
 	"end_prop_period":null,
-	"host_redshift":"0.046332",
-	"hostname":"GALEXASC J132713.29-310837.3",
-	"internal_name":"ASASSN-19hm",
+	"host_redshift":"0.0238",
+	"hostname":"ESO460-G010",
+	"internal_name":"ASASSN-19ip",
 	"isTNS_AT":"1",
-	"name":"2019clh",
+	"name":"2019cvl",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":"3",
 		"name":"SN Ia"
 	},
-	"objname":"2019clh",
+	"objname":"2019cvl",
 	"public":"1",
-	"ra":"13:27:12.994",
-	"redshift":"0.05",
+	"ra":"19:32:22.190",
+	"redshift":"0.024",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
@@ -31,7 +31,7 @@
 	"sourceid":"1",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019clh_2458579.4561_UH88_SNIFS_SCAT.dat",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019cvl_2458579.6282_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
 					"id":"51",
@@ -45,12 +45,12 @@
 				"id":"11",
 				"name":"SNIFS"
 			},
-			"jd":2458579.4561,
-			"obsdate":"2019-04-05 22:56:47",
+			"jd":2458579.6282,
+			"obsdate":"2019-04-06 03:04:36",
 			"observer":"Payne",
 			"public":"1",
 			"reducer":"",
-			"remarks":"Spectrum reduced with quick reduction summit pipeline. Care should be taken before further analysis. ",
+			"remarks":"Reduced with summit quick reduction pipeline. Care should be taken before further science. ",
 			"source_group":{
 				"id":"51",
 				"name":"SCAT"
