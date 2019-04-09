@@ -15,20 +15,43 @@
 	"internal_name":"ZTF19aantarc",
 	"isTNS_AT":"1",
 	"name":"2019crb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019crb",
 	"public":"1",
 	"ra":"13:39:50.147",
-	"redshift":null,
+	"redshift":"0.099",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019crb_2019-04-09_LT_SPRAT.asci",
+			"end_prop_period":null,
+			"exptime":"1400",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019crb_2019-04-09_LT_SPRAT.fits",
+			"groupid":"0",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458582.5,
+			"obsdate":"2019-04-09 00:00:00",
+			"observer":"C. Angus",
+			"public":"1",
+			"reducer":"M. Smith",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

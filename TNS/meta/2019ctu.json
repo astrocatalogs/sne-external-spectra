@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aanfzox",
 	"isTNS_AT":"1",
 	"name":"2019ctu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019ctu",
 	"public":"1",
 	"ra":"10:40:38.578",
-	"redshift":null,
+	"redshift":"0.095",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ctu_2458579.9442_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458579.9442,
+			"obsdate":"2019-04-06 10:39:38",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit quick-reduction pipeline.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"3"
 }

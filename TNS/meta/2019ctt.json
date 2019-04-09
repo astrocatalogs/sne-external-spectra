@@ -15,20 +15,81 @@
 	"internal_name":"ZTF19aanfqug",
 	"isTNS_AT":"1",
 	"name":"2019ctt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2019ctt",
 	"public":"1",
 	"ra":"10:00:42.285",
-	"redshift":null,
+	"redshift":"0.046",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ctt_2458579.8174_UH88_SNIFS_SCAT_0.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458579.8174,
+			"obsdate":"2019-04-06 07:37:03",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Same spectrum with updated classification.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ctt_2458579.8174_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":"51",
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2400",
+			"fitsfile":"",
+			"instrument":{
+				"id":"11",
+				"name":"SNIFS"
+			},
+			"jd":2458579.8174,
+			"obsdate":"2019-04-06 07:37:03",
+			"observer":"Tucker",
+			"public":"1",
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":"51",
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":"17",
+				"name":"UH88"
+			}
+		}
+	],
+	"type":"10"
 }
