@@ -1,0 +1,57 @@
+{
+	"dec":"+13:43:42.00",
+	"discmagfilter":{
+		"family":"",
+		"id":"1",
+		"name":"Clear"
+	},
+	"discoverer":"Tanaka",
+	"discovererid":"401",
+	"discoverydate":"2019-04-05 12:08:47",
+	"discoverymag":"18.69",
+	"end_prop_period":null,
+	"host_redshift":"0.025",
+	"hostname":"SDSS J111748.57+134339.5",
+	"internal_name":"Tomo-e 201904aaski",
+	"isTNS_AT":"1",
+	"name":"2019cxx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":"3",
+		"name":"SN Ia"
+	},
+	"objname":"2019cxx",
+	"public":"1",
+	"ra":"11:17:48.220",
+	"redshift":null,
+	"source_group":{
+		"group_name":null,
+		"groupid":"0"
+	},
+	"sourceid":"1",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019cxx_2019-04-09_09-03-12_Gemini-N_GMOS.txt",
+			"end_prop_period":null,
+			"exptime":"300",
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"6",
+				"name":"GMOS"
+			},
+			"jd":2458582.8772222,
+			"obsdate":"2019-04-09 09:03:12",
+			"observer":"Masaomi Tanaka",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"15",
+				"name":"Gemini-N"
+			}
+		}
+	],
+	"type":"3"
+}
