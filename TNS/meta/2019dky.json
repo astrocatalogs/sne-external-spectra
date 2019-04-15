@@ -1,0 +1,65 @@
+{
+	"dec":"+38:30:37.22",
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":"110",
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":"49023",
+	"discoverydate":"2019-04-13 08:15:19",
+	"discoverymag":"19.42",
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19aapygmq",
+	"isTNS_AT":"1",
+	"name":"2019dky",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":"0",
+		"name":"Other"
+	},
+	"objname":"2019dky",
+	"public":"1",
+	"ra":"14:01:41.162",
+	"redshift":null,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":"48"
+	},
+	"sourceid":"2",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019dky_2019-04-13_23-31-26_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":"65",
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"800",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458587.480162,
+			"obsdate":"2019-04-13 23:31:26",
+			"observer":"S. Prentice",
+			"public":"1",
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":"65",
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"0"
+}
