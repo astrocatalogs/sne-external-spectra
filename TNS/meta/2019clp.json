@@ -17,8 +17,8 @@
 	"name":"2019clp",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"1",
-		"name":"SN"
+		"id":"10",
+		"name":"SN II"
 	},
 	"objname":"2019clp",
 	"public":"1",
@@ -30,6 +30,36 @@
 	},
 	"sourceid":"1",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019clp_2019-04-10.46_Lick-3m_KAST_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458583.96,
+			"obsdate":"2019-04-10 11:02:24",
+			"observer":"T. G. Brink",
+			"public":"1",
+			"reducer":"T. G. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick-3m"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019clp_2019-03-30_22-50-52_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
@@ -121,5 +151,5 @@
 			}
 		}
 	],
-	"type":"1"
+	"type":"10"
 }
