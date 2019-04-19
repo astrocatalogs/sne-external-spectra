@@ -15,20 +15,43 @@
 	"internal_name":"Gaia19bgr",
 	"isTNS_AT":"1",
 	"name":"2019dhg",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019dhg",
 	"public":"1",
 	"ra":"09:00:29.690",
-	"redshift":null,
+	"redshift":"0.077",
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":"24"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019dhg_2019-04-16_04-15-14_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":"0",
+			"instrument":{
+				"id":"127",
+				"name":"Goodman"
+			},
+			"jd":2458589.6772454,
+			"obsdate":"2019-04-16 04:15:14",
+			"observer":"C. Briceno, D. Gomez",
+			"public":"1",
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":"86",
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":"3"
 }

@@ -15,20 +15,51 @@
 	"internal_name":"ASASSN-19jl",
 	"isTNS_AT":"1",
 	"name":"2019cxy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019cxy",
 	"public":"1",
 	"ra":"10:27:31.644",
-	"redshift":null,
+	"redshift":"0.057456",
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":"3"
 	},
 	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019cxy_2019-04-10_04-05-51_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"62",
+				"name":"WFCCD"
+			},
+			"jd":2458583.6707292,
+			"obsdate":"2019-04-10 04:05:51",
+			"observer":"K. Decker French, Thomas Conner",
+			"public":"1",
+			"reducer":"Tom Holoien",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"50",
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":"3"
 }

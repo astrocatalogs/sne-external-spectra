@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aaillan",
 	"isTNS_AT":"1",
 	"name":"2019arf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019arf",
 	"public":"1",
 	"ra":"13:26:07.230",
-	"redshift":null,
+	"redshift":"0.07",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019arf_2019-02-25_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"500",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458539.5,
+			"obsdate":"2019-02-25 00:00:00",
+			"observer":"D. Perley",
+			"public":"1",
+			"reducer":"S. P. R. A. T. pipeline",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"3"
 }

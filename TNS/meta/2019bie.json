@@ -17,8 +17,8 @@
 	"name":"2019bie",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"13",
-		"name":"SN IIn"
+		"id":"19",
+		"name":"SLSN-II"
 	},
 	"objname":"2019bie",
 	"public":"1",
@@ -51,7 +51,37 @@
 				"id":"70",
 				"name":"LT"
 			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019bie_2019-03-15_04-19-53_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"2250",
+			"fitsfile":"",
+			"instrument":{
+				"id":"149",
+				"name":"SEDM"
+			},
+			"jd":2458557.6804745,
+			"obsdate":"2019-03-15 04:19:53",
+			"observer":"SEDmRobot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"2",
+				"name":"P60"
+			}
 		}
 	],
-	"type":"13"
+	"type":"19"
 }

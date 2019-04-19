@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aalbrgu",
 	"isTNS_AT":"1",
 	"name":"2019cmv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"19",
+		"name":"SLSN-II"
 	},
 	"objname":"2019cmv",
 	"public":"1",
 	"ra":"18:57:52.996",
-	"redshift":null,
+	"redshift":"0.097",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019cmv_2019-04-08_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":"48",
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"1200",
+			"fitsfile":"",
+			"instrument":{
+				"id":"156",
+				"name":"SPRAT"
+			},
+			"jd":2458581.5,
+			"obsdate":"2019-04-08 00:00:00",
+			"observer":"LTbot",
+			"public":"1",
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":"48",
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":"70",
+				"name":"LT"
+			}
+		}
+	],
+	"type":"19"
 }

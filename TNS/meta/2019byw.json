@@ -15,21 +15,51 @@
 	"internal_name":"ZTF19aamkywr",
 	"isTNS_AT":"1",
 	"name":"2019byw",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":"120",
-		"name":"TDE"
+		"id":"3",
+		"name":"SN Ia"
 	},
 	"objname":"2019byw",
 	"public":"1",
 	"ra":"17:05:08.591",
-	"redshift":"0.0307",
+	"redshift":"0.030758",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019byw_2019-03-31.48_Lick-3m_KAST_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":"3",
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":"10",
+				"name":"KAST"
+			},
+			"jd":2458573.98,
+			"obsdate":"2019-03-31 11:31:12",
+			"observer":"T. G. Brink",
+			"public":"1",
+			"reducer":"T. G. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":"3",
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":"10",
+				"name":"Lick-3m"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019byw_2019-03-30_23-49-09_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
@@ -61,5 +91,5 @@
 			}
 		}
 	],
-	"type":"120"
+	"type":"3"
 }
