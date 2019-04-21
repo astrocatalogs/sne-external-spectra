@@ -15,20 +15,51 @@
 	"internal_name":"ZTF19aaprzcr",
 	"isTNS_AT":"1",
 	"name":"2019dks",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":"104",
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019dks",
 	"public":"1",
 	"ra":"11:44:05.600",
-	"redshift":null,
+	"redshift":"0.057",
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":"48"
 	},
 	"sourceid":"2",
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019dks_2019-04-19_08-48-50_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":"38",
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":"3600",
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019dks_2019-04-19_08-48-50_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":"108",
+				"name":"FLOYDS-N"
+			},
+			"jd":2458592.8672454,
+			"obsdate":"2019-04-19 08:48:50",
+			"observer":"Las Cumbres Observatory",
+			"public":"1",
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":"38",
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":"74",
+				"name":"FTN"
+			}
+		}
+	],
+	"type":"104"
 }
