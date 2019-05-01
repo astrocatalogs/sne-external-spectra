@@ -1,65 +1,67 @@
 {
-	"dec":"-26:41:39.42",
+	"dec":"+00:00:00.00",
+	"decdeg":-26.6942825,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"71",
+		"id":71,
 		"name":"cyan"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-04-04 11:51:21",
-	"discoverymag":"18.811",
+	"discoverymag":18.811,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19emh",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019cvu",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019cvu",
-	"public":"1",
+	"public":1,
 	"ra":"14:09:49.263",
-	"redshift":"0.043",
+	"radeg":212.455262,
+	"redshift":0.043,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019cvu_2458579.5184_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1800",
+			"exptime":1800,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458579.5184,
 			"obsdate":"2019-04-06 00:26:29",
 			"observer":"Payne",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Reduced with summit quick reduction pipeline. Care should be taken before further analysis. ",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

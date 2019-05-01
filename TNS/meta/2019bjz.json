@@ -1,65 +1,67 @@
 {
-	"dec":"+15:55:03.86",
+	"dec":"+00:00:00.00",
+	"decdeg":15.91774,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-03-02 02:24:00",
-	"discoverymag":"16.8",
+	"discoverymag":16.8,
 	"end_prop_period":null,
-	"host_redshift":"0.03326",
+	"host_redshift":0.03326,
 	"hostname":" III Zw 075 NOTES01",
 	"internal_name":"ASASSN-19dz",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bjz",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019bjz",
-	"public":"1",
+	"public":1,
 	"ra":"16:02:11.705",
-	"redshift":"0.033",
+	"radeg":240.54877,
+	"redshift":0.033,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019bjz_2458546.54_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1800",
+			"exptime":1800,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458546.54,
 			"obsdate":"2019-03-04 00:57:36",
 			"observer":"Payne",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Reduced with summit-based quick reduction pipeline. Care should be taken before using this spectrum for further science. ",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

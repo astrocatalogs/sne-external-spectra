@@ -1,65 +1,67 @@
 {
-	"dec":"+43:21:34.47",
+	"dec":"+00:00:00.00",
+	"decdeg":43.3595749,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-02-08 10:03:45",
-	"discoverymag":"18.23",
+	"discoverymag":18.23,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aaileug",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019avh",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019avh",
-	"public":"1",
+	"public":1,
 	"ra":"10:01:58.870",
-	"redshift":"0.0627",
+	"radeg":150.4952935,
+	"redshift":0.0627,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019avh_2019-03-11_LT_SPRAT_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1600",
+			"exptime":1600,
 			"fitsfile":"",
 			"instrument":{
-				"id":"156",
+				"id":156,
 				"name":"SPRAT"
 			},
 			"jd":2458553.5,
 			"obsdate":"2019-03-11 00:00:00",
 			"observer":"LTRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"70",
+				"id":70,
 				"name":"LT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

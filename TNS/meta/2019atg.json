@@ -1,57 +1,59 @@
 {
-	"dec":"-30:07:49.84",
+	"dec":"+00:00:00.00",
+	"decdeg":-30.130511,
 	"discmagfilter":{
 		"family":"Gaia",
-		"id":"75",
+		"id":75,
 		"name":"G"
 	},
 	"discoverer":null,
-	"discovererid":"35587",
+	"discovererid":35587,
 	"discoverydate":"2019-02-07 16:40:47",
-	"discoverymag":"18.77",
+	"discoverymag":18.77,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"Gaia19amv",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019atg",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"6",
+		"id":6,
 		"name":"SN Ib/c"
 	},
 	"objname":"2019atg",
-	"public":"1",
+	"public":1,
 	"ra":"12:02:58.100",
-	"redshift":"0.044",
+	"radeg":180.742083,
+	"redshift":0.044,
 	"source_group":{
 		"group_name":"GaiaAlerts",
-		"groupid":"24"
+		"groupid":24
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019atg_2019-02-14_09-37-25_SOAR_Goodman.asci",
 			"end_prop_period":null,
 			"exptime":null,
 			"fitsfile":"",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"127",
+				"id":127,
 				"name":"Goodman"
 			},
 			"jd":2458528.9009838,
 			"obsdate":"2019-02-14 09:37:25",
 			"observer":"R. Cartier",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Noisy spectrum obtained well into the twilight, the phase is uncertain. ",
 			"source_group_name":null,
 			"telescope":{
-				"id":"86",
+				"id":86,
 				"name":"SOAR"
 			}
 		}
 	],
-	"type":"6"
+	"type":6
 }

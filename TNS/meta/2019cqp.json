@@ -1,19 +1,20 @@
 {
-	"dec":"-63:11:48.23",
+	"dec":"+00:00:00.00",
+	"decdeg":-63.19673,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Bersier",
-	"discovererid":"112",
+	"discovererid":112,
 	"discoverydate":"2019-03-31 23:57:07",
-	"discoverymag":"17.62",
+	"discoverymag":17.62,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"2MASX J02351770-6311480",
 	"internal_name":"ASASSN-19hw",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019cqp",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019cqp",
-	"public":"1",
+	"public":1,
 	"ra":"02:35:17.400",
+	"radeg":38.8225,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[],
 	"type":null
 }

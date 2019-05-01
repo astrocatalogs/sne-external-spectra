@@ -1,40 +1,42 @@
 {
-	"dec":"+07:59:26.05",
+	"dec":"+00:00:00.00",
+	"decdeg":7.9905695,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-03-15 11:33:50",
-	"discoverymag":"17.69",
+	"discoverymag":17.69,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aamkywr",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019byw",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019byw",
-	"public":"1",
+	"public":1,
 	"ra":"17:05:08.591",
-	"redshift":"0.030758",
+	"radeg":256.2857941,
+	"redshift":0.030758,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019byw_2019-03-31.48_Lick-3m_KAST_ASAS-SN.txt",
 			"assoc_groups":[
 				{
-					"id":"3",
+					"id":3,
 					"name":"ASAS-SN"
 				}
 			],
@@ -42,21 +44,21 @@
 			"exptime":null,
 			"fitsfile":"",
 			"instrument":{
-				"id":"10",
+				"id":10,
 				"name":"KAST"
 			},
 			"jd":2458573.98,
 			"obsdate":"2019-03-31 11:31:12",
 			"observer":"T. G. Brink",
-			"public":"1",
+			"public":1,
 			"reducer":"T. G. Brink",
 			"remarks":"",
 			"source_group":{
-				"id":"3",
+				"id":3,
 				"name":"ASAS-SN"
 			},
 			"telescope":{
-				"id":"10",
+				"id":10,
 				"name":"Lick-3m"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019byw_2019-03-30_23-49-09_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
 				{
-					"id":"16",
+					"id":16,
 					"name":"Padova-Asiago"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2700",
+			"exptime":2700,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019byw_2019-03-30_23-49-09_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
-				"id":"37",
+				"id":37,
 				"name":"AFOSC"
 			},
 			"jd":2458573.4924653,
 			"obsdate":"2019-03-30 23:49:09",
 			"observer":"Ochner",
-			"public":"1",
+			"public":1,
 			"reducer":"Benetti, Tomasella",
 			"remarks":"The spectrum of this nuclear transient shows broad hydrogen and HeII lines superimposed to the host galaxy features. Considering both the extinction in the Galaxy (A_V ~ 0.236 mag from Schlafly & Finkbeiner 2011) and in the host galaxy (A_V ~ 2.7 mag estimated from the interstellar NaID absorption) the corrected spectrum exhibits a blue continuum and the absolute magnitude is about ~ -20.6 mag (assuming a distance modulus of 35.64 mag, via NED). All this makes of AT2019byw a possible TDE event.",
 			"source_group":{
-				"id":"16",
+				"id":16,
 				"name":"Padova-Asiago"
 			},
 			"telescope":{
-				"id":"34",
+				"id":34,
 				"name":"Ekar"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

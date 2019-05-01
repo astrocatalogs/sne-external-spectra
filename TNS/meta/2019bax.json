@@ -1,19 +1,20 @@
 {
-	"dec":"-20:35:22.62",
+	"dec":"+00:00:00.00",
+	"decdeg":-20.5896162,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"111",
+		"id":111,
 		"name":"r"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-02-20 05:32:19",
-	"discoverymag":"18.16",
+	"discoverymag":18.16,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aahsdsf",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bax",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019bax",
-	"public":"1",
+	"public":1,
 	"ra":"05:59:19.402",
+	"radeg":89.8308431,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[],
 	"type":null
 }

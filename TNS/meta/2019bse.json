@@ -1,62 +1,64 @@
 {
-	"dec":"+18:56:24.36",
+	"dec":"+00:00:00.00",
+	"decdeg":18.9401,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-03-13 08:09:36",
-	"discoverymag":"17.1",
+	"discoverymag":17.1,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"SDSS J092602.52+185624.8",
 	"internal_name":"ASASSN-19fx",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bse",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019bse",
-	"public":"1",
+	"public":1,
 	"ra":"09:26:02.573",
-	"redshift":"0.028",
+	"radeg":141.51072,
+	"redshift":0.028,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019bse_2019-04-01_22-30-51_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1200",
+			"exptime":1200,
 			"fitsfile":"",
 			"instrument":{
-				"id":"149",
+				"id":149,
 				"name":"SEDM"
 			},
 			"jd":2458575.4380903,
 			"obsdate":"2019-04-01 22:30:51",
 			"observer":"SEDmRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"2",
+				"id":2,
 				"name":"P60"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019bse_2019-03-14_09-23-51_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
-					"id":"38",
+					"id":38,
 					"name":"Global SN Project"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2700",
+			"exptime":2700,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019bse_2019-03-14_09-23-51_FTN_FLOYDS-N_Global_SN_Project.fits",
 			"instrument":{
-				"id":"108",
+				"id":108,
 				"name":"FLOYDS-N"
 			},
 			"jd":2458556.8915625,
 			"obsdate":"2019-03-14 09:23:51",
 			"observer":"Las Cumbres Observatory",
-			"public":"1",
+			"public":1,
 			"reducer":"Daichi Hiramatsu",
 			"remarks":"",
 			"source_group":{
-				"id":"38",
+				"id":38,
 				"name":"Global SN Project"
 			},
 			"telescope":{
-				"id":"74",
+				"id":74,
 				"name":"FTN"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

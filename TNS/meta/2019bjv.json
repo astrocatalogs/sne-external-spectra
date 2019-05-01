@@ -1,62 +1,64 @@
 {
-	"dec":"+47:26:12.52",
+	"dec":"+00:00:00.00",
+	"decdeg":47.43681,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-03-01 10:48:00",
-	"discoverymag":"17.8",
+	"discoverymag":17.8,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"SDSS J162538.62+472614.3",
 	"internal_name":"ASASSN-19dv",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bjv",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"5",
+		"id":5,
 		"name":"SN Ic"
 	},
 	"objname":"2019bjv",
-	"public":"1",
+	"public":1,
 	"ra":"16:25:39.072",
-	"redshift":"0.0265",
+	"radeg":246.4128,
+	"redshift":0.0265,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019bjv_2019-03-17_13-16-11_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
-					"id":"38",
+					"id":38,
 					"name":"Global SN Project"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2700",
+			"exptime":2700,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019bjv_2019-03-17_13-16-11_FTN_FLOYDS-N_Global_SN_Project.fits",
 			"instrument":{
-				"id":"108",
+				"id":108,
 				"name":"FLOYDS-N"
 			},
 			"jd":2458560.0529051,
 			"obsdate":"2019-03-17 13:16:11",
 			"observer":"Las Cumbres Observatory",
-			"public":"1",
+			"public":1,
 			"reducer":"Daichi Hiramatsu",
 			"remarks":"",
 			"source_group":{
-				"id":"38",
+				"id":38,
 				"name":"Global SN Project"
 			},
 			"telescope":{
-				"id":"74",
+				"id":74,
 				"name":"FTN"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019bjv_2019-02-25_LT_SPRAT_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"500",
+			"exptime":500,
 			"fitsfile":"",
 			"instrument":{
-				"id":"156",
+				"id":156,
 				"name":"SPRAT"
 			},
 			"jd":2458539.5,
 			"obsdate":"2019-02-25 00:00:00",
 			"observer":"LTbot",
-			"public":"1",
+			"public":1,
 			"reducer":"S. P. R. A. T. pipeline",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"70",
+				"id":70,
 				"name":"LT"
 			}
 		}
 	],
-	"type":"5"
+	"type":5
 }

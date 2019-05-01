@@ -1,65 +1,67 @@
 {
-	"dec":"-04:40:25.24",
+	"dec":"+00:00:00.00",
+	"decdeg":-4.6736766,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"111",
+		"id":111,
 		"name":"r"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-04-10 06:04:39",
-	"discoverymag":"18.71",
+	"discoverymag":18.71,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aaprzcr",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019dks",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"104",
+		"id":104,
 		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019dks",
-	"public":"1",
+	"public":1,
 	"ra":"11:44:05.600",
-	"redshift":"0.057",
+	"radeg":176.0233321,
+	"redshift":0.057,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019dks_2019-04-19_08-48-50_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
-					"id":"38",
+					"id":38,
 					"name":"Global SN Project"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"3600",
+			"exptime":3600,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019dks_2019-04-19_08-48-50_FTN_FLOYDS-N_Global_SN_Project.fits",
 			"instrument":{
-				"id":"108",
+				"id":108,
 				"name":"FLOYDS-N"
 			},
 			"jd":2458592.8672454,
 			"obsdate":"2019-04-19 08:48:50",
 			"observer":"Las Cumbres Observatory",
-			"public":"1",
+			"public":1,
 			"reducer":"Jamison Burke",
 			"remarks":"",
 			"source_group":{
-				"id":"38",
+				"id":38,
 				"name":"Global SN Project"
 			},
 			"telescope":{
-				"id":"74",
+				"id":74,
 				"name":"FTN"
 			}
 		}
 	],
-	"type":"104"
+	"type":104
 }

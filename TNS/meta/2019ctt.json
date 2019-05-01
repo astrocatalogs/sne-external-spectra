@@ -1,62 +1,64 @@
 {
-	"dec":"+12:02:23.34",
+	"dec":"+00:00:00.00",
+	"decdeg":12.0398166,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"59228",
+	"discovererid":59228,
 	"discoverydate":"2019-03-30 05:00:25",
-	"discoverymag":"19.31",
+	"discoverymag":19.31,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aanfqug",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ctt",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"13",
+		"id":13,
 		"name":"SN IIn"
 	},
 	"objname":"2019ctt",
-	"public":"1",
+	"public":1,
 	"ra":"10:00:42.285",
-	"redshift":"0.046",
+	"radeg":150.1761872,
+	"redshift":0.046,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ctt_2458579.8174_UH88_SNIFS_SCAT_0.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2400",
+			"exptime":2400,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458579.8174,
 			"obsdate":"2019-04-06 07:37:03",
 			"observer":"Tucker",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Same spectrum with updated classification.",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ctt_2458579.8174_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2400",
+			"exptime":2400,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458579.8174,
 			"obsdate":"2019-04-06 07:37:03",
 			"observer":"Tucker",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"13"
+	"type":13
 }

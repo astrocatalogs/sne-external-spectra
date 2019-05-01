@@ -1,57 +1,59 @@
 {
-	"dec":"-08:50:24.56",
+	"dec":"+00:00:00.00",
+	"decdeg":-8.840156,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-01-29 14:12:28",
-	"discoverymag":"18.163",
+	"discoverymag":18.163,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19cat",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ahi",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019ahi",
-	"public":"1",
+	"public":1,
 	"ra":"13:51:36.610",
-	"redshift":"0.0283",
+	"radeg":207.90254,
+	"redshift":0.0283,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ahi_2019-02-04_05-05-47_LT_SPRAT.txt",
 			"end_prop_period":null,
-			"exptime":"700",
+			"exptime":700,
 			"fitsfile":"",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"156",
+				"id":156,
 				"name":"SPRAT"
 			},
 			"jd":2458518.7123495,
 			"obsdate":"2019-02-04 05:05:47",
 			"observer":"S. Prentice",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"70",
+				"id":70,
 				"name":"LT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

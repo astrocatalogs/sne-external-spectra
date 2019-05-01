@@ -1,57 +1,59 @@
 {
-	"dec":"+00:58:53.01",
+	"dec":"+00:00:00.00",
+	"decdeg":0.9813928,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-02-12 11:29:30",
-	"discoverymag":"19.04",
+	"discoverymag":19.04,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aakiznm",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019awd",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019awd",
-	"public":"1",
+	"public":1,
 	"ra":"14:11:44.315",
-	"redshift":"0.093",
+	"radeg":212.9346473,
+	"redshift":0.093,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019awd_2019-02-14_06-53-44_SOAR_Goodman.asci",
 			"end_prop_period":null,
 			"exptime":null,
 			"fitsfile":"",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"127",
+				"id":127,
 				"name":"Goodman"
 			},
 			"jd":2458528.7873148,
 			"obsdate":"2019-02-14 06:53:44",
 			"observer":"R. Cartier",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"The spectrum is significantly contaminated by the host galaxy emission. The redshift was measured from host galaxy narrow emission lines. ",
 			"source_group_name":null,
 			"telescope":{
-				"id":"86",
+				"id":86,
 				"name":"SOAR"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

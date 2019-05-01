@@ -1,57 +1,59 @@
 {
-	"dec":"+20:17:59.47",
+	"dec":"+00:00:00.00",
+	"decdeg":20.2998518,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-03-30 08:03:09",
-	"discoverymag":"19.93",
+	"discoverymag":19.93,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aantarc",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019crb",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019crb",
-	"public":"1",
+	"public":1,
 	"ra":"13:39:50.147",
-	"redshift":"0.099",
+	"radeg":204.958946,
+	"redshift":0.099,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019crb_2019-04-09_LT_SPRAT.asci",
 			"end_prop_period":null,
-			"exptime":"1400",
+			"exptime":1400,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019crb_2019-04-09_LT_SPRAT.fits",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"156",
+				"id":156,
 				"name":"SPRAT"
 			},
 			"jd":2458582.5,
 			"obsdate":"2019-04-09 00:00:00",
 			"observer":"C. Angus",
-			"public":"1",
+			"public":1,
 			"reducer":"M. Smith",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"70",
+				"id":70,
 				"name":"LT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

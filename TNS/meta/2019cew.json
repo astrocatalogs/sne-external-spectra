@@ -1,62 +1,64 @@
 {
-	"dec":"-18:43:09.69",
+	"dec":"+00:00:00.00",
+	"decdeg":-18.7193583,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-03-26 05:02:23",
-	"discoverymag":"18.7",
+	"discoverymag":18.7,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aanjjhk",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019cew",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019cew",
-	"public":"1",
+	"public":1,
 	"ra":"10:15:05.992",
-	"redshift":"0.07",
+	"radeg":153.7749687,
+	"redshift":0.07,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019cew_2019-04-07_21-41-36_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1200",
+			"exptime":1200,
 			"fitsfile":"",
 			"instrument":{
-				"id":"149",
+				"id":149,
 				"name":"SEDM"
 			},
 			"jd":2458581.4038889,
 			"obsdate":"2019-04-07 21:41:36",
 			"observer":"SEDmRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"2",
+				"id":2,
 				"name":"P60"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019cew_2019-03-31_07-20-00_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1500",
+			"exptime":1500,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458573.8055556,
 			"obsdate":"2019-03-31 07:20:00",
 			"observer":"Aaron Do",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Type Ia supernova near maximum light. SNID phase: -1.3(4.1) days, SNID redshift 0.064(0.009)",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

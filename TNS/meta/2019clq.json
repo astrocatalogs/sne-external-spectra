@@ -1,62 +1,64 @@
 {
-	"dec":"+74:26:47.33",
+	"dec":"+00:00:00.00",
+	"decdeg":74.44648,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Bersier",
-	"discovererid":"112",
+	"discovererid":112,
 	"discoverydate":"2019-03-27 05:49:55",
-	"discoverymag":"17.185",
+	"discoverymag":17.185,
 	"end_prop_period":null,
-	"host_redshift":"0.012",
+	"host_redshift":0.012,
 	"hostname":"PGC21381",
 	"internal_name":"ASASSN-19hq",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019clq",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"107",
+		"id":107,
 		"name":"SN Ib-pec"
 	},
 	"objname":"2019clq",
-	"public":"1",
+	"public":1,
 	"ra":"07:36:37.632",
-	"redshift":"0.012",
+	"radeg":114.1568,
+	"redshift":0.012,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019clq_2458572.762488_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"900",
+			"exptime":900,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458572.762488,
 			"obsdate":"2019-03-30 06:17:59",
 			"observer":"A Do",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Reduced with a summit quick-reduction pipeline.",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2019clq_2019-03-29_04-53-39_Plaskett_Plaskett_DAO_OTS.txt",
 			"assoc_groups":[
 				{
-					"id":"9",
+					"id":9,
 					"name":"DAO_OTS"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"3600",
+			"exptime":3600,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2019clq_2019-03-29_04-53-39_Plaskett_Plaskett_DAO_OTS.fits",
 			"instrument":{
-				"id":"146",
+				"id":146,
 				"name":"Plaskett"
 			},
 			"jd":2458571.7039236,
 			"obsdate":"2019-03-29 04:53:39",
 			"observer":"Balam",
-			"public":"1",
+			"public":1,
 			"reducer":"Balam",
 			"remarks":"",
 			"source_group":{
-				"id":"9",
+				"id":9,
 				"name":"DAO_OTS"
 			},
 			"telescope":{
-				"id":"95",
+				"id":95,
 				"name":"Plaskett"
 			}
 		}
 	],
-	"type":"107"
+	"type":107
 }

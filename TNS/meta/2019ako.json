@@ -1,65 +1,67 @@
 {
-	"dec":"-38:02:23.82",
+	"dec":"+00:00:00.00",
+	"decdeg":-38.03995125,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-02-01 08:22:33",
-	"discoverymag":"18.538",
+	"discoverymag":18.538,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19cdg",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ako",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019ako",
-	"public":"1",
+	"public":1,
 	"ra":"06:13:56.291",
-	"redshift":"0.029",
+	"radeg":93.4845475,
+	"redshift":0.029,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ako_2019-02-11_01-59-15_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
-					"id":"37",
+					"id":37,
 					"name":"ePESSTO"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"600",
+			"exptime":600,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ako_2019-02-11_01-59-15_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
 			"instrument":{
-				"id":"31",
+				"id":31,
 				"name":"EFOSC2-NTT"
 			},
 			"jd":2458525.5828125,
 			"obsdate":"2019-02-11 01:59:15",
 			"observer":"Eliana Palazzi, Roberta Carini",
-			"public":"1",
+			"public":1,
 			"reducer":"Stefano Benetti, Achille Fiore, Enrico Cappellaro, Francesca Onori",
 			"remarks":"",
 			"source_group":{
-				"id":"37",
+				"id":37,
 				"name":"ePESSTO"
 			},
 			"telescope":{
-				"id":"30",
+				"id":30,
 				"name":"ESO-NTT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

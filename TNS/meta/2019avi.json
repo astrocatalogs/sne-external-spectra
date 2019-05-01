@@ -1,65 +1,67 @@
 {
-	"dec":"+39:15:34.50",
+	"dec":"+00:00:00.00",
+	"decdeg":39.2595825,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-02-08 10:03:45",
-	"discoverymag":"17.9",
+	"discoverymag":17.9,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aailexm",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019avi",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019avi",
-	"public":"1",
+	"public":1,
 	"ra":"10:01:32.031",
-	"redshift":"0.063",
+	"radeg":150.3834614,
+	"redshift":0.063,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019avi_2458527.448897_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
 				{
-					"id":"16",
+					"id":16,
 					"name":"Padova-Asiago"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2700",
+			"exptime":2700,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019avi_2458527.448897_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
-				"id":"37",
+				"id":37,
 				"name":"AFOSC"
 			},
 			"jd":2458527.448897,
 			"obsdate":"2019-02-12 22:46:24",
 			"observer":"Tomasella",
-			"public":"1",
+			"public":1,
 			"reducer":"Benetti, Tomasella",
 			"remarks":"Spectrum similar to several type Ia SNe, about one week before B maximum. The redshift is derived from the lines of the host galaxy",
 			"source_group":{
-				"id":"16",
+				"id":16,
 				"name":"Padova-Asiago"
 			},
 			"telescope":{
-				"id":"34",
+				"id":34,
 				"name":"Ekar"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

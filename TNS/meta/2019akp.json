@@ -1,19 +1,20 @@
 {
-	"dec":"-34:56:43.64",
+	"dec":"+00:00:00.00",
+	"decdeg":-34.9454566667,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-02-01 13:16:19",
-	"discoverymag":"17.386",
+	"discoverymag":17.386,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19cdh",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019akp",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019akp",
-	"public":"1",
+	"public":1,
 	"ra":"13:28:00.360",
+	"radeg":202.001501111,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[],
 	"type":null
 }

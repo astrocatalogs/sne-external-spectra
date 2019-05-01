@@ -1,65 +1,67 @@
 {
-	"dec":"-16:39:47.66",
+	"dec":"+00:00:00.00",
+	"decdeg":-16.663239,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"111",
+		"id":111,
 		"name":"r"
 	},
 	"discoverer":"Gal-Yam",
-	"discovererid":"21",
+	"discovererid":21,
 	"discoverydate":"2019-03-15 06:20:35",
-	"discoverymag":"19.4",
+	"discoverymag":19.4,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aajwogx",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019cca",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"18",
+		"id":18,
 		"name":"SLSN-I"
 	},
 	"objname":"2019cca",
-	"public":"1",
+	"public":1,
 	"ra":"12:02:51.400",
-	"redshift":"0.42",
+	"radeg":180.714167,
+	"redshift":0.42,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019cca_2019-03-17_09-20-34.00_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
-					"id":"37",
+					"id":37,
 					"name":"ePESSTO"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"900",
+			"exptime":900,
 			"fitsfile":"",
 			"instrument":{
-				"id":"31",
+				"id":31,
 				"name":"EFOSC2-NTT"
 			},
 			"jd":2458559.8892824,
 			"obsdate":"2019-03-17 09:20:34",
 			"observer":"Valery Brinnel, Ana Sagues Carracedo, Cristina Barbarino",
-			"public":"1",
+			"public":1,
 			"reducer":"Leonardo Tartaglia",
 			"remarks":"",
 			"source_group":{
-				"id":"37",
+				"id":37,
 				"name":"ePESSTO"
 			},
 			"telescope":{
-				"id":"30",
+				"id":30,
 				"name":"ESO-NTT"
 			}
 		}
 	],
-	"type":"18"
+	"type":18
 }

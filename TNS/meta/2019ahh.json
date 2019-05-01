@@ -1,65 +1,67 @@
 {
-	"dec":"+09:46:59.95",
+	"dec":"+00:00:00.00",
+	"decdeg":9.78332,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-01-30 02:09:36",
-	"discoverymag":"17.3",
+	"discoverymag":17.3,
 	"end_prop_period":null,
-	"host_redshift":"0.022549",
+	"host_redshift":0.022549,
 	"hostname":"2MASX J14021471+0946557",
 	"internal_name":"ASASSN-19bs",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ahh",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"103",
+		"id":103,
 		"name":"SN Ia-91bg-like"
 	},
 	"objname":"2019ahh",
-	"public":"1",
+	"public":1,
 	"ra":"14:02:15.209",
-	"redshift":"0.0225",
+	"radeg":210.56337,
+	"redshift":0.0225,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ahh_2458519.1159_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1800",
+			"exptime":1800,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458519.1159,
 			"obsdate":"2019-02-04 14:46:53",
 			"observer":"Tucker",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Reduced with a summit-based quick reduction pipeline.",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"103"
+	"type":103
 }

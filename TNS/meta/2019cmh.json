@@ -1,65 +1,67 @@
 {
-	"dec":"+53:58:23.41",
+	"dec":"+00:00:00.00",
+	"decdeg":53.97317,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Vallely",
-	"discovererid":"668",
+	"discovererid":668,
 	"discoverydate":"2019-03-27 11:02:24",
-	"discoverymag":"18",
+	"discoverymag":18,
 	"end_prop_period":null,
-	"host_redshift":"0.046386",
+	"host_redshift":0.046386,
 	"hostname":"SDSS J103439.83+535820.8",
 	"internal_name":"ASASSN-19hu",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019cmh",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019cmh",
-	"public":"1",
+	"public":1,
 	"ra":"10:34:39.216",
-	"redshift":"0.048",
+	"radeg":158.6634,
+	"redshift":0.048,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019cmh_2019-03-31_08-00-00_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"900",
+			"exptime":900,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458573.8333333,
 			"obsdate":"2019-03-31 08:00:00",
 			"observer":"Aaron Do",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Type Ia supernova near maximum light. SNID phase: -3.2(5.1) days, host redshift 0.046386",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

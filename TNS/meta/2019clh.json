@@ -1,65 +1,67 @@
 {
-	"dec":"-31:08:41.97",
+	"dec":"+00:00:00.00",
+	"decdeg":-31.144992,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Vallely",
-	"discovererid":"668",
+	"discovererid":668,
 	"discoverydate":"2019-03-27 02:52:48",
-	"discoverymag":"17.8",
+	"discoverymag":17.8,
 	"end_prop_period":null,
-	"host_redshift":"0.046332",
+	"host_redshift":0.046332,
 	"hostname":"GALEXASC J132713.29-310837.3",
 	"internal_name":"ASASSN-19hm",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019clh",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019clh",
-	"public":"1",
+	"public":1,
 	"ra":"13:27:12.994",
-	"redshift":"0.05",
+	"radeg":201.80414,
+	"redshift":0.05,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019clh_2458579.4561_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1800",
+			"exptime":1800,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458579.4561,
 			"obsdate":"2019-04-05 22:56:47",
 			"observer":"Payne",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Spectrum reduced with quick reduction summit pipeline. Care should be taken before further analysis. ",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

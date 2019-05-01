@@ -1,57 +1,59 @@
 {
-	"dec":"+37:27:29.70",
+	"dec":"+00:00:00.00",
+	"decdeg":37.45825,
 	"discmagfilter":{
 		"family":"",
-		"id":"1",
+		"id":1,
 		"name":"Clear"
 	},
 	"discoverer":"Zhang",
-	"discovererid":"662",
+	"discovererid":662,
 	"discoverydate":"2019-01-30 22:06:01",
-	"discoverymag":"18.6",
+	"discoverymag":18.6,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"NGC 3304",
 	"internal_name":"PSP19A",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019aik",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019aik",
-	"public":"1",
+	"public":1,
 	"ra":"10:37:38.360",
-	"redshift":"0.023",
+	"radeg":159.409833,
+	"redshift":0.023,
 	"source_group":{
 		"group_name":"XOSS",
-		"groupid":"10"
+		"groupid":10
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019aik_2019-02-02.71_Lijiang-2.4m_YFOSC.dat",
 			"end_prop_period":null,
-			"exptime":"1800",
+			"exptime":1800,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019aik_2019-02-02.71_Lijiang-2.4m_YFOSC.fits",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"107",
+				"id":107,
 				"name":"YFOSC"
 			},
 			"jd":2458517.21,
 			"obsdate":"2019-02-02 17:02:24",
 			"observer":"Jujia Zhang, Kaixing Lu (YNAO); Xiaofeng Wang (THU)",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"77",
+				"id":77,
 				"name":"Lijiang-2.4m"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

@@ -1,65 +1,67 @@
 {
-	"dec":"-01:05:32.86",
+	"dec":"+00:00:00.00",
+	"decdeg":-1.0924625,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"71",
+		"id":71,
 		"name":"cyan"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-02-04 15:00:00",
-	"discoverymag":"19.396",
+	"discoverymag":19.396,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19cnn",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019amo",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019amo",
-	"public":"1",
+	"public":1,
 	"ra":"14:07:21.934",
-	"redshift":"0.055",
+	"radeg":211.8413925,
+	"redshift":0.055,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019amo_2019-02-09_08-23-22_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
-					"id":"37",
+					"id":37,
 					"name":"ePESSTO"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"900",
+			"exptime":900,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019amo_2019-02-09_08-23-22_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
 			"instrument":{
-				"id":"31",
+				"id":31,
 				"name":"EFOSC2-NTT"
 			},
 			"jd":2458523.8495602,
 			"obsdate":"2019-02-09 08:23:22",
 			"observer":"R. Carini, E. Palazzi",
-			"public":"1",
+			"public":1,
 			"reducer":"E. Cappellaro, A. Fiore",
 			"remarks":"",
 			"source_group":{
-				"id":"37",
+				"id":37,
 				"name":"ePESSTO"
 			},
 			"telescope":{
-				"id":"30",
+				"id":30,
 				"name":"ESO-NTT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

@@ -1,84 +1,86 @@
 {
-	"dec":"+28:16:51.92",
+	"dec":"+00:00:00.00",
+	"decdeg":28.28109,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-03-03 09:07:12",
-	"discoverymag":"17.6",
+	"discoverymag":17.6,
 	"end_prop_period":null,
-	"host_redshift":"0.01951",
+	"host_redshift":0.01951,
 	"hostname":"MCG +05-31-141",
 	"internal_name":"ASASSN-19ec",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bkh",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019bkh",
-	"public":"1",
+	"public":1,
 	"ra":"13:08:57.319",
-	"redshift":"0.019512",
+	"radeg":197.23883,
+	"redshift":0.019512,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bkh_2019-03-05_03-39-22_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
 				{
-					"id":"16",
+					"id":16,
 					"name":"Padova-Asiago"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2700",
+			"exptime":2700,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bkh_2019-03-05_03-39-22_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
-				"id":"37",
+				"id":37,
 				"name":"AFOSC"
 			},
 			"jd":2458547.652338,
 			"obsdate":"2019-03-05 03:39:22",
 			"observer":"Vogt, Schuldt, Fiore, Taubenberger",
-			"public":"1",
+			"public":1,
 			"reducer":"benetti",
 			"remarks":"",
 			"source_group":{
-				"id":"16",
+				"id":16,
 				"name":"Padova-Asiago"
 			},
 			"telescope":{
-				"id":"34",
+				"id":34,
 				"name":"Ekar"
 			}
 		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019bkh_2019-03-04_23-13-31_Other_Other.dat",
 			"end_prop_period":null,
-			"exptime":"6365",
+			"exptime":6365,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019bkh_2019-03-04_23-13-31_Other_Other.fit",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"0",
+				"id":0,
 				"name":"Other"
 			},
 			"jd":2458547.4677199,
 			"obsdate":"2019-03-04 23:13:31",
 			"observer":"Robin Leadbeater",
-			"public":"1",
+			"public":1,
 			"reducer":"Robin Leadbeater",
 			"remarks":"R~130 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
 			"source_group_name":null,
 			"telescope":{
-				"id":"0",
+				"id":0,
 				"name":"Other"
 			}
 		},
@@ -86,32 +88,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019bkh_2019-03-04_06-39-17_P200_DBSP_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"300",
+			"exptime":300,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019bkh_2019-03-04_06-39-17_P200_DBSP_ZTF.fits",
 			"instrument":{
-				"id":"1",
+				"id":1,
 				"name":"DBSP"
 			},
 			"jd":2458546.7772801,
 			"obsdate":"2019-03-04 06:39:17",
 			"observer":"A. Dugas",
-			"public":"1",
+			"public":1,
 			"reducer":"A. Ho",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"3",
+				"id":3,
 				"name":"P200"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

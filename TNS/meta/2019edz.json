@@ -1,34 +1,67 @@
 {
-	"dec":"+71:12:39.24",
+	"dec":"+00:00:00.00",
+	"decdeg":71.2109,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-04-27 03:33:07",
-	"discoverymag":"17.3",
+	"discoverymag":17.3,
 	"end_prop_period":null,
-	"host_redshift":"0.037116",
+	"host_redshift":0.037116,
 	"hostname":"UGC 09786",
 	"internal_name":"ASASSN-19ky",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019edz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019edz",
-	"public":"1",
+	"public":1,
 	"ra":"15:13:12.749",
-	"redshift":null,
+	"radeg":228.303121,
+	"redshift":0.037,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
-	"spectra":[],
-	"type":null
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019edz_2019-04-29_23-38-21_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458603.4849653,
+			"obsdate":"2019-04-29 23:38:21",
+			"observer":"D Bersier",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }

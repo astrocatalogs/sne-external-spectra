@@ -1,19 +1,20 @@
 {
-	"dec":"-67:02:42.90",
+	"dec":"+00:00:00.00",
+	"decdeg":-67.04525,
 	"discmagfilter":{
 		"family":"Cousins",
-		"id":"14",
+		"id":14,
 		"name":"I"
 	},
 	"discoverer":"Gromadzki",
-	"discovererid":"579",
+	"discovererid":579,
 	"discoverydate":"2019-03-03 02:12:35",
-	"discoverymag":"21.548",
+	"discoverymag":21.548,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"OGLE-GAL-LMC518.32-1886.023-1428.854",
 	"internal_name":"",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019col",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019col",
-	"public":"1",
+	"public":1,
 	"ra":"05:26:07.610",
+	"radeg":81.531708,
 	"redshift":null,
 	"source_group":{
 		"group_name":"OGLE",
-		"groupid":"17"
+		"groupid":17
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[],
 	"type":null
 }

@@ -1,19 +1,20 @@
 {
-	"dec":"+22:38:54.49",
+	"dec":"+00:00:00.00",
+	"decdeg":22.64847,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-02-22 00:28:48",
-	"discoverymag":"16.2",
+	"discoverymag":16.2,
 	"end_prop_period":null,
-	"host_redshift":"0.022346",
+	"host_redshift":0.022346,
 	"hostname":"KUG 0810+227",
 	"internal_name":"ASASSN-19dj",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019azh",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,42 +22,43 @@
 		"name":null
 	},
 	"objname":"2019azh",
-	"public":"1",
+	"public":1,
 	"ra":"08:13:17.054",
-	"redshift":"0.022",
+	"radeg":123.32106,
+	"redshift":0.022,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019azh_2019-02-25_03-48-04_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
-					"id":"37",
+					"id":37,
 					"name":"ePESSTO"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"300",
+			"exptime":300,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019azh_2019-02-25_03-48-04_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
 			"instrument":{
-				"id":"31",
+				"id":31,
 				"name":"EFOSC2-NTT"
 			},
 			"jd":2458539.6583796,
 			"obsdate":"2019-02-25 03:48:04",
 			"observer":"Cristina Barbarino, Ana Sagues Carracedo",
-			"public":"1",
+			"public":1,
 			"reducer":"Leonardo Tartaglia",
 			"remarks":"",
 			"source_group":{
-				"id":"37",
+				"id":37,
 				"name":"ePESSTO"
 			},
 			"telescope":{
-				"id":"30",
+				"id":30,
 				"name":"ESO-NTT"
 			}
 		}

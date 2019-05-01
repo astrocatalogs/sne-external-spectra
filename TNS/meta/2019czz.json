@@ -1,65 +1,67 @@
 {
-	"dec":"+71:58:24.87",
+	"dec":"+00:00:00.00",
+	"decdeg":71.9735745,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"59228",
+	"discovererid":59228,
 	"discoverydate":"2019-04-01 09:51:40",
-	"discoverymag":"19.51",
+	"discoverymag":19.51,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aaocbes",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019czz",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"104",
+		"id":104,
 		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019czz",
-	"public":"1",
+	"public":1,
 	"ra":"19:50:04.330",
-	"redshift":"0.08",
+	"radeg":297.5180415,
+	"redshift":0.08,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019czz_2019-04-11_02-14-16_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2250",
+			"exptime":2250,
 			"fitsfile":"",
 			"instrument":{
-				"id":"149",
+				"id":149,
 				"name":"SEDM"
 			},
 			"jd":2458584.5932407,
 			"obsdate":"2019-04-11 02:14:16",
 			"observer":"SEDmRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"2",
+				"id":2,
 				"name":"P60"
 			}
 		}
 	],
-	"type":"104"
+	"type":104
 }

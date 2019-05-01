@@ -1,57 +1,59 @@
 {
-	"dec":"+28:41:58.14",
+	"dec":"+00:00:00.00",
+	"decdeg":28.6994828,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-02-08 12:23:57",
-	"discoverymag":"19.96",
+	"discoverymag":19.96,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aailuvj",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019awc",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019awc",
-	"public":"1",
+	"public":1,
 	"ra":"15:27:30.212",
-	"redshift":"0.071",
+	"radeg":231.8758833,
+	"redshift":0.071,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019awc_2019-02-13_LT_SPRAT.dat",
 			"end_prop_period":null,
-			"exptime":"1400",
+			"exptime":1400,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019awc_2019-02-13_LT_SPRAT.fits",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"156",
+				"id":156,
 				"name":"SPRAT"
 			},
 			"jd":2458527.5,
 			"obsdate":"2019-02-13 00:00:00",
 			"observer":"C. Frohmaier",
-			"public":"1",
+			"public":1,
 			"reducer":"C. Gutierrez/T. Muller",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"70",
+				"id":70,
 				"name":"LT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

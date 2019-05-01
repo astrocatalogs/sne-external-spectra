@@ -1,57 +1,59 @@
 {
-	"dec":"-60:06:19.55",
+	"dec":"+00:00:00.00",
+	"decdeg":-60.10543,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-04-12 02:38:24",
-	"discoverymag":"17.3",
+	"discoverymag":17.3,
 	"end_prop_period":null,
-	"host_redshift":"0.0474",
+	"host_redshift":0.0474,
 	"hostname":"2MASX J21024231-6006375",
 	"internal_name":"ASASSN-19jx",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019dkd",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019dkd",
-	"public":"1",
+	"public":1,
 	"ra":"21:02:42.233",
+	"radeg":315.67597,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019dkd_2019-04-22.37_SOAR_Goodman.dat",
 			"end_prop_period":null,
 			"exptime":null,
 			"fitsfile":"",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"127",
+				"id":127,
 				"name":"Goodman"
 			},
 			"jd":2458595.87,
 			"obsdate":"2019-04-22 08:52:48",
 			"observer":"Jay Strader",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"86",
+				"id":86,
 				"name":"SOAR"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

@@ -1,65 +1,67 @@
 {
-	"dec":"-02:36:31.00",
+	"dec":"+00:00:00.00",
+	"decdeg":-2.60861166667,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-01-29 14:11:02",
-	"discoverymag":"18.061",
+	"discoverymag":18.061,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19cas",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ahg",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"5",
+		"id":5,
 		"name":"SN Ic"
 	},
 	"objname":"2019ahg",
-	"public":"1",
+	"public":1,
 	"ra":"13:31:48.005",
-	"redshift":"0.0203",
+	"radeg":202.95002,
+	"redshift":0.0203,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ahg_2019-02-01_07-17-52_ESO-NTT_EFOSC2-NTT_ePESSTO.asci",
 			"assoc_groups":[
 				{
-					"id":"37",
+					"id":37,
 					"name":"ePESSTO"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"600",
+			"exptime":600,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO/tns_2019ahg_2019-02-01_07-17-52_ESO-NTT_EFOSC2-NTT_ePESSTO.fits",
 			"instrument":{
-				"id":"31",
+				"id":31,
 				"name":"EFOSC2-NTT"
 			},
 			"jd":2458515.8040741,
 			"obsdate":"2019-02-01 07:17:52",
 			"observer":"Silvia Piranomonte, Roberta Carini",
-			"public":"1",
+			"public":1,
 			"reducer":"Stefano Benetti",
 			"remarks":"",
 			"source_group":{
-				"id":"37",
+				"id":37,
 				"name":"ePESSTO"
 			},
 			"telescope":{
-				"id":"30",
+				"id":30,
 				"name":"ESO-NTT"
 			}
 		}
 	],
-	"type":"5"
+	"type":5
 }

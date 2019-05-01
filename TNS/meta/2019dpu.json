@@ -1,57 +1,59 @@
 {
-	"dec":"+33:28:15.85",
+	"dec":"+00:00:00.00",
+	"decdeg":33.4710692,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"48869",
+	"discovererid":48869,
 	"discoverydate":"2019-04-12 05:28:19",
-	"discoverymag":"20.53",
+	"discoverymag":20.53,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aaqcqkv",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019dpu",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019dpu",
-	"public":"1",
+	"public":1,
 	"ra":"13:04:18.446",
-	"redshift":"0.075",
+	"radeg":196.0768565,
+	"redshift":0.075,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019dpu_2019-04-23_00-50-29_LT_SPRAT.asci",
 			"end_prop_period":null,
-			"exptime":"600",
+			"exptime":600,
 			"fitsfile":"",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"156",
+				"id":156,
 				"name":"SPRAT"
 			},
 			"jd":2458596.5350579,
 			"obsdate":"2019-04-23 00:50:29",
 			"observer":"M. Pursiainen",
-			"public":"1",
+			"public":1,
 			"reducer":"P. Wiseman",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"70",
+				"id":70,
 				"name":"LT"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

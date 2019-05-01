@@ -1,65 +1,67 @@
 {
-	"dec":"-08:27:02.60",
+	"dec":"+00:00:00.00",
+	"decdeg":-8.4507217,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"48869",
+	"discovererid":48869,
 	"discoverydate":"2019-04-25 10:27:50",
-	"discoverymag":"20.47",
+	"discoverymag":20.47,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aarzaod",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019dzw",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"13",
+		"id":13,
 		"name":"SN IIn"
 	},
 	"objname":"2019dzw",
-	"public":"1",
+	"public":1,
 	"ra":"17:31:09.957",
-	"redshift":"0.028",
+	"radeg":262.7914871,
+	"redshift":0.028,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019dzw_2019-04-26_04-55-23_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
 				{
-					"id":"63",
+					"id":63,
 					"name":"ePESSTO+"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1500",
+			"exptime":1500,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019dzw_2019-04-26_04-55-23_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
 			"instrument":{
-				"id":"31",
+				"id":31,
 				"name":"EFOSC2-NTT"
 			},
 			"jd":2458599.7051273,
 			"obsdate":"2019-04-26 04:55:23",
 			"observer":"M. Nicholl, P. Short",
-			"public":"1",
+			"public":1,
 			"reducer":"P. Wiseman, M. Pursiainen, C. Angus",
 			"remarks":"",
 			"source_group":{
-				"id":"63",
+				"id":63,
 				"name":"ePESSTO+"
 			},
 			"telescope":{
-				"id":"30",
+				"id":30,
 				"name":"ESO-NTT"
 			}
 		}
 	],
-	"type":"13"
+	"type":13
 }

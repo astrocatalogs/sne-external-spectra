@@ -1,62 +1,64 @@
 {
-	"dec":"+11:11:56.69",
+	"dec":"+00:00:00.00",
+	"decdeg":11.19908,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-02-06 03:21:36",
-	"discoverymag":"18.1",
+	"discoverymag":18.1,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"SDSS J084920.46+111152.7",
 	"internal_name":"ASASSN-19ci",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ano",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019ano",
-	"public":"1",
+	"public":1,
 	"ra":"08:49:20.496",
-	"redshift":"0.068",
+	"radeg":132.3354,
+	"redshift":0.068,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ano_2019-02-09_00-53-47_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1200",
+			"exptime":1200,
 			"fitsfile":"",
 			"instrument":{
-				"id":"149",
+				"id":149,
 				"name":"SEDM"
 			},
 			"jd":2458523.5373495,
 			"obsdate":"2019-02-09 00:53:47",
 			"observer":"SEDmRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"2",
+				"id":2,
 				"name":"P60"
 			}
 		},
@@ -64,7 +66,7 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019ano_2458522.797071_FLWO-1.5m_FAST_ASAS-SN.txt",
 			"assoc_groups":[
 				{
-					"id":"3",
+					"id":3,
 					"name":"ASAS-SN"
 				}
 			],
@@ -72,24 +74,24 @@
 			"exptime":null,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019ano_2458522.797071_FLWO-1.5m_FAST_ASAS-SN.fits",
 			"instrument":{
-				"id":"44",
+				"id":44,
 				"name":"FAST"
 			},
 			"jd":2458522.797071,
 			"obsdate":"2019-02-08 07:07:46",
 			"observer":"E. Falco",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"",
 			"source_group":{
-				"id":"3",
+				"id":3,
 				"name":"ASAS-SN"
 			},
 			"telescope":{
-				"id":"36",
+				"id":36,
 				"name":"FLWO-1.5m"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

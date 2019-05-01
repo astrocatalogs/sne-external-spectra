@@ -1,40 +1,42 @@
 {
-	"dec":"+16:07:24.20",
+	"dec":"+00:00:00.00",
+	"decdeg":16.12339,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-03-27 12:14:24",
-	"discoverymag":"17.4",
+	"discoverymag":17.4,
 	"end_prop_period":null,
-	"host_redshift":"0.024184",
+	"host_redshift":0.024184,
 	"hostname":"UGC 07230 NED02",
 	"internal_name":"ASASSN-19hp",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019clp",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"10",
+		"id":10,
 		"name":"SN II"
 	},
 	"objname":"2019clp",
-	"public":"1",
+	"public":1,
 	"ra":"12:13:39.886",
-	"redshift":"0.02377",
+	"radeg":183.41619,
+	"redshift":0.02377,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019clp_2019-04-10.46_Lick-3m_KAST_ASAS-SN.txt",
 			"assoc_groups":[
 				{
-					"id":"3",
+					"id":3,
 					"name":"ASAS-SN"
 				}
 			],
@@ -42,21 +44,21 @@
 			"exptime":null,
 			"fitsfile":"",
 			"instrument":{
-				"id":"10",
+				"id":10,
 				"name":"KAST"
 			},
 			"jd":2458583.96,
 			"obsdate":"2019-04-10 11:02:24",
 			"observer":"T. G. Brink",
-			"public":"1",
+			"public":1,
 			"reducer":"T. G. Brink",
 			"remarks":"",
 			"source_group":{
-				"id":"3",
+				"id":3,
 				"name":"ASAS-SN"
 			},
 			"telescope":{
-				"id":"10",
+				"id":10,
 				"name":"Lick-3m"
 			}
 		},
@@ -64,29 +66,29 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019clp_2019-04-07_22-50-51_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1200",
+			"exptime":1200,
 			"fitsfile":"",
 			"instrument":{
-				"id":"149",
+				"id":149,
 				"name":"SEDM"
 			},
 			"jd":2458581.4519792,
 			"obsdate":"2019-04-07 22:50:51",
 			"observer":"SEDmRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"2",
+				"id":2,
 				"name":"P60"
 			}
 		},
@@ -94,29 +96,29 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019clp_2019-03-30_22-50-52_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
 				{
-					"id":"16",
+					"id":16,
 					"name":"Padova-Asiago"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2400",
+			"exptime":2400,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019clp_2019-03-30_22-50-52_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
-				"id":"37",
+				"id":37,
 				"name":"AFOSC"
 			},
 			"jd":2458573.4519907,
 			"obsdate":"2019-03-30 22:50:52",
 			"observer":"Ochner",
-			"public":"1",
+			"public":1,
 			"reducer":"Benetti",
 			"remarks":"The AFOSC noisy spectrum shows a blue (T about 17000 K) almost featureless continuum, typically seen in young core collapse SNe a few days after explosion.",
 			"source_group":{
-				"id":"16",
+				"id":16,
 				"name":"Padova-Asiago"
 			},
 			"telescope":{
-				"id":"34",
+				"id":34,
 				"name":"Ekar"
 			}
 		},
@@ -124,29 +126,29 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019clp_2458572.9112_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
-					"id":"51",
+					"id":51,
 					"name":"SCAT"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"900",
+			"exptime":900,
 			"fitsfile":"",
 			"instrument":{
-				"id":"11",
+				"id":11,
 				"name":"SNIFS"
 			},
 			"jd":2458572.9112,
 			"obsdate":"2019-03-30 09:52:07",
 			"observer":"A Do",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"Reduced with a summit quick-reduction pipeline.",
 			"source_group":{
-				"id":"51",
+				"id":51,
 				"name":"SCAT"
 			},
 			"telescope":{
-				"id":"17",
+				"id":17,
 				"name":"UH88"
 			}
 		},
@@ -154,32 +156,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2019clp_2019-03-30_06-02-03_Plaskett_Plaskett_DAO_OTS.txt",
 			"assoc_groups":[
 				{
-					"id":"9",
+					"id":9,
 					"name":"DAO_OTS"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"3600",
+			"exptime":3600,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DAO_OTS/tns_2019clp_2019-03-30_06-02-03_Plaskett_Plaskett_DAO_OTS.fits",
 			"instrument":{
-				"id":"146",
+				"id":146,
 				"name":"Plaskett"
 			},
 			"jd":2458572.7514236,
 			"obsdate":"2019-03-30 06:02:03",
 			"observer":"Balam",
-			"public":"1",
+			"public":1,
 			"reducer":"Balam",
 			"remarks":"",
 			"source_group":{
-				"id":"9",
+				"id":9,
 				"name":"DAO_OTS"
 			},
 			"telescope":{
-				"id":"95",
+				"id":95,
 				"name":"Plaskett"
 			}
 		}
 	],
-	"type":"10"
+	"type":10
 }

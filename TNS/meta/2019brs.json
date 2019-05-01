@@ -1,19 +1,20 @@
 {
-	"dec":"+29:30:38.27",
+	"dec":"+00:00:00.00",
+	"decdeg":29.510631,
 	"discmagfilter":{
 		"family":"Gaia",
-		"id":"75",
+		"id":75,
 		"name":"G"
 	},
 	"discoverer":null,
-	"discovererid":"35587",
+	"discovererid":35587,
 	"discoverydate":"2019-03-10 14:26:52",
-	"discoverymag":"18.67",
+	"discoverymag":18.67,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"Gaia19axp",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019brs",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,34 +22,35 @@
 		"name":null
 	},
 	"objname":"2019brs",
-	"public":"1",
+	"public":1,
 	"ra":"14:27:46.400",
-	"redshift":"0.37362",
+	"radeg":216.943333,
+	"redshift":0.37362,
 	"source_group":{
 		"group_name":"GaiaAlerts",
-		"groupid":"24"
+		"groupid":24
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019brs_2019-03-15_09-06-04_FTN_FLOYDS-N.ascii",
 			"end_prop_period":null,
-			"exptime":"3600",
+			"exptime":3600,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019brs_2019-03-15_09-06-04_FTN_FLOYDS-N.fits",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"108",
+				"id":108,
 				"name":"FLOYDS-N"
 			},
 			"jd":2458557.879213,
 			"obsdate":"2019-03-15 09:06:04",
 			"observer":"Robotic",
-			"public":"1",
+			"public":1,
 			"reducer":"D. Hiramatsu",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"74",
+				"id":74,
 				"name":"FTN"
 			}
 		}

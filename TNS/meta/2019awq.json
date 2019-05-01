@@ -1,57 +1,59 @@
 {
-	"dec":"-15:46:00.96",
+	"dec":"+00:00:00.00",
+	"decdeg":-15.766932,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-02-13 06:53:16",
-	"discoverymag":"18.444",
+	"discoverymag":18.444,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19dhw",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019awq",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019awq",
-	"public":"1",
+	"public":1,
 	"ra":"04:23:29.345",
-	"redshift":"0.03773",
+	"radeg":65.872272,
+	"redshift":0.03773,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019awq_2019-02-14_01-00-48_SOAR_Goodman.asci",
 			"end_prop_period":null,
 			"exptime":null,
 			"fitsfile":"",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"127",
+				"id":127,
 				"name":"Goodman"
 			},
 			"jd":2458528.5422222,
 			"obsdate":"2019-02-14 01:00:48",
 			"observer":"R. Cartier",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"The SN seems to be young (<-10 d), we measure an ejecta expansion velocity of about 15000 km/s from the minimum of the SiII 6355 line. ",
 			"source_group_name":null,
 			"telescope":{
-				"id":"86",
+				"id":86,
 				"name":"SOAR"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

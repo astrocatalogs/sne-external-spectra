@@ -1,19 +1,20 @@
 {
-	"dec":"-33:19:29.06",
+	"dec":"+00:00:00.00",
+	"decdeg":-33.324739,
 	"discmagfilter":{
 		"family":"Gaia",
-		"id":"75",
+		"id":75,
 		"name":"G"
 	},
 	"discoverer":null,
-	"discovererid":"35587",
+	"discovererid":35587,
 	"discoverydate":"2019-04-25 03:07:12",
-	"discoverymag":"18.22",
+	"discoverymag":18.22,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"Gaia19bog",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019edl",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019edl",
-	"public":"1",
+	"public":1,
 	"ra":"23:29:10.540",
+	"radeg":352.293917,
 	"redshift":null,
 	"source_group":{
 		"group_name":"GaiaAlerts",
-		"groupid":"24"
+		"groupid":24
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[],
 	"type":null
 }

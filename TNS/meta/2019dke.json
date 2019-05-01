@@ -1,57 +1,59 @@
 {
-	"dec":"-26:17:31.52",
+	"dec":"+00:00:00.00",
+	"decdeg":-26.29209,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Vallely",
-	"discovererid":"668",
+	"discovererid":668,
 	"discoverydate":"2019-04-11 21:07:12",
-	"discoverymag":"16.9",
+	"discoverymag":16.9,
 	"end_prop_period":null,
-	"host_redshift":"0.010637",
+	"host_redshift":0.010637,
 	"hostname":"ESO 507- G 042",
 	"internal_name":"ASASSN-19jy",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019dke",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"10",
+		"id":10,
 		"name":"SN II"
 	},
 	"objname":"2019dke",
-	"public":"1",
+	"public":1,
 	"ra":"12:53:38.393",
+	"radeg":193.40997,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019dke_2019-04-14_01-04-04.103_NOT_ALFOSC.dat",
 			"end_prop_period":null,
-			"exptime":"900",
+			"exptime":900,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019dke_2019-04-14_01-04-04.103_NOT_ALFOSC.fits",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"41",
+				"id":41,
 				"name":"ALFOSC"
 			},
 			"jd":2458587.5444907,
 			"obsdate":"2019-04-14 01:04:04",
 			"observer":"Nowak",
-			"public":"1",
+			"public":1,
 			"reducer":"Holmbo",
 			"remarks":"",
 			"source_group_name":null,
 			"telescope":{
-				"id":"12",
+				"id":12,
 				"name":"NOT"
 			}
 		}
 	],
-	"type":"10"
+	"type":10
 }

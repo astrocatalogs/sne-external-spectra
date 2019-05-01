@@ -1,65 +1,67 @@
 {
-	"dec":"+29:23:08.56",
+	"dec":"+00:00:00.00",
+	"decdeg":29.3857118,
 	"discmagfilter":{
 		"family":"ZTF",
-		"id":"110",
+		"id":110,
 		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":"49023",
+	"discovererid":49023,
 	"discoverydate":"2019-02-24 12:02:36",
-	"discoverymag":"18.27",
+	"discoverymag":18.27,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19aakpcfy",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bas",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019bas",
-	"public":"1",
+	"public":1,
 	"ra":"16:26:51.714",
-	"redshift":"0.078316",
+	"radeg":246.7154758,
+	"redshift":0.078316,
 	"source_group":{
 		"group_name":"ZTF",
-		"groupid":"48"
+		"groupid":48
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bas_2019-03-06_04-06-46_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
 				{
-					"id":"16",
+					"id":16,
 					"name":"Padova-Asiago"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1500",
+			"exptime":1500,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019bas_2019-03-06_04-06-46_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
-				"id":"37",
+				"id":37,
 				"name":"AFOSC"
 			},
 			"jd":2458548.6713657,
 			"obsdate":"2019-03-06 04:06:46",
 			"observer":"Vogt, Schuldt, Fiore, Taubenberger",
-			"public":"1",
+			"public":1,
 			"reducer":"Benetti, Tomasella",
 			"remarks":"",
 			"source_group":{
-				"id":"16",
+				"id":16,
 				"name":"Padova-Asiago"
 			},
 			"telescope":{
-				"id":"34",
+				"id":34,
 				"name":"Ekar"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

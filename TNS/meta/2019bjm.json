@@ -1,40 +1,42 @@
 {
-	"dec":"-29:51:34.10",
+	"dec":"+00:00:00.00",
+	"decdeg":-29.8594725,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-03-01 06:02:52",
-	"discoverymag":"16.735",
+	"discoverymag":16.735,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19dqg",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bjm",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019bjm",
-	"public":"1",
+	"public":1,
 	"ra":"04:07:46.216",
-	"redshift":"0.01378",
+	"radeg":61.9425683333,
+	"redshift":0.01378,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019bjm_2458547.50946759_LCO-duPont_WFCCD_ASAS-SN.txt",
 			"assoc_groups":[
 				{
-					"id":"3",
+					"id":3,
 					"name":"ASAS-SN"
 				}
 			],
@@ -42,24 +44,24 @@
 			"exptime":null,
 			"fitsfile":"",
 			"instrument":{
-				"id":"62",
+				"id":62,
 				"name":"WFCCD"
 			},
 			"jd":2458547.5094676,
 			"obsdate":"2019-03-05 00:13:38",
 			"observer":"Tom Holoien",
-			"public":"1",
+			"public":1,
 			"reducer":"Subhash Bose",
 			"remarks":"",
 			"source_group":{
-				"id":"3",
+				"id":3,
 				"name":"ASAS-SN"
 			},
 			"telescope":{
-				"id":"50",
+				"id":50,
 				"name":"LCO-duPont"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

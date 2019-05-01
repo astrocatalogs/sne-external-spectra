@@ -1,19 +1,20 @@
 {
-	"dec":"+47:09:54.00",
+	"dec":"+00:00:00.00",
+	"decdeg":47.165,
 	"discmagfilter":{
 		"family":"",
-		"id":"1",
+		"id":1,
 		"name":"Clear"
 	},
 	"discoverer":null,
-	"discovererid":"42529",
+	"discovererid":42529,
 	"discoverydate":"2019-04-09 00:02:26",
-	"discoverymag":"16.4",
+	"discoverymag":16.4,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"MASTER OT J231043.35+470954.0",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ddt",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019ddt",
-	"public":"1",
+	"public":1,
 	"ra":"23:10:43.350",
+	"radeg":347.680625,
 	"redshift":null,
 	"source_group":{
 		"group_name":"MASTER",
-		"groupid":"36"
+		"groupid":36
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[],
 	"type":null
 }

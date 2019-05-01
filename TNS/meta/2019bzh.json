@@ -1,19 +1,20 @@
 {
-	"dec":"-14:24:19.44",
+	"dec":"+00:00:00.00",
+	"decdeg":-14.4054,
 	"discmagfilter":{
 		"family":"CRTS",
-		"id":"55",
+		"id":55,
 		"name":"V-crts"
 	},
 	"discoverer":"Drake",
-	"discovererid":"212",
+	"discovererid":212,
 	"discoverydate":"2019-03-17 06:50:04",
-	"discoverymag":"20",
+	"discoverymag":20,
 	"end_prop_period":null,
-	"host_redshift":"0.0123",
+	"host_redshift":0.0123,
 	"hostname":"IC 3799",
 	"internal_name":"",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019bzh",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019bzh",
-	"public":"1",
+	"public":1,
 	"ra":"12:48:58.704",
+	"radeg":192.2446,
 	"redshift":null,
 	"source_group":{
 		"group_name":"SNHunt",
-		"groupid":"14"
+		"groupid":14
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[],
 	"type":null
 }

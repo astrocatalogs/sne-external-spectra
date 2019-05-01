@@ -1,62 +1,64 @@
 {
-	"dec":"+05:39:10.96",
+	"dec":"+00:00:00.00",
+	"decdeg":5.653044,
 	"discmagfilter":{
 		"family":"Johnson",
-		"id":"12",
+		"id":12,
 		"name":"V"
 	},
 	"discoverer":"Tan",
-	"discovererid":"198",
+	"discovererid":198,
 	"discoverydate":"2019-03-10 14:16:28",
-	"discoverymag":"18.383",
+	"discoverymag":18.383,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"SDSS J092731.71+053911.9",
 	"internal_name":"PTSS-19ckdv",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019brc",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019brc",
-	"public":"1",
+	"public":1,
 	"ra":"09:27:31.690",
-	"redshift":"0.1",
+	"radeg":141.882042,
+	"redshift":0.1,
 	"source_group":{
 		"group_name":"PTSS",
-		"groupid":"22"
+		"groupid":22
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019brc_2019-03-16_03-00-57_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
-					"id":"48",
+					"id":48,
 					"name":"ZTF"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"1200",
+			"exptime":1200,
 			"fitsfile":"",
 			"instrument":{
-				"id":"149",
+				"id":149,
 				"name":"SEDM"
 			},
 			"jd":2458558.6256597,
 			"obsdate":"2019-03-16 03:00:57",
 			"observer":"SEDmRobot",
-			"public":"1",
+			"public":1,
 			"reducer":"auto",
 			"remarks":"",
 			"source_group":{
-				"id":"48",
+				"id":48,
 				"name":"ZTF"
 			},
 			"telescope":{
-				"id":"2",
+				"id":2,
 				"name":"P60"
 			}
 		},
@@ -64,32 +66,32 @@
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PTSS/tns_2019brc_2019-03-15.72_Lijiang-2.4m_YFOSC_PTSS.dat",
 			"assoc_groups":[
 				{
-					"id":"22",
+					"id":22,
 					"name":"PTSS"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2400",
+			"exptime":2400,
 			"fitsfile":"",
 			"instrument":{
-				"id":"107",
+				"id":107,
 				"name":"YFOSC"
 			},
 			"jd":2458558.22,
 			"obsdate":"2019-03-15 17:16:48",
 			"observer":"Jujia Zhang (YNAO)",
-			"public":"1",
+			"public":1,
 			"reducer":"",
 			"remarks":"",
 			"source_group":{
-				"id":"22",
+				"id":22,
 				"name":"PTSS"
 			},
 			"telescope":{
-				"id":"77",
+				"id":77,
 				"name":"Lijiang-2.4m"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

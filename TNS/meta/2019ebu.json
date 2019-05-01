@@ -1,19 +1,20 @@
 {
-	"dec":"+33:00:21.76",
+	"dec":"+00:00:00.00",
+	"decdeg":33.0060447272,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"23",
+		"id":23,
 		"name":"i"
 	},
 	"discoverer":null,
-	"discovererid":"35588",
+	"discovererid":35588,
 	"discoverydate":"2019-04-25 11:02:24",
-	"discoverymag":"20.77",
+	"discoverymag":20.77,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"PS19pp",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019ebu",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019ebu",
-	"public":"1",
+	"public":1,
 	"ra":"14:19:49.434",
+	"radeg":214.955976654,
 	"redshift":null,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
-		"groupid":"4"
+		"groupid":4
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[],
 	"type":null
 }

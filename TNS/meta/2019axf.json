@@ -1,57 +1,59 @@
 {
-	"dec":"+82:47:41.32",
+	"dec":"+00:00:00.00",
+	"decdeg":82.79481,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-02-13 11:45:36",
-	"discoverymag":"16.1",
+	"discoverymag":16.1,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"2019-02-13.49",
 	"internal_name":"ASASSN-19cy",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019axf",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019axf",
-	"public":"1",
+	"public":1,
 	"ra":"16:24:26.453",
-	"redshift":"0.023",
+	"radeg":246.11022,
+	"redshift":0.023,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019axf_2019-02-26_01-45-18_Other_Other.dat",
 			"end_prop_period":null,
-			"exptime":"3006",
+			"exptime":3006,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019axf_2019-02-26_01-45-18_Other_Other.fit",
-			"groupid":"0",
+			"groupid":0,
 			"instrument":{
-				"id":"0",
+				"id":0,
 				"name":"Other"
 			},
 			"jd":2458540.573125,
 			"obsdate":"2019-02-26 01:45:18",
 			"observer":"Leadbeater",
-			"public":"1",
+			"public":1,
 			"reducer":"Leadbeater",
 			"remarks":"R~130 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
 			"source_group_name":null,
 			"telescope":{
-				"id":"0",
+				"id":0,
 				"name":"Other"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

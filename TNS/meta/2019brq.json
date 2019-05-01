@@ -1,19 +1,20 @@
 {
-	"dec":"-66:25:39.50",
+	"dec":"+00:00:00.00",
+	"decdeg":-66.42764,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-03-07 07:40:48",
-	"discoverymag":"17.6",
+	"discoverymag":17.6,
 	"end_prop_period":null,
-	"host_redshift":"0.040044",
+	"host_redshift":0.040044,
 	"hostname":"2MASX J17483658-6625421",
 	"internal_name":"ASASSN-19fh",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019brq",
 	"name_prefix":"AT",
 	"object_type":{
@@ -21,14 +22,15 @@
 		"name":null
 	},
 	"objname":"2019brq",
-	"public":"1",
+	"public":1,
 	"ra":"17:48:38.126",
+	"radeg":267.15886,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[],
 	"type":null
 }

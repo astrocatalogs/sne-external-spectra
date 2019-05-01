@@ -1,65 +1,67 @@
 {
-	"dec":"-39:53:10.02",
+	"dec":"+00:00:00.00",
+	"decdeg":-39.8861162069,
 	"discmagfilter":{
 		"family":"ATLAS",
-		"id":"72",
+		"id":72,
 		"name":"orange"
 	},
 	"discoverer":null,
-	"discovererid":"35595",
+	"discovererid":35595,
 	"discoverydate":"2019-03-27 12:00:00",
-	"discoverymag":"16.939",
+	"discoverymag":16.939,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19eti",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019daj",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019daj",
-	"public":"1",
+	"public":1,
 	"ra":"14:05:18.211",
-	"redshift":"0.038",
+	"radeg":211.325877356,
+	"redshift":0.038,
 	"source_group":{
 		"group_name":"ATLAS",
-		"groupid":"18"
+		"groupid":18
 	},
-	"sourceid":"2",
+	"sourceid":2,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019daj_2019-04-17_15-34-10_FTS_FLOYDS-S_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
-					"id":"38",
+					"id":38,
 					"name":"Global SN Project"
 				}
 			],
 			"end_prop_period":null,
-			"exptime":"2700",
+			"exptime":2700,
 			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019daj_2019-04-17_15-34-10_FTS_FLOYDS-S_Global_SN_Project.fits",
 			"instrument":{
-				"id":"125",
+				"id":125,
 				"name":"FLOYDS-S"
 			},
 			"jd":2458591.1487269,
 			"obsdate":"2019-04-17 15:34:10",
 			"observer":"Las Cumbres Observatory",
-			"public":"1",
+			"public":1,
 			"reducer":"Jamison Burke",
 			"remarks":"",
 			"source_group":{
-				"id":"38",
+				"id":38,
 				"name":"Global SN Project"
 			},
 			"telescope":{
-				"id":"75",
+				"id":75,
 				"name":"FTS"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }
