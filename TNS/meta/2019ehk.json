@@ -16,21 +16,44 @@
 	"internal_name":"",
 	"isTNS_AT":1,
 	"name":"2019ehk",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":1,
+		"name":"SN"
 	},
 	"objname":"2019ehk",
 	"public":1,
 	"ra":"12:22:56.130",
 	"radeg":185.733875,
-	"redshift":null,
+	"redshift":0.005,
 	"source_group":{
 		"group_name":"PSH",
 		"groupid":39
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ehk_2019-04-30_06-13-31.0_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458603.7593866,
+			"obsdate":"2019-04-30 06:13:31",
+			"observer":"M. Rich",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":1
 }

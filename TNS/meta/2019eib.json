@@ -1,39 +1,39 @@
 {
 	"dec":"+00:00:00.00",
-	"decdeg":13.9101668461,
+	"decdeg":10.6022943,
 	"discmagfilter":{
-		"family":"Sloan",
-		"id":23,
-		"name":"i"
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
 	},
 	"discoverer":null,
-	"discovererid":35588,
-	"discoverydate":"2019-04-25 13:59:31",
-	"discoverymag":20.46,
+	"discovererid":48869,
+	"discoverydate":"2019-04-25 09:33:07",
+	"discoverymag":20.13,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_name":"PS19sh",
+	"internal_name":"ZTF19aasckwd",
 	"isTNS_AT":1,
-	"name":"2019eff",
+	"name":"2019eib",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":14,
-		"name":"SN IIb"
+		"id":3,
+		"name":"SN Ia"
 	},
-	"objname":"2019eff",
+	"objname":"2019eib",
 	"public":1,
-	"ra":"16:33:39.144",
-	"radeg":248.413100241,
-	"redshift":0.05,
+	"ra":"16:52:39.451",
+	"radeg":253.1643781,
+	"redshift":0.145,
 	"source_group":{
-		"group_name":"Pan-STARRS1",
-		"groupid":4
+		"group_name":"ZTF",
+		"groupid":48
 	},
 	"sourceid":2,
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019eff_2019-04-28_05-13-51.600_SOAR_Goodman.txt",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019eib_2019-04-28_04-41-03.773_SOAR_Goodman.txt",
 			"end_prop_period":null,
 			"exptime":null,
 			"fitsfile":"",
@@ -42,8 +42,8 @@
 				"id":127,
 				"name":"Goodman"
 			},
-			"jd":2458601.7179514,
-			"obsdate":"2019-04-28 05:13:51",
+			"jd":2458601.6951736,
+			"obsdate":"2019-04-28 04:41:03",
 			"observer":"R. Cartier",
 			"public":1,
 			"reducer":"R.Cartier",
@@ -55,5 +55,5 @@
 			}
 		}
 	],
-	"type":14
+	"type":3
 }
