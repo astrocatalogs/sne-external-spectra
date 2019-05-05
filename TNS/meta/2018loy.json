@@ -1,0 +1,67 @@
+{
+	"dec":"+00:00:00.00",
+	"decdeg":43.5233541,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":48869,
+	"discoverydate":"2018-04-06 04:55:12",
+	"discoverymag":18.15,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF18aahfeiy",
+	"isTNS_AT":1,
+	"name":"2018loy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2018loy",
+	"public":1,
+	"ra":"10:17:15.564",
+	"radeg":154.3148488,
+	"redshift":0.07124,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2018loy_2018-05-17_05-24-08_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458255.7250926,
+			"obsdate":"2018-05-17 05:24:08",
+			"observer":"A. Ho, Y. Sharma",
+			"public":1,
+			"reducer":"A. Ho",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
+}
