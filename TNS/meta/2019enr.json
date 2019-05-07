@@ -1,0 +1,59 @@
+{
+	"dec":"+00:00:00.00",
+	"decdeg":10.28689125,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-05-04 07:49:26",
+	"discoverymag":18.808,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19ina",
+	"isTNS_AT":1,
+	"name":"2019enr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019enr",
+	"public":1,
+	"ra":"09:34:47.720",
+	"radeg":143.69883125,
+	"redshift":0.00818,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019enr_2019-05-05_22-12-08.106_LT_SPRAT.spec",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458609.4250926,
+			"obsdate":"2019-05-05 22:12:08",
+			"observer":"Perley",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
+}
