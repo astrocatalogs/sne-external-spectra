@@ -1,40 +1,42 @@
 {
 	"dec":"-26:24:39.24",
+	"decdeg":-26.4109,
 	"discmagfilter":{
 		"family":"Sloan",
-		"id":"21",
+		"id":21,
 		"name":"g"
 	},
 	"discoverer":"Stanek",
-	"discovererid":"82",
+	"discovererid":82,
 	"discoverydate":"2019-04-09 00:00:00",
-	"discoverymag":"18",
+	"discoverymag":18,
 	"end_prop_period":null,
-	"host_redshift":"0.057456",
+	"host_redshift":0.057456,
 	"hostname":"2MASX J10273182-2624406",
 	"internal_name":"ASASSN-19jl",
-	"isTNS_AT":"1",
+	"isTNS_AT":1,
 	"name":"2019cxy",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":"3",
+		"id":3,
 		"name":"SN Ia"
 	},
 	"objname":"2019cxy",
-	"public":"1",
+	"public":1,
 	"ra":"10:27:31.644",
-	"redshift":"0.057456",
+	"radeg":156.88185,
+	"redshift":0.057456,
 	"source_group":{
 		"group_name":"ASAS-SN",
-		"groupid":"3"
+		"groupid":3
 	},
-	"sourceid":"1",
+	"sourceid":1,
 	"spectra":[
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019cxy_2019-04-10_04-05-51_LCO-duPont_WFCCD_ASAS-SN.txt",
 			"assoc_groups":[
 				{
-					"id":"3",
+					"id":3,
 					"name":"ASAS-SN"
 				}
 			],
@@ -42,24 +44,24 @@
 			"exptime":null,
 			"fitsfile":"",
 			"instrument":{
-				"id":"62",
+				"id":62,
 				"name":"WFCCD"
 			},
 			"jd":2458583.6707292,
 			"obsdate":"2019-04-10 04:05:51",
 			"observer":"K. Decker French, Thomas Conner",
-			"public":"1",
+			"public":1,
 			"reducer":"Tom Holoien",
 			"remarks":"",
 			"source_group":{
-				"id":"3",
+				"id":3,
 				"name":"ASAS-SN"
 			},
 			"telescope":{
-				"id":"50",
+				"id":50,
 				"name":"LCO-duPont"
 			}
 		}
 	],
-	"type":"3"
+	"type":3
 }

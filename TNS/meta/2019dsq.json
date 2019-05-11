@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"+72:04:50.48",
 	"decdeg":72.0806883,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19aarhxgn",
 	"isTNS_AT":1,
 	"name":"2019dsq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019dsq",
 	"public":1,
 	"ra":"10:52:22.966",
 	"radeg":163.0956916,
-	"redshift":null,
+	"redshift":0.033,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019dsq_2019-05-08_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":360,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458611.5,
+			"obsdate":"2019-05-08 00:00:00",
+			"observer":"D. Perley",
+			"public":1,
+			"reducer":"S. P. R. A. T. pipeline",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }

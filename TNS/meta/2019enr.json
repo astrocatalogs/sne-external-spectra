@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"+10:17:12.81",
 	"decdeg":10.28689125,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -49,6 +49,36 @@
 			"reducer":"",
 			"remarks":"",
 			"source_group_name":null,
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019enr_2019-05-05_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":450,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458608.5,
+			"obsdate":"2019-05-05 00:00:00",
+			"observer":"D. Perley",
+			"public":1,
+			"reducer":"S. P. R. A. T. pipeline",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
 			"telescope":{
 				"id":70,
 				"name":"LT"

@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"+03:38:03.55",
 	"decdeg":3.6343208,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19aapcvdi",
 	"isTNS_AT":1,
 	"name":"2019cza",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019cza",
 	"public":1,
 	"ra":"08:46:01.263",
 	"radeg":131.5052637,
-	"redshift":null,
+	"redshift":0.07671,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019cza_2019-05-02_05-17-01_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019cza_2019-05-02_05-17-01_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458605.7201505,
+			"obsdate":"2019-05-02 05:17:01",
+			"observer":"A. Dugas",
+			"public":1,
+			"reducer":"A. Dugas",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
 }

@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"+46:46:31.39",
 	"decdeg":46.7753867,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19aapcftv",
 	"isTNS_AT":1,
 	"name":"2019die",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":104,
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019die",
 	"public":1,
 	"ra":"05:55:26.389",
 	"radeg":88.8599559,
-	"redshift":null,
+	"redshift":0.084,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019die_2019-04-12_22-55-22_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458586.4551157,
+			"obsdate":"2019-04-12 22:55:22",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":104
 }

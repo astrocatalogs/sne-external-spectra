@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"-08:15:22.32",
 	"decdeg":-8.2562,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19dim",
 	"isTNS_AT":1,
 	"name":"2019axj",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019axj",
 	"public":1,
 	"ra":"10:13:46.751",
 	"radeg":153.4447975,
-	"redshift":null,
+	"redshift":0.046,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019axj_2019-04-24_05-21-09_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019axj_2019-04-24_05-21-09_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458597.7230208,
+			"obsdate":"2019-04-24 05:21:09",
+			"observer":"C. Fremling",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
 }

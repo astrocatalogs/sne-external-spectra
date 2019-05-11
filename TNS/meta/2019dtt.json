@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"+00:10:32.56",
 	"decdeg":0.175711,
 	"discmagfilter":{
 		"family":"Gaia",
@@ -16,21 +16,44 @@
 	"internal_name":"Gaia19bls",
 	"isTNS_AT":1,
 	"name":"2019dtt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":11,
+		"name":"SN IIP"
 	},
 	"objname":"2019dtt",
 	"public":1,
 	"ra":"22:34:37.510",
 	"radeg":338.656292,
-	"redshift":null,
+	"redshift":0.016,
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":24
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019dtt_2019-05-01_14-50-02_Keck1_LRIS.txt",
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2458605.1180787,
+			"obsdate":"2019-05-01 14:50:02",
+			"observer":"Jon Brown, Matthew Siebert, Ryan Foley",
+			"public":1,
+			"reducer":"Jon Brown",
+			"remarks":"We note the presence of strong Halpha emission and relatively weak absorption. We measure an Halpha velocity of -8,500 km/s.",
+			"source_group_name":null,
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":11
 }

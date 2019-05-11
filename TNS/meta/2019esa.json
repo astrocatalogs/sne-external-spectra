@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"-76:24:43.11",
 	"decdeg":-76.411975,
 	"discmagfilter":{
 		"family":"Sloan",
@@ -16,21 +16,52 @@
 	"internal_name":"",
 	"isTNS_AT":1,
 	"name":"2019esa",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objname":"2019esa",
 	"public":1,
 	"ra":"07:55:00.889",
 	"radeg":118.753704,
-	"redshift":null,
+	"redshift":0.005891,
 	"source_group":{
 		"group_name":"DLT40",
 		"groupid":30
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019esa_2019-05-08_10-48-06_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019esa_2019-05-08_10-48-06_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2458611.9500694,
+			"obsdate":"2019-05-08 10:48:06",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":13
 }

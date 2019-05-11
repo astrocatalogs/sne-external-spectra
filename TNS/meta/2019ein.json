@@ -1,5 +1,5 @@
 {
-	"dec":"+00:00:00.00",
+	"dec":"+40:16:31.40",
 	"decdeg":40.2753881818,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,8 +18,8 @@
 	"name":"2019ein",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":100,
-		"name":"SN Ia-pec"
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019ein",
 	"public":1,
@@ -32,6 +32,36 @@
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ein_2019-05-05_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458608.5,
+			"obsdate":"2019-05-05 00:00:00",
+			"observer":"LTRobot",
+			"public":1,
+			"reducer":"LTRobot",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019ein_2019-05-02_06-54-14_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
@@ -63,5 +93,5 @@
 			}
 		}
 	],
-	"type":100
+	"type":3
 }
