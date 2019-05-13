@@ -25,7 +25,7 @@
 	"public":1,
 	"ra":"18:42:42.889",
 	"radeg":280.678703913,
-	"redshift":0.018,
+	"redshift":0.018369,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
@@ -52,6 +52,36 @@
 			"telescope":{
 				"id":10,
 				"name":"Lick-3m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019eix_2019-05-03_23-51-50_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1560,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458607.4943287,
+			"obsdate":"2019-05-03 23:51:50",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
 			}
 		}
 	],
