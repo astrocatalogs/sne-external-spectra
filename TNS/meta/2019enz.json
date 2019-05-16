@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19ine",
 	"isTNS_AT":1,
 	"name":"2019enz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":18,
+		"name":"SLSN-I"
 	},
 	"objname":"2019enz",
 	"public":1,
 	"ra":"13:57:06.098",
 	"radeg":209.275406667,
-	"redshift":null,
+	"redshift":0.22,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019enz_2019-05-13_04-33-50_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019enz_2019-05-13_04-33-50_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458616.690162,
+			"obsdate":"2019-05-13 04:33:50",
+			"observer":"P. Short, M. Nicholl",
+			"public":1,
+			"reducer":"T. Muller, C. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":18
 }

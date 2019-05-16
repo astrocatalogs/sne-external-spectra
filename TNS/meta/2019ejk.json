@@ -25,12 +25,43 @@
 	"public":1,
 	"ra":"13:16:52.280",
 	"radeg":199.217833,
-	"redshift":null,
+	"redshift":0.003,
 	"source_group":{
 		"group_name":"PTSS",
 		"groupid":22
 	},
 	"sourceid":1,
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ejk_2019-05-13_04-59-19_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ejk_2019-05-13_04-59-19_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458616.7078588,
+			"obsdate":"2019-05-13 04:59:19",
+			"observer":"P. Short, M. Nicholl",
+			"public":1,
+			"reducer":"T. Muller, C. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
 	"type":null
 }

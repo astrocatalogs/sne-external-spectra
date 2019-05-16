@@ -61,6 +61,36 @@
 				"id":30,
 				"name":"ESO-NTT"
 			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019exg_2458615.097106_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458615.097106,
+			"obsdate":"2019-05-11 14:19:50",
+			"observer":"Payne",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
 		}
 	],
 	"type":3
