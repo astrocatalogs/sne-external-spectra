@@ -16,21 +16,44 @@
 	"internal_name":"ZTF19aaugaam",
 	"isTNS_AT":1,
 	"name":"2019evh",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019evh",
 	"public":1,
 	"ra":"13:20:18.960",
 	"radeg":200.0789987,
-	"redshift":null,
+	"redshift":0.05,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019evh_2019-05-13_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458616.5,
+			"obsdate":"2019-05-13 00:00:00",
+			"observer":"Georgios Dimitriadis",
+			"public":1,
+			"reducer":"J. S. Brown",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
 }

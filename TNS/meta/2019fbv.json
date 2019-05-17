@@ -33,6 +33,28 @@
 	"sourceid":2,
 	"spectra":[
 		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fbv_2019-05-14_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458617.5,
+			"obsdate":"2019-05-14 00:00:00",
+			"observer":"Georgios Dimitriadis",
+			"public":1,
+			"reducer":"J. S. Brown",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019fbv_2458614.867431_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{

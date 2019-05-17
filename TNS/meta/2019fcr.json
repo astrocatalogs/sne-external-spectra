@@ -16,21 +16,44 @@
 	"internal_name":"ASASSN-19mm",
 	"isTNS_AT":1,
 	"name":"2019fcr",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019fcr",
 	"public":1,
 	"ra":"13:33:19.385",
 	"radeg":203.33077,
-	"redshift":null,
+	"redshift":0.027,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fcr_2019-05-14_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458617.5,
+			"obsdate":"2019-05-14 00:00:00",
+			"observer":"Georgios Dimitriadis",
+			"public":1,
+			"reducer":"J. S. Brown",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
 }
