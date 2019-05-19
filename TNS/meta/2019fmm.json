@@ -1,0 +1,67 @@
+{
+	"dec":"+35:31:06.56",
+	"decdeg":35.51849,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Bersier",
+	"discovererid":112,
+	"discoverydate":"2019-04-26 10:49:26",
+	"discoverymag":16.153,
+	"end_prop_period":null,
+	"host_redshift":0.02,
+	"hostname":"UGC 12039",
+	"internal_name":"ASASSN-19my",
+	"isTNS_AT":1,
+	"name":"2019fmm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019fmm",
+	"public":1,
+	"ra":"22:26:48.350",
+	"radeg":336.70146,
+	"redshift":0.02,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2018gqh_2019-04-29_04-48-10_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458602.7001157,
+			"obsdate":"2019-04-29 04:48:10",
+			"observer":"D Bersier",
+			"public":1,
+			"reducer":"D Bersier",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

@@ -16,21 +16,44 @@
 	"internal_name":"ZTF19aaurhox",
 	"isTNS_AT":1,
 	"name":"2019fju",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019fju",
 	"public":1,
 	"ra":"16:32:03.967",
 	"radeg":248.0165309,
-	"redshift":null,
+	"redshift":0.07,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fju_2019-05-17_00-42-43.295_LT_SPRAT.asci",
+			"end_prop_period":null,
+			"exptime":1400,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fju_2019-05-17_00-42-43.295_LT_SPRAT.fits",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458620.5296644,
+			"obsdate":"2019-05-17 00:42:43",
+			"observer":"R. Roy",
+			"public":1,
+			"reducer":"P. Wiseman",
+			"remarks":"Two narrow emission lines are cosmics.",
+			"source_group_name":null,
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }
