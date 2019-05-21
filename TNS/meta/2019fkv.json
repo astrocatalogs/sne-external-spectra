@@ -16,21 +16,44 @@
 	"internal_name":"ATLAS19kun",
 	"isTNS_AT":1,
 	"name":"2019fkv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019fkv",
 	"public":1,
 	"ra":"20:31:06.710",
 	"radeg":307.777957778,
-	"redshift":null,
+	"redshift":0.055,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fkv_2019-05-17_07-23-53_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458620.8082523,
+			"obsdate":"2019-05-17 07:23:53",
+			"observer":"R. Cartier, F. Olivares, J. Pineda, J. Antilen, I. Sanchez, F. Forster, N. Meza, J. Quirola",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":3
 }
