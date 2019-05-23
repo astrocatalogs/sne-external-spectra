@@ -16,21 +16,44 @@
 	"internal_name":"ZTF19aauvlxk",
 	"isTNS_AT":1,
 	"name":"2019fie",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":7,
+		"name":"SN Ic-BL"
 	},
 	"objname":"2019fie",
 	"public":1,
 	"ra":"09:04:50.224",
 	"radeg":136.2092686,
-	"redshift":null,
+	"redshift":0.076,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fie_2019-05-16_00-14-32_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458619.5100926,
+			"obsdate":"2019-05-16 00:14:32",
+			"observer":"C. Briceno/D. Gomez",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":7
 }

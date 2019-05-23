@@ -18,14 +18,14 @@
 	"name":"2019clp",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":10,
-		"name":"SN II"
+		"id":1,
+		"name":"SN"
 	},
 	"objname":"2019clp",
 	"public":1,
 	"ra":"12:13:39.886",
 	"radeg":183.41619,
-	"redshift":0.02377,
+	"redshift":0.024184,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
@@ -181,7 +181,29 @@
 				"id":95,
 				"name":"Plaskett"
 			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019clp_2019-03-29_22-17-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":4200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019clp_2019-03-29_22-17-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458572.4284722,
+			"obsdate":"2019-03-29 22:17:00",
+			"observer":"Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-E spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":null,
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
 		}
 	],
-	"type":10
+	"type":1
 }

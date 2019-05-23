@@ -16,21 +16,44 @@
 	"internal_name":"ASASSN-19nd",
 	"isTNS_AT":1,
 	"name":"2019fpc",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019fpc",
 	"public":1,
 	"ra":"00:09:48.175",
 	"radeg":2.450729,
-	"redshift":null,
+	"redshift":0.037,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fpc_2458625.5_LCO-duPont_WFCCD.txt",
+			"end_prop_period":null,
+			"exptime":1000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fpc_2458625.5_LCO-duPont_WFCCD.fits",
+			"groupid":0,
+			"instrument":{
+				"id":62,
+				"name":"WFCCD"
+			},
+			"jd":2458625.5,
+			"obsdate":"2019-05-22 00:00:00",
+			"observer":"Morrell",
+			"public":1,
+			"reducer":"Morrell, Dong, Chen, Bose, Holmbo, Stritzinger",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":50,
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":3
 }
