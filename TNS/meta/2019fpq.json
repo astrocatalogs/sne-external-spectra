@@ -16,21 +16,44 @@
 	"internal_name":"ATLAS19lex",
 	"isTNS_AT":1,
 	"name":"2019fpq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":104,
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019fpq",
 	"public":1,
 	"ra":"12:08:49.494",
 	"radeg":182.206223636,
-	"redshift":null,
+	"redshift":0.074,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fpq_2019-05-22.69_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458626.1899884,
+			"obsdate":"2019-05-22 16:33:35",
+			"observer":"Jujia Zhang",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":104
 }
