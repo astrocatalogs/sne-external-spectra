@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19jfc",
 	"isTNS_AT":1,
 	"name":"2019eta",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019eta",
 	"public":1,
 	"ra":"18:32:18.846",
 	"radeg":278.078525,
-	"redshift":null,
+	"redshift":0.066,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019eta_2019-05-24_04-35-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1199,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019eta_2019-05-24_04-35-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458627.6910069,
+			"obsdate":"2019-05-24 04:35:03",
+			"observer":"E. Swann, C. Frohmaier",
+			"public":1,
+			"reducer":"M. Pursiainen, M. Smith, P. Short",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }

@@ -1,0 +1,59 @@
+{
+	"dec":"+19:02:30.20",
+	"decdeg":19.041722,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discoverydate":"2019-05-24 18:28:01",
+	"discoverymag":16.3,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 7549",
+	"internal_name":"",
+	"isTNS_AT":1,
+	"name":"2019fya",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019fya",
+	"public":1,
+	"ra":"23:15:16.120",
+	"radeg":348.817167,
+	"redshift":0.0158,
+	"source_group":{
+		"group_name":null,
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fya_2019-05-25.86_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":1350,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458629.36,
+			"obsdate":"2019-05-25 20:38:24",
+			"observer":"Jujia Zhang",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":10
+}
