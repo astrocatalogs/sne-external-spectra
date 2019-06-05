@@ -1,39 +1,39 @@
 {
-	"dec":"+00:38:58.65",
-	"decdeg":0.6496259,
+	"dec":"+12:48:58.87",
+	"decdeg":12.8163516667,
 	"discmagfilter":{
-		"family":"ZTF",
-		"id":110,
-		"name":"g"
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
 	},
 	"discoverer":null,
-	"discovererid":49023,
-	"discoverydate":"2019-05-30 06:02:45",
-	"discoverymag":18.56,
+	"discovererid":35595,
+	"discoverydate":"2019-06-01 10:03:21",
+	"discoverymag":18.638,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_name":"ZTF19aavhwxs",
+	"internal_name":"ATLAS19mbc",
 	"isTNS_AT":1,
-	"name":"2019gct",
+	"name":"2019grm",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":3,
-		"name":"SN Ia"
+		"id":10,
+		"name":"SN II"
 	},
-	"objname":"2019gct",
+	"objname":"2019grm",
 	"public":1,
-	"ra":"14:33:54.852",
-	"radeg":218.4785516,
-	"redshift":0.08,
+	"ra":"16:04:16.641",
+	"radeg":241.069338333,
+	"redshift":0.04,
 	"source_group":{
-		"group_name":"ZTF",
-		"groupid":48
+		"group_name":"ATLAS",
+		"groupid":18
 	},
 	"sourceid":2,
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019gct_2458636.9597_UH88_SNIFS_SCAT.dat",
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019grm_2458637.0108_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
 					"id":3,
@@ -51,8 +51,8 @@
 				"id":11,
 				"name":"SNIFS"
 			},
-			"jd":2458636.9597,
-			"obsdate":"2019-06-02 11:01:58",
+			"jd":2458637.0108,
+			"obsdate":"2019-06-02 12:15:33",
 			"observer":"Tucker",
 			"public":1,
 			"reducer":"",
@@ -67,5 +67,5 @@
 			}
 		}
 	],
-	"type":3
+	"type":10
 }

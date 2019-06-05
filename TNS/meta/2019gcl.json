@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19aavkvpw",
 	"isTNS_AT":1,
 	"name":"2019gcl",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":7,
+		"name":"SN Ic-BL"
 	},
 	"objname":"2019gcl",
 	"public":1,
 	"ra":"11:56:55.020",
 	"radeg":179.2292497,
-	"redshift":null,
+	"redshift":0.0225,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019gcl_2019-06-01_08-00-20_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019gcl_2019-06-01_08-00-20_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458635.8335648,
+			"obsdate":"2019-06-01 08:00:20",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":7
 }

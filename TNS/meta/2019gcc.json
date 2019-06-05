@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19ns",
 	"isTNS_AT":1,
 	"name":"2019gcc",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019gcc",
 	"public":1,
 	"ra":"17:34:06.394",
 	"radeg":263.52664,
-	"redshift":null,
+	"redshift":0.026,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019gcc_2019-06-01_23-58-56_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458636.4992593,
+			"obsdate":"2019-06-01 23:58:56",
+			"observer":"David Bersier",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }
