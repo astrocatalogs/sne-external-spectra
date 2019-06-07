@@ -18,20 +18,50 @@
 	"name":"2019cqc",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":18,
-		"name":"SLSN-I"
+		"id":19,
+		"name":"SLSN-II"
 	},
 	"objname":"2019cqc",
 	"public":1,
 	"ra":"18:21:43.041",
 	"radeg":275.429337,
-	"redshift":0.118,
+	"redshift":0.1173,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019cqc_2019-05-24_11-16-04_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":500,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458627.9694907,
+			"obsdate":"2019-05-24 11:16:04",
+			"observer":"A. Dugas, S. Goldwasser, R. Bruch, I. Irani",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019cqc_2019-05-02_08-12-22_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
@@ -93,5 +123,5 @@
 			}
 		}
 	],
-	"type":18
+	"type":19
 }

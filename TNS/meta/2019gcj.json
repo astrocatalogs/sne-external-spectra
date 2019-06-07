@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19aavnwyt",
 	"isTNS_AT":1,
 	"name":"2019gcj",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019gcj",
 	"public":1,
 	"ra":"10:55:06.229",
 	"radeg":163.7759561,
-	"redshift":null,
+	"redshift":0.04616,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019gcj_2019-06-04_06-59-16_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458638.7911574,
+			"obsdate":"2019-06-04 06:59:16",
+			"observer":"A. Dugas",
+			"public":1,
+			"reducer":"C. Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
 }

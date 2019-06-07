@@ -16,21 +16,44 @@
 	"internal_name":"PS19ave",
 	"isTNS_AT":1,
 	"name":"2019gfm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":7,
+		"name":"SN Ic-BL"
 	},
 	"objname":"2019gfm",
 	"public":1,
 	"ra":"15:35:46.593",
 	"radeg":233.944139266,
-	"redshift":null,
+	"redshift":0.182,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019gfm_2019-06-05_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458639.5,
+			"obsdate":"2019-06-05 00:00:00",
+			"observer":"C. Frohmaier et al.",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":7
 }
