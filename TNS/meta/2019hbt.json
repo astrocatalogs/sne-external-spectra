@@ -1,0 +1,67 @@
+{
+	"dec":"+30:20:36.40",
+	"decdeg":30.343444,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Leonini",
+	"discovererid":162,
+	"discoverydate":"2019-06-06 21:43:01",
+	"discoverymag":18.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC08685",
+	"internal_name":"",
+	"isTNS_AT":1,
+	"name":"2019hbt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019hbt",
+	"public":1,
+	"ra":"13:43:10.290",
+	"radeg":205.792875,
+	"redshift":0.034,
+	"source_group":{
+		"group_name":"ISSP",
+		"groupid":27
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019hbt_2019-06-08_01-12-44_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019hbt_2019-06-08_01-12-44_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458642.5505093,
+			"obsdate":"2019-06-08 01:12:44",
+			"observer":"E. Swann, C. Frohmaier",
+			"public":1,
+			"reducer":"M. Nicholl, P. Short",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":10
+}

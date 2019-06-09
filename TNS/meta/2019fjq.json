@@ -33,6 +33,28 @@
 	"sourceid":2,
 	"spectra":[
 		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fjq_2019-05-28_09-14-03_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fjq_2019-05-28_09-14-03_Other_Other.fits",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458631.8847569,
+			"obsdate":"2019-05-28 09:14:03",
+			"observer":"C. Ly, A. Milone",
+			"public":1,
+			"reducer":"Giacomo Terreran",
+			"remarks":"The observations were performed with the 6.5-m MMT Telescope equipped with Binospec using the 270 lines/mm grating, and a slit width of 1.0 arc second, resulting in a spectral coverage from 390 nm to 924 nm with a resolution of ~1300.",
+			"source_group_name":null,
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fjq_2019-05-17_06-59-48_SOAR_Goodman.asci",
 			"end_prop_period":null,
 			"exptime":null,
