@@ -1,0 +1,67 @@
+{
+	"dec":"-21:20:36.06",
+	"decdeg":-21.34335,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":35587,
+	"discoverydate":"2019-06-06 22:29:16",
+	"discoverymag":18.75,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia19cdu",
+	"isTNS_AT":1,
+	"name":"2019hcc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objname":"2019hcc",
+	"public":1,
+	"ra":"21:00:20.930",
+	"radeg":315.087208,
+	"redshift":0.044,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019hcc_2019-06-09_07-43-42_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":899,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019hcc_2019-06-09_07-43-42_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458643.8220139,
+			"obsdate":"2019-06-09 07:43:42",
+			"observer":"E. Swann, C. Frohmaier",
+			"public":1,
+			"reducer":"M. Nicholl, P. Short",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":18
+}

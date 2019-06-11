@@ -1,0 +1,67 @@
+{
+	"dec":"+27:57:08.60",
+	"decdeg":27.95239,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discoverydate":"2019-06-07 09:21:36",
+	"discoverymag":18.3,
+	"end_prop_period":null,
+	"host_redshift":0.077296,
+	"hostname":"2MASX J16044353+2757082",
+	"internal_name":"ASASSN-19op",
+	"isTNS_AT":1,
+	"name":"2019hcg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019hcg",
+	"public":1,
+	"ra":"16:04:43.385",
+	"radeg":241.18077,
+	"redshift":0.077296,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019hcg_2019-06-09_09-18-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458643.8875,
+			"obsdate":"2019-06-09 09:18:00",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

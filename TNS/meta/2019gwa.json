@@ -16,21 +16,82 @@
 	"internal_name":"ZTF19aaxffum",
 	"isTNS_AT":1,
 	"name":"2019gwa",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":104,
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019gwa",
 	"public":1,
 	"ra":"15:58:41.191",
 	"radeg":239.6716299,
-	"redshift":null,
+	"redshift":0.054,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019gwa_2019-06-09_08-28-00_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458643.8527778,
+			"obsdate":"2019-06-09 08:28:00",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019gwa_2019-06-09_04-51-40_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":899,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019gwa_2019-06-09_04-51-40_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458643.7025463,
+			"obsdate":"2019-06-09 04:51:40",
+			"observer":"E. Swann, C. Frohmaier",
+			"public":1,
+			"reducer":"M. Nicholl, P. Short",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":104
 }

@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19mj",
 	"isTNS_AT":1,
 	"name":"2019fcb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019fcb",
 	"public":1,
 	"ra":"18:30:28.922",
 	"radeg":277.62051,
-	"redshift":null,
+	"redshift":0.024757,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019fcb_2458644.451_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458644.451,
+			"obsdate":"2019-06-09 22:49:26",
+			"observer":"Payne, Bredall",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with summit-based quick reduction pipeline. Care should be taken before using this spectrum for further science. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
 }
