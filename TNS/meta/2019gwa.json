@@ -25,7 +25,7 @@
 	"public":1,
 	"ra":"15:58:41.191",
 	"radeg":239.6716299,
-	"redshift":0.054,
+	"redshift":0.054988,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
@@ -90,6 +90,36 @@
 			"telescope":{
 				"id":30,
 				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019gwa_2019-06-08_07-54-04_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458642.829213,
+			"obsdate":"2019-06-08 07:54:04",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
 			}
 		}
 	],
