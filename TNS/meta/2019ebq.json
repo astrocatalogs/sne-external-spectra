@@ -16,10 +16,10 @@
 	"internal_name":"PS19qp",
 	"isTNS_AT":1,
 	"name":"2019ebq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":6,
+		"name":"SN Ib/c"
 	},
 	"objname":"2019ebq",
 	"public":1,
@@ -32,6 +32,36 @@
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SAGUARO/tns_2019ebq_2019-04-26_11-00-44_LBT_MODS2_SAGUARO.ascii",
+			"assoc_groups":[
+				{
+					"id":66,
+					"name":"SAGUARO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":121,
+				"name":"MODS2"
+			},
+			"jd":2458599.9588426,
+			"obsdate":"2019-04-26 11:00:44",
+			"observer":"Shivaei, Kuhn, Sand",
+			"public":1,
+			"reducer":"Andrews, Sand",
+			"remarks":"",
+			"source_group":{
+				"id":66,
+				"name":"SAGUARO"
+			},
+			"telescope":{
+				"id":83,
+				"name":"LBT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ebq_2019-04-26_07-48-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
@@ -63,5 +93,5 @@
 			}
 		}
 	],
-	"type":null
+	"type":6
 }
