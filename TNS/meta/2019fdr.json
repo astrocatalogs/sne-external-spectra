@@ -25,12 +25,35 @@
 	"public":1,
 	"ra":"17:09:06.848",
 	"radeg":257.278534,
-	"redshift":null,
+	"redshift":0.267,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019fdr_2019-06-08.33_MDM-2.4_OSMOS.flm",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":150,
+				"name":"OSMOS"
+			},
+			"jd":2458642.83,
+			"obsdate":"2019-06-08 07:55:12",
+			"observer":"Chornock",
+			"public":1,
+			"reducer":"Chornock",
+			"remarks":"",
+			"source_group_name":null,
+			"telescope":{
+				"id":11,
+				"name":"MDM-2.4"
+			}
+		}
+	],
 	"type":null
 }

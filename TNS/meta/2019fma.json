@@ -25,13 +25,43 @@
 	"public":1,
 	"ra":"10:19:23.246",
 	"radeg":154.846860384,
-	"redshift":0.047,
+	"redshift":0.023436,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019fma_2019-06-13_05-29-52_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458647.7290741,
+			"obsdate":"2019-06-13 05:29:52",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019fma_2458646.7948_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
