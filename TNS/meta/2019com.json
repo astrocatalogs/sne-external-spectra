@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19hv",
 	"isTNS_AT":1,
 	"name":"2019com",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019com",
 	"public":1,
 	"ra":"18:31:06.926",
 	"radeg":277.77886,
-	"redshift":null,
+	"redshift":0.012799,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019com_2019-05-10_08-36-51_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":62,
+				"name":"WFCCD"
+			},
+			"jd":2458613.8589236,
+			"obsdate":"2019-05-10 08:36:51",
+			"observer":"T. Holoien",
+			"public":1,
+			"reducer":"T. Holoien",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":50,
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":10
 }
