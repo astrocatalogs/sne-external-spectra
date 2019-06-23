@@ -1,0 +1,59 @@
+{
+	"dec":"-07:28:31.68",
+	"decdeg":-7.47546538462,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-06-20 13:29:16",
+	"discoverymag":17.738,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19njc",
+	"isTNS_AT":1,
+	"name":"2019hvv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019hvv",
+	"public":1,
+	"ra":"01:14:24.368",
+	"radeg":18.6015338462,
+	"redshift":0.018,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019hvv_2019-06-20.22_WHT-4.2m_ACAM.dat",
+			"end_prop_period":null,
+			"exptime":360,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":97,
+				"name":"ACAM"
+			},
+			"jd":2458654.72,
+			"obsdate":"2019-06-20 05:16:48",
+			"observer":"Fraser / Moran / Eappachen",
+			"public":1,
+			"reducer":"Maguire",
+			"remarks":"Spectrum taken during morning twilight.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":8,
+				"name":"WHT-4.2m"
+			}
+		}
+	],
+	"type":3
+}

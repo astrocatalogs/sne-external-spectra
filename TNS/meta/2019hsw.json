@@ -1,0 +1,67 @@
+{
+	"dec":"+64:04:22.87",
+	"decdeg":64.07302,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discoverydate":"2019-06-18 03:07:12",
+	"discoverymag":15.4,
+	"end_prop_period":null,
+	"host_redshift":0.005779,
+	"hostname":"NGC 2805",
+	"internal_name":"ASASSN-19pn",
+	"isTNS_AT":1,
+	"name":"2019hsw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019hsw",
+	"public":1,
+	"ra":"09:20:33.698",
+	"radeg":140.14041,
+	"redshift":0.0055,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019hsw_2019-06-19_20-47-48_Ekar_BC-Ekar_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1620,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019hsw_2019-06-19_20-47-48_Ekar_BC-Ekar_Padova-Asiago.fits",
+			"instrument":{
+				"id":38,
+				"name":"BC-Ekar"
+			},
+			"jd":2458654.3665278,
+			"obsdate":"2019-06-19 20:47:48",
+			"observer":"Siviero, Ciroi",
+			"public":1,
+			"reducer":"Siviero",
+			"remarks":"low S/N, 9X3min spectra to minimise the noise due to scattered clouds and bright Moon.",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":10
+}
