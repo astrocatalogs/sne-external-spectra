@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19aawupxb",
 	"isTNS_AT":1,
 	"name":"2019gxh",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":100,
+		"name":"SN Ia-pec"
 	},
 	"objname":"2019gxh",
 	"public":1,
 	"ra":"12:02:02.122",
 	"radeg":180.5088427,
-	"redshift":null,
+	"redshift":0.0554,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019gxh_2019-06-21_06-48-51_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458655.7839236,
+			"obsdate":"2019-06-21 06:48:51",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":100
 }

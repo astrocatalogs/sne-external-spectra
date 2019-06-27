@@ -1,6 +1,6 @@
 {
-	"dec":"+33:05:09.56",
-	"decdeg":33.0859878,
+	"dec":"+33:05:09.49",
+	"decdeg":33.085969,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -16,21 +16,44 @@
 	"internal_name":"ZTF19aavvvrc",
 	"isTNS_AT":1,
 	"name":"2019hvu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019hvu",
 	"public":1,
-	"ra":"01:50:39.910",
-	"radeg":27.6662933,
-	"redshift":null,
+	"ra":"01:50:39.930",
+	"radeg":27.666375,
+	"redshift":0.034,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019hvu_2019-06-22.18_WHT-4.2m_ACAM.dat",
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019hvu_2019-06-22.18_WHT-4.2m_ACAM.fits",
+			"groupid":0,
+			"instrument":{
+				"id":97,
+				"name":"ACAM"
+			},
+			"jd":2458656.68,
+			"obsdate":"2019-06-22 04:19:12",
+			"observer":"Fraser / Moran / Eappachen",
+			"public":1,
+			"reducer":"Fraser",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":8,
+				"name":"WHT-4.2m"
+			}
+		}
+	],
+	"type":3
 }

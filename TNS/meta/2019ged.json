@@ -1,6 +1,6 @@
 {
-	"dec":"+40:02:31.47",
-	"decdeg":40.0420748,
+	"dec":"+40:02:31.38",
+	"decdeg":40.04205,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -16,21 +16,21 @@
 	"internal_name":"ZTF19aavqotz",
 	"isTNS_AT":1,
 	"name":"2019ged",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019ged",
 	"public":1,
 	"ra":"10:04:41.210",
-	"radeg":151.1717082,
-	"redshift":null,
+	"radeg":151.171708,
+	"redshift":0.064,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
 	"spectra":[],
-	"type":null
+	"type":3
 }
