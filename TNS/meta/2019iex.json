@@ -1,6 +1,6 @@
 {
-	"dec":"+20:08:43.68",
-	"decdeg":20.1454668,
+	"dec":"+20:08:43.87",
+	"decdeg":20.1455202056,
 	"discmagfilter":{
 		"family":"Gaia",
 		"id":75,
@@ -16,21 +16,52 @@
 	"internal_name":"SAGUARO19b",
 	"isTNS_AT":1,
 	"name":"2019iex",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":1,
+		"name":"SN"
 	},
 	"objname":"2019iex",
 	"public":1,
-	"ra":"23:51:03.637",
-	"radeg":357.7651553,
-	"redshift":null,
+	"ra":"23:51:03.636",
+	"radeg":357.765149488,
+	"redshift":0.014046,
 	"source_group":{
 		"group_name":"SAGUARO",
 		"groupid":66
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019iex_2019-06-28.1_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019iex_2019-06-28.1_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458662.6,
+			"obsdate":"2019-06-28 02:24:00",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Benetti, Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":1
 }
