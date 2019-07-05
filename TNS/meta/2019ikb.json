@@ -1,6 +1,6 @@
 {
-	"dec":"+43:47:03.14",
-	"decdeg":43.7842053333,
+	"dec":"+43:47:03.58",
+	"decdeg":43.7843276,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19nyz",
 	"isTNS_AT":1,
 	"name":"2019ikb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019ikb",
 	"public":1,
-	"ra":"17:13:17.756",
-	"radeg":258.323981333,
-	"redshift":null,
+	"ra":"17:13:17.711",
+	"radeg":258.3237947,
+	"redshift":0.02,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ikb_2458663.9705_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458663.9705,
+			"obsdate":"2019-06-29 11:17:31",
+			"observer":"M. E. Huber",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":10
 }
