@@ -16,21 +16,44 @@
 	"internal_name":"ATLAS19oif",
 	"isTNS_AT":1,
 	"name":"2019kcx",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019kcx",
 	"public":1,
 	"ra":"12:14:10.682",
 	"radeg":183.54451,
-	"redshift":null,
+	"redshift":0.025,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019kcx_2019-07-06_05-00-53_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":930,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458670.7089468,
+			"obsdate":"2019-07-06 05:00:53",
+			"observer":" C. Rojas-Bravo, H. Stacey, Y. Yao ",
+			"public":1,
+			"reducer":" J. Brown, G. Dimitriadis, C. Rojas-Bravo",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
 }

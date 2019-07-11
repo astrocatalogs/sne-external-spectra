@@ -1,6 +1,6 @@
 {
-	"dec":"-08:27:25.93",
-	"decdeg":-8.457204,
+	"dec":"-08:27:25.87",
+	"decdeg":-8.4571855,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19ofk",
 	"isTNS_AT":1,
 	"name":"2019kaf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019kaf",
 	"public":1,
-	"ra":"20:15:07.921",
-	"radeg":303.7830033,
-	"redshift":null,
+	"ra":"20:15:07.918",
+	"radeg":303.7829905,
+	"redshift":0.088,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019kaf_2019-07-06_02-38-51_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458670.6103125,
+			"obsdate":"2019-07-06 02:38:51",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }
