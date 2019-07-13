@@ -18,20 +18,50 @@
 	"name":"2019iex",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":1,
-		"name":"SN"
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019iex",
 	"public":1,
 	"ra":"23:51:03.636",
 	"radeg":357.765149488,
-	"redshift":0.014046,
+	"redshift":0.0139,
 	"source_group":{
 		"group_name":"SAGUARO",
 		"groupid":66
 	},
 	"sourceid":1,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019iex_2019-07-01_08-56-46_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458665.8727546,
+			"obsdate":"2019-07-01 08:56:46",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019iex_2019-06-28.1_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
@@ -63,5 +93,5 @@
 			}
 		}
 	],
-	"type":1
+	"type":10
 }

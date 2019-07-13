@@ -1,6 +1,6 @@
 {
-	"dec":"+26:51:20.11",
-	"decdeg":26.8555874,
+	"dec":"+26:51:20.50",
+	"decdeg":26.8556946632,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -16,16 +16,16 @@
 	"internal_name":"ZTF19aatubsj",
 	"isTNS_AT":1,
 	"name":"2019fdr",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":29,
-		"name":"AGN"
+		"id":19,
+		"name":"SLSN-II"
 	},
 	"objname":"2019fdr",
 	"public":1,
-	"ra":"17:09:06.848",
-	"radeg":257.278534,
-	"redshift":0.2667,
+	"ra":"17:09:06.859",
+	"radeg":257.278578935,
+	"redshift":0.2666,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
@@ -78,12 +78,12 @@
 			"public":1,
 			"reducer":"Chornock",
 			"remarks":"",
-			"source_group_name":null,
+			"source_group_name":"None",
 			"telescope":{
 				"id":11,
 				"name":"MDM-2.4"
 			}
 		}
 	],
-	"type":29
+	"type":19
 }
