@@ -25,13 +25,35 @@
 	"public":1,
 	"ra":"13:29:32.228",
 	"radeg":202.384284,
-	"redshift":0.351,
+	"redshift":0.072,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019duj_2019-05-16_23-51-57_WHT-4.2m_ACAM.dat",
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":97,
+				"name":"ACAM"
+			},
+			"jd":2458620.4944097,
+			"obsdate":"2019-05-16 23:51:57",
+			"observer":"C. Fariña (ING staff), I. Pérez-Fournon et al.",
+			"public":1,
+			"reducer":"R. Marques-Chaves",
+			"remarks":"The absorption feature at about 7600 Angstrom is due to uncorrected atmospheric absorption.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":8,
+				"name":"WHT-4.2m"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019duj_2019-04-28_01-27-42_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
