@@ -16,21 +16,50 @@
 	"internal_name":"ASASSN-19qr",
 	"isTNS_AT":1,
 	"name":"2019khf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019khf",
 	"public":1,
 	"ra":"11:41:27.641",
 	"radeg":175.36517,
-	"redshift":null,
+	"redshift":0.013756,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019khf_2019-07-15.75_SALT_RSS.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2458680.25,
+			"obsdate":"2019-07-15 18:00:00",
+			"observer":"David Buckley",
+			"public":1,
+			"reducer":"Mariusz Gromadzki",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":3
 }
