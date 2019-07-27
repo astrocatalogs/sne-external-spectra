@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19sb",
 	"isTNS_AT":1,
 	"name":"2019lrb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objname":"2019lrb",
 	"public":1,
 	"ra":"13:07:02.794",
 	"radeg":196.76164,
-	"redshift":null,
+	"redshift":0.027439,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019lrb_2019-07-23_22-44-35_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019lrb_2019-07-23_22-44-35_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458688.4476273,
+			"obsdate":"2019-07-23 22:44:35",
+			"observer":"Tomasella, Salmaso",
+			"public":1,
+			"reducer":"Benetti, Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":5
 }

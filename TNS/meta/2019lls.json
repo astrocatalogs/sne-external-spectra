@@ -18,8 +18,8 @@
 	"name":"2019lls",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":27,
+		"name":"CV"
 	},
 	"objname":"2019lls",
 	"public":1,
@@ -31,6 +31,29 @@
 		"groupid":36
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019lls_2019-07-18.91_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019lls_2019-07-18.91_NOT_ALFOSC.fits",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458683.41,
+			"obsdate":"2019-07-18 21:50:24",
+			"observer":"N. E. Jannsen",
+			"public":1,
+			"reducer":"S. Holmbo",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":27
 }

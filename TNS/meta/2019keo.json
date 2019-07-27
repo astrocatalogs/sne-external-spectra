@@ -18,8 +18,8 @@
 	"name":"2019keo",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":27,
+		"name":"CV"
 	},
 	"objname":"2019keo",
 	"public":1,
@@ -31,6 +31,37 @@
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2019keo_2019-07-03.487_Lick-3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":8,
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458667.9869907,
+			"obsdate":"2019-07-03 11:41:16",
+			"observer":"Weikang Zheng, Kishore Patra",
+			"public":1,
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":8,
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":27
 }
