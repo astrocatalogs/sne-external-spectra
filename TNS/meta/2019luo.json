@@ -1,6 +1,6 @@
 {
-	"dec":"-06:55:23.17",
-	"decdeg":-6.923103,
+	"dec":"-06:55:23.18",
+	"decdeg":-6.92310452,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abgurml",
 	"isTNS_AT":1,
 	"name":"2019luo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019luo",
 	"public":1,
-	"ra":"00:09:12.063",
-	"radeg":2.3002621666667,
-	"redshift":null,
+	"ra":"00:09:12.068",
+	"radeg":2.30028504,
+	"redshift":0.041,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019luo_2019-07-29_06-46-21_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019luo_2019-07-29_06-46-21_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458693.7821875,
+			"obsdate":"2019-07-29 06:46:21",
+			"observer":"C. Angus, P. Wiseman",
+			"public":1,
+			"reducer":"E. Swann, C. Frohmaier",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":10
 }

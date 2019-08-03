@@ -1,6 +1,6 @@
 {
-	"dec":"+14:03:04.31",
-	"decdeg":14.0511981,
+	"dec":"+14:03:04.32",
+	"decdeg":14.0512,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abfwdyt",
 	"isTNS_AT":1,
 	"name":"2019lek",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019lek",
 	"public":1,
 	"ra":"11:48:43.670",
-	"radeg":177.1819563,
-	"redshift":null,
+	"radeg":177.181958,
+	"redshift":0.01063,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019lek_2019-07-27_18-45-56_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1126,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019lek_2019-07-27_18-45-56_APO-3.5m_DIS_ZTF.fits",
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2458692.2818981,
+			"obsdate":"2019-07-27 18:45:56",
+			"observer":"B. Sipocz",
+			"public":1,
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	],
+	"type":3
 }

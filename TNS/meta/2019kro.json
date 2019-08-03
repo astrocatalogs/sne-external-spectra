@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abdsqmf",
 	"isTNS_AT":1,
 	"name":"2019kro",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019kro",
 	"public":1,
 	"ra":"14:03:16.919",
 	"radeg":210.8204953,
-	"redshift":null,
+	"redshift":0.114,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019kro_2019-07-25_Magellan-Baade_IMACS_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2458689.5,
+			"obsdate":"2019-07-25 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	],
+	"type":3
 }

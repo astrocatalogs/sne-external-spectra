@@ -16,21 +16,44 @@
 	"internal_name":"Gaia19ded",
 	"isTNS_AT":1,
 	"name":"2019ltt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019ltt",
 	"public":1,
 	"ra":"07:15:43.300",
 	"radeg":108.930417,
-	"redshift":null,
+	"redshift":0.0178,
 	"source_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":24
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ltt_2019-07-29.44_SOAR_Goodman.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458693.94,
+			"obsdate":"2019-07-29 10:33:36",
+			"observer":"Strader, Shishkovsky",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":3
 }

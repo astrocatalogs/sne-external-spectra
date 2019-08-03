@@ -16,21 +16,74 @@
 	"internal_name":"ATLAS19piv",
 	"isTNS_AT":1,
 	"name":"2019lpy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019lpy",
 	"public":1,
 	"ra":"20:58:34.620",
 	"radeg":314.644248,
-	"redshift":null,
+	"redshift":0.032,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019lpy_2019-07-29.27_SOAR_Goodman.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458693.77,
+			"obsdate":"2019-07-29 06:28:48",
+			"observer":"Strader, Shishkovsky",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019lpy_2019-07-25_Magellan-Baade_IMACS_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2458689.5,
+			"obsdate":"2019-07-25 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	],
+	"type":3
 }

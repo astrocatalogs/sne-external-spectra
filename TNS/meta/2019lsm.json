@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19sf",
 	"isTNS_AT":1,
 	"name":"2019lsm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":9,
+		"name":"SN Ibn"
 	},
 	"objname":"2019lsm",
 	"public":1,
 	"ra":"14:35:02.565",
 	"radeg":218.7606862,
-	"redshift":null,
+	"redshift":0.04168,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019lsm_2019-07-30_23-31-08_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019lsm_2019-07-30_23-31-08_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458695.4799537,
+			"obsdate":"2019-07-30 23:31:08",
+			"observer":"C. Angus, P. Wiseman",
+			"public":1,
+			"reducer":"C. Frohmaier, E. Swann",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":9
 }
