@@ -1,6 +1,6 @@
 {
-	"dec":"+20:03:10.67",
-	"decdeg":20.0529628637,
+	"dec":"+20:03:10.62",
+	"decdeg":20.05295,
 	"discmagfilter":{
 		"family":"PS1",
 		"id":26,
@@ -16,21 +16,52 @@
 	"internal_name":"PS19axh",
 	"isTNS_AT":1,
 	"name":"2019gjs",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objname":"2019gjs",
 	"public":1,
-	"ra":"14:58:57.172",
-	"radeg":224.738218719,
-	"redshift":null,
+	"ra":"14:58:57.170",
+	"radeg":224.738208,
+	"redshift":0.043,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019gjs_2019-08-04_07-09-08_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458699.7980093,
+			"obsdate":"2019-08-04 07:09:08",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":13
 }
