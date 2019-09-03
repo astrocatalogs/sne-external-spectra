@@ -1,0 +1,67 @@
+{
+	"dec":"+32:11:21.57",
+	"decdeg":32.1893262,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":48869,
+	"discoverydate":"2019-08-11 09:43:12",
+	"discoverymag":19.56,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19abozuxh",
+	"isTNS_AT":1,
+	"name":"2019osm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019osm",
+	"public":1,
+	"ra":"00:07:16.341",
+	"radeg":1.8180868,
+	"redshift":0.063,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019osm_2019-08-21_21-32-01_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458717.3972338,
+			"obsdate":"2019-08-21 21:32:01",
+			"observer":"SEDM-Robot",
+			"public":1,
+			"reducer":"Don Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,97 @@
+{
+	"dec":"+41:59:54.28",
+	"decdeg":41.9984114286,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-08-17 10:49:33",
+	"discoverymag":19.5303,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"LEDA 2190566",
+	"internal_name":"ZTF19abqanpy",
+	"isTNS_AT":1,
+	"name":"2019nuc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019nuc",
+	"public":1,
+	"ra":"03:45:03.454",
+	"radeg":56.2643914286,
+	"redshift":0.043,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019nuc_2019-08-21_04-46-50.32_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1000,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458716.6991898,
+			"obsdate":"2019-08-21 04:46:50",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019nuc_2019-08-21_03-47-37_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458716.6580671,
+			"obsdate":"2019-08-21 03:47:37",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"LTbot",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

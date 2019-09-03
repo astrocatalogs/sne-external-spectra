@@ -18,19 +18,50 @@
 	"name":"2019mil",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":24,
+		"name":"LBV"
 	},
 	"objname":"2019mil",
 	"public":1,
 	"ra":"22:27:51.841",
 	"radeg":336.9660034,
-	"redshift":null,
+	"redshift":0.003,
 	"source_group":{
 		"group_name":"LOSS",
 		"groupid":8
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2019mil_2019-08-09.405_Lick-3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":8,
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458704.905,
+			"obsdate":"2019-08-09 09:43:12",
+			"observer":"Thomas Brink",
+			"public":1,
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":8,
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":24
 }

@@ -1,0 +1,67 @@
+{
+	"dec":"-23:49:58.64",
+	"decdeg":-23.832956847,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":48869,
+	"discoverydate":"2019-08-16 07:45:07",
+	"discoverymag":20.72,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"DG19wxnjc",
+	"isTNS_AT":1,
+	"name":"2019npv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objname":"2019npv",
+	"public":1,
+	"ra":"00:53:32.309",
+	"radeg":13.3846192596,
+	"redshift":0.056,
+	"source_group":{
+		"group_name":"DECam-GROWTH",
+		"groupid":68
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019npv_2019-08-26_09-26-09_Magellan-Baade_IMACS_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2458721.8931597,
+			"obsdate":"2019-08-26 09:26:09",
+			"observer":"Dave Osip",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	],
+	"type":4
+}

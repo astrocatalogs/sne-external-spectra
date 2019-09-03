@@ -1,0 +1,67 @@
+{
+	"dec":"-67:51:41.30",
+	"decdeg":-67.861472,
+	"discmagfilter":{
+		"family":"Cousins",
+		"id":14,
+		"name":"I"
+	},
+	"discoverer":"Gromadzki",
+	"discovererid":579,
+	"discoverydate":"2019-08-07 07:01:20",
+	"discoverymag":21.316,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"OGLE-GAL-MBR148.09-1880.633-644.872",
+	"internal_name":"",
+	"isTNS_AT":1,
+	"name":"2019ocm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":1,
+		"name":"SN"
+	},
+	"objname":"2019ocm",
+	"public":1,
+	"ra":"01:52:33.870",
+	"radeg":28.141125,
+	"redshift":0.076,
+	"source_group":{
+		"group_name":"OGLE",
+		"groupid":17
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ocm_2019-08-23_03-37-43_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ocm_2019-08-23_03-37-43_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458718.6511921,
+			"obsdate":"2019-08-23 03:37:43",
+			"observer":"S. Brennan, M. Fraser",
+			"public":1,
+			"reducer":"N. Ihanec, M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":1
+}

@@ -1,0 +1,67 @@
+{
+	"dec":"+10:41:34.04",
+	"decdeg":10.692788375,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-08-11 12:21:36",
+	"discoverymag":17.087,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19shs",
+	"isTNS_AT":1,
+	"name":"2019ngp",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":27,
+		"name":"CV"
+	},
+	"objname":"2019ngp",
+	"public":1,
+	"ra":"23:10:33.298",
+	"radeg":347.638740575,
+	"redshift":0,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ngp_2019-08-23_09-44-02_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ngp_2019-08-23_09-44-02_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458718.9055787,
+			"obsdate":"2019-08-23 09:44:02",
+			"observer":"S. Brennan, M. Fraser",
+			"public":1,
+			"reducer":"N. Ihanec, M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":27
+}

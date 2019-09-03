@@ -1,0 +1,59 @@
+{
+	"dec":"+51:22:57.20",
+	"decdeg":51.3825554375,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-08-29 07:30:44",
+	"discoverymag":19.5887,
+	"end_prop_period":null,
+	"host_redshift":0.038,
+	"hostname":"SDSS J175113.25+512300.1",
+	"internal_name":"ZTF19abueupg",
+	"isTNS_AT":1,
+	"name":"2019oxn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019oxn",
+	"public":1,
+	"ra":"17:51:12.790",
+	"radeg":267.8032903875,
+	"redshift":0.038,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019oxn_2019-09-02_Lick-3m_KAST.flm",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458728.5,
+			"obsdate":"2019-09-02 00:00:00",
+			"observer":"Cesar Rojas-Bravo",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
+}

@@ -16,21 +16,52 @@
 	"internal_name":"PS19bxu",
 	"isTNS_AT":1,
 	"name":"2019izh",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019izh",
 	"public":1,
 	"ra":"22:25:58.256",
 	"radeg":336.492735105,
-	"redshift":null,
+	"redshift":0.148,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019izh_2019-08-03_Magellan-Clay_LDSS-3_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":78,
+				"name":"LDSS-3"
+			},
+			"jd":2458698.5,
+			"obsdate":"2019-08-03 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":63,
+				"name":"Magellan-Clay"
+			}
+		}
+	],
+	"type":3
 }

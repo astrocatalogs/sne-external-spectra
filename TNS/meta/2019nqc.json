@@ -1,0 +1,59 @@
+{
+	"dec":"-32:42:18.50",
+	"decdeg":-32.705139061446,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":48869,
+	"discoverydate":"2019-08-16 08:23:59",
+	"discoverymag":20.6,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"DG19qabkc",
+	"isTNS_AT":1,
+	"name":"2019nqc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019nqc",
+	"public":1,
+	"ra":"01:29:03.673",
+	"radeg":22.265302798644,
+	"redshift":0.077,
+	"source_group":{
+		"group_name":"DECam-GROWTH",
+		"groupid":68
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019nqc_2458719.4627_SALT_RSS.txt",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019nqc_2458719.4627_SALT_RSS.fits",
+			"groupid":0,
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2458719.4627,
+			"obsdate":"2019-08-23 23:06:17",
+			"observer":"M. Mogotsi",
+			"public":1,
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":10
+}

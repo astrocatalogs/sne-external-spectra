@@ -1,0 +1,59 @@
+{
+	"dec":"-32:44:30.41",
+	"decdeg":-32.741781,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":"Bachmann",
+	"discovererid":1406,
+	"discoverydate":"2019-08-16 06:31:40",
+	"discoverymag":18.343,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"desgw-190814d",
+	"isTNS_AT":1,
+	"name":"2019nqr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019nqr",
+	"public":1,
+	"ra":"01:34:17.649",
+	"radeg":23.573539,
+	"redshift":0.084,
+	"source_group":{
+		"group_name":"DESGW",
+		"groupid":71
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019nqr_2019-08-17_FTS_FLOYDS-S.ascii",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019nqr_2019-08-17_FTS_FLOYDS-S.fits",
+			"groupid":0,
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2458712.5,
+			"obsdate":"2019-08-17 00:00:00",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":10
+}
