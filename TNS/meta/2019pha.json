@@ -1,0 +1,59 @@
+{
+	"dec":"-11:06:39.04",
+	"decdeg":-11.1108434,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discoverydate":"2019-08-29 09:01:35",
+	"discoverymag":19.6,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19abrilok",
+	"isTNS_AT":1,
+	"name":"2019pha",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019pha",
+	"public":1,
+	"ra":"23:49:16.302",
+	"radeg":357.31792443333,
+	"redshift":0.123,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019pha_2019-09-03_00-53-59_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458729.5374884,
+			"obsdate":"2019-09-03 00:53:59",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline",
+			"remarks":"Type Ia SN close to the maximum. Classification using SNID (S. Blondin & J. L. Tonry 2007, ApJ, 666, 1024), GELATO (A. Harutyunyan et al. 2008, A&A, 488, 383) and DASH (D. Muthukrishna, D. Parkinson, and B. Tucker, arXiv:1903.02557).\r\n",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

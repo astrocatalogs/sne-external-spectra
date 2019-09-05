@@ -1,0 +1,67 @@
+{
+	"dec":"+28:07:25.60",
+	"decdeg":28.123778,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":42529,
+	"discoverydate":"2019-09-03 23:16:36",
+	"discoverymag":18.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"MASTER OT J171434.95+280725.6",
+	"isTNS_AT":1,
+	"name":"2019pjv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2019pjv",
+	"public":1,
+	"ra":"17:14:34.950",
+	"radeg":258.645625,
+	"redshift":0.023,
+	"source_group":{
+		"group_name":"MASTER",
+		"groupid":36
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/GRAWITA/tns_2019pjv_2458731.3131_Ekar_AFOSC_GRAWITA.dat",
+			"assoc_groups":[
+				{
+					"id":75,
+					"name":"GRAWITA"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/GRAWITA/tns_2019pjv_2458731.3131_Ekar_AFOSC_GRAWITA.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458731.3131,
+			"obsdate":"2019-09-04 19:30:51",
+			"observer":"Benetti, Tomasella, Salmaso",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":75,
+				"name":"GRAWITA"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":104
+}
