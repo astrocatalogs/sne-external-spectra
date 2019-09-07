@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abvalfd",
 	"isTNS_AT":1,
 	"name":"2019pfe",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019pfe",
 	"public":1,
 	"ra":"16:03:51.707",
 	"radeg":240.9654439,
-	"redshift":null,
+	"redshift":0.031442,
 	"source_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019pfe_2019-09-02_05-02-29_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019pfe_2019-09-02_05-02-29_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458728.7100579,
+			"obsdate":"2019-09-02 05:02:29",
+			"observer":"Y. Sharma, Y. Yao",
+			"public":1,
+			"reducer":"A. Tzanidakis, V. Karambelkar",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
 }

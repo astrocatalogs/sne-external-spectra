@@ -16,21 +16,52 @@
 	"internal_name":"kait-19ad",
 	"isTNS_AT":1,
 	"name":"2019pjs",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019pjs",
 	"public":1,
 	"ra":"18:04:40.344",
 	"radeg":271.1681,
-	"redshift":null,
+	"redshift":0.007415,
 	"source_group":{
 		"group_name":"LOSS",
 		"groupid":8
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019pjs_2019-09-05_09-22-38_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019pjs_2019-09-05_09-22-38_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2458731.8907176,
+			"obsdate":"2019-09-05 09:22:38",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":10
 }

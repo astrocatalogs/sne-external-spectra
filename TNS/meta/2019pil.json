@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19vq",
 	"isTNS_AT":1,
 	"name":"2019pil",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019pil",
 	"public":1,
 	"ra":"03:37:21.202",
 	"radeg":54.33834,
-	"redshift":null,
+	"redshift":0.0323,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019pil_2019-09-04_07-33-24_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019pil_2019-09-04_07-33-24_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458730.8148611,
+			"obsdate":"2019-09-04 07:33:24",
+			"observer":"E. Callis, S. Brennan",
+			"public":1,
+			"reducer":"M. Gromadzki, N. Ihanec",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }
