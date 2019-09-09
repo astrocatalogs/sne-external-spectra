@@ -31,6 +31,37 @@
 		"groupid":4
 	},
 	"sourceid":2,
-	"spectra":[],
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019nhs_2019-08-27_09-06-00_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019nhs_2019-08-27_09-06-00_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458722.8791667,
+			"obsdate":"2019-08-27 09:06:00",
+			"observer":"I. Andreoni, V. Karambelkar",
+			"public":1,
+			"reducer":"Y. Sharma",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
 	"type":18
 }

@@ -1,6 +1,6 @@
 {
-	"dec":"+49:06:34.70",
-	"decdeg":49.10964,
+	"dec":"+49:06:34.27",
+	"decdeg":49.109519,
 	"discmagfilter":{
 		"family":"Sloan",
 		"id":21,
@@ -16,21 +16,52 @@
 	"internal_name":"ASASSN-19vp",
 	"isTNS_AT":1,
 	"name":"2019pig",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019pig",
 	"public":1,
-	"ra":"15:01:33.288",
-	"radeg":225.3887,
-	"redshift":null,
+	"ra":"15:01:33.450",
+	"radeg":225.389375,
+	"redshift":0.02602,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019pig_2458732.7474_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458732.7474,
+			"obsdate":"2019-09-06 05:56:15",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
 }

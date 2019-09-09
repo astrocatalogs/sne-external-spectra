@@ -1,0 +1,59 @@
+{
+	"dec":"+12:41:34.91",
+	"decdeg":12.69303,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Stein",
+	"discovererid":1176,
+	"discoverydate":"2019-09-04 10:54:20",
+	"discoverymag":20.46,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19abwvals",
+	"isTNS_AT":1,
+	"name":"2019pni",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019pni",
+	"public":1,
+	"ra":"04:53:00.133",
+	"radeg":73.250555,
+	"redshift":0.091,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019pni_2019-09-05_04-50-00_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019pni_2019-09-05_04-50-00_NOT_ALFOSC.fits",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458731.7013889,
+			"obsdate":"2019-09-05 04:50:00",
+			"observer":"T. Pursimo (NOT), J. Martikainen (NOT and Univ.  Helsinki)",
+			"public":1,
+			"reducer":"L. Izzo (DARK/NBI)",
+			"remarks":"Significant host contamination is possible. SN and galaxy nucleus only separated by ~0.9\". Wavelength calibration good to ~3 AA.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":3
+}

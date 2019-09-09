@@ -91,6 +91,36 @@
 				"id":70,
 				"name":"LT"
 			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019nuc_2019-08-21_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458716.5,
+			"obsdate":"2019-08-21 00:00:00",
+			"observer":"LTRobot",
+			"public":1,
+			"reducer":"LTRobot",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
 		}
 	],
 	"type":3
