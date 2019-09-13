@@ -1,0 +1,59 @@
+{
+	"dec":"+07:27:07.54",
+	"decdeg":7.452095,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discoverydate":"2019-08-23 10:32:12",
+	"discoverymag":20.525,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J013921.03+072706.7",
+	"internal_name":"",
+	"isTNS_AT":1,
+	"name":"2019pwj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019pwj",
+	"public":1,
+	"ra":"01:39:21.070",
+	"radeg":24.837792,
+	"redshift":0.171,
+	"source_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019pwj_2019-09-07_03-37-11_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458733.6508218,
+			"obsdate":"2019-09-07 03:37:11",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}
