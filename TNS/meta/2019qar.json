@@ -1,0 +1,67 @@
+{
+	"dec":"-63:54:16.03",
+	"decdeg":-63.904453,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":37975,
+	"discoverydate":"2019-09-12 16:33:41",
+	"discoverymag":17.5,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC7083",
+	"internal_name":"DLT19l",
+	"isTNS_AT":1,
+	"name":"2019qar",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":107,
+		"name":"SN Ib-pec"
+	},
+	"objname":"2019qar",
+	"public":1,
+	"ra":"21:35:46.010",
+	"radeg":323.941708,
+	"redshift":0.01,
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DLT40/tns_2019qar_2019-09-12_23-29-51_Gemini-S_GMOS-S_DLT40.ascii",
+			"assoc_groups":[
+				{
+					"id":30,
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":9,
+				"name":"GMOS-S"
+			},
+			"jd":2458739.4790625,
+			"obsdate":"2019-09-12 23:29:51",
+			"observer":"Gemini Queue Observer",
+			"public":1,
+			"reducer":"Jennifer Andrews (U. Arizona)",
+			"remarks":"Quick look classification from Gemini GMOS spectrum.",
+			"source_group":{
+				"id":30,
+				"name":"DLT40"
+			},
+			"telescope":{
+				"id":16,
+				"name":"Gemini-S"
+			}
+		}
+	],
+	"type":107
+}
