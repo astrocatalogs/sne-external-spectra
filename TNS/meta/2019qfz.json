@@ -1,0 +1,67 @@
+{
+	"dec":"+23:31:39.51",
+	"decdeg":23.5276425,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-09-17 14:36:57",
+	"discoverymag":18.332,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19vdd",
+	"isTNS_AT":1,
+	"name":"2019qfz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019qfz",
+	"public":1,
+	"ra":"08:35:25.352",
+	"radeg":128.855635,
+	"redshift":0.017,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019qfz_2458744.9960539_P60_SEDM_ZTF.txt",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458744.9960539,
+			"obsdate":"2019-09-18 11:54:18",
+			"observer":"Steve Schulze",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":10
+}
