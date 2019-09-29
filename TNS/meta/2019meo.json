@@ -16,21 +16,44 @@
 	"internal_name":"ASASSN-19sy",
 	"isTNS_AT":1,
 	"name":"2019meo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":104,
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019meo",
 	"public":1,
 	"ra":"05:34:07.170",
 	"radeg":83.529875,
-	"redshift":null,
+	"redshift":0.036312,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019meo_2458729.89_LCO-duPont_WFCCD.txt",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019meo_2458729.89_LCO-duPont_WFCCD.fits",
+			"groupid":0,
+			"instrument":{
+				"id":62,
+				"name":"WFCCD"
+			},
+			"jd":2458729.89,
+			"obsdate":"2019-09-03 09:21:36",
+			"observer":"Boustsia",
+			"public":1,
+			"reducer":"Holoien, Morrell",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":50,
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":104
 }

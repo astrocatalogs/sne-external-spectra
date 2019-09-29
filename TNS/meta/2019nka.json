@@ -16,21 +16,52 @@
 	"internal_name":"MASTER OT J073411.00+584202.3",
 	"isTNS_AT":1,
 	"name":"2019nka",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019nka",
 	"public":1,
 	"ra":"07:34:11.170",
 	"radeg":113.546542,
-	"redshift":null,
+	"redshift":0.041,
 	"source_group":{
 		"group_name":"MASTER",
 		"groupid":36
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019nka_2019-09-12_10-32-11_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458738.9390162,
+			"obsdate":"2019-09-12 10:32:11",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
 }

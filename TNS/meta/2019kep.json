@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19oil",
 	"isTNS_AT":1,
 	"name":"2019kep",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objname":"2019kep",
 	"public":1,
 	"ra":"01:10:20.430",
 	"radeg":17.585125,
-	"redshift":null,
+	"redshift":0.02388,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019kep_2019-08-09_10-51-48_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019kep_2019-08-09_10-51-48_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458704.9526389,
+			"obsdate":"2019-08-09 10:51:48",
+			"observer":"A. Ho",
+			"public":1,
+			"reducer":"A. Ho",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":13
 }

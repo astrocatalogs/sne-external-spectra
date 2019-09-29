@@ -1,6 +1,6 @@
 {
-	"dec":"+72:39:19.27",
-	"decdeg":72.65535375,
+	"dec":"+72:39:19.22",
+	"decdeg":72.655339,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abwamby",
 	"isTNS_AT":1,
 	"name":"2019pzt",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019pzt",
 	"public":1,
-	"ra":"15:35:27.159",
-	"radeg":233.8631624,
-	"redshift":null,
+	"ra":"15:35:27.150",
+	"radeg":233.863125,
+	"redshift":0.05,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019pzt_2019-09-22_02-42-54_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458748.613125,
+			"obsdate":"2019-09-22 02:42:54",
+			"observer":"L. Yan",
+			"public":1,
+			"reducer":"C. Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":10
 }

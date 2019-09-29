@@ -1,0 +1,1138 @@
+# ORIGIN  = 'Liverpool JMU'      /
+# INSTRUME= 'SPRAT   '           / Instrument used.
+# CONFIGID=                22982 / Unique configuration ID.
+# CONFNAME= 'SPRAT-blue'         / The instrument configuration used.
+# DETECTOR= 'E2V CCD30-11 10333-02-26' / Andor iDus DU420A-BV
+# FILTER1 = '4020longpass'       / Edmund Optics 400nm longpass filter #84754
+# FILTERI1= 'Edmund Optics 400nm longpass filter #84754' / Edmund Optics 400nm lon
+# FILTER2 = 'clear   '           / The filter.
+# FILTERI2= 'Clear-01'           / The filter.
+# PRESCAN =                    0 / [pix] Number of pixels in pre bias strip
+# POSTSCAN=                    0 / [pix] Number of pixels in post bias strip
+# GAIN    =        2.45000000000 / [electrons/count] CCD Gain (20140904)
+# EPERDN  =        2.45000000000 / [electrons/count] CCD Gain (20140904)
+# CCDXPIXE=    2.60000000000E-05 / [m] Size of pixels, in X
+# CCDYPIXE=    2.60000000000E-05 / [m] Size of pixels, in X
+# CCDSCALE=             0.442000 / [arcsec/binned pixel] pixel scale in imaging mo
+# SLITPOS = 'IN      '           / Whether the slit is in or out of the beam
+# GRATPOS = 'IN      '           / Whether the grism is in or out of the beam
+# GRATROT = '1       '           / The grating rotation position ['0'|'1']
+# GRATSET = 'blue    '           / The grating rotation position
+# GRATANG =       0.950000000000 / [mm] Grism rear stop lateral displacement
+# WAVSET  =        5555.00000000 / [Angstrom] Wavelength Setting.
+# WAVCENT =        5555.00000000 / [Angstrom] Central Wavelength
+# WAVDISP =        4.71000000000 / [Angstrom/pixel] Dispersion (per binned pixel).
+# WAVRESOL=        18.0000000000 / [Angstrom] Resolution at central wavelength.
+# WAVSHORT=                 4020 / [Angstrom] Shortest wavelength on CCD.
+# WAVLONG =                 7960 / [Angstrom] Longest wavelength on CCD.
+# WAVERR  =        99.9000000000 / Error
+# WAVCAL  = 'None    '           /
+# COLID   = '150mm_f3.0'         / Edmund Optics achromatic doublet #49391
+# CAMID   = '85mm_f1.8'          / Nikon AF Nikkor 85mm f/1.8D
+# COLFOC  =        6.25000000000 / [mm] Collimator focus. Scale reading.
+# CAMFOC  =        0.00000000000 / [mm] Camera focus (infinity)
+# GRATID  = 'Wasatch600'         / Wasatch VPH transmission grating
+# LAMP1TYP= 'Xe      '           / LOT Oriel xenon penlight type 6033
+# LAMP1SET=                      / Is the Xenon lamp on?
+# LAMP2TYP= 'W       '           / Bosch 434 12v tungsten halide
+# LAMP2SET=                      / Is the Tungsten lamp on?
+# ENVTEMP0=       -1.00000000000 / [Kelvin] Air temperature outside instrument
+# ENVTEMP1=        288.450000000 / [Kelvin] Air temperature inside instrument
+# ENVHUM0 =        0.00000000000 / [percent] Relative humidity outside instrument
+# ENVHUM1 =        16.3000000000 / [percent] Relative humidity inside instrument
+# ORIENT1 =       -272.000000000 / [adu] Gyro position (X)
+# ORIENT2 =        35.0000000000 / [adu] Gyro position (Y)
+# ORIENT3 =       -166.000000000 / [adu] Gyro position (Z)
+# FOVTYPE = 'slit    '           / Type of field of view
+# FOVDIM1 =                    0 / [arcsec] Size of field of view (dimension 1)
+# FOVDIM2 =                    0 / [arcsec] Size of field of view (dimension 2)
+# TELESCOP= 'Liverpool Telescope' / The Name of the Telescope
+# TELMODE = 'ROBOTIC '           / Telescope mode
+# TAGID   = 'JMU     '           / Telescope Allocation Committee ID
+# USERID  = 'Perley.Dan'         / User login ID
+# PROGID  = 'XJZ19B01'           / Program ID
+# PROPID  = 'JZ19B01 '           / Proposal ID
+# GROUPID = 'ZTF19abrdnty'       / Group Id
+# OBSID   = 'EXPOSURE'           / Observation Id
+# GRPTIMNG= 'FLEXIBLE'           / Group timing constraint class
+# GRPUID  =               222774 / Group unique ID
+# GRPMONP =        0.00000000000 / [secs] Group monitor period
+# GRPNUMOB=                    2 / Number of observations in group
+# GRPSEECO= 'NONE    '           / [arcsec] Maximum seeing
+# GRPSKYCO= '4.0 MAG '           / Sky brightness category
+# GRPEXTCO= 'NONE    '           / Extinction category
+# GRPAIRCO=        2.00000000000 / Maximum airmass
+# GRPMINHA= 'NONE    '           / [degs] Minimum hour angle
+# GRPMAXHA= 'UNKNOWN '           / [degs] Maximum hour angle
+# GRPEDATE= '2019-09-16 T 02:54:23 UTC' / [date] Group expiry date
+# GRPNOMEX=        730.000000000 / [secs] Group nominal exec time
+# USRDEFOC=        0.00000000000 / [mm] Requested defocus
+# LATITUDE=        28.7624000000 / [degrees] Observatory Latitude
+# LONGITUD=       -17.8792000000 / [degrees West] Observatory Longitude
+# RA      = '5:35:14.68'         / [HH:MM:SS.ss] Apparent RA where telescope is po
+# DEC     = '17:36:32.30'        / [DD:MM:SS.ss] Apparent Dec where telescope is p
+# RADECSYS= 'FK5     '           / [{FK4, FK5}] Fundamental coordinate system of c
+# EQUINOX =        2000.00000000 / [Years] Date of the coordinate system for curre
+# LST     = '3:18:8.00'          / [HH:MM:SS] Local sidereal time at start of curr
+# CAT-RA  = '5:35:14.68'         / [HH:MM:SS.sss] RA of the current observation so
+# CAT-DEC = '17:36:32.30'        / [DD:MM:SS.sss] Declination of the current obser
+# CAT-EQUI=        2000.00000000 / [Year] Catalog date of the coordinate system fo
+# CAT-EPOC=        2000.00000000 / [Year] Catalog date of the epoch
+# CAT-NAME= 'ZTF19abrdnty'       / Catalog name of the current observation source
+# OBJECT  = 'ZTF19abrdnty'       / Actual name of the current observation source
+# SRCTYPE = 'EXTRASOLAR'         / Type of source
+# PM-RA   =        0.00000000000 / [sec/year] Proper motion in RA of the current o
+# PM-DEC  =        0.00000000000 / [arcsec/year] Proper motion in declination  of
+# PARALLAX=        0.00000000000 / [arcsec] Parallax of the current observation so
+# RADVEL  =        0.00000000000 / [km/s] Radial velocity of the current observati
+# RATRACK =        0.00000000000 / [sec/sec] Non-sidereal tracking in RA of the cu
+# DECTRACK=        0.00000000000 / [arcsec/sec] Non-sidereal tracking in declinati
+# NETSTATE= 'ENABLED '           / Network control state
+# ENGSTATE= 'DISABLED'           / Engineering override state
+# TELSTAT = 'WARN    '           / Current telescope status
+# TCSSTATE= 'OKAY    '           / TCS state
+# PWRESTRT=                      / Power will be cycled imminently
+# PWSHUTDN=                      / Power will be shutdown imminently
+# AZDMD   =        105.262000000 / [degrees] Azimuth demand
+# AZIMUTH =        105.262000000 / [degrees] Azimuth axis position
+# AZSTAT  = 'TRACKING'           / Azimuth axis state
+# ALTDMD  =        56.6297000000 / [degrees] Altitude axis demand
+# ALTITUDE=        56.6297000000 / [degrees] Altitude axis position
+# ALTSTAT = 'TRACKING'           / Altitude axis state
+# AIRMASS =        1.19890200000 / [n/a] Airmass
+# ROTDMD  =        10.5890000000 / Rotator axis demand
+# ROTANGLE=        10.5889000000 / [degrees] Rotator mount angle
+# ROTMODE = 'FLOAT   '           / [{SKY, MOUNT, VFLOAT, VERTICAL, FLOAT}] Cassegr
+# ROTSKYPA=        293.955500000 / [degrees] Rotator position angle
+# ROTSTATE= 'TRACKING'           / Rotator axis state
+# ENC1DMD = 'OPEN    '           / Enc 1 demand
+# ENC1POS = 'OPEN    '           / Enc 1 position
+# ENC1STAT= 'IN POSN '           / Enc 1 state
+# ENC2DMD = 'OPEN    '           / Enc 2 demand
+# ENC2POS = 'OPEN    '           / Enc 2 position
+# ENC2STAT= 'IN POSN '           / Enc 2 state
+# FOLDDMD = 'UNKNOWN '           / Fold mirror demand
+# FOLDPOS = 'UNKNOWN '           / Fold mirror position
+# FOLDSTAT= 'UNKNOWN '           / Fold mirror state
+# PMCDMD  = 'OPEN    '           / Primary mirror cover demand
+# PMCPOS  = 'OPEN    '           / Primary mirror cover position
+# PMCSTAT = 'IN POSN '           / Primary mirror cover state
+# FOCDMD  =        20.7860000000 / [mm] Focus demand
+# TELFOCUS=        20.7860000000 / [mm] Focus position
+# DFOCUS  =        0.00000000000 / [mm] Focus offset
+# FOCSTAT = 'TRACKING'           / Focus state
+# MIRSYSST= 'UNKNOWN '           / Primary mirror support state
+# WMSSTATE= 'OKAY    '           / WMS system state
+# WMSRAIN = 'CLEAR   '           / Rain alert
+# WMSMOIST=      0.0300000000000 / Moisture level
+# TEMPTUBE=        12.5800000000 / [degrees C] Temperature of the telescope tube
+# WMOILTMP=        16.1000000000 / Oil temperature
+# WMSPMT  =        0.00000000000 / Primary mirror temperature
+# WMFOCTMP=        0.00000000000 / Focus temperature
+# WMAGBTMP=        16.3400000000 / AG Box temperature
+# WMSTEMP =        287.250000000 / [Kelvin] Current (external) temperature
+# WMSDEWPT=       -9.90000000000 / Dewpoint
+# WINDSPEE=        2.60000000000 / [m/s] Windspeed
+# WMSPRES =        775.000000000 / [mbar] Current pressure
+# WMSHUMID=        18.0000000000 / [0.00% - 100.00%] Current percentage humidity
+# WINDDIR =        52.0000000000 / [degrees E of N] Wind direction
+# CLOUD   =        67.9000000000 / [degrees C] Cloud tdiff measure
+# REFPRES =        770.000000000 / [mbar] Pressure used in refraction calculation
+# REFTEMP =        283.150000000 / [Kelvin] Temperature used in refraction calcula
+# REFHUMID=        30.0000000000 / Percentage humidity used in refraction calculat
+# AUTOGUID= 'LOCKED  '           / [{LOCKED, UNLOCKED SUSPENDED}] Autoguider lock
+# AGSTATE = 'OKAY    '           / Autoguider sw state
+# AGMODE  = 'UNKNOWN '           / Autoguider mode
+# AGGMAG  =        13.1450000000 / [mag] Autoguider guide star mag
+# AGFWHM  =        1.77500000000 / [arcsec] Autoguider FWHM
+# AGMIRDMD=        0.00000000000 / [mm] Autoguider mirror demand
+# AGMIRPOS=        0.00000000000 / [mm] Autoguider mirror position
+# AGMIRST = 'IN POSN '           / Autoguider mirror state
+# AGFOCDMD=        14.6290000000 / [mm] Autoguider focus demand
+# AGFOCUS =        14.6270000000 / [mm] Autoguider focus position
+# AGFOCST = 'TRACKING'           / Autoguider focus state
+# AGFILDMD= 'RETRACT '           / Autoguider filter demand
+# AGFILPOS= 'RETRACT '           / Autoguider filter position
+# AGFILST = 'IN POSN '           / Autoguider filter state
+# SCHEDSEE=       0.891537000000 / [(arcsec)] Predicted seeing when group schedule
+# SCHEDPHT= 'PHOTOMETRIC'        / Predicted photom when group scheduled
+# SCHEDSKY=        4.00000000000 / Predicted sky when group scheduled
+# ESTSEE  =        1.13528400000 / [(arcsec)] Estimated seeing at start of observa
+# MOONFRAC=       0.998248000000 / [(0 - 1)] Lunar illuminated fraction
+# MOONDIST=        93.0734730000 / [(degs)] Lunar Distance from Target
+# MOONALT =        24.3306520000 / [(degs)] Lunar altitude
+# SUNALT  =       -25.6883860000 / [(degs)] Solar altitude
+# ACQIMG  = '/icc/sprat-data/v_q_20190913_61_1_0_2.fits' / Acquisitioni image file
+# ACQMODE = 'WCS_FIT '           / Acquisition mode
+# ACQXPIX =        479.000000000 / [pixels] Acquisition X pixel
+# ACQYPIX =        179.000000000 / [pixels] Acquisition Y pixel
+# ACQINST = 'SPRAT   '           / Acquisition instrument
+# BFOCCTRL= 'UNKNOWN '           / Beam control instrument
+# OBSTYPE = 'EXPOSE  '           /
+# EXPTOTAL=                    1 / The total number of exposures in a Multrun.
+# DATE    = '2019-09-14'         /
+# DATE-OBS= '2019-09-14T04:58:12.804' /
+# UTSTART = '04:58:12.804'       /
+# MJD     =        58740.2070930 /
+# CCDXBIN =                    1 / [pixels] X binning factor
+# CCDYBIN =                    1 / [pixels] Y binning factor
+# CCDWMODE=                      /
+# CCDWXOFF=                    0 /
+# CCDWYOFF=                    0 /
+# CCDWXSIZ=                 1024 /
+# CCDWYSIZ=                  254 /
+# CCDXIMSI=                 1024 /
+# CCDYIMSI=                  255 /
+# EXPTIME =        500.000000000 /
+# ACCUM   =                    0 /
+# SERIES  =                    0 /
+# RUNNUM  =                   63 /
+# EXPNUM  =                    1 /
+# CCDATEMP=        213.671000000 / Cached temperature of CCD
+# TEMPSTAT= 'OK      '           / CCD Temperature status at cache point.
+# TEMPDATE= '2019-09-14T04:58:12.800' /
+# CCDSTEMP=        213.150000000 / Target temperature setpoint of CCD
+# EXPID   = 'v_e_20190913_63_1_0_0' / Original raw LT FITS filename
+# SATURATN=                63077 / [ADU] Approx saturation level
+# PIXSCALE=             0.442000 /
+# L1MEDIAN=        42.9144800000 / [counts] median of frame background in counts
+# L1MEAN  =              58.3749 / [counts] mean of frame background in counts
+# L1STATOV=                    1 / Status flag for DP(RT) overscan correction
+# L1STATZE=                   -1 / Status flag for DP(RT) bias frame (zero) correc
+# L1STATZM=                    0 / Mode flag for DP(RT) bias frame subtraction
+# L1ZEROSC=              1.00000 / Scaling factor applied to zero frame
+# L1STATDA=                    1 / Status flag for DP(RT) dark frame correction
+# L1STATDM=                    1 / Mode for DP(RT) dark frame subtraction
+# L1DARKSC=       0.833333300000 / Scaling factor applied to dark frame
+# L1STATTR=                    1 / Status flag for DP(RT) overscan trimming
+# L1STATFL=                    1 / Status flag for DP(RT) flatfield correction
+# L1STATFR=                   -1 / Status flag for DP(RT) defringing correction
+# L1STATFM=                    3 / Mode flag for DP(RT) fringe frame subtraction
+# L1FRINSC=              0.00000 / Scaling factor applied to fringe frame
+# L1XPIX  =              0.00000 / Coordinate of brightest object in frame after t
+# L1YPIX  =              0.00000 / Coordinate of brightest object in frame after t
+# L1ELPMEA=              0.00000 / mean of ellipticities
+# L1ELPVAR=              0.00000 / RMS of ellipticities
+# L1ORIMEA=              0.00000 / mean of orientations
+# L1ORIVAR=              0.00000 / RMS of orientations
+# L1ORISER=              0.00000 / Standard error of orientations
+# L1DARK  = 'v_dark_1.fits.20190914' / Dark used
+# L1FLAT  = 'v_slit_both_1.fits.20181205' / Flat used
+# L1COUNTS=              0.00000 / [counts] Counts in brightest object (sky subtra
+# L1SKYBRT=              99.9000 / [mag/arcsec^2] Estimated sky brightness
+# L1PHOTOM=             -999.000 / [mag] Estimated extinction for standards images
+# L1EXTRMS=              999.000 / RMS on multiple extinction estimates in image
+# L1SAT   =                      / [logical] TRUE if brightest object is saturated
+# BACKGRD =        42.9144800000 / [counts] frame background level in counts
+# STDDEV  =        55.5884700000 / [counts] Standard deviation of Backgrd in count
+# L1SEEING=              999.000 / [Dummy] Unable to calculate
+# L1SEESEC=              999.000 / [Dummy] Unable to calculate
+# SEEING  =              999.000 / [Dummy] Unable to calculate
+# L1DATE  = '2019-09-14 08:32:26 GMT' / When this reduction was performed
+# ACQIMAGE= 'v_q_20190913_61_1_0_1.fits' / Final acquisition image
+# ACQFAPER=              280.094 / [sprat ADU/sec] Brightness in acq. image
+# ACQFAUTO=              341.156 / [sprat ADU/sec] Brightness in acq. image
+# ACQSAT  =                      / Is acquisition image saturated
+# ACQ_XIMG=              478.808 / X coordinate in acq. image
+# ACQ_YIMG=              179.244 / Y coordinate in acq. image
+# ACQFLAGS=                    0 / SExtractor flags
+# ACQNASSC=                    1 / Count of associated sources
+# 2DSPEC  = 'v_k_20190913_63_1_0_1.fits' / 2D spectrum file extracted
+# YEXTRACT=              89.0000 / Image y-coordinate in (x) middle of 2D spectrum
+# XCENT   =                  442 / Reference pixel location for aperture center
+# YCENT   =                   90 / Image y-coordinate specified by user (x=XCENT)
+# APRAD   =                    2 / Half-diameter of extracted trace
+# APSHARP =                   -1 / Simple aperture extraction used
+# NSATURAT=                    0 / Number of saturated pixels in extraction
+# BAKDIST =              3.50000 / Distance from trace to background inner edge
+# BAKWIDTH=              8.00000 / Width of each background stripe
+# EXTDATE = '2019-09-18T11:01:39' / UT time 1D spectrum extracted by specextract
+# REDUCED = '2019-09-18T11:01:39' / UT time 1D spectrum extracted by specextract
+# HISTORY Processed by subtractsky2 2019-09-18 10:18:00 UT
+# HISTORY Processed by specextract 2019-09-18 11:01:39 UT
+# END     =                    0 /
+##   wavelen         flux     sky_flux     flux_unc  xpixel    ypixel     response 
+   4049.2285  1.05733e-14  3.36887e-15  1.21820e-15     140    89.000  1.13260e+16 
+   4053.3162  3.83701e-15 -6.53377e-16  8.20506e-16     141    89.000  1.15197e+16 
+   4057.4087  7.67983e-15  8.94937e-16  1.01832e-15     142    89.000  1.17251e+16 
+   4061.5054  6.81549e-17  3.28407e-16  6.60269e-16     143    89.000  1.19966e+16 
+   4065.6069  2.85045e-15  5.34948e-16  7.87692e-16     144    89.000  1.22685e+16 
+   4069.7129  1.48399e-14 -7.71594e-16  1.14013e-15     145    89.000  1.26058e+16 
+   4073.8232  1.68434e-14  1.49919e-15  1.23724e-15     146    89.000  1.29504e+16 
+   4077.9380 -3.17006e-15 -3.46851e-15  5.74722e-16     147    89.000  1.33398e+16 
+   4082.0574  9.47859e-15  1.50863e-15  9.88232e-16     148    89.000  1.37519e+16 
+   4086.1812  4.63729e-15 -2.95343e-15  6.25113e-16     149    89.000  1.41907e+16 
+   4090.3096  7.50982e-16  4.02577e-15  7.38094e-16     150    89.000  1.46643e+16 
+   4094.4424  3.57267e-15  9.45042e-16  7.10374e-16     151    89.000  1.51491e+16 
+   4098.5796  1.34996e-15 -1.63249e-16  5.49789e-16     152    89.000  1.56762e+16 
+   4102.7207  9.61462e-15  4.49412e-16  8.61066e-16     153    89.000  1.62039e+16 
+   4106.8667  2.99206e-15  3.66858e-16  6.13015e-16     154    89.000  1.67736e+16 
+   4111.0171  7.64061e-15 -1.27745e-15  7.07883e-16     155    89.000  1.73448e+16 
+   4115.1719  8.33266e-15  3.12464e-16  7.64345e-16     156    89.000  1.79395e+16 
+   4119.3311  1.26499e-14 -3.16830e-15  7.72717e-16     157    89.000  1.85420e+16 
+   4123.4946  1.02004e-14 -1.18414e-16  7.73852e-16     158    89.000  1.91540e+16 
+   4127.6621  4.01587e-15  2.58067e-15  6.54460e-16     159    89.000  1.97740e+16 
+   4131.8345  1.40229e-14 -8.09865e-16  8.25330e-16     160    89.000  2.03955e+16 
+   4136.0107  5.84626e-15  4.39752e-16  6.18272e-16     161    89.000  2.10191e+16 
+   4140.1914 -5.22354e-15  3.44865e-15  3.54252e-16     162    89.000  2.16418e+16 
+   4144.3765  1.28450e-15 -1.06407e-15  3.56252e-16     163    89.000  2.22562e+16 
+   4148.5659  3.95060e-15 -4.79100e-15  3.35210e-16     164    89.000  2.28712e+16 
+   4152.7593  9.27030e-15  8.61658e-16  6.83026e-16     165    89.000  2.34672e+16 
+   4156.9570  1.26295e-14  2.25082e-15  7.85397e-16     166    89.000  2.40626e+16 
+   4161.1592  9.95395e-15 -2.02947e-15  6.04035e-16     167    89.000  2.46380e+16 
+   4165.3657  1.33065e-14  1.17809e-15  7.55883e-16     168    89.000  2.52071e+16 
+   4169.5762  6.76762e-15 -6.68136e-16  5.34698e-16     169    89.000  2.57596e+16 
+   4173.7910  1.31488e-14 -2.08948e-15  6.59859e-16     170    89.000  2.62994e+16 
+   4178.0098  3.11708e-15  1.94737e-15  4.88845e-16     171    89.000  2.68285e+16 
+   4182.2329  8.50342e-15 -3.54916e-15  4.79211e-16     172    89.000  2.73399e+16 
+   4186.4600  3.05990e-15  2.70440e-15  4.98298e-16     173    89.000  2.78466e+16 
+   4190.6914 -1.70841e-15 -3.50476e-16  2.70588e-16     174    89.000  2.83334e+16 
+   4194.9268  6.49856e-15  2.17254e-15  5.67000e-16     175    89.000  2.88201e+16 
+   4199.1665  9.07402e-15 -1.67379e-15  5.28279e-16     176    89.000  2.92881e+16 
+   4203.4106  3.96019e-15 -6.79072e-16  3.97830e-16     177    89.000  2.97567e+16 
+   4207.6582  8.68387e-15 -3.31774e-16  5.42898e-16     178    89.000  3.02145e+16 
+   4211.9106  1.04860e-14 -1.12196e-16  5.86802e-16     179    89.000  3.06712e+16 
+   4216.1665  9.93538e-16 -6.15773e-17  2.92624e-16     180    89.000  3.11241e+16 
+   4220.4268  6.31056e-15 -5.14682e-16  4.60343e-16     181    89.000  3.15758e+16 
+   4224.6909  8.14920e-15 -1.52391e-15  4.79248e-16     182    89.000  3.20283e+16 
+   4228.9590  2.72169e-15 -1.18107e-15  3.08603e-16     183    89.000  3.24815e+16 
+   4233.2314  5.54815e-15 -1.01981e-15  4.10790e-16     184    89.000  3.29375e+16 
+   4237.5078 -6.57342e-16  2.80045e-15  3.25840e-16     185    89.000  3.33977e+16 
+   4241.7881  5.55822e-15 -6.96168e-16  4.13430e-16     186    89.000  3.38606e+16 
+   4246.0728  9.06260e-15  1.99755e-15  5.64207e-16     187    89.000  3.43319e+16 
+   4250.3608  1.24332e-14 -1.47116e-15  5.57662e-16     188    89.000  3.48046e+16 
+   4254.6533  5.84729e-15  1.25305e-15  4.63538e-16     189    89.000  3.52895e+16 
+   4258.9497  8.02011e-15  2.70226e-17  4.83088e-16     190    89.000  3.57748e+16 
+   4263.2500  1.59594e-14 -7.71759e-16  6.27363e-16     191    89.000  3.62738e+16 
+   4267.5542  5.48437e-15 -7.60685e-16  3.87954e-16     192    89.000  3.67739e+16 
+   4271.8623  5.38851e-15  1.69097e-15  4.47778e-16     193    89.000  3.72856e+16 
+   4276.1743  6.76520e-15 -2.00149e-15  3.82302e-16     194    89.000  3.78005e+16 
+   4280.4902  4.79952e-15  2.21575e-15  4.38818e-16     195    89.000  3.83241e+16 
+   4284.8101  9.15722e-15 -1.87137e-15  4.41828e-16     196    89.000  3.88522e+16 
+   4289.1338  5.64191e-15  3.75658e-16  4.06461e-16     197    89.000  3.93861e+16 
+   4293.4609  9.29673e-16  5.18392e-16  2.59036e-16     198    89.000  3.99250e+16 
+   4297.7925  4.65938e-15 -1.69758e-16  3.58255e-16     199    89.000  4.04672e+16 
+   4302.1279  7.81709e-15  1.75942e-16  4.44238e-16     200    89.000  4.10138e+16 
+   4306.4668  1.17003e-16  1.54314e-15  2.59450e-16     201    89.000  4.15618e+16 
+   4310.8101  5.73011e-15 -9.74175e-16  3.56728e-16     202    89.000  4.21125e+16 
+   4315.1567  6.88671e-15 -4.86226e-16  3.96625e-16     203    89.000  4.26635e+16 
+   4319.5068  5.04599e-15  5.06052e-16  3.72208e-16     204    89.000  4.32143e+16 
+   4323.8613 -1.02880e-15  7.62655e-16  1.75176e-16     205    89.000  4.37655e+16 
+   4328.2192  5.89019e-15  3.46962e-16  3.83701e-16     206    89.000  4.43132e+16 
+   4332.5811  5.93961e-15 -1.98958e-15  3.20282e-16     207    89.000  4.48614e+16 
+   4336.9468 -6.68028e-17  1.42135e-15  2.31028e-16     208    89.000  4.54032e+16 
+   4341.3159  1.03057e-14 -1.05966e-15  4.42206e-16     209    89.000  4.59451e+16 
+   4345.6890  4.10932e-15 -1.74582e-16  3.12656e-16     210    89.000  4.64795e+16 
+   4350.0659  1.08931e-14 -1.80107e-16  4.65283e-16     211    89.000  4.70129e+16 
+   4354.4463  6.54947e-15 -6.62381e-16  3.59454e-16     212    89.000  4.75388e+16 
+   4358.8301  5.73671e-15  7.44695e-16  3.71245e-16     213    89.000  4.80624e+16 
+   4363.2178  3.79059e-15  8.35038e-16  3.22885e-16     214    89.000  4.85795e+16 
+   4367.6094  6.15157e-15  5.21463e-16  3.71025e-16     215    89.000  4.90932e+16 
+   4372.0044  6.06437e-15  7.64473e-17  3.56451e-16     216    89.000  4.96020e+16 
+   4376.4033  8.12297e-15 -2.58843e-17  3.97587e-16     217    89.000  5.01068e+16 
+   4380.8057  7.93638e-15 -9.91593e-17  3.89871e-16     218    89.000  5.06086e+16 
+   4385.2114  9.23714e-15 -1.31327e-16  4.13498e-16     219    89.000  5.11066e+16 
+   4389.6211  8.73680e-15  2.49098e-16  4.08882e-16     220    89.000  5.16034e+16 
+   4394.0342  3.55412e-15  7.41861e-16  3.00619e-16     221    89.000  5.20979e+16 
+   4398.4512  1.03125e-15 -1.35740e-16  1.88254e-16     222    89.000  5.25926e+16 
+   4402.8711  5.64952e-15 -5.92288e-16  3.16609e-16     223    89.000  5.30875e+16 
+   4407.2949  4.15817e-15 -2.27637e-16  2.85656e-16     224    89.000  5.35836e+16 
+   4411.7227  5.13238e-15 -1.66653e-15  2.71104e-16     225    89.000  5.40837e+16 
+   4416.1533  4.76439e-15 -2.41219e-16  2.97962e-16     226    89.000  5.45852e+16 
+   4420.5879  2.58252e-15  5.68876e-16  2.58900e-16     227    89.000  5.50955e+16 
+   4425.0254  5.04184e-15 -1.13713e-15  2.78433e-16     228    89.000  5.56069e+16 
+   4429.4668  9.06875e-15 -1.19435e-15  3.68179e-16     229    89.000  5.61328e+16 
+   4433.9116  4.86960e-15 -9.36439e-16  2.75966e-16     230    89.000  5.66591e+16 
+   4438.3604  2.75213e-15  1.57165e-15  2.84511e-16     231    89.000  5.72058e+16 
+   4442.8120  5.75848e-15  6.75046e-16  3.32345e-16     232    89.000  5.77533e+16 
+   4447.2671  5.68448e-15 -2.41735e-15  2.52900e-16     233    89.000  5.83246e+16 
+   4451.7261  3.93483e-15  2.34044e-16  2.75548e-16     234    89.000  5.88986e+16 
+   4456.1880  6.38974e-15 -5.90805e-16  3.12766e-16     235    89.000  5.94992e+16 
+   4460.6533  5.80982e-15 -4.16972e-16  3.01730e-16     236    89.000  6.01048e+16 
+   4465.1221 -2.60830e-15  2.58848e-15  1.26224e-16     237    89.000  6.07388e+16 
+   4469.5947  7.46211e-15  7.61217e-16  3.56714e-16     238    89.000  6.13808e+16 
+   4474.0703  5.48552e-15 -8.21951e-16  2.79096e-16     239    89.000  6.20521e+16 
+   4478.5493  5.42093e-15 -1.49938e-15  2.58896e-16     240    89.000  6.27346e+16 
+   4483.0312  8.57776e-15 -8.27768e-16  3.41164e-16     241    89.000  6.34466e+16 
+   4487.5171  6.65480e-15 -1.81152e-15  2.77787e-16     242    89.000  6.41733e+16 
+   4492.0063  3.38056e-15  6.36514e-16  2.55928e-16     243    89.000  6.49291e+16 
+   4496.4985  5.21061e-15 -1.21079e-15  2.53669e-16     244    89.000  6.57027e+16 
+   4500.9941  7.08067e-15  1.10091e-16  3.21549e-16     245    89.000  6.65044e+16 
+   4505.4927  5.74355e-15 -3.05739e-16  2.83325e-16     246    89.000  6.73270e+16 
+   4509.9951  3.80616e-15  9.13657e-16  2.65211e-16     247    89.000  6.81763e+16 
+   4514.5005  6.02421e-15  4.22218e-16  3.00213e-16     248    89.000  6.90492e+16 
+   4519.0093  5.10390e-15  2.74836e-16  2.75854e-16     249    89.000  6.99469e+16 
+   4523.5210  4.13732e-15  2.25715e-16  2.51009e-16     250    89.000  7.08703e+16 
+   4528.0361  4.98380e-15 -1.81216e-16  2.59084e-16     251    89.000  7.18161e+16 
+   4532.5542  7.30115e-15  2.28744e-17  3.08129e-16     252    89.000  7.27892e+16 
+   4537.0757  6.14558e-15  1.23714e-16  2.85667e-16     253    89.000  7.37823e+16 
+   4541.6006  4.91260e-15 -8.74509e-16  2.35563e-16     254    89.000  7.48034e+16 
+   4546.1284  3.14989e-15  4.65566e-16  2.23483e-16     255    89.000  7.58417e+16 
+   4550.6592  4.11952e-15 -6.77621e-17  2.32036e-16     256    89.000  7.69075e+16 
+   4555.1934  5.78853e-15 -1.58164e-15  2.33701e-16     257    89.000  7.79880e+16 
+   4559.7310  3.55879e-16  1.05033e-15  1.55599e-16     258    89.000  7.90948e+16 
+   4564.2715  5.56437e-15  4.56455e-16  2.67741e-16     259    89.000  8.02134e+16 
+   4568.8149  5.82729e-15 -1.74725e-16  2.58418e-16     260    89.000  8.13557e+16 
+   4573.3613  1.83781e-15 -2.60406e-16  1.56737e-16     261    89.000  8.25071e+16 
+   4577.9111  1.50132e-15  1.03593e-16  1.56132e-16     262    89.000  8.36788e+16 
+   4582.4639  5.61536e-15 -8.78503e-16  2.33839e-16     263    89.000  8.48569e+16 
+   4587.0200  2.35099e-15  6.76487e-16  1.93019e-16     264    89.000  8.60509e+16 
+   4591.5791  4.96469e-15 -8.67696e-16  2.16454e-16     265    89.000  8.72490e+16 
+   4596.1411  6.00206e-15 -6.27720e-16  2.41127e-16     266    89.000  8.84573e+16 
+   4600.7061  4.32704e-15 -7.79653e-17  2.16333e-16     267    89.000  8.96673e+16 
+   4605.2739  6.11198e-15 -4.09828e-16  2.43725e-16     268    89.000  9.08815e+16 
+   4609.8452  6.16855e-15  4.45676e-17  2.51297e-16     269    89.000  9.20956e+16 
+   4614.4189  3.36829e-15  4.92540e-17  1.93064e-16     270    89.000  9.33069e+16 
+   4618.9961  4.97772e-15  7.40537e-16  2.38739e-16     271    89.000  9.45164e+16 
+   4623.5762  7.60681e-15 -8.88199e-16  2.54774e-16     272    89.000  9.57167e+16 
+   4628.1592  7.69627e-15  6.07462e-16  2.78675e-16     273    89.000  9.69133e+16 
+   4632.7451  5.05005e-15  6.04027e-16  2.32683e-16     274    89.000  9.80941e+16 
+   4637.3340  2.36726e-15  8.10775e-16  1.80674e-16     275    89.000  9.92700e+16 
+   4641.9253  4.99387e-15 -5.93876e-16  2.05767e-16     276    89.000  1.00424e+17 
+   4646.5200  2.86804e-15  5.40291e-16  1.83468e-16     277    89.000  1.01572e+17 
+   4651.1177  6.50396e-15 -5.12179e-16  2.32800e-16     278    89.000  1.02693e+17 
+   4655.7178  2.84231e-15  8.02026e-16  1.86307e-16     279    89.000  1.03807e+17 
+   4660.3213  5.74171e-15 -8.45338e-16  2.10341e-16     280    89.000  1.04889e+17 
+   4664.9272  4.37386e-15  6.10598e-16  2.10794e-16     281    89.000  1.05964e+17 
+   4669.5361  5.14874e-15  1.25669e-16  2.14964e-16     282    89.000  1.07006e+17 
+   4674.1484  4.79891e-15  8.35355e-16  2.20214e-16     283    89.000  1.08038e+17 
+   4678.7627  5.51698e-15  5.23732e-16  2.26078e-16     284    89.000  1.09036e+17 
+   4683.3804  4.17059e-15 -3.75354e-16  1.83305e-16     285    89.000  1.10025e+17 
+   4688.0005  3.96304e-15  8.26399e-16  2.01831e-16     286    89.000  1.10979e+17 
+   4692.6235  4.40309e-15  1.00638e-15  2.12057e-16     287    89.000  1.11924e+17 
+   4697.2495  3.99393e-15  1.49437e-15  2.12485e-16     288    89.000  1.12836e+17 
+   4701.8779  6.03446e-15 -5.61371e-17  2.19875e-16     289    89.000  1.13739e+17 
+   4706.5093  7.69858e-15 -3.49828e-16  2.40639e-16     290    89.000  1.14611e+17 
+   4711.1436  5.00995e-15  3.49278e-16  2.07565e-16     291    89.000  1.15475e+17 
+   4715.7803  3.84249e-15 -2.26588e-16  1.73929e-16     292    89.000  1.16312e+17 
+   4720.4199  2.39531e-15  7.36103e-16  1.62973e-16     293    89.000  1.17141e+17 
+   4725.0615  2.94858e-15  3.07066e-16  1.65006e-16     294    89.000  1.17948e+17 
+   4729.7065  2.84744e-15  8.72585e-16  1.73995e-16     295    89.000  1.18748e+17 
+   4734.3545  3.16640e-15  5.61932e-17  1.63036e-16     296    89.000  1.19531e+17 
+   4739.0044  4.43464e-15  1.92481e-16  1.90030e-16     297    89.000  1.20309e+17 
+   4743.6572  4.22409e-15  4.62345e-16  1.90436e-16     298    89.000  1.21074e+17 
+   4748.3130  5.53534e-15 -4.40804e-16  1.96991e-16     299    89.000  1.21835e+17 
+   4752.9707  6.12707e-15 -3.58070e-16  2.07672e-16     300    89.000  1.22589e+17 
+   4757.6318  4.51383e-15  2.49491e-16  1.89858e-16     301    89.000  1.23342e+17 
+   4762.2949  4.23503e-15  1.29119e-15  2.02307e-16     302    89.000  1.24092e+17 
+   4766.9609  2.83678e-15 -4.27240e-16  1.40908e-16     303    89.000  1.24842e+17 
+   4771.6299  4.78634e-15  2.53337e-16  1.92783e-16     304    89.000  1.25594e+17 
+   4776.3008  4.09223e-15  5.09904e-16  1.84486e-16     305    89.000  1.26350e+17 
+   4780.9746  3.98341e-15 -4.47952e-16  1.63758e-16     306    89.000  1.27110e+17 
+   4785.6504  4.98544e-15  6.70172e-16  2.01124e-16     307    89.000  1.27876e+17 
+   4790.3291  6.55937e-15 -1.17859e-15  1.95973e-16     308    89.000  1.28650e+17 
+   4795.0107  4.63286e-15 -6.04032e-17  1.81515e-16     309    89.000  1.29433e+17 
+   4799.6943  5.40263e-15 -1.31595e-15  1.72096e-16     310    89.000  1.30225e+17 
+   4804.3804  5.48615e-15 -6.57206e-17  1.94671e-16     311    89.000  1.31029e+17 
+   4809.0693  6.54266e-15 -1.53032e-16  2.09207e-16     312    89.000  1.31844e+17 
+   4813.7603  4.87051e-15  2.76686e-16  1.88863e-16     313    89.000  1.32673e+17 
+   4818.4541  4.51572e-15  1.34312e-16  1.79780e-16     314    89.000  1.33513e+17 
+   4823.1504  5.60924e-15  5.42817e-16  2.03492e-16     315    89.000  1.34370e+17 
+   4827.8486  4.49363e-15  4.13565e-16  1.82898e-16     316    89.000  1.35238e+17 
+   4832.5498  5.03900e-15 -2.52813e-16  1.80200e-16     317    89.000  1.36125e+17 
+   4837.2529  5.35897e-15 -2.77762e-16  1.84481e-16     318    89.000  1.37022e+17 
+   4841.9590  6.88675e-15  1.54339e-17  2.11631e-16     319    89.000  1.37938e+17 
+   4846.6670  5.32147e-15  2.17184e-16  1.90489e-16     320    89.000  1.38864e+17 
+   4851.3774  4.50405e-15 -2.26000e-16  1.68837e-16     321    89.000  1.39811e+17 
+   4856.0903  4.26222e-15  1.22090e-16  1.70063e-16     322    89.000  1.40766e+17 
+   4860.8057  3.80696e-15 -1.54093e-16  1.56211e-16     323    89.000  1.41741e+17 
+   4865.5234  3.89303e-15  3.34541e-16  1.66041e-16     324    89.000  1.42722e+17 
+   4870.2432  6.47234e-15 -6.42299e-16  1.91439e-16     325    89.000  1.43724e+17 
+   4874.9653  4.62261e-15  2.36512e-16  1.75454e-16     326    89.000  1.44730e+17 
+   4879.6899  3.00697e-15  5.37626e-16  1.51765e-16     327    89.000  1.45754e+17 
+   4884.4165  2.62903e-15  3.63011e-16  1.40411e-16     328    89.000  1.46781e+17 
+   4889.1455  3.11775e-15 -5.14549e-18  1.42256e-16     329    89.000  1.47824e+17 
+   4893.8770  4.29873e-15 -3.90520e-17  1.62779e-16     330    89.000  1.48868e+17 
+   4898.6104  4.77450e-15 -5.22059e-17  1.69891e-16     331    89.000  1.49925e+17 
+   4903.3467  2.64165e-15  5.05221e-16  1.41235e-16     332    89.000  1.50983e+17 
+   4908.0845  2.97504e-15 -5.38354e-17  1.36209e-16     333    89.000  1.52048e+17 
+   4912.8247  5.24482e-15 -1.85685e-16  1.73326e-16     334    89.000  1.53113e+17 
+   4917.5674  2.20387e-15  2.20167e-16  1.24797e-16     335    89.000  1.54181e+17 
+   4922.3115  1.83582e-15 -1.11684e-17  1.10602e-16     336    89.000  1.55249e+17 
+   4927.0586  5.06287e-15 -7.45228e-17  1.70291e-16     337    89.000  1.56315e+17 
+   4931.8076  3.89195e-15  6.65871e-16  1.62810e-16     338    89.000  1.57379e+17 
+   4936.5591  5.40537e-15  8.67784e-17  1.76716e-16     339    89.000  1.58437e+17 
+   4941.3120  2.35302e-15 -2.53223e-16  1.15247e-16     340    89.000  1.59492e+17 
+   4946.0674  3.05549e-15 -2.54918e-16  1.29685e-16     341    89.000  1.60537e+17 
+   4950.8252  2.74698e-15  3.96644e-16  1.35884e-16     342    89.000  1.61577e+17 
+   4955.5850  4.53084e-15  3.55946e-16  1.65127e-16     343    89.000  1.62606e+17 
+   4960.3467  3.27871e-15 -9.29577e-16  1.18993e-16     344    89.000  1.63626e+17 
+   4965.1104  1.58653e-15 -2.27368e-16  9.51226e-17     345    89.000  1.64634e+17 
+   4969.8765  2.82743e-15  2.88324e-17  1.28504e-16     346    89.000  1.65630e+17 
+   4974.6440  4.22316e-15  4.11068e-16  1.59046e-16     347    89.000  1.66614e+17 
+   4979.4141  3.45107e-15  1.00204e-17  1.38938e-16     348    89.000  1.67583e+17 
+   4984.1865  4.27372e-15 -4.13680e-16  1.45447e-16     349    89.000  1.68540e+17 
+   4988.9604  2.42810e-15  1.98588e-16  1.22319e-16     350    89.000  1.69480e+17 
+   4993.7363  2.95265e-15  4.67859e-16  1.36935e-16     351    89.000  1.70409e+17 
+   4998.5146  4.62026e-16  4.15619e-16  7.91941e-17     352    89.000  1.71318e+17 
+   5003.2944  4.85394e-15 -4.87726e-16  1.52016e-16     353    89.000  1.72219e+17 
+   5008.0762  4.57098e-15 -1.34482e-15  1.32262e-16     354    89.000  1.73099e+17 
+   5012.8604  3.06855e-15  3.77206e-17  1.29696e-16     355    89.000  1.73972e+17 
+   5017.6465  2.49189e-16  4.77293e-16  7.33903e-17     356    89.000  1.74823e+17 
+   5022.4346  5.00254e-15 -9.23932e-16  1.45783e-16     357    89.000  1.75670e+17 
+   5027.2241  3.32208e-15  6.06902e-16  1.42961e-16     358    89.000  1.76495e+17 
+   5032.0156  3.60419e-15 -4.72623e-16  1.28790e-16     359    89.000  1.77318e+17 
+   5036.8096  2.16916e-15  7.13431e-16  1.23850e-16     360    89.000  1.78121e+17 
+   5041.6050  2.26756e-15  1.75198e-16  1.14949e-16     361    89.000  1.78923e+17 
+   5046.4023  2.63492e-15  2.56282e-16  1.23397e-16     362    89.000  1.79709e+17 
+   5051.2012  3.54559e-15 -2.91527e-16  1.29723e-16     363    89.000  1.80494e+17 
+   5056.0024  2.56179e-15  3.98067e-16  1.24080e-16     364    89.000  1.81269e+17 
+   5060.8057  3.80808e-15 -2.47826e-16  1.34430e-16     365    89.000  1.82043e+17 
+   5065.6104  3.77086e-15  2.55770e-16  1.41823e-16     366    89.000  1.82813e+17 
+   5070.4165  3.52191e-15 -1.81908e-16  1.30021e-16     367    89.000  1.83582e+17 
+   5075.2251  3.49996e-15 -1.88254e-16  1.29227e-16     368    89.000  1.84351e+17 
+   5080.0352  1.67685e-15 -3.26352e-16  8.82863e-17     369    89.000  1.85122e+17 
+   5084.8472  3.17310e-15  6.61936e-16  1.37450e-16     370    89.000  1.85896e+17 
+   5089.6606  3.41588e-15 -3.57048e-16  1.23861e-16     371    89.000  1.86675e+17 
+   5094.4761  3.28699e-15 -1.35160e-16  1.25234e-16     372    89.000  1.87460e+17 
+   5099.2935  3.44134e-15 -3.82204e-16  1.23289e-16     373    89.000  1.88256e+17 
+   5104.1123  2.83352e-15  6.23624e-16  1.29934e-16     374    89.000  1.89058e+17 
+   5108.9326  2.81708e-15  2.85820e-16  1.23485e-16     375    89.000  1.89875e+17 
+   5113.7554  3.81329e-15  2.38625e-16  1.39006e-16     376    89.000  1.90699e+17 
+   5118.5791  3.23449e-15  1.60622e-16  1.27956e-16     377    89.000  1.91545e+17 
+   5123.4048  3.06342e-15 -1.83620e-16  1.18580e-16     378    89.000  1.92396e+17 
+   5128.2324  4.27253e-15 -1.57650e-16  1.38979e-16     379    89.000  1.93276e+17 
+   5133.0615  9.81713e-16  3.49668e-16  8.52844e-17     380    89.000  1.94160e+17 
+   5137.8921  3.04416e-15 -1.19595e-16  1.18481e-16     381    89.000  1.95078e+17 
+   5142.7246  3.21210e-15  4.29101e-16  1.30427e-16     382    89.000  1.96001e+17 
+   5147.5586  3.88950e-15  1.87260e-16  1.36982e-16     383    89.000  1.96959e+17 
+   5152.3936  2.54504e-15 -6.79894e-17  1.09223e-16     384    89.000  1.97925e+17 
+   5157.2310  3.30188e-15  1.07629e-16  1.25572e-16     385    89.000  1.98926e+17 
+   5162.0698  3.74659e-15  4.21582e-16  1.37270e-16     386    89.000  1.99938e+17 
+   5166.9102  3.51079e-15 -3.76446e-16  1.20212e-16     387    89.000  2.00983e+17 
+   5171.7520  1.66017e-15  2.96841e-16  9.75275e-17     388    89.000  2.02044e+17 
+   5176.5952  3.48924e-15 -2.48516e-16  1.21323e-16     389    89.000  2.03133e+17 
+   5181.4404  1.44018e-15  9.51336e-16  1.05673e-16     390    89.000  2.04242e+17 
+   5186.2866  2.15346e-15 -2.97142e-16  9.44760e-17     391    89.000  2.05376e+17 
+   5191.1348  3.24531e-15 -2.00688e-18  1.20267e-16     392    89.000  2.06534e+17 
+   5195.9839  4.66052e-15 -1.93867e-16  1.38862e-16     393    89.000  2.07711e+17 
+   5200.8350  1.54785e-15  8.51658e-16  1.04489e-16     394    89.000  2.08916e+17 
+   5205.6875  3.04030e-15 -6.52014e-17  1.14584e-16     395    89.000  2.10135e+17 
+   5210.5415  2.89948e-15  7.36331e-17  1.14176e-16     396    89.000  2.11383e+17 
+   5215.3965  1.44952e-15  1.74804e-16  8.75534e-17     397    89.000  2.12640e+17 
+   5220.2534  1.86630e-15  5.60946e-16  1.03631e-16     398    89.000  2.13928e+17 
+   5225.1113  3.57934e-15  3.04615e-17  1.23475e-16     399    89.000  2.15220e+17 
+   5229.9712  3.49859e-15  1.67253e-16  1.23940e-16     400    89.000  2.16540e+17 
+   5234.8320  3.27647e-15  2.40624e-16  1.21208e-16     401    89.000  2.17864e+17 
+   5239.6943  2.87778e-15  1.03731e-16  1.12061e-16     402    89.000  2.19209e+17 
+   5244.5586  3.07660e-15  1.64977e-16  1.16000e-16     403    89.000  2.20558e+17 
+   5249.4238  3.05039e-15  8.91376e-17  1.13942e-16     404    89.000  2.21920e+17 
+   5254.2900  2.50340e-15  2.76191e-16  1.07484e-16     405    89.000  2.23285e+17 
+   5259.1577  2.80629e-15 -7.25247e-17  1.06326e-16     406    89.000  2.24657e+17 
+   5264.0269  4.34033e-15  1.02905e-17  1.31112e-16     407    89.000  2.26030e+17 
+   5268.8975  3.03163e-15  1.29386e-16  1.12784e-16     408    89.000  2.27404e+17 
+   5273.7695  3.34796e-15  5.80219e-17  1.16317e-16     409    89.000  2.28774e+17 
+   5278.6426  2.82081e-15  1.38382e-16  1.08742e-16     410    89.000  2.30141e+17 
+   5283.5166  3.03056e-15 -1.55914e-16  1.06980e-16     411    89.000  2.31498e+17 
+   5288.3926  1.26847e-15  4.78214e-16  8.56458e-17     412    89.000  2.32850e+17 
+   5293.2695  4.11336e-15 -2.26870e-16  1.22073e-16     413    89.000  2.34183e+17 
+   5298.1475  3.16843e-15 -5.11375e-16  1.02281e-16     414    89.000  2.35510e+17 
+   5303.0264  3.07881e-15 -2.40886e-16  1.05047e-16     415    89.000  2.36808e+17 
+   5307.9072  3.18769e-15  8.12314e-16  1.22623e-16     416    89.000  2.38102e+17 
+   5312.7891  2.74231e-15  2.79801e-18  1.02875e-16     417    89.000  2.39355e+17 
+   5317.6719  3.42840e-15  4.33278e-16  1.19960e-16     418    89.000  2.40603e+17 
+   5322.5562  4.94844e-15  2.67837e-16  1.37776e-16     419    89.000  2.41806e+17 
+   5327.4414  2.00046e-15  2.36065e-16  9.30883e-17     420    89.000  2.42996e+17 
+   5332.3281  3.37429e-15  4.10351e-17  1.12444e-16     421    89.000  2.44142e+17 
+   5337.2158  2.55713e-15  3.85554e-16  1.04763e-16     422    89.000  2.45267e+17 
+   5342.1045  3.40230e-15  2.01017e-17  1.12007e-16     423    89.000  2.46350e+17 
+   5346.9941  3.53480e-15  2.96538e-16  1.17752e-16     424    89.000  2.47403e+17 
+   5351.8853  3.31336e-15  9.00713e-17  1.11218e-16     425    89.000  2.48418e+17 
+   5356.7773  2.93820e-15  3.23826e-16  1.08835e-16     426    89.000  2.49392e+17 
+   5361.6704  2.28311e-15  2.12190e-17  9.27834e-17     427    89.000  2.50335e+17 
+   5366.5649  2.96167e-15 -7.47100e-17  1.02506e-16     428    89.000  2.51226e+17 
+   5371.4600  3.38648e-15  3.24928e-16  1.14863e-16     429    89.000  2.52095e+17 
+   5376.3564  4.07411e-15  8.70191e-17  1.20955e-16     430    89.000  2.52902e+17 
+   5381.2539  3.69274e-15  3.39440e-16  1.18988e-16     431    89.000  2.53695e+17 
+   5386.1523  5.38225e-15  9.70640e-18  1.36269e-16     432    89.000  2.54418e+17 
+   5391.0518  3.13434e-15  6.77082e-16  1.15552e-16     433    89.000  2.55132e+17 
+   5395.9521  4.05726e-15  1.26335e-16  1.20536e-16     434    89.000  2.55776e+17 
+   5400.8535  4.26434e-15 -1.00975e-16  1.20105e-16     435    89.000  2.56408e+17 
+   5405.7559  4.96304e-15 -2.00784e-16  1.27801e-16     436    89.000  2.56982e+17 
+   5410.6597  4.52826e-15  2.35971e-17  1.24960e-16     437    89.000  2.57536e+17 
+   5415.5640  4.55864e-15  3.06840e-16  1.28823e-16     438    89.000  2.58044e+17 
+   5420.4692  3.53010e-15  3.49362e-16  1.15691e-16     439    89.000  2.58526e+17 
+   5425.3755  5.35135e-15  1.12766e-16  1.35864e-16     440    89.000  2.58974e+17 
+   5430.2822  4.18114e-15  4.06205e-16  1.24944e-16     441    89.000  2.59391e+17 
+   5435.1904  3.09639e-15  1.60433e-16  1.06387e-16     442    89.000  2.59784e+17 
+   5440.0991  3.84031e-15  4.07664e-16  1.20317e-16     443    89.000  2.60146e+17 
+   5445.0088  3.64308e-15 -2.99873e-17  1.11467e-16     444    89.000  2.60491e+17 
+   5449.9199  5.03751e-15 -3.76499e-16  1.25527e-16     445    89.000  2.60805e+17 
+   5454.8315  3.71879e-15  1.41445e-16  1.14813e-16     446    89.000  2.61111e+17 
+   5459.7437  2.86538e-15  3.68271e-16  1.05686e-16     447    89.000  2.61388e+17 
+   5464.6567  3.89039e-15 -2.13542e-16  1.12109e-16     448    89.000  2.61660e+17 
+   5469.5708  4.72375e-15 -2.75314e-16  1.22518e-16     449    89.000  2.61910e+17 
+   5474.4858  4.33342e-15 -4.75966e-17  1.20328e-16     450    89.000  2.62158e+17 
+   5479.4014  2.65740e-15  2.69420e-16  1.00743e-16     451    89.000  2.62392e+17 
+   5484.3174  3.88043e-15  3.31658e-17  1.15198e-16     452    89.000  2.62623e+17 
+   5489.2349  2.22274e-15  3.89122e-16  9.55585e-17     453    89.000  2.62848e+17 
+   5494.1528  4.37174e-15  1.58055e-16  1.23282e-16     454    89.000  2.63073e+17 
+   5499.0713  5.21956e-15 -2.20463e-16  1.29112e-16     455    89.000  2.63298e+17 
+   5503.9912  3.91472e-15 -3.64208e-17  1.14501e-16     456    89.000  2.63526e+17 
+   5508.9111  3.47088e-15  5.48799e-16  1.16383e-16     457    89.000  2.63756e+17 
+   5513.8315  3.68666e-15  1.01529e-16  1.13143e-16     458    89.000  2.63994e+17 
+   5518.7534  4.18838e-15 -1.28581e-16  1.16814e-16     459    89.000  2.64236e+17 
+   5523.6758  4.38126e-15 -1.34249e-16  1.19253e-16     460    89.000  2.64492e+17 
+   5528.5981  2.40519e-15  5.80692e-16  1.01178e-16     461    89.000  2.64751e+17 
+   5533.5220  3.24205e-15  4.46090e-17  1.05693e-16     462    89.000  2.65032e+17 
+   5538.4463  3.68489e-15  1.40475e-16  1.13358e-16     463    89.000  2.65315e+17 
+   5543.3711  2.27596e-15  2.06742e-17  8.96563e-17     464    89.000  2.65622e+17 
+   5548.2964  2.82704e-15  1.73242e-16  1.01157e-16     465    89.000  2.65935e+17 
+   5553.2222  4.47416e-15 -4.75076e-17  1.21173e-16     466    89.000  2.66271e+17 
+   5558.1489  1.24764e-14  5.44202e-16  2.03773e-16     467    89.000  2.66618e+17 
+   5563.0762  2.65290e-15  5.04389e-17  9.62416e-17     468    89.000  2.66984e+17 
+   5568.0039  1.85880e-15  2.73596e-16  8.64207e-17     469    89.000  2.67367e+17 
+   5572.9326  3.20620e-15  9.13931e-17  1.05274e-16     470    89.000  2.67765e+17 
+   5577.8613  2.12549e-15  4.36823e-17  8.69343e-17     471    89.000  2.68184e+17 
+   5582.7910  1.13184e-15  1.37034e-16  6.89283e-17     472    89.000  2.68615e+17 
+   5587.7207  3.26801e-15 -4.78090e-17  1.03851e-16     473    89.000  2.69071e+17 
+   5592.6514  2.69548e-15  4.31530e-16  1.02358e-16     474    89.000  2.69534e+17 
+   5597.5825  3.88524e-15 -1.38343e-16  1.11219e-16     475    89.000  2.70024e+17 
+   5602.5137  1.71276e-15  1.37740e-18  7.79976e-17     476    89.000  2.70519e+17 
+   5607.4463  3.04041e-15 -4.36425e-16  9.38415e-17     477    89.000  2.71041e+17 
+   5612.3789  2.83110e-15  1.34336e-16  9.94825e-17     478    89.000  2.71567e+17 
+   5617.3115  3.13506e-15 -5.92557e-17  1.01060e-16     479    89.000  2.72116e+17 
+   5622.2451  1.32479e-15  4.58949e-16  7.90063e-17     480    89.000  2.72671e+17 
+   5627.1787  2.47081e-15 -2.40363e-17  9.08267e-17     481    89.000  2.73241e+17 
+   5632.1128  2.73953e-15  5.14229e-17  9.63217e-17     482    89.000  2.73820e+17 
+   5637.0474  2.60661e-15  2.02762e-16  9.64994e-17     483    89.000  2.74409e+17 
+   5641.9824  2.65243e-15  3.02617e-16  9.86495e-17     484    89.000  2.75006e+17 
+   5646.9180  2.53666e-15 -3.07103e-16  8.66897e-17     485    89.000  2.75609e+17 
+   5651.8535  3.33010e-15  2.95835e-16  1.08211e-16     486    89.000  2.76219e+17 
+   5656.7900  2.77071e-15  1.42162e-16  9.76495e-17     487    89.000  2.76832e+17 
+   5661.7261  4.34506e-15 -2.60575e-16  1.14156e-16     488    89.000  2.77448e+17 
+   5666.6631  3.06651e-15 -3.52710e-17  9.92195e-17     489    89.000  2.78065e+17 
+   5671.6001  2.91170e-15 -1.46616e-16  9.50009e-17     490    89.000  2.78682e+17 
+   5676.5371  2.86465e-15  1.44462e-16  9.86493e-17     491    89.000  2.79297e+17 
+   5681.4751  2.91761e-15  9.04436e-17  9.85177e-17     492    89.000  2.79908e+17 
+   5686.4131  2.68625e-15  3.66856e-16  9.90802e-17     493    89.000  2.80516e+17 
+   5691.3516  3.89177e-15  1.49827e-16  1.12803e-16     494    89.000  2.81116e+17 
+   5696.2900  2.81245e-15 -8.31708e-18  9.50557e-17     495    89.000  2.81711e+17 
+   5701.2285  2.83446e-15 -8.91456e-17  9.40305e-17     496    89.000  2.82296e+17 
+   5706.1680  2.74306e-15  4.19942e-17  9.45479e-17     497    89.000  2.82870e+17 
+   5711.1074  2.90330e-15 -1.34738e-16  9.41889e-17     498    89.000  2.83436e+17 
+   5716.0464  2.93912e-15  3.93988e-16  1.02516e-16     499    89.000  2.83986e+17 
+   5720.9863  2.28808e-15  1.82504e-16  8.92299e-17     500    89.000  2.84528e+17 
+   5725.9258  2.72881e-15 -2.59140e-16  8.91256e-17     501    89.000  2.85049e+17 
+   5730.8662  2.77410e-15  1.06249e-16  9.55309e-17     502    89.000  2.85565e+17 
+   5735.8062  2.78918e-15  4.34466e-16  1.00546e-16     503    89.000  2.86054e+17 
+   5740.7466  2.48364e-15 -5.21331e-17  8.82461e-17     504    89.000  2.86539e+17 
+   5745.6870  3.05892e-15  3.91768e-16  1.03601e-16     505    89.000  2.86996e+17 
+   5750.6279  2.84101e-15  2.84055e-16  9.88495e-17     506    89.000  2.87447e+17 
+   5755.5684  1.79355e-15  2.31220e-16  8.10590e-17     507    89.000  2.87873e+17 
+   5760.5088  3.53774e-15  4.04408e-17  1.05121e-16     508    89.000  2.88288e+17 
+   5765.4502  1.98724e-15 -1.62876e-16  7.72763e-17     509    89.000  2.88684e+17 
+   5770.3911  2.92201e-15  7.90658e-17  9.67221e-17     510    89.000  2.89064e+17 
+   5775.3320  2.20917e-15 -1.41306e-16  8.15811e-17     511    89.000  2.89430e+17 
+   5780.2734  2.24922e-15  8.56318e-18  8.48105e-17     512    89.000  2.89778e+17 
+   5785.2144  1.60213e-15  1.10838e-16  7.49582e-17     513    89.000  2.90115e+17 
+   5790.1553  2.39390e-15  4.57826e-17  8.77323e-17     514    89.000  2.90434e+17 
+   5795.0967  2.69046e-15 -2.25789e-17  9.13344e-17     515    89.000  2.90746e+17 
+   5800.0381  2.31772e-15 -1.73983e-16  8.26566e-17     516    89.000  2.91039e+17 
+   5804.9790  2.07298e-15  1.49960e-16  8.39714e-17     517    89.000  2.91329e+17 
+   5809.9199  3.18286e-15  4.87428e-17  9.96316e-17     518    89.000  2.91602e+17 
+   5814.8613  1.96288e-15  6.26199e-16  8.99006e-17     519    89.000  2.91874e+17 
+   5819.8027  1.78191e-15  2.30304e-16  8.01792e-17     520    89.000  2.92134e+17 
+   5824.7437  2.53175e-15 -1.21660e-17  8.87042e-17     521    89.000  2.92393e+17 
+   5829.6846  3.28480e-15 -5.30192e-17  9.94438e-17     522    89.000  2.92647e+17 
+   5834.6255  2.00578e-15  1.14737e-16  8.19649e-17     523    89.000  2.92900e+17 
+   5839.5664  2.38299e-15  2.09825e-16  8.97466e-17     524    89.000  2.93152e+17 
+   5844.5068  2.02749e-15  1.05325e-16  8.20999e-17     525    89.000  2.93407e+17 
+   5849.4473  2.93534e-15  1.62490e-16  9.73258e-17     526    89.000  2.93664e+17 
+   5854.3877  3.19763e-15  2.75235e-16  1.02599e-16     527    89.000  2.93929e+17 
+   5859.3281  3.99328e-15 -1.97596e-16  1.06914e-16     528    89.000  2.94197e+17 
+   5864.2686  3.68640e-15 -2.54286e-16  1.01932e-16     529    89.000  2.94479e+17 
+   5869.2080  3.48811e-15  4.37872e-16  1.08516e-16     530    89.000  2.94764e+17 
+   5874.1479  2.50057e-15  1.74978e-16  9.07261e-17     531    89.000  2.95073e+17 
+   5879.0879  3.29922e-15  2.23195e-16  1.03010e-16     532    89.000  2.95385e+17 
+   5884.0273  2.85527e-15  7.40590e-17  9.44819e-17     533    89.000  2.95722e+17 
+   5888.9663  2.33029e-15  5.12769e-16  9.31279e-17     534    89.000  2.96069e+17 
+   5893.9053  3.37039e-15  1.76312e-16  1.03146e-16     535    89.000  2.96441e+17 
+   5898.8438  3.14750e-15 -4.42873e-17  9.68463e-17     536    89.000  2.96830e+17 
+   5903.7827  3.79064e-15 -1.43209e-16  1.04360e-16     537    89.000  2.97243e+17 
+   5908.7207  2.55849e-15  4.03212e-16  9.46275e-17     538    89.000  2.97680e+17 
+   5913.6587  3.11629e-15  7.17147e-17  9.78376e-17     539    89.000  2.98137e+17 
+   5918.5967  2.61384e-15  3.98351e-17  8.98013e-17     540    89.000  2.98628e+17 
+   5923.5337  3.92816e-15  1.43300e-16  1.09541e-16     541    89.000  2.99135e+17 
+   5928.4707  3.68461e-15 -1.53581e-16  1.02339e-16     542    89.000  2.99685e+17 
+   5933.4077  4.09621e-15 -3.78856e-16  1.04736e-16     543    89.000  3.00244e+17 
+   5938.3438  3.24811e-15  1.62314e-16  1.00478e-16     544    89.000  3.00856e+17 
+   5943.2803  3.46604e-15  4.65293e-17  1.01764e-16     545    89.000  3.01477e+17 
+   5948.2158  2.52625e-15 -2.66199e-16  8.29284e-17     546    89.000  3.02149e+17 
+   5953.1514  3.85736e-15 -1.08164e-16  1.04680e-16     547    89.000  3.02834e+17 
+   5958.0859  2.90350e-15 -8.24416e-17  9.15537e-17     548    89.000  3.03565e+17 
+   5963.0205  1.91099e-15  2.14823e-16  8.03489e-17     549    89.000  3.04318e+17 
+   5967.9551  3.18647e-15  4.85494e-17  9.72991e-17     550    89.000  3.05108e+17 
+   5972.8887  2.97710e-15  1.16049e-16  9.51505e-17     551    89.000  3.05927e+17 
+   5977.8218  3.07078e-15  8.59238e-19  9.47019e-17     552    89.000  3.06775e+17 
+   5982.7549  3.37125e-15 -2.81093e-16  9.48209e-17     553    89.000  3.07660e+17 
+   5987.6875  2.90139e-15 -1.47764e-16  8.97437e-17     554    89.000  3.08565e+17 
+   5992.6191  2.67615e-15  9.12222e-17  8.98022e-17     555    89.000  3.09513e+17 
+   5997.5508  1.83927e-15 -1.56917e-17  7.41915e-17     556    89.000  3.10472e+17 
+   6002.4814  1.73241e-15  7.47703e-17  7.37616e-17     557    89.000  3.11478e+17 
+   6007.4121  2.88991e-15 -9.16470e-17  8.98009e-17     558    89.000  3.12490e+17 
+   6012.3418  2.26722e-15 -2.96076e-18  8.13372e-17     559    89.000  3.13547e+17 
+   6017.2715  2.36114e-15 -1.09311e-17  8.25774e-17     560    89.000  3.14610e+17 
+   6022.2002  3.37201e-15 -1.42276e-16  9.54718e-17     561    89.000  3.15708e+17 
+   6027.1284  2.72675e-15 -9.54889e-17  8.66412e-17     562    89.000  3.16816e+17 
+   6032.0562  2.64441e-15  9.57579e-17  8.81098e-17     563    89.000  3.17948e+17 
+   6036.9834  3.10012e-15 -1.73507e-16  9.06662e-17     564    89.000  3.19091e+17 
+   6041.9097  3.03922e-15 -1.85681e-16  8.94336e-17     565    89.000  3.20250e+17 
+   6046.8359  2.74262e-15 -4.78614e-17  8.69225e-17     566    89.000  3.21420e+17 
+   6051.7612  1.50944e-15  2.63318e-16  7.17229e-17     567    89.000  3.22597e+17 
+   6056.6855  1.94636e-15 -2.44654e-16  7.02884e-17     568    89.000  3.23782e+17 
+   6061.6099  2.56608e-15  7.32466e-17  8.55847e-17     569    89.000  3.24969e+17 
+   6066.5332  3.68448e-15  1.80892e-16  1.02121e-16     570    89.000  3.26157e+17 
+   6071.4561  3.09975e-15  2.65142e-16  9.54704e-17     571    89.000  3.27346e+17 
+   6076.3784  3.01694e-15  9.16157e-17  9.18135e-17     572    89.000  3.28525e+17 
+   6081.2998  3.45134e-15 -1.32634e-16  9.44928e-17     573    89.000  3.29701e+17 
+   6086.2202  3.06867e-15 -1.26944e-17  9.07410e-17     574    89.000  3.30860e+17 
+   6091.1406  2.54558e-15  1.67495e-16  8.56908e-17     575    89.000  3.32012e+17 
+   6096.0596  2.29441e-15 -1.37683e-16  7.69710e-17     576    89.000  3.33141e+17 
+   6100.9785  3.66803e-15  9.24167e-18  9.84576e-17     577    89.000  3.34256e+17 
+   6105.8960  2.31248e-15  4.90550e-17  7.99444e-17     578    89.000  3.35344e+17 
+   6110.8135  2.53249e-15  8.77193e-17  8.37260e-17     579    89.000  3.36408e+17 
+   6115.7295  2.33955e-15  1.98271e-16  8.23612e-17     580    89.000  3.37446e+17 
+   6120.6445  3.59625e-15 -8.66327e-17  9.56796e-17     581    89.000  3.38447e+17 
+   6125.5596  2.61806e-15 -1.54095e-16  8.09909e-17     582    89.000  3.39426e+17 
+   6130.4736  2.63149e-15  1.15257e-16  8.50450e-17     583    89.000  3.40353e+17 
+   6135.3862  3.62616e-15  1.41455e-16  9.85134e-17     584    89.000  3.41262e+17 
+   6140.2988  2.81129e-15  2.60240e-16  8.93542e-17     585    89.000  3.42105e+17 
+   6145.2100  1.96878e-15 -5.60702e-17  7.17471e-17     586    89.000  3.42938e+17 
+   6150.1206  2.62834e-15  9.52049e-18  8.30276e-17     587    89.000  3.43688e+17 
+   6155.0303  2.72953e-15 -8.19519e-17  8.30737e-17     588    89.000  3.44427e+17 
+   6159.9390  3.32637e-15 -2.98135e-17  9.19469e-17     589    89.000  3.45088e+17 
+   6164.8467  2.90157e-15  2.89810e-16  9.04667e-17     590    89.000  3.45726e+17 
+   6169.7539  3.45335e-15  7.41896e-17  9.47570e-17     591    89.000  3.46295e+17 
+   6174.6602  2.93661e-15  2.69648e-16  9.05118e-17     592    89.000  3.46829e+17 
+   6179.5654  3.42850e-15  1.03392e-16  9.46672e-17     593    89.000  3.47303e+17 
+   6184.4692  3.20186e-15  1.19117e-16  9.18959e-17     594    89.000  3.47729e+17 
+   6189.3726  2.67141e-15  1.38163e-16  8.49166e-17     595    89.000  3.48108e+17 
+   6194.2749  3.70820e-15  1.47574e-16  9.85187e-17     596    89.000  3.48428e+17 
+   6199.1758  2.99456e-15 -1.86518e-16  8.48168e-17     597    89.000  3.48713e+17 
+   6204.0762  2.82865e-15 -2.79130e-17  8.46856e-17     598    89.000  3.48928e+17 
+   6208.9756  2.31980e-15  9.19891e-17  7.89879e-17     599    89.000  3.49121e+17 
+   6213.8740  2.42778e-15  4.12743e-17  7.98339e-17     600    89.000  3.49236e+17 
+   6218.7710  2.70678e-15 -4.51253e-17  8.26491e-17     601    89.000  3.49341e+17 
+   6223.6670  2.47048e-15 -1.68747e-16  7.72780e-17     602    89.000  3.49363e+17 
+   6228.5625  3.01082e-15  3.07293e-17  8.79560e-17     603    89.000  3.49377e+17 
+   6233.4565  3.00355e-15  1.86091e-17  8.76999e-17     604    89.000  3.49323e+17 
+   6238.3496  2.90766e-15 -1.04484e-16  8.46784e-17     605    89.000  3.49253e+17 
+   6243.2412  2.74508e-15  2.10051e-16  8.68086e-17     606    89.000  3.49131e+17 
+   6248.1328  2.36280e-15  1.82835e-16  8.10013e-17     607    89.000  3.48988e+17 
+   6253.0225  2.92681e-15  1.22911e-17  8.66308e-17     608    89.000  3.48807e+17 
+   6257.9106  3.97287e-15  5.40967e-17  1.00549e-16     609    89.000  3.48602e+17 
+   6262.7979  3.02294e-15 -1.07872e-16  8.63563e-17     610    89.000  3.48370e+17 
+   6267.6846  2.84494e-15 -3.39892e-17  8.49355e-17     611    89.000  3.48113e+17 
+   6272.5698  2.35535e-15  1.12925e-16  7.99944e-17     612    89.000  3.47841e+17 
+   6277.4536  2.82011e-15 -2.19653e-17  8.48287e-17     613    89.000  3.47546e+17 
+   6282.3364  2.71539e-15 -9.99789e-17  8.22443e-17     614    89.000  3.47242e+17 
+   6287.2178  2.16734e-15  1.57790e-16  7.79330e-17     615    89.000  3.46921e+17 
+   6292.0986  2.70062e-15 -1.81247e-16  8.09119e-17     616    89.000  3.46596e+17 
+   6296.9775  2.58620e-15 -2.62040e-17  8.15557e-17     617    89.000  3.46259e+17 
+   6301.8555  2.35857e-15 -1.12178e-16  7.68298e-17     618    89.000  3.45922e+17 
+   6306.7324  2.39764e-15 -2.85415e-17  7.87718e-17     619    89.000  3.45582e+17 
+   6311.6079  2.82253e-15 -1.57093e-16  8.32279e-17     620    89.000  3.45243e+17 
+   6316.4814  2.45379e-15  6.24129e-17  8.10770e-17     621    89.000  3.44908e+17 
+   6321.3545  3.18196e-15 -9.59252e-17  8.92100e-17     622    89.000  3.44577e+17 
+   6326.2266  3.59301e-15 -1.53842e-16  9.39208e-17     623    89.000  3.44255e+17 
+   6331.0967  2.47139e-15  4.49272e-17  8.12015e-17     624    89.000  3.43941e+17 
+   6335.9653  2.13179e-15  2.22068e-16  7.87774e-17     625    89.000  3.43639e+17 
+   6340.8330  2.35855e-15  1.42497e-16  8.10482e-17     626    89.000  3.43350e+17 
+   6345.6992  2.19971e-15  1.91659e-17  7.67404e-17     627    89.000  3.43074e+17 
+   6350.5645  2.55774e-15  2.17112e-16  8.51197e-17     628    89.000  3.42816e+17 
+   6355.4277  1.90779e-15  1.98947e-17  7.20424e-17     629    89.000  3.42570e+17 
+   6360.2900  2.23297e-15  1.38508e-16  7.92090e-17     630    89.000  3.42349e+17 
+   6365.1509  2.24504e-15  4.15372e-17  7.79198e-17     631    89.000  3.42137e+17 
+   6370.0103  2.25328e-15  2.51179e-16  8.12772e-17     632    89.000  3.41955e+17 
+   6374.8682  2.67999e-15  5.94908e-17  8.47503e-17     633    89.000  3.41779e+17 
+   6379.7246  2.84505e-15  8.93894e-17  8.75290e-17     634    89.000  3.41639e+17 
+   6384.5801  2.72038e-15  1.68915e-16  8.69165e-17     635    89.000  3.41503e+17 
+   6389.4336  2.56494e-15 -1.32278e-16  8.02633e-17     636    89.000  3.41403e+17 
+   6394.2861  2.94901e-15  5.25924e-17  8.85054e-17     637    89.000  3.41308e+17 
+   6399.1367  2.35803e-15  1.88873e-16  8.20024e-17     638    89.000  3.41245e+17 
+   6403.9858  2.05532e-15  8.69544e-17  7.57448e-17     639    89.000  3.41190e+17 
+   6408.8335  2.70143e-15  4.08644e-18  8.43420e-17     640    89.000  3.41162e+17 
+   6413.6797  3.06679e-15  2.22676e-16  9.24144e-17     641    89.000  3.41145e+17 
+   6418.5244  1.96460e-15  3.30883e-16  7.81810e-17     642    89.000  3.41148e+17 
+   6423.3677  2.20620e-15 -6.52520e-17  7.57265e-17     643    89.000  3.41163e+17 
+   6428.2090  1.92114e-15 -9.77052e-17  7.04163e-17     644    89.000  3.41194e+17 
+   6433.0488  1.65994e-15  3.10615e-16  7.29182e-17     645    89.000  3.41236e+17 
+   6437.8877  2.01054e-15 -1.09775e-16  7.17341e-17     646    89.000  3.41288e+17 
+   6442.7246  2.40569e-15  6.92259e-17  8.09098e-17     647    89.000  3.41351e+17 
+   6447.5601  1.14796e-15  1.75896e-16  6.11188e-17     648    89.000  3.41419e+17 
+   6452.3936  1.15953e-15  2.99449e-16  6.37520e-17     649    89.000  3.41493e+17 
+   6457.2256  1.76195e-15  1.70014e-16  7.22305e-17     650    89.000  3.41571e+17 
+   6462.0557  1.61864e-15  2.74344e-17  6.72204e-17     651    89.000  3.41649e+17 
+   6466.8848  2.39185e-15 -6.30548e-17  7.86277e-17     652    89.000  3.41728e+17 
+   6471.7119  1.28099e-15  3.55692e-17  6.09343e-17     653    89.000  3.41801e+17 
+   6476.5371  9.56205e-16  1.21572e-16  5.59468e-17     654    89.000  3.41873e+17 
+   6481.3613  1.63101e-15  6.71880e-18  6.70380e-17     655    89.000  3.41932e+17 
+   6486.1831  1.43828e-15  1.20173e-16  6.55752e-17     656    89.000  3.41987e+17 
+   6491.0034  1.72769e-15 -1.08538e-16  6.66896e-17     657    89.000  3.42023e+17 
+   6495.8223  1.46742e-15 -2.92782e-16  5.80010e-17     658    89.000  3.42053e+17 
+   6500.6392  1.15489e-15  4.42972e-17  5.85138e-17     659    89.000  3.42058e+17 
+   6505.4546  1.62535e-15  8.86576e-17  6.83972e-17     660    89.000  3.42052e+17 
+   6510.2676  9.05333e-16 -4.05212e-17  5.10843e-17     661    89.000  3.42019e+17 
+   6515.0791  9.69495e-16 -2.30001e-17  5.30012e-17     662    89.000  3.41968e+17 
+   6519.8892  1.17127e-15  9.72210e-17  5.99560e-17     663    89.000  3.41889e+17 
+   6524.6973  9.39639e-16 -4.22651e-17  5.18761e-17     664    89.000  3.41785e+17 
+   6529.5039  1.18218e-15  2.42564e-16  6.30766e-17     665    89.000  3.41654e+17 
+   6534.3076  1.13007e-15  1.76253e-16  6.07604e-17     666    89.000  3.41491e+17 
+   6539.1104  1.32526e-15  9.44276e-17  6.30152e-17     667    89.000  3.41302e+17 
+   6543.9111  1.50397e-15 -9.32216e-17  6.28659e-17     668    89.000  3.41072e+17 
+   6548.7104  1.82471e-15  2.47908e-16  7.46574e-17     669    89.000  3.40821e+17 
+   6553.5078  1.43800e-15  4.72344e-17  6.43552e-17     670    89.000  3.40521e+17 
+   6558.3027  2.09331e-15  7.99424e-17  7.63628e-17     671    89.000  3.40204e+17 
+   6563.0962  1.64318e-15  2.62474e-17  6.78435e-17     672    89.000  3.39830e+17 
+   6567.8877  1.94493e-15  2.32027e-16  7.65150e-17     673    89.000  3.39445e+17 
+   6572.6768  2.07928e-15 -1.20283e-16  7.29873e-17     674    89.000  3.38997e+17 
+   6577.4648  1.59933e-15  6.80901e-18  6.68312e-17     675    89.000  3.38543e+17 
+   6582.2500  1.70092e-15  1.11207e-16  7.05827e-17     676    89.000  3.38022e+17 
+   6587.0337  2.14491e-15  2.09207e-17  7.65755e-17     677    89.000  3.37496e+17 
+   6591.8154  1.16676e-15  2.26781e-16  6.29661e-17     678    89.000  3.36907e+17 
+   6596.5952  1.44932e-15  1.06634e-16  6.61446e-17     679    89.000  3.36310e+17 
+   6601.3730  1.70032e-15  1.12856e-16  7.08748e-17     680    89.000  3.35658e+17 
+   6606.1484  1.55784e-15 -1.22044e-16  6.39956e-17     681    89.000  3.34995e+17 
+   6610.9229  2.32464e-15 -3.57760e-17  7.89422e-17     682    89.000  3.34285e+17 
+   6615.6943  1.55006e-15 -4.41121e-17  6.55025e-17     683    89.000  3.33562e+17 
+   6620.4639  2.29478e-15  1.15042e-16  8.10241e-17     684    89.000  3.32800e+17 
+   6625.2314  1.23466e-15  8.22760e-17  6.19557e-17     685    89.000  3.32023e+17 
+   6629.9971  1.89539e-15  1.44474e-16  7.52865e-17     686    89.000  3.31216e+17 
+   6634.7607  2.69835e-15  1.16264e-16  8.73933e-17     687    89.000  3.30394e+17 
+   6639.5220  2.33597e-15 -2.33043e-16  7.65432e-17     688    89.000  3.29550e+17 
+   6644.2812  1.34818e-15 -3.18475e-17  6.23003e-17     689    89.000  3.28692e+17 
+   6649.0381  2.60022e-15 -1.12787e-16  8.28863e-17     690    89.000  3.27819e+17 
+   6653.7939  1.81042e-15 -4.62233e-17  7.10404e-17     691    89.000  3.26935e+17 
+   6658.5469  1.78077e-15 -7.64218e-17  7.00650e-17     692    89.000  3.26042e+17 
+   6663.2974  1.77585e-15 -1.98676e-17  7.11092e-17     693    89.000  3.25142e+17 
+   6668.0459  1.85523e-15  1.64956e-16  7.58369e-17     694    89.000  3.24238e+17 
+   6672.7925  2.53516e-15 -7.51409e-18  8.41239e-17     695    89.000  3.23333e+17 
+   6677.5371  1.91370e-15 -9.32609e-17  7.25979e-17     696    89.000  3.22427e+17 
+   6682.2793  2.10356e-15  2.09851e-17  7.79421e-17     697    89.000  3.21526e+17 
+   6687.0190  2.89024e-15 -1.42111e-16  8.78313e-17     698    89.000  3.20627e+17 
+   6691.7568  2.17677e-15 -1.81617e-16  7.59926e-17     699    89.000  3.19740e+17 
+   6696.4922  1.34947e-15  2.90979e-17  6.46609e-17     700    89.000  3.18857e+17 
+   6701.2256  1.63712e-15  1.41200e-16  7.23981e-17     701    89.000  3.17994e+17 
+   6705.9565  1.99303e-15  1.15375e-16  7.82603e-17     702    89.000  3.17135e+17 
+   6710.6851  2.36850e-15  1.53760e-16  8.50450e-17     703    89.000  3.16304e+17 
+   6715.4116  1.71113e-15  1.36089e-16  7.39595e-17     704    89.000  3.15477e+17 
+   6720.1357  2.07699e-15 -8.77791e-17  7.65590e-17     705    89.000  3.14685e+17 
+   6724.8574  1.55584e-15  6.68179e-17  7.00314e-17     706    89.000  3.13896e+17 
+   6729.5771  1.69938e-15  1.06599e-16  7.35209e-17     707    89.000  3.13150e+17 
+   6734.2944  1.32319e-15  4.31554e-16  7.26838e-17     708    89.000  3.12408e+17 
+   6739.0093  2.14406e-15 -1.43948e-16  7.71497e-17     709    89.000  3.11711e+17 
+   6743.7217  1.48950e-15  8.26840e-17  6.94267e-17     710    89.000  3.11020e+17 
+   6748.4316  2.50654e-15 -1.62548e-16  8.30877e-17     711    89.000  3.10377e+17 
+   6753.1396  1.18983e-15  1.22956e-16  6.43784e-17     712    89.000  3.09742e+17 
+   6757.8447  1.80577e-15  1.20748e-16  7.62099e-17     713    89.000  3.09154e+17 
+   6762.5479  1.66580e-15 -2.46127e-17  7.10592e-17     714    89.000  3.08578e+17 
+   6767.2490  2.55688e-15  3.58145e-17  8.73681e-17     715    89.000  3.08048e+17 
+   6771.9468  1.92119e-15 -8.47636e-17  7.48180e-17     716    89.000  3.07533e+17 
+   6776.6426  2.67113e-15  3.91713e-17  8.93245e-17     717    89.000  3.07061e+17 
+   6781.3359  9.83620e-16  8.45638e-17  5.94012e-17     718    89.000  3.06606e+17 
+   6786.0264  1.80984e-15  2.13037e-16  7.83094e-17     719    89.000  3.06193e+17 
+   6790.7148  2.13802e-15 -2.38696e-16  7.61868e-17     720    89.000  3.05798e+17 
+   6795.4009  1.41858e-15 -3.12814e-16  6.03892e-17     721    89.000  3.05442e+17 
+   6800.0840  1.70972e-15  2.97871e-16  7.81970e-17     722    89.000  3.05105e+17 
+   6804.7651  1.63521e-15  3.12137e-17  7.20325e-17     723    89.000  3.04803e+17 
+   6809.4434  1.12189e-15  3.02340e-17  6.15358e-17     724    89.000  3.04520e+17 
+   6814.1191  2.49223e-15 -2.92438e-16  8.16071e-17     725    89.000  3.04269e+17 
+   6818.7930  2.00197e-15 -1.54334e-17  7.79790e-17     726    89.000  3.04037e+17 
+   6823.4629  2.30749e-15 -2.17115e-16  7.98129e-17     727    89.000  3.03832e+17 
+   6828.1309  2.53032e-15  1.67669e-16  8.96768e-17     728    89.000  3.03645e+17 
+   6832.7969  2.14540e-15 -1.58950e-16  7.80565e-17     729    89.000  3.03480e+17 
+   6837.4600  1.93034e-15  3.47566e-17  7.77012e-17     730    89.000  3.03332e+17 
+   6842.1201  1.88233e-15 -1.88798e-16  7.27594e-17     731    89.000  3.03202e+17 
+   6846.7783  1.90378e-15 -5.09525e-17  7.57244e-17     732    89.000  3.03086e+17 
+   6851.4331  2.29885e-15  1.57656e-16  8.60040e-17     733    89.000  3.02983e+17 
+   6856.0854  1.86231e-15 -1.92092e-17  7.55746e-17     734    89.000  3.02891e+17 
+   6860.7354  1.18214e-15  3.43319e-16  6.95638e-17     735    89.000  3.02808e+17 
+   6865.3828  2.68071e-15 -5.98731e-17  8.86325e-17     736    89.000  3.02732e+17 
+   6870.0273  1.32890e-15  3.12237e-16  7.18352e-17     737    89.000  3.02661e+17 
+   6874.6689  1.78478e-15  2.06431e-17  7.49270e-17     738    89.000  3.02592e+17 
+   6879.3076  1.93018e-15 -2.71950e-17  7.67086e-17     739    89.000  3.02524e+17 
+   6883.9443  1.85686e-15  1.73144e-16  7.89663e-17     740    89.000  3.02453e+17 
+   6888.5781  1.26695e-15 -1.80414e-16  6.03095e-17     741    89.000  3.02380e+17 
+   6893.2090  1.54083e-15  1.45183e-16  7.27390e-17     742    89.000  3.02299e+17 
+   6897.8369  1.70492e-15 -2.17797e-17  7.26963e-17     743    89.000  3.02212e+17 
+   6902.4624  1.57344e-15  1.27969e-16  7.30554e-17     744    89.000  3.02112e+17 
+   6907.0850  2.10206e-15 -5.72892e-17  7.92887e-17     745    89.000  3.02003e+17 
+   6911.7051  1.27491e-15  1.01176e-16  6.66613e-17     746    89.000  3.01875e+17 
+   6916.3223  1.79777e-15 -3.62061e-17  7.42340e-17     747    89.000  3.01737e+17 
+   6920.9360  1.28308e-15  1.93182e-16  6.87429e-17     748    89.000  3.01574e+17 
+   6925.5474  1.07886e-15  6.67648e-17  6.17621e-17     749    89.000  3.01399e+17 
+   6930.1562  1.36193e-15 -5.29309e-17  6.53421e-17     750    89.000  3.01195e+17 
+   6934.7617  1.73865e-15 -3.97298e-17  7.31627e-17     751    89.000  3.00976e+17 
+   6939.3643  1.67385e-15  1.33799e-16  7.52269e-17     752    89.000  3.00725e+17 
+   6943.9648  1.35078e-15  7.52827e-17  6.78703e-17     753    89.000  3.00457e+17 
+   6948.5615  8.28766e-16  1.22651e-16  5.73924e-17     754    89.000  3.00155e+17 
+   6953.1553  1.27636e-15  8.98364e-17  6.67149e-17     755    89.000  2.99834e+17 
+   6957.7471  4.47740e-16  1.33310e-16  4.76677e-17     756    89.000  2.99477e+17 
+   6962.3354  1.35443e-15 -1.78630e-17  6.61881e-17     757    89.000  2.99101e+17 
+   6966.9209  7.69031e-16  2.25228e-17  5.35469e-17     758    89.000  2.98687e+17 
+   6971.5029  1.53478e-15  1.08888e-16  7.24792e-17     759    89.000  2.98254e+17 
+   6976.0830  9.71460e-16  1.81568e-16  6.23661e-17     760    89.000  2.97784e+17 
+   6980.6592  1.41895e-15 -1.37406e-16  6.52478e-17     761    89.000  2.97293e+17 
+   6985.2329  4.88427e-16  2.73983e-17  4.59984e-17     762    89.000  2.96767e+17 
+   6989.8032  1.98941e-15 -1.55746e-16  7.63439e-17     763    89.000  2.96220e+17 
+   6994.3711  1.30055e-15 -2.21798e-16  6.09360e-17     764    89.000  2.95641e+17 
+   6998.9355  1.56763e-15 -1.32687e-16  6.87615e-17     765    89.000  2.95041e+17 
+   7003.4971  1.75290e-15 -6.11686e-19  7.50864e-17     766    89.000  2.94413e+17 
+   7008.0557  1.67935e-15 -1.00931e-16  7.18239e-17     767    89.000  2.93764e+17 
+   7012.6108  1.53601e-15 -2.06181e-16  6.68230e-17     768    89.000  2.93091e+17 
+   7017.1631  1.63273e-15  2.01167e-16  7.69029e-17     769    89.000  2.92399e+17 
+   7021.7129  1.22512e-15 -1.03463e-16  6.24127e-17     770    89.000  2.91686e+17 
+   7026.2588  6.25465e-16 -1.11860e-16  4.65331e-17     771    89.000  2.90956e+17 
+   7030.8018  1.57395e-15  8.05641e-17  7.38159e-17     772    89.000  2.90211e+17 
+   7035.3418  1.76875e-15  1.21778e-16  7.83862e-17     773    89.000  2.89451e+17 
+   7039.8789  1.69243e-15 -1.37594e-16  7.20668e-17     774    89.000  2.88681e+17 
+   7044.4126  1.98787e-15 -1.96025e-16  7.67836e-17     775    89.000  2.87899e+17 
+   7048.9434  2.10746e-15 -1.04866e-16  8.07808e-17     776    89.000  2.87110e+17 
+   7053.4707  1.39720e-15  2.41193e-17  6.96697e-17     777    89.000  2.86314e+17 
+   7057.9946  1.39445e-15  1.92003e-16  7.31534e-17     778    89.000  2.85515e+17 
+   7062.5156  1.06048e-15 -6.17717e-17  6.04008e-17     779    89.000  2.84713e+17 
+   7067.0332  8.41318e-16  1.03510e-16  5.91815e-17     780    89.000  2.83912e+17 
+   7071.5479  8.53470e-16  1.39791e-16  6.04731e-17     781    89.000  2.83111e+17 
+   7076.0596  9.84044e-16  7.51573e-17  6.21611e-17     782    89.000  2.82315e+17 
+   7080.5674  1.08947e-15 -2.16383e-16  5.76717e-17     783    89.000  2.81524e+17 
+   7085.0728  8.93215e-16  7.54613e-17  6.01760e-17     784    89.000  2.80740e+17 
+   7089.5742  9.61449e-16  5.38392e-17  6.14162e-17     785    89.000  2.79967e+17 
+   7094.0723  9.65253e-16 -3.95732e-17  5.93034e-17     786    89.000  2.79201e+17 
+   7098.5674  1.10247e-15  8.19302e-18  6.38906e-17     787    89.000  2.78453e+17 
+   7103.0596  1.39610e-15 -6.68388e-17  6.89266e-17     788    89.000  2.77711e+17 
+   7107.5479  9.66013e-16  5.21143e-17  6.18799e-17     789    89.000  2.76993e+17 
+   7112.0327  1.30375e-15 -4.56856e-17  6.75622e-17     790    89.000  2.76282e+17 
+   7116.5146  7.86563e-16  8.13312e-17  5.82934e-17     791    89.000  2.75599e+17 
+   7120.9932  2.23710e-15 -3.15898e-17  8.63882e-17     792    89.000  2.74922e+17 
+   7125.4688  5.78977e-16  3.90534e-17  5.15662e-17     793    89.000  2.74279e+17 
+   7129.9404  4.45024e-16  1.65573e-16  5.14243e-17     794    89.000  2.73639e+17 
+   7134.4087  1.90891e-15 -2.07037e-16  7.73476e-17     795    89.000  2.73039e+17 
+   7138.8735  8.46719e-16 -1.72021e-16  5.34382e-17     796    89.000  2.72440e+17 
+   7143.3350  6.96833e-16  1.39136e-18  5.41778e-17     797    89.000  2.71884e+17 
+   7147.7930  1.16049e-15 -2.09614e-16  6.09819e-17     798    89.000  2.71330e+17 
+   7152.2480  9.44384e-16  2.41692e-16  6.67164e-17     799    89.000  2.70818e+17 
+   7156.6992  1.89661e-15 -1.87668e-16  7.79290e-17     800    89.000  2.70309e+17 
+   7161.1465  7.82348e-16  1.49056e-16  6.06930e-17     801    89.000  2.69840e+17 
+   7165.5908  1.11257e-15 -3.30501e-16  5.68278e-17     802    89.000  2.69377e+17 
+   7170.0322  1.67862e-15  2.49906e-16  8.23898e-17     803    89.000  2.68950e+17 
+   7174.4692  1.33093e-15  1.91709e-17  7.07454e-17     804    89.000  2.68531e+17 
+   7178.9033  1.15057e-15  1.60393e-16  6.99407e-17     805    89.000  2.68143e+17 
+   7183.3335  9.71112e-16  3.06599e-18  6.20612e-17     806    89.000  2.67766e+17 
+   7187.7603  5.99730e-16 -1.67899e-19  5.18684e-17     807    89.000  2.67415e+17 
+   7192.1836  1.58770e-15  2.82167e-16  8.15989e-17     808    89.000  2.67077e+17 
+   7196.6035  1.50242e-15 -3.16683e-16  6.73063e-17     809    89.000  2.66759e+17 
+   7201.0195  3.01689e-16  1.23138e-16  4.64380e-17     810    89.000  2.66456e+17 
+   7205.4326  1.31286e-15  1.95807e-16  7.45192e-17     811    89.000  2.66168e+17 
+   7209.8413  1.00918e-15  2.61404e-16  6.93792e-17     812    89.000  2.65894e+17 
+   7214.2466  2.02920e-16  3.28924e-16  5.00154e-17     813    89.000  2.65630e+17 
+   7218.6484  1.25479e-15  2.93110e-17  6.97630e-17     814    89.000  2.65380e+17 
+   7223.0464  1.16375e-15  1.14095e-16  6.96597e-17     815    89.000  2.65136e+17 
+   7227.4409  7.55893e-16 -8.35473e-17  5.43382e-17     816    89.000  2.64904e+17 
+   7231.8320  8.29446e-16 -1.08781e-16  5.57504e-17     817    89.000  2.64674e+17 
+   7236.2192  1.02721e-15 -1.60274e-16  5.97690e-17     818    89.000  2.64453e+17 
+   7240.6025  9.33401e-16  8.00337e-17  6.35455e-17     819    89.000  2.64233e+17 
+   7244.9824  7.23219e-16 -7.31090e-17  5.38075e-17     820    89.000  2.64015e+17 
+   7249.3584  1.65880e-15 -1.34353e-16  7.52351e-17     821    89.000  2.63798e+17 
+   7253.7314  8.96965e-16 -2.05084e-17  6.01421e-17     822    89.000  2.63579e+17 
+   7258.0996  8.13731e-16  4.90986e-17  5.98136e-17     823    89.000  2.63360e+17 
+   7262.4648  9.67063e-16 -1.05007e-17  6.22764e-17     824    89.000  2.63132e+17 
+   7266.8262  1.34029e-15 -1.06264e-16  6.90067e-17     825    89.000  2.62903e+17 
+   7271.1836  1.39435e-15 -1.03883e-16  7.03287e-17     826    89.000  2.62662e+17 
+   7275.5371  1.24730e-15 -1.45449e-16  6.59739e-17     827    89.000  2.62419e+17 
+   7279.8867  5.42903e-16  1.21562e-16  5.44734e-17     828    89.000  2.62161e+17 
+   7284.2334  1.61899e-16 -3.72253e-17  3.54069e-17     829    89.000  2.61897e+17 
+   7288.5757  6.14076e-16 -6.14936e-17  5.11755e-17     830    89.000  2.61617e+17 
+   7292.9141  1.22546e-15 -1.20143e-16  6.62222e-17     831    89.000  2.61328e+17 
+   7297.2485  1.05304e-15 -9.57327e-17  6.26014e-17     832    89.000  2.61025e+17 
+   7301.5796  1.40847e-15 -1.37172e-16  7.02029e-17     833    89.000  2.60706e+17 
+   7305.9062  8.88599e-16  8.40369e-17  6.30864e-17     834    89.000  2.60376e+17 
+   7310.2295  1.62115e-15  2.01462e-17  7.82903e-17     835    89.000  2.60026e+17 
+   7314.5488  1.24052e-15  9.09149e-17  7.17258e-17     836    89.000  2.59668e+17 
+   7318.8643  1.19454e-15  1.88532e-17  6.90948e-17     837    89.000  2.59284e+17 
+   7323.1758  1.13757e-15 -1.92097e-16  6.26112e-17     838    89.000  2.58898e+17 
+   7327.4829  8.79495e-16 -3.36592e-17  6.00561e-17     839    89.000  2.58480e+17 
+   7331.7866  7.33546e-16  4.58601e-17  5.83048e-17     840    89.000  2.58063e+17 
+   7336.0859  1.33404e-15  6.54925e-17  7.35725e-17     841    89.000  2.57614e+17 
+   7340.3818  1.50408e-15  1.40034e-16  7.88447e-17     842    89.000  2.57164e+17 
+   7344.6738  7.85019e-16 -1.45182e-16  5.44915e-17     843    89.000  2.56688e+17 
+   7348.9614  1.84317e-15 -1.67516e-16  7.96596e-17     844    89.000  2.56206e+17 
+   7353.2451  1.06925e-15  3.32508e-17  6.70219e-17     845    89.000  2.55706e+17 
+   7357.5249  4.43510e-16  1.92989e-16  5.45984e-17     846    89.000  2.55196e+17 
+   7361.8008  8.06795e-16 -1.01559e-16  5.66911e-17     847    89.000  2.54673e+17 
+   7366.0723  8.54554e-16  1.26666e-16  6.42457e-17     848    89.000  2.54138e+17 
+   7370.3398  7.49030e-16  1.18954e-16  6.13693e-17     849    89.000  2.53596e+17 
+   7374.6035  9.52600e-16 -8.88278e-18  6.34500e-17     850    89.000  2.53040e+17 
+   7378.8633  8.74338e-16 -7.32514e-17  5.97169e-17     851    89.000  2.52481e+17 
+   7383.1187 -4.41422e-17 -1.49076e-16  3.04343e-17     852    89.000  2.51909e+17 
+   7387.3701  1.19465e-15  2.80405e-18  7.00054e-17     853    89.000  2.51336e+17 
+   7391.6172  3.66983e-16 -2.99604e-17  4.53305e-17     854    89.000  2.50751e+17 
+   7395.8604  7.68770e-16  3.46928e-18  5.92587e-17     855    89.000  2.50167e+17 
+   7400.0996 -4.43268e-17  1.25217e-16  3.48387e-17     856    89.000  2.49576e+17 
+   7404.3345  1.43192e-15  1.89292e-17  7.61842e-17     857    89.000  2.48983e+17 
+   7408.5654  1.02795e-15 -1.61098e-16  6.21363e-17     858    89.000  2.48388e+17 
+   7412.7920  8.22843e-16 -1.55606e-16  5.65795e-17     859    89.000  2.47791e+17 
+   7417.0146  1.65321e-15 -1.86680e-16  7.68495e-17     860    89.000  2.47194e+17 
+   7421.2324  6.24152e-16 -4.05476e-17  5.42107e-17     861    89.000  2.46595e+17 
+   7425.4468  1.50383e-15 -1.78016e-16  7.39092e-17     862    89.000  2.45998e+17 
+   7429.6562 -2.49409e-16  2.74584e-17  3.12415e-17     863    89.000  2.45400e+17 
+   7433.8623  3.12779e-16  1.80169e-16  5.15639e-17     864    89.000  2.44803e+17 
+   7438.0635  1.46773e-15  1.40219e-16  8.04523e-17     865    89.000  2.44207e+17 
+   7442.2607  7.66951e-16  3.93249e-17  6.12250e-17     866    89.000  2.43611e+17 
+   7446.4536  1.09278e-15 -1.39970e-16  6.52883e-17     867    89.000  2.43016e+17 
+   7450.6426  1.37002e-15 -2.84670e-17  7.49121e-17     868    89.000  2.42421e+17 
+   7454.8271  1.19863e-15  1.62686e-17  7.20531e-17     869    89.000  2.41826e+17 
+   7459.0068  1.52524e-15 -1.83271e-16  7.51392e-17     870    89.000  2.41231e+17 
+   7463.1826  7.45138e-16  1.02729e-16  6.28595e-17     871    89.000  2.40633e+17 
+   7467.3545  8.24378e-16  1.85544e-16  6.72779e-17     872    89.000  2.40034e+17 
+   7471.5210  1.70755e-15 -4.00526e-17  8.26374e-17     873    89.000  2.39433e+17 
+   7475.6836  1.01819e-15  3.96665e-17  6.87146e-17     874    89.000  2.38826e+17 
+   7479.8423  5.62811e-16 -2.02496e-16  4.79190e-17     875    89.000  2.38217e+17 
+   7483.9961  5.79261e-16  6.36568e-17  5.74122e-17     876    89.000  2.37596e+17 
+   7488.1465  1.11642e-15 -1.52474e-17  7.01355e-17     877    89.000  2.36976e+17 
+   7492.2915  8.10419e-16  1.47474e-17  6.29439e-17     878    89.000  2.36336e+17 
+   7496.4316  5.36727e-16  2.05695e-16  6.06876e-17     879    89.000  2.35695e+17 
+   7500.5688  8.47743e-16  4.60591e-17  6.50619e-17     880    89.000  2.35035e+17 
+   7504.7002  1.07134e-15 -2.99288e-16  6.17677e-17     881    89.000  2.34367e+17 
+   7508.8281  6.31869e-16  5.02415e-17  5.92354e-17     882    89.000  2.33681e+17 
+   7512.9512  1.17601e-15  8.26027e-17  7.47316e-17     883    89.000  2.32978e+17 
+   7517.0698  1.37505e-15  2.26342e-17  7.81298e-17     884    89.000  2.32264e+17 
+   7521.1846  4.06047e-16  2.29058e-16  5.81603e-17     885    89.000  2.31517e+17 
+   7525.2939  1.13837e-15 -3.43989e-17  7.13458e-17     886    89.000  2.30770e+17 
+   7529.3994  1.15569e-15 -1.40863e-16  6.92006e-17     887    89.000  2.29973e+17 
+   7533.5000  1.45569e-15  7.97679e-17  8.18675e-17     888    89.000  2.29177e+17 
+   7537.5957  7.74259e-16 -8.41235e-17  6.03827e-17     889    89.000  2.28337e+17 
+   7541.6875  7.70356e-16 -1.11145e-16  5.95878e-17     890    89.000  2.27485e+17 
+   7545.7744  2.79293e-16  1.36094e-16  5.16943e-17     891    89.000  2.26599e+17 
+   7549.8574  3.76214e-16  3.19217e-16  6.10070e-17     892    89.000  2.25685e+17 
+   7553.9355  7.36605e-16  2.51598e-16  6.94809e-17     893    89.000  2.24754e+17 
+   7558.0088  1.22718e-17  1.38717e-16  4.16661e-17     894    89.000  2.23776e+17 
+   7562.0776  1.01456e-15 -1.60797e-17  7.01338e-17     895    89.000  2.22797e+17 
+   7566.1416  6.42497e-16 -1.48947e-16  5.52271e-17     896    89.000  2.21753e+17 
+   7570.2012  4.28382e-16  1.16415e-16  5.71277e-17     897    89.000  2.20711e+17 
+   7574.2568  9.75833e-16 -2.68408e-17  6.94228e-17     898    89.000  2.19620e+17 
+   7578.3066  2.67036e-16  1.93536e-16  5.46575e-17     899    89.000  2.18514e+17 
+   7582.3525  8.24276e-16  3.94565e-16  7.69179e-17     900    89.000  2.17379e+17 
+   7586.3936  7.65824e-16 -1.42971e-16  6.04811e-17     901    89.000  2.16213e+17 
+   7590.4297  1.85247e-16 -1.65422e-16  3.67144e-17     902    89.000  2.15037e+17 
+   7594.4609  8.29160e-17  7.25095e-17  4.34902e-17     903    89.000  2.13819e+17 
+   7598.4883  3.06208e-16  9.40990e-17  5.35678e-17     904    89.000  2.12602e+17 
+   7602.5098 -1.04590e-16  4.62513e-17  3.62760e-17     905    89.000  2.11343e+17 
+   7606.5273  6.27065e-16  8.95452e-17  6.46091e-17     906    89.000  2.10082e+17 
+   7610.5400  6.81468e-16  8.54204e-17  6.63997e-17     907    89.000  2.08799e+17 
+   7614.5479  7.42373e-16  1.31122e-16  6.98071e-17     908    89.000  2.07505e+17 
+   7618.5513  9.08772e-16 -2.03785e-16  6.50493e-17     909    89.000  2.06204e+17 
+   7622.5498  4.57642e-16  1.38947e-16  6.18602e-17     910    89.000  2.04888e+17 
+   7626.5430  1.99588e-16  2.23032e-19  4.72889e-17     911    89.000  2.03574e+17 
+   7630.5322  1.05274e-15  1.69701e-16  8.04596e-17     912    89.000  2.02249e+17 
+   7634.5161  6.28268e-17  1.14509e-17  4.19998e-17     913    89.000  2.00927e+17 
+   7638.4951  1.00534e-15 -1.26188e-17  7.49648e-17     914    89.000  1.99607e+17 
+   7642.4697  2.80302e-16  4.35211e-16  6.70965e-17     915    89.000  1.98289e+17 
+   7646.4390  1.13291e-15 -8.48190e-17  7.71294e-17     916    89.000  1.96978e+17 
+   7650.4033  7.65737e-16  9.23742e-20  6.92570e-17     917    89.000  1.95677e+17 
+   7654.3633  5.74578e-16 -2.07440e-17  6.26898e-17     918    89.000  1.94379e+17 
+   7658.3179  4.32562e-16 -8.23669e-17  5.55650e-17     919    89.000  1.93105e+17 
+   7662.2681  8.74490e-16  9.21134e-17  7.61329e-17     920    89.000  1.91833e+17 
+   7666.2129 -1.00478e-17 -4.24391e-17  4.02265e-17     921    89.000  1.90588e+17 
+   7670.1528  1.25754e-15  1.35696e-16  8.81530e-17     922    89.000  1.89352e+17 
+   7674.0884 -4.33133e-16 -8.41151e-17  4.07512e-17     923    89.000  1.88134e+17 
+   7678.0181  6.34657e-16 -1.68122e-16  6.13319e-17     924    89.000  1.86940e+17 
+   7681.9438  1.41948e-15 -2.16804e-16  8.42559e-17     925    89.000  1.85752e+17 
+   7685.8638  1.00627e-15 -2.23759e-16  7.25059e-17     926    89.000  1.84604e+17 
+   7689.7793  5.36837e-16 -1.51207e-16  5.91444e-17     927    89.000  1.83458e+17 
+   7693.6890  8.74196e-16 -5.12289e-17  7.43559e-17     928    89.000  1.82345e+17 
+   7697.5947  2.33970e-16  6.72614e-17  5.63413e-17     929    89.000  1.81244e+17 
+   7701.4946  1.23961e-16  8.56827e-17  5.27319e-17     930    89.000  1.80159e+17 
+   7705.3901  1.29764e-15 -3.38881e-17  8.78212e-17     931    89.000  1.79099e+17 
+   7709.2803  1.47159e-15  5.78421e-17  9.49363e-17     932    89.000  1.78041e+17 
+   7713.1655  5.20019e-16  1.14391e-16  6.97313e-17     933    89.000  1.77015e+17 
+   7717.0449  1.29454e-16  4.82316e-17  5.23364e-17     934    89.000  1.75990e+17 
+   7720.9204  1.25080e-15 -2.09272e-16  8.29454e-17     935    89.000  1.74979e+17 
+   7724.7905  1.05368e-15  1.09075e-16  8.66686e-17     936    89.000  1.73975e+17 
+   7728.6548  4.90488e-16  1.63136e-16  7.15082e-17     937    89.000  1.72975e+17 
+   7732.5146  3.11972e-16 -9.04932e-17  5.53220e-17     938    89.000  1.71978e+17 
+   7736.3691 -3.81559e-16  3.62874e-16  4.48391e-17     939    89.000  1.70982e+17 
+   7740.2183  8.28242e-16 -9.86471e-18  7.77605e-17     940    89.000  1.69975e+17 
+   7744.0630  4.76907e-16 -2.76842e-16  5.51859e-17     941    89.000  1.68967e+17 
+   7747.9019  4.10445e-16 -2.40730e-16  5.40932e-17     942    89.000  1.67943e+17 
+   7751.7358  5.38506e-17  4.13277e-16  6.66504e-17     943    89.000  1.66904e+17 
+   7755.5645  1.00934e-15 -5.84665e-17  8.31508e-17     944    89.000  1.65860e+17 
+   7759.3882  1.72221e-15 -1.53892e-17  1.03911e-16     945    89.000  1.64767e+17 
+   7763.2061  1.64340e-16  1.76514e-16  6.26854e-17     946    89.000  1.63676e+17 
+   7767.0190  2.58290e-16  3.63204e-17  6.11184e-17     947    89.000  1.62534e+17 
+   7770.8267  2.20411e-15 -1.18686e-16  1.14134e-16     948    89.000  1.61371e+17 
+   7774.6294  4.67426e-16  1.91259e-16  7.56141e-17     949    89.000  1.60183e+17 
+   7778.4268  1.27400e-15 -1.95036e-16  8.93558e-17     950    89.000  1.58930e+17 
+   7782.2188 -2.03914e-17  2.08761e-16  5.79626e-17     951    89.000  1.57678e+17 
+   7786.0054 -2.56052e-16  9.65898e-17  4.90386e-17     952    89.000  1.56340e+17 
+   7789.7871  3.63767e-16 -5.05998e-17  6.42712e-17     953    89.000  1.54986e+17 
+   7793.5630  1.01000e-16 -4.69000e-17  5.27749e-17     954    89.000  1.53590e+17 
+   7797.3335  6.45304e-16 -2.18472e-16  6.98407e-17     955    89.000  1.52131e+17 
+   7801.0991  2.38727e-17  1.21371e-16  5.82439e-17     956    89.000  1.50673e+17 
+   7804.8594  5.35501e-16  3.01310e-16  8.55577e-17     957    89.000  1.49113e+17 
+   7808.6138  6.70380e-16  2.72863e-16  8.95929e-17     958    89.000  1.47553e+17 
+   7812.3633  1.01200e-15 -2.58709e-16  8.40287e-17     959    89.000  1.45944e+17 
+   7816.1074  1.51593e-15  4.99069e-17  1.08932e-16     960    89.000  1.44292e+17 
+   7819.8457  9.66751e-16 -3.21612e-16  8.15970e-17     961    89.000  1.42638e+17 
+   7823.5791  5.78024e-16 -3.92457e-17  7.83981e-17     962    89.000  1.40914e+17 
+   7827.3066  4.17873e-16  1.17835e-16  7.89995e-17     963    89.000  1.39193e+17 
+   7831.0293  1.47322e-16 -9.19613e-17  5.87116e-17     964    89.000  1.37445e+17 
+   7834.7456  2.49921e-17  1.37915e-16  6.47569e-17     965    89.000  1.35680e+17 
+   7838.4575  2.60613e-16  7.20295e-17  7.31275e-17     966    89.000  1.33914e+17 
+   7842.1631  1.29739e-16  3.12224e-16  7.84461e-17     967    89.000  1.32135e+17 
+   7845.8633  6.89445e-16  5.56977e-17  9.06762e-17     968    89.000  1.30359e+17 
+   7849.5581  7.40411e-16  1.39049e-17  9.18836e-17     969    89.000  1.28595e+17 
+   7853.2476  7.32693e-16  1.97800e-16  9.88275e-17     970    89.000  1.26839e+17 
+   7856.9316  5.16707e-16  3.49393e-16  9.76008e-17     971    89.000  1.25092e+17 
+   7860.6099 -3.07785e-16 -1.29149e-16  6.21346e-17     972    89.000  1.23388e+17 
+   7864.2827  1.48056e-15  3.80999e-17  1.19873e-16     973    89.000  1.21686e+17 
+   7867.9502  6.51030e-16 -1.70829e-16  8.60995e-17     974    89.000  1.20036e+17 
+   7871.6118  7.32476e-16  1.97815e-16  1.03628e-16     975    89.000  1.18414e+17 
+   7875.2681  5.23275e-16 -5.32391e-17  8.75284e-17     976    89.000  1.16808e+17 
+   7878.9189  1.61946e-15  3.91947e-16  1.37699e-16     977    89.000  1.15288e+17 
+   7882.5635  1.14684e-15  1.94248e-16  1.19849e-16     978    89.000  1.13771e+17 
+   7886.2031 -2.60203e-16 -1.60011e-16  6.82554e-17     979    89.000  1.12323e+17 
+   7889.8369  7.12310e-16  3.59208e-17  1.01974e-16     980    89.000  1.10921e+17 
+   7893.4644  2.23480e-16 -3.29192e-16  6.99960e-17     981    89.000  1.09530e+17 
+   7897.0869 -1.63970e-16 -1.78652e-17  7.08257e-17     982    89.000  1.08247e+17 
+   7900.7041  1.33118e-15 -4.10104e-16  1.10964e-16     983    89.000  1.06966e+17 
+   7904.3149  4.77774e-16 -1.74135e-16  8.74614e-17     984    89.000  1.05744e+17 
+   7907.9204  1.27278e-16  2.20226e-17  8.10225e-17     985    89.000  1.04574e+17 
+   7911.5200  4.04953e-16  3.87235e-16  1.09001e-16     986    89.000  1.03405e+17 
+   7915.1138  3.57952e-16  5.55362e-16  1.14244e-16     987    89.000  1.02326e+17 
+   7918.7021 -8.51872e-16  3.07510e-16  7.57203e-17     988    89.000  1.01250e+17 
+   7922.2847 -2.68904e-16  1.99019e-16  7.65138e-17     989    89.000  1.00200e+17 
+   7925.8608  1.39862e-15  1.69702e-16  1.38388e-16     990    89.000  9.91858e+16 
+   7929.4321  3.76706e-16 -6.44105e-16  7.80933e-17     991    89.000  9.81733e+16 
+   7932.9976 -1.18789e-15  6.17258e-16  7.88922e-17     992    89.000  9.71791e+16 
+   7936.5566 -6.89447e-16  7.56865e-17  7.97035e-17     993    89.000  9.61899e+16 
+   7940.1104 -3.86819e-16  2.03487e-16  8.05351e-17     994    89.000  9.51967e+16 
+   7943.6582  8.18469e-16 -1.90720e-17  1.17039e-16     995    89.000  9.41892e+16 
+   7947.2002  1.01071e-15  9.24860e-17  1.28977e-16     996    89.000  9.31834e+16 
+   7950.7363 -5.88545e-17  2.47362e-16  9.28856e-17     997    89.000  9.21431e+16 
+   7954.2661 -1.10729e-16 -3.97064e-17  8.41693e-17     998    89.000  9.10863e+16 
+   7957.7910  8.54105e-16 -2.03310e-16  1.15223e-16     999    89.000  9.00274e+16 
+   7961.3091 -1.60574e-16  4.41431e-17  8.62287e-17    1000    89.000  8.89109e+16 
+   7964.8218  1.09546e-16  2.66877e-16  1.05822e-16    1001    89.000  8.77960e+16 
+   7968.3291  1.39146e-15 -2.45035e-16  1.37285e-16    1002    89.000  8.66713e+16 
+   7971.8296 -5.87352e-16  4.89776e-16  8.96334e-17    1003    89.000  8.55337e+16 
+   7975.3247  3.18326e-16  8.70998e-18  1.07149e-16    1004    89.000  8.43978e+16 
+   7978.8135  3.92638e-16  2.66059e-17  1.12506e-16    1005    89.000  8.33290e+16 
+   7982.2969  1.86124e-15  2.33264e-16  1.72906e-16    1006    89.000  8.22774e+16 
+   7985.7739 -8.65926e-16 -1.84379e-16  9.43287e-17    1007    89.000  8.12761e+16 
+   7989.2451  7.09899e-16  1.86372e-16  1.35431e-16    1008    89.000  8.05208e+16 
+   7992.7104  6.23467e-16 -3.27284e-16  1.11050e-16    1009    89.000  7.97668e+16 
+   7996.1694 -1.12409e-15  1.60517e-16  9.70290e-17    1010    89.000  7.90142e+16 
+   7999.6226  1.63445e-15 -1.40589e-16  1.59695e-16    1011    89.000  7.82628e+16 
+   8003.0698 -3.06310e-16  2.86826e-16  9.89085e-17    1012    89.000  7.75128e+16 
+   8006.5107 -5.25923e-16  4.04375e-16  9.98732e-17    1013    89.000  7.67641e+16 
+   8009.9463  3.02881e-16  3.38126e-17  1.17740e-16    1014    89.000  7.60165e+16 
+   8013.3750  2.27259e-15 -3.11811e-16  1.79115e-16    1015    89.000  7.52705e+16 
+   8016.7979 -6.38451e-16  1.48773e-16  1.02873e-16    1016    89.000  7.45257e+16 
+   8020.2148  3.51552e-16  2.20015e-16  1.31350e-16    1017    89.000  7.37822e+16 
+   8023.6255 -1.68839e-16 -9.19539e-17  1.04965e-16    1018    89.000  7.30401e+16 
+   8027.0308  6.93871e-16 -5.15942e-17  1.36556e-16    1019    89.000  7.22992e+16 
+   8030.4287 -6.45643e-16  1.13671e-16  1.07137e-16    1020    89.000  7.15598e+16 
+   8033.8218  1.19191e-15 -4.51799e-17  1.58782e-16    1021    89.000  7.08215e+16 
+   8037.2075  1.41508e-15 -2.91335e-16  1.59149e-16    1022    89.000  7.00848e+16 
+   8040.5879  6.40567e-16 -4.77112e-16  1.19104e-16    1023    89.000  6.93493e+16 

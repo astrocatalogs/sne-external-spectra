@@ -16,21 +16,52 @@
 	"internal_name":"PS19etn",
 	"isTNS_AT":1,
 	"name":"2019opx",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019opx",
 	"public":1,
 	"ra":"01:52:38.856",
 	"radeg":28.1618995206,
-	"redshift":null,
+	"redshift":0.087874,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019opx_2019-09-09_12-04-01_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458736.0027894,
+			"obsdate":"2019-09-09 12:04:01",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline. Blue channel was unavailable. Exposure time was supposed to be 3600s, but closed after 1500s due to cloud cover.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
 }

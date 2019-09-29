@@ -1,6 +1,6 @@
 {
-	"dec":"-02:48:06.01",
-	"decdeg":-2.801669,
+	"dec":"-02:48:05.90",
+	"decdeg":-2.8016375779,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abxihut",
 	"isTNS_AT":1,
 	"name":"2019pmy",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019pmy",
 	"public":1,
-	"ra":"23:01:25.062",
-	"radeg":345.3544236,
-	"redshift":null,
+	"ra":"23:01:25.059",
+	"radeg":345.354414037,
+	"redshift":0.086,
 	"source_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019pmy_2019-09-18_04-02-35_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458744.6684606,
+			"obsdate":"2019-09-18 04:02:35",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
 }

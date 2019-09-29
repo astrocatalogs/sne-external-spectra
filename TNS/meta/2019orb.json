@@ -16,21 +16,52 @@
 	"internal_name":"ATLAS19tey",
 	"isTNS_AT":1,
 	"name":"2019orb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objname":"2019orb",
 	"public":1,
 	"ra":"17:40:34.758",
 	"radeg":265.1448232,
-	"redshift":null,
+	"redshift":0.02723,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019orb_2019-09-07_04-01-55_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019orb_2019-09-07_04-01-55_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458733.6679977,
+			"obsdate":"2019-09-07 04:01:55",
+			"observer":"A. Tzanidakis, S. Anand, V. karambelkar",
+			"public":1,
+			"reducer":"M. Hankins",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":5
 }
