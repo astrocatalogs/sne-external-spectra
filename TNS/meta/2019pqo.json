@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abxqppy",
 	"isTNS_AT":1,
 	"name":"2019pqo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":14,
+		"name":"SN IIb"
 	},
 	"objname":"2019pqo",
 	"public":1,
 	"ra":"15:41:30.333",
 	"radeg":235.3763882,
-	"redshift":null,
+	"redshift":0.01413,
 	"source_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019pqo_2019-09-21_07-00-00_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458747.7916667,
+			"obsdate":"2019-09-21 07:00:00",
+			"observer":"T. Brink",
+			"public":1,
+			"reducer":"T. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":14
 }
