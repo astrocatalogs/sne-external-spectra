@@ -1,0 +1,67 @@
+{
+	"dec":"+24:17:44.36",
+	"decdeg":24.2956541667,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-01 05:21:07",
+	"discoverymag":16.585,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19wxw",
+	"isTNS_AT":1,
+	"name":"2019roh",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":27,
+		"name":"CV"
+	},
+	"objname":"2019roh",
+	"public":1,
+	"ra":"17:05:52.804",
+	"radeg":256.470018333,
+	"redshift":null,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2019roh_2019-10-03.116_Lick-3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":8,
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458759.6159954,
+			"obsdate":"2019-10-03 02:47:02",
+			"observer":"Weikang Zheng",
+			"public":1,
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":8,
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":27
+}

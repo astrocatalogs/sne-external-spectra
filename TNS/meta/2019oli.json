@@ -1,6 +1,6 @@
 {
-	"dec":"-15:33:31.00",
-	"decdeg":-15.5586106,
+	"dec":"-15:33:30.93",
+	"decdeg":-15.5585913811,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abrirmk",
 	"isTNS_AT":1,
 	"name":"2019oli",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":4,
+		"name":"SN Ib"
 	},
 	"objname":"2019oli",
 	"public":1,
-	"ra":"00:58:06.001",
-	"radeg":14.5250029,
-	"redshift":null,
+	"ra":"00:58:06.011",
+	"radeg":14.5250442119,
+	"redshift":0.065,
 	"source_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019oli_2019-09-22_08-57-28_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019oli_2019-09-22_08-57-28_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458748.8732407,
+			"obsdate":"2019-09-22 08:57:28",
+			"observer":"L. Yan",
+			"public":1,
+			"reducer":"L. Yan",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":4
 }

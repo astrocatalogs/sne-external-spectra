@@ -16,21 +16,52 @@
 	"internal_name":"ZTF19abukbit",
 	"isTNS_AT":1,
 	"name":"2019phe",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019phe",
 	"public":1,
 	"ra":"03:27:11.998",
 	"radeg":51.799991844444,
-	"redshift":null,
+	"redshift":0.035,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/C-SNAILS/tns_2019phe_2019-09-05_LT_SPRAT_C-SNAILS.txt",
+			"assoc_groups":[
+				{
+					"id":72,
+					"name":"C-SNAILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458731.5,
+			"obsdate":"2019-09-05 00:00:00",
+			"observer":"M. Nicholl",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":72,
+				"name":"C-SNAILS"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
 }

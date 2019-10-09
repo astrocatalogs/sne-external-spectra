@@ -1,0 +1,67 @@
+{
+	"dec":"-37:38:40.01",
+	"decdeg":-37.6444463636,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":37975,
+	"discoverydate":"2019-09-26 05:29:49",
+	"discoverymag":17.072,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC0300",
+	"internal_name":"DLT19m",
+	"isTNS_AT":1,
+	"name":"2019qyl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2019qyl",
+	"public":1,
+	"ra":"00:54:57.680",
+	"radeg":13.7403345455,
+	"redshift":0.00048,
+	"source_group":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DLT40/tns_2019qyl_2458752.787366465_Gemini-S_GMOS-S_DLT40.asci",
+			"assoc_groups":[
+				{
+					"id":30,
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":675,
+			"fitsfile":"",
+			"instrument":{
+				"id":9,
+				"name":"GMOS-S"
+			},
+			"jd":2458752.7873665,
+			"obsdate":"2019-09-26 06:53:48",
+			"observer":"Too",
+			"public":1,
+			"reducer":"Andrews",
+			"remarks":"Quick look classification from Gemini GMOS spectrum",
+			"source_group":{
+				"id":30,
+				"name":"DLT40"
+			},
+			"telescope":{
+				"id":16,
+				"name":"Gemini-S"
+			}
+		}
+	],
+	"type":13
+}

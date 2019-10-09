@@ -1,0 +1,89 @@
+{
+	"dec":"+09:11:32.93",
+	"decdeg":9.1924793,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":59228,
+	"discoverydate":"2019-09-25 11:48:35",
+	"discoverymag":18.61,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acbhvgi",
+	"isTNS_AT":1,
+	"name":"2019roa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":11,
+		"name":"SN IIP"
+	},
+	"objname":"2019roa",
+	"public":1,
+	"ra":"07:49:16.063",
+	"radeg":117.31693036667,
+	"redshift":0.031,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019roa_2019-10-05_04-52-10_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458761.7028935,
+			"obsdate":"2019-10-05 04:52:10",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline",
+			"remarks":"SN IIP close to maximum. Classification using SNID (S. Blondin & J. L. Tonry 2007, ApJ, 666, 1024) and DASH (D. \r\nMuthukrishna, D. Parkinson, and B. Tucker, arXiv:1903.02557). The likely host galaxy of the SN is SDSS J074916.09+091131.9.\r\n\r\n",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019roa_2019-10-03_10-55-54_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458759.9554861,
+			"obsdate":"2019-10-03 10:55:54",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":11
+}

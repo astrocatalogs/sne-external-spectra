@@ -1,0 +1,59 @@
+{
+	"dec":"+45:33:48.94",
+	"decdeg":45.563593075,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-02 10:50:52",
+	"discoverymag":19.703,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19xfk",
+	"isTNS_AT":1,
+	"name":"2019rsn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rsn",
+	"public":1,
+	"ra":"01:35:45.708",
+	"radeg":23.94045005,
+	"redshift":0.101,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rsn_2019-10-05_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458761.5,
+			"obsdate":"2019-10-05 00:00:00",
+			"observer":"Hung",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

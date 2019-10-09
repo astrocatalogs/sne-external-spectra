@@ -1,0 +1,59 @@
+{
+	"dec":"-06:42:05.98",
+	"decdeg":-6.7016624255,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discoverydate":"2019-09-27 13:00:28",
+	"discoverymag":18.13,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19fpv",
+	"isTNS_AT":1,
+	"name":"2019rho",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019rho",
+	"public":1,
+	"ra":"02:12:49.186",
+	"radeg":33.204940511,
+	"redshift":0.01696,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rho_2019-10-05_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458761.5,
+			"obsdate":"2019-10-05 00:00:00",
+			"observer":"Hung",
+			"public":1,
+			"reducer":"",
+			"remarks":"We measure a H-beta velocity of -9900 km/s.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
+}
