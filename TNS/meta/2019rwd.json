@@ -1,6 +1,6 @@
 {
-	"dec":"+21:08:20.75",
-	"decdeg":21.1390968,
+	"dec":"+21:08:20.68",
+	"decdeg":21.1390788,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,50 @@
 	"name":"2019rwd",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":0,
+		"name":"Other"
 	},
 	"objname":"2019rwd",
 	"public":1,
-	"ra":"00:10:45.888",
-	"radeg":2.69119935,
+	"ra":"00:10:45.885",
+	"radeg":2.6911887,
 	"redshift":null,
 	"source_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019rwd_2019-10-09_08-43-46_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019rwd_2019-10-09_08-43-46_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458765.8637269,
+			"obsdate":"2019-10-09 08:43:46",
+			"observer":"Robotic",
+			"public":1,
+			"reducer":"J. Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":0
 }
