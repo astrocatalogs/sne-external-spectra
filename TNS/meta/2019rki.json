@@ -18,8 +18,8 @@
 	"name":"2019rki",
 	"name_prefix":"AT",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":27,
+		"name":"CV"
 	},
 	"objname":"2019rki",
 	"public":1,
@@ -31,6 +31,29 @@
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rki_2019-10-12_04-22-46_MDM-2.4_BC-OSU.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":59,
+				"name":"BC-OSU"
+			},
+			"jd":2458768.6824769,
+			"obsdate":"2019-10-12 04:22:46",
+			"observer":"Rupert",
+			"public":1,
+			"reducer":"",
+			"remarks":"strong, narrow Halpha emission on top of broader Halpha absorption and Balmer absorption lines, consistent with that of a dwarf nova in outburst",
+			"source_group_name":"None",
+			"telescope":{
+				"id":11,
+				"name":"MDM-2.4"
+			}
+		}
+	],
+	"type":27
 }
