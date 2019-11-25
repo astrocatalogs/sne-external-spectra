@@ -1,0 +1,98 @@
+{
+	"dec":"+07:35:10.72",
+	"decdeg":7.58630987633,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-28 09:05:25",
+	"discoverymag":19.2949,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J031913.59+073506.6",
+	"internal_name":"ZTF19acjdwqv",
+	"internal_names":"ZTF19acjdwqv, ATLAS19zty, ATLAS19ztz, PS19gkc",
+	"isTNS_AT":1,
+	"name":"2019toi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019toi",
+	"public":1,
+	"ra":"03:19:13.674",
+	"radeg":49.8069767646,
+	"redshift":0.049,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019toi_2019-11-05_23-20-20_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019toi_2019-11-05_23-20-20_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458793.4724537,
+			"obsdate":"2019-11-05 23:20:20",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019toi_2019-11-04_04-44-30_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458791.6975694,
+			"obsdate":"2019-11-04 04:44:30",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"D. Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,68 @@
+{
+	"dec":"-08:29:26.82",
+	"decdeg":-8.4907835333333,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discoverydate":"2019-10-03 10:31:54",
+	"discoverymag":20.12,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19accjnpz",
+	"internal_names":"ZTF19accjnpz, ATLAS19xtd",
+	"isTNS_AT":1,
+	"name":"2019sdh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019sdh",
+	"public":1,
+	"ra":"04:46:40.033",
+	"radeg":71.6668025,
+	"redshift":0.092,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2019sdh_2019-10-31.431_Lick-3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":8,
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458787.9309954,
+			"obsdate":"2019-10-31 10:20:38",
+			"observer":"Weikang Zheng, James Sunseri, Yukei Murakami",
+			"public":1,
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":8,
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

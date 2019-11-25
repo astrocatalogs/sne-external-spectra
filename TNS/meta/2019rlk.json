@@ -1,0 +1,60 @@
+{
+	"dec":"+17:09:36.99",
+	"decdeg":17.1602751732,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discoverydate":"2019-09-29 13:19:12",
+	"discoverymag":19.67,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19frz",
+	"internal_names":"PS19frz, ATLAS19wsy, ZTF19acblqjf",
+	"isTNS_AT":1,
+	"name":"2019rlk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rlk",
+	"public":1,
+	"ra":"01:44:02.652",
+	"radeg":26.0110498767,
+	"redshift":0.128,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rlk_2019-10-05_00-24-09_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458761.5167708,
+			"obsdate":"2019-10-05 00:24:09",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

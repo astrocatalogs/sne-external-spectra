@@ -1,0 +1,98 @@
+{
+	"dec":"-10:10:35.15",
+	"decdeg":-10.176431,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-14 08:00:05",
+	"discoverymag":18.9777,
+	"end_prop_period":null,
+	"host_redshift":0.031162,
+	"hostname":"WISEA J231856.48-101038.0",
+	"internal_name":"ZTF19aceshib",
+	"internal_names":"ZTF19aceshib, ATLAS19yhc, PS19gax, Gaia19evh",
+	"isTNS_AT":1,
+	"name":"2019sna",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019sna",
+	"public":1,
+	"ra":"23:18:56.510",
+	"radeg":349.735458,
+	"redshift":0.048,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019sna_2019-10-23_07-00-18_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458779.791875,
+			"obsdate":"2019-10-23 07:00:18",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019sna_2019-10-21_02-30-32_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019sna_2019-10-21_02-30-32_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458777.604537,
+			"obsdate":"2019-10-21 02:30:32",
+			"observer":"G. Leloudas, P. Charalampopoulos",
+			"public":1,
+			"reducer":"D. Malesani, C. Angus, L. Izzo",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":10
+}

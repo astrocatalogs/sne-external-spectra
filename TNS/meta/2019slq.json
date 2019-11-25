@@ -1,0 +1,90 @@
+{
+	"dec":"-12:32:34.13",
+	"decdeg":-12.5428127039,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-12 04:34:21",
+	"discoverymag":18.6945,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J221503.72-123226.4",
+	"internal_name":"ZTF19acelcan",
+	"internal_names":"ZTF19acelcan, ATLAS19yet, PS19gbj",
+	"isTNS_AT":1,
+	"name":"2019slq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019slq",
+	"public":1,
+	"ra":"22:15:03.607",
+	"radeg":333.76503102,
+	"redshift":0.044,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019slq_2019-10-16_02-51-21_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458772.6189931,
+			"obsdate":"2019-10-16 02:51:21",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019slq_2019-10-15_05-19-06_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458771.7215972,
+			"obsdate":"2019-10-15 05:19:06",
+			"observer":"R. Cartier",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":3
+}

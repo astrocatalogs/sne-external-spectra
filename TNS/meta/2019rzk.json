@@ -1,0 +1,98 @@
+{
+	"dec":"+29:40:37.82",
+	"decdeg":29.6771725237,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discoverydate":"2019-09-30 12:54:43",
+	"discoverymag":20.55,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19fvx",
+	"internal_names":"PS19fvx",
+	"isTNS_AT":1,
+	"name":"2019rzk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rzk",
+	"public":1,
+	"ra":"01:29:13.309",
+	"radeg":22.3054551135,
+	"redshift":0.12,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019rzk_2019-11-03_Magellan-Clay_LDSS-3_BTDG_0.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":78,
+				"name":"LDSS-3"
+			},
+			"jd":2458790.5,
+			"obsdate":"2019-11-03 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":63,
+				"name":"Magellan-Clay"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019rzk_2019-11-03_Magellan-Clay_LDSS-3_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":78,
+				"name":"LDSS-3"
+			},
+			"jd":2458790.5,
+			"obsdate":"2019-11-03 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":63,
+				"name":"Magellan-Clay"
+			}
+		}
+	],
+	"type":3
+}

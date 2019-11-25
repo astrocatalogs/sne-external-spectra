@@ -1,0 +1,68 @@
+{
+	"dec":"-07:29:58.63",
+	"decdeg":-7.499619,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-22 07:03:21",
+	"discoverymag":19.42,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19ynv",
+	"internal_names":"ATLAS19ynv, Gaia19eti",
+	"isTNS_AT":1,
+	"name":"2019teo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019teo",
+	"public":1,
+	"ra":"22:19:25.780",
+	"radeg":334.857417,
+	"redshift":0.0373,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2019teo_2019-10-24_00-35-32_VLT-UT1_FORS2_adH0cc.dat",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2019teo_2019-10-24_00-35-32_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2458780.5246759,
+			"obsdate":"2019-10-24 00:35:32",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"Quick reduction without telluric correction.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	],
+	"type":3
+}

@@ -14,23 +14,55 @@
 	"host_redshift":null,
 	"hostname":"GALEXASC J023858.68-532054.6",
 	"internal_name":"ASASSN-19xb",
+	"internal_names":"ASASSN-19xb",
 	"isTNS_AT":1,
 	"name":"2019qqh",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019qqh",
 	"public":1,
 	"ra":"02:38:57.886",
 	"radeg":39.74119,
-	"redshift":null,
+	"redshift":0.05,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019qqh_2458776.79574075_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019qqh_2458776.79574075_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":62,
+				"name":"WFCCD"
+			},
+			"jd":2458776.7957408,
+			"obsdate":"2019-10-20 07:05:51",
+			"observer":"Tom Holoien",
+			"public":1,
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":50,
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":3
 }

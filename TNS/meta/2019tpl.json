@@ -1,0 +1,128 @@
+{
+	"dec":"-03:06:30.32",
+	"decdeg":-3.108422425,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-28 08:52:48",
+	"discoverymag":18.411,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19zfu",
+	"internal_names":"ATLAS19zfu, ZTF19ackbclh",
+	"isTNS_AT":1,
+	"name":"2019tpl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2019tpl",
+	"public":1,
+	"ra":"01:00:00.681",
+	"radeg":15.00283555,
+	"redshift":0.076,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019tpl_2019-11-04_06-18-49_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":null,
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458791.7630671,
+			"obsdate":"2019-11-04 06:18:49",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline. Likely inaccurate across the dichroic.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019tpl_2019-11-04_03-11-49_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019tpl_2019-11-04_03-11-49_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458791.633206,
+			"obsdate":"2019-11-04 03:11:49",
+			"observer":"P. Charalampopoulos, D. B. Malesani",
+			"public":1,
+			"reducer":"C. Angus, L. Izzo, G. Leloudas",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019tpl_2019-11-01_09-31-57_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458788.8971875,
+			"obsdate":"2019-11-01 09:31:57",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":13
+}

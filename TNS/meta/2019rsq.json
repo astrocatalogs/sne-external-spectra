@@ -1,0 +1,90 @@
+{
+	"dec":"-07:00:44.77",
+	"decdeg":-7.01243479747,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discoverydate":"2019-10-01 13:49:26",
+	"discoverymag":19.61,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19fsm",
+	"internal_names":"PS19fsm, ZTF19acbumks, ATLAS19xpn",
+	"isTNS_AT":1,
+	"name":"2019rsq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":1,
+		"name":"SN"
+	},
+	"objname":"2019rsq",
+	"public":1,
+	"ra":"03:14:37.730",
+	"radeg":48.6572095794,
+	"redshift":0.031,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019rsq_2019-10-05_08-00-45_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":null,
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458761.8338542,
+			"obsdate":"2019-10-05 08:00:45",
+			"observer":"K. De",
+			"public":1,
+			"reducer":"K. De",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rsq_2019-10-05_Lick-3m_KAST.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458761.5,
+			"obsdate":"2019-10-05 00:00:00",
+			"observer":"Hung",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":1
+}

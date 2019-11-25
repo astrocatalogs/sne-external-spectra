@@ -1,0 +1,68 @@
+{
+	"dec":"-04:33:16.80",
+	"decdeg":-4.55466567268,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-24 08:54:14",
+	"discoverymag":19.057,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19ytu",
+	"internal_names":"ATLAS19ytu, PS19ghh",
+	"isTNS_AT":1,
+	"name":"2019ths",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2019ths",
+	"public":1,
+	"ra":"00:28:01.334",
+	"radeg":7.00555905073,
+	"redshift":0.166,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ths_2019-10-28_05-08-10_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ths_2019-10-28_05-08-10_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458784.7140046,
+			"obsdate":"2019-10-28 05:08:10",
+			"observer":"G. Leloudas, P. Charalampopoulos",
+			"public":1,
+			"reducer":"L. Izzo, C Angus, D. B. Malesani",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":13
+}

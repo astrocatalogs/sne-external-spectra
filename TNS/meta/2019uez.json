@@ -1,0 +1,68 @@
+{
+	"dec":"-00:40:53.04",
+	"decdeg":-0.681401035901,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discoverydate":"2019-11-03 10:45:07",
+	"discoverymag":20.44,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19gjm",
+	"internal_names":"PS19gjm",
+	"isTNS_AT":1,
+	"name":"2019uez",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019uez",
+	"public":1,
+	"ra":"03:24:41.407",
+	"radeg":51.1725283706,
+	"redshift":0.039,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019uez_2019-11-07_06-31-09_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019uez_2019-11-07_06-31-09_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458794.7716319,
+			"obsdate":"2019-11-07 06:31:09",
+			"observer":"P. Charalampopoulos, D. B. Malesani",
+			"public":1,
+			"reducer":"G. Leloudas, C. Angus, L. Izzo",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":10
+}

@@ -1,0 +1,98 @@
+{
+	"dec":"-02:49:48.71",
+	"decdeg":-2.8301981833333,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discoverydate":"2019-10-24 11:45:36",
+	"discoverymag":18,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J033451.06-024948.3",
+	"internal_name":"ASASSN-19zu",
+	"internal_names":"ASASSN-19zu, ZTF19acgogcm",
+	"isTNS_AT":1,
+	"name":"2019tiz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019tiz",
+	"public":1,
+	"ra":"03:34:51.064",
+	"radeg":53.712768566667,
+	"redshift":0.038,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019tiz_2019-11-01_06-01-12_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458788.7508333,
+			"obsdate":"2019-11-01 06:01:12",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019tiz_2019-10-30_08-58-29_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1565,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458786.8739468,
+			"obsdate":"2019-10-30 08:58:29",
+			"observer":"C. Rojas-Bravo",
+			"public":1,
+			"reducer":"G. Dimitriadis, C. Rojas-Bravo",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

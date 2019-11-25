@@ -1,0 +1,128 @@
+{
+	"dec":"+15:29:30.04",
+	"decdeg":15.4916778602,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-18 04:44:20",
+	"discoverymag":18.4167,
+	"end_prop_period":null,
+	"host_redshift":0.013373,
+	"hostname":"UGC 12640",
+	"internal_name":"ZTF19acftfav",
+	"internal_names":"ZTF19acftfav, ATLAS19ylm, PS19ggp",
+	"isTNS_AT":1,
+	"name":"2019ssi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":11,
+		"name":"SN IIP"
+	},
+	"objname":"2019ssi",
+	"public":1,
+	"ra":"23:30:56.132",
+	"radeg":352.733883454,
+	"redshift":0.013,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ssi_2019-11-06_01-47-52_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ssi_2019-11-06_01-47-52_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458793.5749074,
+			"obsdate":"2019-11-06 01:47:52",
+			"observer":"D. B. Malesani, P. Charalampopoulos",
+			"public":1,
+			"reducer":"L. Izzo, C. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019ssi_2019-10-25_09-09-33_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458781.8816319,
+			"obsdate":"2019-10-25 09:09:33",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ssi_2019-10-21_01-36-59_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ssi_2019-10-21_01-36-59_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458777.5673495,
+			"obsdate":"2019-10-21 01:36:59",
+			"observer":"G. Leloudas, P. Charalampopoulos",
+			"public":1,
+			"reducer":"D. Malesani, C. Angus, L. Izzo",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":11
+}

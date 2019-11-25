@@ -1,0 +1,68 @@
+{
+	"dec":"+05:36:59.56",
+	"decdeg":5.61654557066,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":67899,
+	"discoverydate":"2019-10-14 09:56:09",
+	"discoverymag":19.7,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19gbv",
+	"internal_names":"PS19gbv, ZTF19acftclq, ATLAS19yow",
+	"isTNS_AT":1,
+	"name":"2019swj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objname":"2019swj",
+	"public":1,
+	"ra":"22:16:52.533",
+	"radeg":334.218888941,
+	"redshift":0.049,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/C-SNAILS/tns_2019swj_2019-11-02_LT_SPRAT_C-SNAILS.txt",
+			"assoc_groups":[
+				{
+					"id":72,
+					"name":"C-SNAILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458789.5,
+			"obsdate":"2019-11-02 00:00:00",
+			"observer":"M. Nicholl",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":72,
+				"name":"C-SNAILS"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":4
+}

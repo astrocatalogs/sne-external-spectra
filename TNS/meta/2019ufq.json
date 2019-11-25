@@ -1,0 +1,68 @@
+{
+	"dec":"-57:41:26.56",
+	"decdeg":-57.69071,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Bersier",
+	"discovererid":112,
+	"discoverydate":"2019-11-05 05:38:24",
+	"discoverymag":17.068,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASS J23075596-5741326",
+	"internal_name":"ASASSN-19aat",
+	"internal_names":"ASASSN-19aat",
+	"isTNS_AT":1,
+	"name":"2019ufq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019ufq",
+	"public":1,
+	"ra":"23:07:55.027",
+	"radeg":346.97928,
+	"redshift":0.044,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ufq_2019-11-06_02-30-18_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ufq_2019-11-06_02-30-18_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458793.604375,
+			"obsdate":"2019-11-06 02:30:18",
+			"observer":"D. B. Malesani, P. Charalampopoulos",
+			"public":1,
+			"reducer":"L. Izzo, C. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
+}

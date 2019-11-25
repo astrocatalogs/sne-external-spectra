@@ -1,0 +1,68 @@
+{
+	"dec":"+21:17:44.19",
+	"decdeg":21.295608096429,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discoverydate":"2019-10-17 03:17:21",
+	"discoverymag":18.86,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acdxlns",
+	"internal_names":"ZTF19acdxlns, ATLAS19yyw",
+	"isTNS_AT":1,
+	"name":"2019sqj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019sqj",
+	"public":1,
+	"ra":"01:51:48.263",
+	"radeg":27.951097117857,
+	"redshift":0.069,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019sqj_2019-10-24_09-25-31_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":null,
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458780.8927199,
+			"obsdate":"2019-10-24 09:25:31",
+			"observer":"C. Fremling",
+			"public":1,
+			"reducer":"K. De",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
+}

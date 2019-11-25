@@ -1,0 +1,68 @@
+{
+	"dec":"+22:49:20.83",
+	"decdeg":22.8224516084,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-09-24 09:03:36",
+	"discoverymag":19.8666,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASS J03412178+2249175",
+	"internal_name":"ZTF19acapech",
+	"internal_names":"ZTF19acapech, ATLAS19xke, PS19fyh",
+	"isTNS_AT":1,
+	"name":"2019qvr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2019qvr",
+	"public":1,
+	"ra":"03:41:21.693",
+	"radeg":55.3403863836,
+	"redshift":0.075,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019qvr_2019-11-04_00-00-00_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2458791.5,
+			"obsdate":"2019-11-04 00:00:00",
+			"observer":"Melissa L Graham",
+			"public":1,
+			"reducer":"Melissa L Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	],
+	"type":13
+}

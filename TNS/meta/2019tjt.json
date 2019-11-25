@@ -1,0 +1,98 @@
+{
+	"dec":"+31:34:21.10",
+	"decdeg":31.5725286874,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-26 03:05:11",
+	"discoverymag":19.5748,
+	"end_prop_period":null,
+	"host_redshift":0.0476,
+	"hostname":"AGC 102756",
+	"internal_name":"ZTF19acignlo",
+	"internal_names":"ZTF19acignlo, ATLAS19yyz, PS19glg",
+	"isTNS_AT":1,
+	"name":"2019tjt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019tjt",
+	"public":1,
+	"ra":"00:17:03.673",
+	"radeg":4.26530465231,
+	"redshift":0.0476,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019tjt_2019-10-31_05-09-37_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458787.7150116,
+			"obsdate":"2019-10-31 05:09:37",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2019tjt_2019-10-31_02-19-27_VLT-UT1_FORS2_adH0cc.dat",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2019tjt_2019-10-31_02-19-27_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2458787.5968403,
+			"obsdate":"2019-10-31 02:19:27",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"Quick-reduction spectrum, telluric correction applied.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	],
+	"type":10
+}

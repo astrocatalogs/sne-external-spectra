@@ -14,23 +14,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"PS19ewj",
+	"internal_names":"PS19ewj, ATLAS19unl, ZTF19abpfsks",
 	"isTNS_AT":1,
 	"name":"2019pdi",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objname":"2019pdi",
 	"public":1,
 	"ra":"02:18:26.237",
 	"radeg":34.6093220378,
-	"redshift":null,
+	"redshift":0.1,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019pdi_2019-10-28_05-50-46_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019pdi_2019-10-28_05-50-46_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458784.743588,
+			"obsdate":"2019-10-28 05:50:46",
+			"observer":"G. Leloudas, P. Charalampopoulos",
+			"public":1,
+			"reducer":"L. Izzo, C Angus, D. B. Malesani",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":13
 }

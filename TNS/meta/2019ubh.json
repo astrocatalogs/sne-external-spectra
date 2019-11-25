@@ -1,0 +1,68 @@
+{
+	"dec":"+07:51:44.06",
+	"decdeg":7.86223925,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":59228,
+	"discoverydate":"2019-10-28 09:16:58",
+	"discoverymag":19.01,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acjerzj",
+	"internal_names":"ZTF19acjerzj, ATLAS19bahd",
+	"isTNS_AT":1,
+	"name":"2019ubh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019ubh",
+	"public":1,
+	"ra":"05:03:05.314",
+	"radeg":75.772142775,
+	"redshift":0.037,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019ubh_2019-11-03_11-55-08_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":null,
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458790.9966204,
+			"obsdate":"2019-11-03 11:55:08",
+			"observer":"Hinkle, Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

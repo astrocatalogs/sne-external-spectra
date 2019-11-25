@@ -1,0 +1,60 @@
+{
+	"dec":"+45:15:16.34",
+	"decdeg":45.254539,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":59228,
+	"discoverydate":"2019-11-02 02:51:12",
+	"discoverymag":19.17,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acmdpyr",
+	"internal_names":"ZTF19acmdpyr, Gaia19ezn, ATLAS19bapa",
+	"isTNS_AT":1,
+	"name":"2019ugu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019ugu",
+	"public":1,
+	"ra":"18:05:33.930",
+	"radeg":271.391375,
+	"redshift":0.045,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ugu_2458793.57_Lick-3m_KAST.txt",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458793.57,
+			"obsdate":"2019-11-06 01:40:48",
+			"observer":"Thomas G. Brink",
+			"public":1,
+			"reducer":"Thomas G. Brink",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

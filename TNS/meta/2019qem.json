@@ -1,6 +1,6 @@
 {
-	"dec":"-64:22:36.00",
-	"decdeg":-64.376667,
+	"dec":"-64:22:35.94",
+	"decdeg":-64.37665,
 	"discmagfilter":{
 		"family":"Cousins",
 		"id":14,
@@ -14,23 +14,47 @@
 	"host_redshift":null,
 	"hostname":"OGLE-GAL-LMC603.20-642.242-271.439",
 	"internal_name":"",
+	"internal_names":", Gaia19exe",
 	"isTNS_AT":1,
 	"name":"2019qem",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objname":"2019qem",
 	"public":1,
-	"ra":"06:03:45.000",
-	"radeg":90.9375,
-	"redshift":null,
+	"ra":"06:03:45.010",
+	"radeg":90.937542,
+	"redshift":0.042,
 	"source_group":{
 		"group_name":"OGLE",
 		"groupid":17
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019qem_2458747.60755787_SALT_RSS.txt",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019qem_2458747.60755787_SALT_RSS.fits",
+			"groupid":0,
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2458747.6075579,
+			"obsdate":"2019-09-21 02:34:53",
+			"observer":"SALT",
+			"public":1,
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":13
 }

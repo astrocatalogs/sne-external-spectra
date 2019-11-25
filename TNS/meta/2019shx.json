@@ -1,0 +1,68 @@
+{
+	"dec":"+46:05:50.50",
+	"decdeg":46.097361,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":48869,
+	"discoverydate":"2019-10-03 08:51:21",
+	"discoverymag":18.91,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acchaza",
+	"internal_names":"ZTF19acchaza, Gaia19ene",
+	"isTNS_AT":1,
+	"name":"2019shx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019shx",
+	"public":1,
+	"ra":"02:32:02.850",
+	"radeg":38.011875,
+	"redshift":0.035,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019shx_2019-10-24_10-05-10_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":750,
+			"fitsfile":null,
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458780.9202546,
+			"obsdate":"2019-10-24 10:05:10",
+			"observer":"C. Fremling",
+			"public":1,
+			"reducer":"K. De",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":10
+}

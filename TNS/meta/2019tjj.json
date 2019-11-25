@@ -1,0 +1,68 @@
+{
+	"dec":"+43:21:58.61",
+	"decdeg":43.366281,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":35587,
+	"discoverydate":"2019-10-25 13:32:09",
+	"discoverymag":16.47,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia19etw",
+	"internal_names":"Gaia19etw",
+	"isTNS_AT":1,
+	"name":"2019tjj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019tjj",
+	"public":1,
+	"ra":"10:19:42.380",
+	"radeg":154.926583,
+	"redshift":0.02611,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2019tjj_2019-10-31.554_Lick-3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":8,
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458788.0539931,
+			"obsdate":"2019-10-31 13:17:45",
+			"observer":"Weikang Zheng, James Sunseri, Yukei Murakami",
+			"public":1,
+			"reducer":"Thomas Brink",
+			"remarks":"",
+			"source_group":{
+				"id":8,
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,82 @@
+{
+	"dec":"+45:43:10.13",
+	"decdeg":45.719481,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-24 04:49:26",
+	"discoverymag":18.993,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19ysj",
+	"internal_names":"ATLAS19ysj, Gaia19ewc",
+	"isTNS_AT":1,
+	"name":"2019tgm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019tgm",
+	"public":1,
+	"ra":"22:18:10.970",
+	"radeg":334.545708,
+	"redshift":0.019107,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019tgm_2019-11-10_20-23-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":4200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019tgm_2019-11-10_20-23-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458798.3493056,
+			"obsdate":"2019-11-10 20:23:00",
+			"observer":"Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019tgm_2019-10-26_21-04-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":10200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019tgm_2019-10-26_21-04-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458783.3777778,
+			"obsdate":"2019-10-26 21:04:00",
+			"observer":"Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":3
+}

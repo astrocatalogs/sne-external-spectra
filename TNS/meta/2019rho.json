@@ -14,6 +14,7 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"PS19fpv",
+	"internal_names":"PS19fpv, ATLAS19wwd, ZTF19acblhxc",
 	"isTNS_AT":1,
 	"name":"2019rho",
 	"name_prefix":"SN",
@@ -25,7 +26,7 @@
 	"public":1,
 	"ra":"02:12:49.186",
 	"radeg":33.204940511,
-	"redshift":0.01696,
+	"redshift":0.016965,
 	"source_group":{
 		"group_name":"Pan-STARRS1",
 		"groupid":4
@@ -33,10 +34,40 @@
 	"sourceid":2,
 	"spectra":[
 		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019rho_2019-10-05_07-00-00_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458761.7916667,
+			"obsdate":"2019-10-05 07:00:00",
+			"observer":"Hung",
+			"public":1,
+			"reducer":"T. G. Brink, K. C. Patra, T. d. Jaeger, W. Zheng, B. E. Stahl, A. V. Filippenko",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rho_2019-10-05_Lick-3m_KAST.dat",
 			"end_prop_period":null,
 			"exptime":null,
-			"fitsfile":"",
+			"fitsfile":null,
 			"groupid":0,
 			"instrument":{
 				"id":10,

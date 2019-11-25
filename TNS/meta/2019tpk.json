@@ -1,0 +1,68 @@
+{
+	"dec":"-42:57:29.70",
+	"decdeg":-42.95825,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-29 08:18:14",
+	"discoverymag":18.016,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19zft",
+	"internal_names":"ATLAS19zft, Gaia19ewj",
+	"isTNS_AT":1,
+	"name":"2019tpk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019tpk",
+	"public":1,
+	"ra":"00:34:58.980",
+	"radeg":8.74575,
+	"redshift":0.06,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019tpk_2019-11-04_07-55-49_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":null,
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458791.8304282,
+			"obsdate":"2019-11-04 07:55:49",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

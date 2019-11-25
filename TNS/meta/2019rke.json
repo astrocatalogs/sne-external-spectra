@@ -1,0 +1,68 @@
+{
+	"dec":"+03:41:22.02",
+	"decdeg":3.68944950986,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discoverydate":"2019-09-27 11:39:50",
+	"discoverymag":19.85,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19frt",
+	"internal_names":"PS19frt, ZTF19acbtcyx, ATLAS19xpj",
+	"isTNS_AT":1,
+	"name":"2019rke",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rke",
+	"public":1,
+	"ra":"01:20:33.573",
+	"radeg":20.1398861336,
+	"redshift":0.13,
+	"source_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019rke_2019-10-21_05-52-18_Magellan-Baade_IMACS_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":null,
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2458777.7446528,
+			"obsdate":"2019-10-21 05:52:18",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	],
+	"type":3
+}

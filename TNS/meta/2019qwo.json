@@ -1,0 +1,68 @@
+{
+	"dec":"-21:49:34.50",
+	"decdeg":-21.82625,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":59228,
+	"discoverydate":"2019-09-22 12:02:49",
+	"discoverymag":19.18,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19abzqywg",
+	"internal_names":"ZTF19abzqywg, Gaia19ehm, PS19fzp",
+	"isTNS_AT":1,
+	"name":"2019qwo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objname":"2019qwo",
+	"public":1,
+	"ra":"03:05:36.380",
+	"radeg":46.401583,
+	"redshift":0.045,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019qwo_2019-10-03_09-19-27_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":750,
+			"fitsfile":null,
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458759.8885069,
+			"obsdate":"2019-10-03 09:19:27",
+			"observer":"Y. Dahiwale",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":4
+}

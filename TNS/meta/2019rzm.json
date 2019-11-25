@@ -1,6 +1,6 @@
 {
-	"dec":"-16:04:04.88",
-	"decdeg":-16.0680215385,
+	"dec":"-16:04:04.78",
+	"decdeg":-16.0679937085,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":71,
@@ -14,23 +14,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19xkl",
+	"internal_names":"ATLAS19xkl, PS19gfe, MASTER OT J011721.71-160405.2, MASTER OT J011721.70-160405.2",
 	"isTNS_AT":1,
 	"name":"2019rzm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019rzm",
 	"public":1,
-	"ra":"01:17:21.680",
-	"radeg":19.3403353846,
-	"redshift":null,
+	"ra":"01:17:21.684",
+	"radeg":19.340350961,
+	"redshift":0.044834,
 	"source_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019rzm_2458776.70961805_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019rzm_2458776.70961805_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":62,
+				"name":"WFCCD"
+			},
+			"jd":2458776.7096181,
+			"obsdate":"2019-10-20 05:01:51",
+			"observer":"Tom Holoien",
+			"public":1,
+			"reducer":"Subhash Bose",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":50,
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":3
 }

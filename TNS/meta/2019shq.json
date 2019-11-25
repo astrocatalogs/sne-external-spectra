@@ -1,0 +1,90 @@
+{
+	"dec":"-31:41:25.62",
+	"decdeg":-31.69045,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discoverydate":"2019-10-08 08:52:48",
+	"discoverymag":16.1,
+	"end_prop_period":null,
+	"host_redshift":0.016165,
+	"hostname":"ESO 432-IG 006",
+	"internal_name":"ASASSN-19yx",
+	"internal_names":"ASASSN-19yx, ATLAS19ylt, Gaia19fab",
+	"isTNS_AT":1,
+	"name":"2019shq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019shq",
+	"public":1,
+	"ra":"08:44:28.660",
+	"radeg":131.119417,
+	"redshift":0.016,
+	"source_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019shq_2019-10-20_08-57-55_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019shq_2019-10-20_08-57-55_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458776.8735532,
+			"obsdate":"2019-10-20 08:57:55",
+			"observer":"P. Charalampopoulos, G. Leloudas",
+			"public":1,
+			"reducer":"C. Angus, D. Malesani, L. Izzo",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019shq_2019-10-19.37_SOAR_Goodman.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458775.87,
+			"obsdate":"2019-10-19 08:52:48",
+			"observer":"Jay Strader",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":3
+}

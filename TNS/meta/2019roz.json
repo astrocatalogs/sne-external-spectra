@@ -1,0 +1,68 @@
+{
+	"dec":"+37:02:57.80",
+	"decdeg":37.049389278,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-01 08:00:26",
+	"discoverymag":17.7582,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MASX J01142925+3702587",
+	"internal_name":"ZTF19acazbqm",
+	"internal_names":"ZTF19acazbqm, ATLAS19wmo, PS19fwn",
+	"isTNS_AT":1,
+	"name":"2019roz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019roz",
+	"public":1,
+	"ra":"01:14:29.229",
+	"radeg":18.6217892611,
+	"redshift":0.03,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Swope%20SN%20Survey/tns_2019roz_2019-10-06_05-57-36.14_Lick-3m_KAST_Swope_SN_Survey.flm",
+			"assoc_groups":[
+				{
+					"id":45,
+					"name":"Swope SN Survey"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458762.7483333,
+			"obsdate":"2019-10-06 05:57:36",
+			"observer":"Kilpatrick",
+			"public":1,
+			"reducer":"Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":45,
+				"name":"Swope SN Survey"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

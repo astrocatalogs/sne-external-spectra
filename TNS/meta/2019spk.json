@@ -1,0 +1,68 @@
+{
+	"dec":"-06:12:25.99",
+	"decdeg":-6.207219,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-16 15:02:52",
+	"discoverymag":17.779,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19yhh",
+	"internal_names":"ATLAS19yhh, Gaia19erj, ZTF19acecluy",
+	"isTNS_AT":1,
+	"name":"2019spk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019spk",
+	"public":1,
+	"ra":"10:02:54.400",
+	"radeg":150.726667,
+	"redshift":0.01,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019spk_2019-10-30_12-51-39_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1865,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458787.0358681,
+			"obsdate":"2019-10-30 12:51:39",
+			"observer":"C. Rojas-Bravo",
+			"public":1,
+			"reducer":"G. Dimitriadis, C. Rojas-Bravo",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
+}

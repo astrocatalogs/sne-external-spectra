@@ -1,0 +1,68 @@
+{
+	"dec":"+24:15:57.10",
+	"decdeg":24.265861,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-31 07:52:19",
+	"discoverymag":18.63,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19zjt",
+	"internal_names":"ATLAS19zjt, PS19gje, Gaia19ezc",
+	"isTNS_AT":1,
+	"name":"2019tua",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019tua",
+	"public":1,
+	"ra":"21:58:00.280",
+	"radeg":329.501167,
+	"redshift":0.010424,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019tua_2019-11-01_09-07-20_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019tua_2019-11-01_09-07-20_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458788.8800926,
+			"obsdate":"2019-11-01 09:07:20",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":10
+}

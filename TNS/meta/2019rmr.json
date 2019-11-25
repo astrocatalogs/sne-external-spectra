@@ -1,0 +1,68 @@
+{
+	"dec":"-00:51:30.52",
+	"decdeg":-0.85847801083,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-09-30 08:42:43",
+	"discoverymag":19.418,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19wvy",
+	"internal_names":"ATLAS19wvy, ZTF19acbswdq, PS19gix",
+	"isTNS_AT":1,
+	"name":"2019rmr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rmr",
+	"public":1,
+	"ra":"00:28:20.624",
+	"radeg":7.08593227484,
+	"redshift":0.0667,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019rmr_2019-10-17_07-00-00_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458773.7916667,
+			"obsdate":"2019-10-17 07:00:00",
+			"observer":"LTRobot",
+			"public":1,
+			"reducer":"D. Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

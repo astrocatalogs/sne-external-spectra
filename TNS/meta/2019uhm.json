@@ -1,0 +1,98 @@
+{
+	"dec":"-31:29:52.55",
+	"decdeg":-31.4979316667,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-11-04 15:21:36",
+	"discoverymag":17.172,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19zzz",
+	"internal_names":"ATLAS19zzz",
+	"isTNS_AT":1,
+	"name":"2019uhm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019uhm",
+	"public":1,
+	"ra":"10:28:48.456",
+	"radeg":157.2019,
+	"redshift":0.010377,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019uhm_2019-11-20_08-30-31_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019uhm_2019-11-20_08-30-31_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458807.8545255,
+			"obsdate":"2019-11-20 08:30:31",
+			"observer":"N. Ihanec, M. Temple, T. Wevers",
+			"public":1,
+			"reducer":"E. Callis, S. Brennan",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019uhm_2019-11-18_16-59-10_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019uhm_2019-11-18_16-59-10_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2458806.2077546,
+			"obsdate":"2019-11-18 16:59:10",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":10
+}

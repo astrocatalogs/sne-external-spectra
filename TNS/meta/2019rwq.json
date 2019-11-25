@@ -14,23 +14,47 @@
 	"host_redshift":null,
 	"hostname":"2MASS J02185760-6623310",
 	"internal_name":"ASASSN-19yk",
+	"internal_names":"ASASSN-19yk",
 	"isTNS_AT":1,
 	"name":"2019rwq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objname":"2019rwq",
 	"public":1,
 	"ra":"02:18:57.869",
 	"radeg":34.74112,
-	"redshift":null,
+	"redshift":0.0255,
 	"source_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rwq_2019-10-19.20_SOAR_Goodman.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458775.7,
+			"obsdate":"2019-10-19 04:48:00",
+			"observer":"Jay Strader",
+			"public":1,
+			"reducer":"",
+			"remarks":"substantial galaxy emission line contamination",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":5
 }

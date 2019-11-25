@@ -1,0 +1,60 @@
+{
+	"dec":"+37:00:33.85",
+	"decdeg":37.0094031,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-10-23 12:08:46",
+	"discoverymag":19.1044,
+	"end_prop_period":null,
+	"host_redshift":0.096184,
+	"hostname":"WISEA J092736.27+370033.1",
+	"internal_name":"ZTF19achtewn",
+	"internal_names":"ZTF19achtewn, ATLAS19zui, ATLAS19zus",
+	"isTNS_AT":1,
+	"name":"2019tdw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019tdw",
+	"public":1,
+	"ra":"09:27:36.523",
+	"radeg":141.9021812,
+	"redshift":0.1,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019tdw_2019-10-29_05-14-13_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458785.718206,
+			"obsdate":"2019-10-29 05:14:13",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

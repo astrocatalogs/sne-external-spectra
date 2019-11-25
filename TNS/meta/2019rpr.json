@@ -1,0 +1,68 @@
+{
+	"dec":"+22:07:26.63",
+	"decdeg":22.124064266667,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":null,
+	"discovererid":42529,
+	"discoverydate":"2019-09-30 21:21:38",
+	"discoverymag":18.3,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"MASTER OT J205529.78+220725.5",
+	"internal_names":"MASTER OT J205529.78+220725.5, ATLAS19xcs, ZTF19acbpqvc",
+	"isTNS_AT":1,
+	"name":"2019rpr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rpr",
+	"public":1,
+	"ra":"20:55:29.813",
+	"radeg":313.87422236667,
+	"redshift":0.03,
+	"source_group":{
+		"group_name":"MASTER",
+		"groupid":36
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019rpr_2019-10-05_03-43-49_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":null,
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458761.6554282,
+			"obsdate":"2019-10-05 03:43:49",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

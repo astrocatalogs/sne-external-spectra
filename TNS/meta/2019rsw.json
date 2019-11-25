@@ -1,0 +1,82 @@
+{
+	"dec":"+24:49:00.40",
+	"decdeg":24.816778187,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discoverydate":"2019-10-03 08:55:47",
+	"discoverymag":19.46,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19accbeju",
+	"internal_names":"ZTF19accbeju, ATLAS19yct, PS19glr",
+	"isTNS_AT":1,
+	"name":"2019rsw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019rsw",
+	"public":1,
+	"ra":"02:31:34.532",
+	"radeg":37.8938850115,
+	"redshift":0.055,
+	"source_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rsw_2019-10-21_03-35-46_VLT-UT1_FORS2.dat",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rsw_2019-10-21_03-35-46_VLT-UT1_FORS2.fits",
+			"groupid":0,
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2458777.649838,
+			"obsdate":"2019-10-21 03:35:46",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rsw_2019-10-11_04-13-48_VLT-UT1_FORS2.dat",
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019rsw_2019-10-11_04-13-48_VLT-UT1_FORS2.fits",
+			"groupid":0,
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2458767.67625,
+			"obsdate":"2019-10-11 04:13:48",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	],
+	"type":10
+}

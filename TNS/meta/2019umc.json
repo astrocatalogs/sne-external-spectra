@@ -1,0 +1,98 @@
+{
+	"dec":"-16:16:52.22",
+	"decdeg":-16.2811726,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discoverydate":"2019-11-10 03:04:21",
+	"discoverymag":19.0883,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J211052.21-161649.0",
+	"internal_name":"ZTF19acrddcz",
+	"internal_names":"ZTF19acrddcz, ATLAS19balj",
+	"isTNS_AT":1,
+	"name":"2019umc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2019umc",
+	"public":1,
+	"ra":"21:10:51.958",
+	"radeg":317.7164913,
+	"redshift":0.037,
+	"source_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019umc_2019-11-20_01-10-50_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019umc_2019-11-20_01-10-50_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458807.5491898,
+			"obsdate":"2019-11-20 01:10:50",
+			"observer":"N. Ihanec, M. Temple, T. Wevers",
+			"public":1,
+			"reducer":"E. Callis, S. Brennan",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019umc_2019-11-16_02-56-13_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458803.6223727,
+			"obsdate":"2019-11-16 02:56:13",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":104
+}

@@ -1,0 +1,60 @@
+{
+	"dec":"+02:29:39.05",
+	"decdeg":2.494181,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-16 07:58:04",
+	"discoverymag":18.7,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19ygo",
+	"internal_names":"ATLAS19ygo, ZTF19acfejbj, Gaia19erh",
+	"isTNS_AT":1,
+	"name":"2019sox",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019sox",
+	"public":1,
+	"ra":"21:31:24.720",
+	"radeg":322.853,
+	"redshift":0.010918,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019sox_2019-10-17_23-48-25_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458774.491956,
+			"obsdate":"2019-10-17 23:48:25",
+			"observer":"R. Cartier",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":10
+}

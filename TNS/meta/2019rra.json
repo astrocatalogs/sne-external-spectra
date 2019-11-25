@@ -14,23 +14,55 @@
 	"host_redshift":0.087,
 	"hostname":"SDSS J163839.41+334042.1",
 	"internal_name":"ZTF19acbwmqd",
+	"internal_names":"ZTF19acbwmqd, ATLAS19ymb",
 	"isTNS_AT":1,
 	"name":"2019rra",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":11,
+		"name":"SN IIP"
 	},
 	"objname":"2019rra",
 	"public":1,
 	"ra":"16:38:39.369",
 	"radeg":249.6640392,
-	"redshift":null,
+	"redshift":0.037,
 	"source_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019rra_2019-10-08_07-00-00_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458764.7916667,
+			"obsdate":"2019-10-08 07:00:00",
+			"observer":"T. Brink",
+			"public":1,
+			"reducer":"T. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":11
 }

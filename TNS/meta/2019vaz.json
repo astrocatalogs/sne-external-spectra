@@ -1,0 +1,68 @@
+{
+	"dec":"-21:32:12.37",
+	"decdeg":-21.536769,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":35587,
+	"discoverydate":"2019-11-15 10:16:19",
+	"discoverymag":18.92,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia19fcw",
+	"internal_names":"Gaia19fcw, ATLAS19baqq",
+	"isTNS_AT":1,
+	"name":"2019vaz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019vaz",
+	"public":1,
+	"ra":"05:02:27.140",
+	"radeg":75.613083,
+	"redshift":0.049,
+	"source_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vaz_2019-11-23_05-51-44_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vaz_2019-11-23_05-51-44_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458810.7442593,
+			"obsdate":"2019-11-23 05:51:44",
+			"observer":"T.Wevers,N.Ihanec,M.Temple",
+			"public":1,
+			"reducer":"S.Brennan,E.Callis",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
+}

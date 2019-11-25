@@ -1,0 +1,68 @@
+{
+	"dec":"-20:44:32.32",
+	"decdeg":-20.742311,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discoverydate":"2019-10-21 08:08:09",
+	"discoverymag":18.811,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19yna",
+	"internal_names":"ATLAS19yna, ZTF19acgfvvi, Gaia19eya",
+	"isTNS_AT":1,
+	"name":"2019syx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019syx",
+	"public":1,
+	"ra":"00:28:02.820",
+	"radeg":7.01175,
+	"redshift":0.045,
+	"source_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019syx_2019-11-05_07-00-00_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":null,
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458792.7916667,
+			"obsdate":"2019-11-05 07:00:00",
+			"observer":"T. Brink",
+			"public":1,
+			"reducer":"T. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
+}
