@@ -1,6 +1,6 @@
 {
 	"dec":"+41:14:26.43",
-	"decdeg":41.2406754,
+	"decdeg":41.2406748121,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -8,13 +8,17 @@
 	},
 	"discoverer":null,
 	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
 	"discoverydate":"2019-09-30 11:24:06",
 	"discoverymag":19.6185,
 	"end_prop_period":null,
 	"host_redshift":0.159,
 	"hostname":"SDSS J092922.76+411425.7",
 	"internal_name":"ZTF19acbmyqe",
-	"internal_names":"ZTF19acbmyqe, ATLAS19yju",
+	"internal_names":"ZTF19acbmyqe, ATLAS19yju, PS19gwm",
 	"isTNS_AT":1,
 	"name":"2019rmc",
 	"name_prefix":"AT",
@@ -24,10 +28,10 @@
 	},
 	"objname":"2019rmc",
 	"public":1,
-	"ra":"09:29:22.576",
-	"radeg":142.3440663,
+	"ra":"09:29:22.595",
+	"radeg":142.344145677,
 	"redshift":null,
-	"source_group":{
+	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},

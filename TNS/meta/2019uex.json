@@ -1,6 +1,6 @@
 {
-	"dec":"+11:08:51.11",
-	"decdeg":11.1475307,
+	"dec":"+11:08:51.16",
+	"decdeg":11.1475454384,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -8,13 +8,17 @@
 	},
 	"discoverer":null,
 	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
 	"discoverydate":"2019-11-04 12:39:03",
 	"discoverymag":20.3462,
 	"end_prop_period":null,
 	"host_redshift":0.029829,
 	"hostname":"FGC 0812",
 	"internal_name":"ZTF19acoldzw",
-	"internal_names":"ZTF19acoldzw",
+	"internal_names":"ZTF19acoldzw, PS19gxf",
 	"isTNS_AT":1,
 	"name":"2019uex",
 	"name_prefix":"AT",
@@ -24,10 +28,10 @@
 	},
 	"objname":"2019uex",
 	"public":1,
-	"ra":"08:54:09.442",
-	"radeg":133.539343,
+	"ra":"08:54:09.458",
+	"radeg":133.539408625,
 	"redshift":null,
-	"source_group":{
+	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
