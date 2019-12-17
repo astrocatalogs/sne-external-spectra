@@ -1,0 +1,94 @@
+{
+	"dec":"-16:01:26.40",
+	"decdeg":-16.0239990625,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2019-11-28 05:45:36",
+	"discoverymag":17,
+	"end_prop_period":null,
+	"host_redshift":0.013079,
+	"hostname":"GALEXASC J030421.67-160124.7",
+	"internal_name":"ASASSN-19aca",
+	"internal_names":"ASASSN-19aca, ATLAS19bbhr",
+	"isTNS_AT":1,
+	"name":"2019vrq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2019vrq",
+	"public":1,
+	"ra":"03:04:21.451",
+	"radeg":46.0893784375,
+	"redshift":0.013,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019vrq_2458817.2154_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":1350,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458817.2154,
+			"obsdate":"2019-11-29 17:10:10",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vrq_2019-11-29_05-19-51_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vrq_2019-11-29_05-19-51_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458816.7221181,
+			"obsdate":"2019-11-29 05:19:51",
+			"observer":"N. Ihanec, T. Wevers",
+			"public":1,
+			"reducer":"E. Callis, M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":104
+}

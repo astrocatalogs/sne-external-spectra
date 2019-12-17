@@ -1,0 +1,72 @@
+{
+	"dec":"+60:03:07.93",
+	"decdeg":60.0522036356,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2019-11-26 14:42:43",
+	"discoverymag":19.7,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19gtz",
+	"internal_names":"PS19gtz, ATLAS19bcji",
+	"isTNS_AT":1,
+	"name":"2019vrg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019vrg",
+	"public":1,
+	"ra":"06:40:02.842",
+	"radeg":100.01184125,
+	"redshift":0.14,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019vrg_2019-12-05.94_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019vrg_2019-12-05.94_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458823.44,
+			"obsdate":"2019-12-05 22:33:36",
+			"observer":"Ochner/program Tomasella",
+			"public":1,
+			"reducer":"Benetti",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":3
+}

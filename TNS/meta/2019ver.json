@@ -1,0 +1,64 @@
+{
+	"dec":"-15:16:20.98",
+	"decdeg":-15.2724934653,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-11-19 08:04:09",
+	"discoverymag":18.8562,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J023814.53-151613.1",
+	"internal_name":"ZTF19actzjrf",
+	"internal_names":"ZTF19actzjrf, ATLAS19batw, PS19gxr",
+	"isTNS_AT":1,
+	"name":"2019ver",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019ver",
+	"public":1,
+	"ra":"02:38:14.312",
+	"radeg":39.5596317488,
+	"redshift":0.092,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019ver_2458811.2144_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":2100,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458811.2144,
+			"obsdate":"2019-11-23 17:08:44",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":3
+}

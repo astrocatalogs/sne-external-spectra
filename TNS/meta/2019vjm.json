@@ -1,6 +1,6 @@
 {
-	"dec":"+04:49:00.08",
-	"decdeg":4.81668842105,
+	"dec":"+04:48:59.08",
+	"decdeg":4.816411,
 	"discmagfilter":{
 		"family":"Sloan",
 		"id":21,
@@ -18,24 +18,55 @@
 	"host_redshift":0.029841,
 	"hostname":"CGCG 036-029",
 	"internal_name":"ASASSN-19abp",
-	"internal_names":"ASASSN-19abp, ATLAS19bavx",
+	"internal_names":"ASASSN-19abp, ATLAS19bavx, PS19gzr, Gaia19fnd",
 	"isTNS_AT":1,
 	"name":"2019vjm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019vjm",
 	"public":1,
-	"ra":"10:04:40.978",
-	"radeg":151.170742105,
-	"redshift":null,
+	"ra":"10:04:40.980",
+	"radeg":151.17075,
+	"redshift":0.029841,
 	"reporting_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019vjm_2458812.002781_FLWO-1.5m_FAST_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019vjm_2458812.002781_FLWO-1.5m_FAST_ASAS-SN.fits",
+			"instrument":{
+				"id":44,
+				"name":"FAST"
+			},
+			"jd":2458812.002781,
+			"obsdate":"2019-11-24 12:04:00",
+			"observer":"E. Falco",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":36,
+				"name":"FLWO-1.5m"
+			}
+		}
+	],
+	"type":3
 }

@@ -1,0 +1,72 @@
+{
+	"dec":"-16:33:43.00",
+	"decdeg":-16.5619439,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-11-19 04:11:14",
+	"discoverymag":20.39,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acvgbeh",
+	"internal_names":"ZTF19acvgbeh, ATLAS19bcet",
+	"isTNS_AT":1,
+	"name":"2019vmh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2019vmh",
+	"public":1,
+	"ra":"23:28:14.296",
+	"radeg":352.05956723333,
+	"redshift":0.113,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/C-SNAILS/tns_2019vmh_2019-11-29_LT_SPRAT_C-SNAILS.txt",
+			"assoc_groups":[
+				{
+					"id":72,
+					"name":"C-SNAILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458816.5,
+			"obsdate":"2019-11-29 00:00:00",
+			"observer":"M. Nicholl",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":72,
+				"name":"C-SNAILS"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":104
+}

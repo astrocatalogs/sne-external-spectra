@@ -1,0 +1,72 @@
+{
+	"dec":"-14:38:10.31",
+	"decdeg":-14.6361963636,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2019-11-25 07:55:12",
+	"discoverymag":16.6,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC922031",
+	"internal_name":"ASASSN-19abq",
+	"internal_names":"ASASSN-19abq, ATLAS19bbhw",
+	"isTNS_AT":1,
+	"name":"2019vnj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019vnj",
+	"public":1,
+	"ra":"11:09:01.234",
+	"radeg":167.255143636,
+	"redshift":0.02,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019vnj_2019-11-26_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2458813.5,
+			"obsdate":"2019-11-26 00:00:00",
+			"observer":"M. R. Siebert",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":3
+}

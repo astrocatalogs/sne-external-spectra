@@ -1,6 +1,6 @@
 {
-	"dec":"+75:48:40.48",
-	"decdeg":75.8112457,
+	"dec":"+75:48:40.50",
+	"decdeg":75.81125,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -8,30 +8,65 @@
 	},
 	"discoverer":null,
 	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
 	"discoverydate":"2019-10-29 11:52:26",
 	"discoverymag":18.92,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ZTF19ackjene",
-	"internal_names":"ZTF19ackjene, ATLAS19baqb",
+	"internal_names":"ZTF19ackjene, ATLAS19baqb, Gaia19fhq",
 	"isTNS_AT":1,
 	"name":"2019tzx",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":14,
+		"name":"SN IIb"
 	},
 	"objname":"2019tzx",
 	"public":1,
-	"ra":"12:02:14.085",
-	"radeg":180.55868655,
-	"redshift":null,
-	"source_group":{
+	"ra":"12:02:14.040",
+	"radeg":180.5585,
+	"redshift":0.0435,
+	"reporting_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019tzx_2019-11-24_12-34-12_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019tzx_2019-11-24_12-34-12_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458812.02375,
+			"obsdate":"2019-11-24 12:34:12",
+			"observer":"I. Andreoni",
+			"public":1,
+			"reducer":"A. Tzanidakis",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":14
 }

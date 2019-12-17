@@ -1,0 +1,64 @@
+{
+	"dec":"+13:08:14.05",
+	"decdeg":13.1372357634,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2019-12-03 12:30:14",
+	"discoverymag":19.22,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19hay",
+	"internal_names":"PS19hay, ZTF19acxozhr, ATLAS19bcln",
+	"isTNS_AT":1,
+	"name":"2019wgx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019wgx",
+	"public":1,
+	"ra":"09:25:39.934",
+	"radeg":141.416390139,
+	"redshift":0.1,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019wgx_2458827.620750_WHT-4.2m_ACAM.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":97,
+				"name":"ACAM"
+			},
+			"jd":2458827.62075,
+			"obsdate":"2019-12-10 02:53:52",
+			"observer":"S. Prentice, D. Eappachen",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":8,
+				"name":"WHT-4.2m"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"-45:52:24.74",
+	"decdeg":-45.873539,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2019-11-24 06:28:48",
+	"discoverymag":17.7,
+	"end_prop_period":null,
+	"host_redshift":0.049187,
+	"hostname":"6dF J0500474-455225",
+	"internal_name":"ASASSN-19abw",
+	"internal_names":"ASASSN-19abw, Gaia19fgt",
+	"isTNS_AT":1,
+	"name":"2019vqc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019vqc",
+	"public":1,
+	"ra":"05:00:47.230",
+	"radeg":75.196792,
+	"redshift":0.049,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vqc_2019-12-08_04-42-17_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vqc_2019-12-08_04-42-17_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458825.6960301,
+			"obsdate":"2019-12-08 04:42:17",
+			"observer":"N. Ihanec, T. Wevers",
+			"public":1,
+			"reducer":"M. Gromadzki, E. Callis",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
+}

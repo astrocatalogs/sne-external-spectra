@@ -1,0 +1,64 @@
+{
+	"dec":"+45:58:38.95",
+	"decdeg":45.97748552,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Zhang",
+	"discovererid":662,
+	"discovery_data_source":{
+		"group_name":"XOSS",
+		"groupid":10
+	},
+	"discoverydate":"2019-12-07 23:16:30",
+	"discoverymag":18.2,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC33464",
+	"internal_name":"PSP19F",
+	"internal_names":"PSP19F, ZTF19acxxwrs",
+	"isTNS_AT":1,
+	"name":"2019wep",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":110,
+		"name":"SN II-pec"
+	},
+	"objname":"2019wep",
+	"public":1,
+	"ra":"11:04:37.033",
+	"radeg":166.15430554,
+	"redshift":0.025,
+	"reporting_group":{
+		"group_name":"XOSS",
+		"groupid":10
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019wep_2019-12-08.85_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":2100,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458826.35,
+			"obsdate":"2019-12-08 20:24:00",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":110
+}

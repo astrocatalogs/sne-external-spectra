@@ -1,0 +1,72 @@
+{
+	"dec":"-18:46:35.49",
+	"decdeg":-18.7765258449,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2019-11-23 20:30:08",
+	"discoverymag":17,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 3514",
+	"internal_name":"",
+	"internal_names":", ATLAS19bbmr, PS19hcx",
+	"isTNS_AT":1,
+	"name":"2019vju",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019vju",
+	"public":1,
+	"ra":"11:04:00.222",
+	"radeg":166.000926734,
+	"redshift":0.012872,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019vju_2019-11-27_16-34-37_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019vju_2019-11-27_16-34-37_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2458815.190706,
+			"obsdate":"2019-11-27 16:34:37",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":3
+}

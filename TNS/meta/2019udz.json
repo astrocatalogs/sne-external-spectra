@@ -8,30 +8,65 @@
 	},
 	"discoverer":null,
 	"discovererid":35587,
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
 	"discoverydate":"2019-11-02 19:40:48",
 	"discoverymag":17.9,
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"Gaia19exp",
-	"internal_names":"Gaia19exp, ZTF19ackjtfm",
+	"internal_names":"Gaia19exp, ZTF19ackjtfm, ATLAS19bdbr",
 	"isTNS_AT":1,
 	"name":"2019udz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019udz",
 	"public":1,
 	"ra":"12:52:32.740",
 	"radeg":193.136417,
-	"redshift":null,
-	"source_group":{
+	"redshift":0.04323,
+	"reporting_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":24
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019udz_2019-11-24_12-48-40_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019udz_2019-11-24_12-48-40_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458812.0337963,
+			"obsdate":"2019-11-24 12:48:40",
+			"observer":"I. Andreoni",
+			"public":1,
+			"reducer":"A. Tzanidakis",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":10
 }

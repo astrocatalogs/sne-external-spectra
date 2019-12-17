@@ -8,6 +8,10 @@
 	},
 	"discoverer":null,
 	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
 	"discoverydate":"2019-11-16 13:36:28",
 	"discoverymag":18.436,
 	"end_prop_period":null,
@@ -17,21 +21,52 @@
 	"internal_names":"ATLAS19bard",
 	"isTNS_AT":1,
 	"name":"2019vch",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019vch",
 	"public":1,
 	"ra":"06:45:11.774",
 	"radeg":101.299056667,
-	"redshift":null,
-	"source_group":{
+	"redshift":0.067,
+	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vch_2019-11-27_06-31-56_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":750,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019vch_2019-11-27_06-31-56_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458814.7721759,
+			"obsdate":"2019-11-27 06:31:56",
+			"observer":"T. Wevers, N. Ihanec",
+			"public":1,
+			"reducer":"E. Callis, M. Gromadzki",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }

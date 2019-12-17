@@ -1,0 +1,72 @@
+{
+	"dec":"-20:37:09.34",
+	"decdeg":-20.6192616622,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-09-30 09:23:33",
+	"discoverymag":19.5096,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"GALEXASC J020134.06-203713.7",
+	"internal_name":"ZTF19acblhgq",
+	"internal_names":"ZTF19acblhgq, PS19fuo, ATLAS19xlm",
+	"isTNS_AT":1,
+	"name":"2019rlm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019rlm",
+	"public":1,
+	"ra":"02:01:34.031",
+	"radeg":30.3917956645,
+	"redshift":0.12,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019rlm_2019-11-26_Magellan-Clay_LDSS-3_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":78,
+				"name":"LDSS-3"
+			},
+			"jd":2458813.5,
+			"obsdate":"2019-11-26 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":63,
+				"name":"Magellan-Clay"
+			}
+		}
+	],
+	"type":3
+}

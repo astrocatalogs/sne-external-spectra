@@ -1,0 +1,64 @@
+{
+	"dec":"+62:08:15.83",
+	"decdeg":62.137731,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2019-12-01 00:57:36",
+	"discoverymag":15.4,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ASASSN-19acc",
+	"internal_names":"ASASSN-19acc, Gaia19fje, ATLAS19bchy",
+	"isTNS_AT":1,
+	"name":"2019vxm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019vxm",
+	"public":1,
+	"ra":"19:58:28.540",
+	"radeg":299.618917,
+	"redshift":0.019,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019vxm_2019-12-01_17-28-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":4209,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019vxm_2019-12-01_17-28-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458819.2277778,
+			"obsdate":"2019-12-01 17:28:00",
+			"observer":"Robin Leadbeater",
+			"public":1,
+			"reducer":"Robin Leadbeater",
+			"remarks":"R~130 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":10
+}

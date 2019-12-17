@@ -1,0 +1,64 @@
+{
+	"dec":"+32:24:21.72",
+	"decdeg":32.4060323677,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2019-11-29 14:48:28",
+	"discoverymag":19.89,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19gut",
+	"internal_names":"PS19gut",
+	"isTNS_AT":1,
+	"name":"2019vve",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019vve",
+	"public":1,
+	"ra":"07:55:45.491",
+	"radeg":118.939545333,
+	"redshift":0.042,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019vve_2019-12-10_00-09-00_WHT-4.2m_ACAM.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":97,
+				"name":"ACAM"
+			},
+			"jd":2458827.50625,
+			"obsdate":"2019-12-10 00:09:00",
+			"observer":"D. Eappachen, S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":8,
+				"name":"WHT-4.2m"
+			}
+		}
+	],
+	"type":10
+}

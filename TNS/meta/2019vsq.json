@@ -1,0 +1,72 @@
+{
+	"dec":"+45:12:31.73",
+	"decdeg":45.20881425,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2019-11-29 13:36:24",
+	"discoverymag":17.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 2308",
+	"internal_name":"",
+	"internal_names":", ATLAS19bbun, ZTF19acxmnlb",
+	"isTNS_AT":1,
+	"name":"2019vsq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019vsq",
+	"public":1,
+	"ra":"06:58:35.201",
+	"radeg":104.6466705,
+	"redshift":0.01952,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019vsq_2019-12-03_11-17-22_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019vsq_2019-12-03_11-17-22_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458820.9703935,
+			"obsdate":"2019-12-03 11:17:22",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":10
+}
