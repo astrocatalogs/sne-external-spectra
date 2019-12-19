@@ -1,6 +1,6 @@
 {
-	"dec":"+03:01:44.38",
-	"decdeg":3.02899583333,
+	"dec":"+03:01:44.09",
+	"decdeg":3.0289148333333,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,24 +18,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19bdcc",
-	"internal_names":"ATLAS19bdcc",
+	"internal_names":"ATLAS19bdcc, ZTF19acvdyyn",
 	"isTNS_AT":1,
 	"name":"2019wli",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":104,
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019wli",
 	"public":1,
-	"ra":"13:52:55.332",
-	"radeg":208.230551667,
-	"redshift":null,
+	"ra":"13:52:55.355",
+	"radeg":208.23064526667,
+	"redshift":0.023,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019wli_2019-12-15_15-09-19_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019wli_2019-12-15_15-09-19_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458833.1314699,
+			"obsdate":"2019-12-15 15:09:19",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":104
 }

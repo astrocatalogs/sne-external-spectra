@@ -1,6 +1,6 @@
 {
-	"dec":"+12:31:02.39",
-	"decdeg":12.5173314286,
+	"dec":"+12:31:02.54",
+	"decdeg":12.517370933333,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,24 +18,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19bdbq",
-	"internal_names":"ATLAS19bdbq",
+	"internal_names":"ATLAS19bdbq, ZTF19acylgic",
 	"isTNS_AT":1,
 	"name":"2019wku",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wku",
 	"public":1,
-	"ra":"05:17:21.489",
-	"radeg":79.3395385714,
-	"redshift":null,
+	"ra":"05:17:21.477",
+	"radeg":79.339487,
+	"redshift":0.036,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wku_2019-12-18_03-44-10_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wku_2019-12-18_03-44-10_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458835.6556713,
+			"obsdate":"2019-12-18 03:44:10",
+			"observer":"Tomas Muller",
+			"public":1,
+			"reducer":"Phil Wiseman, Miika Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }
