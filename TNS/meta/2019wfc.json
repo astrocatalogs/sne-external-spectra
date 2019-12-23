@@ -1,6 +1,6 @@
 {
-	"dec":"+52:56:50.73",
-	"decdeg":52.9474261896,
+	"dec":"+52:56:50.71",
+	"decdeg":52.947419,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,24 +18,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19bcub",
-	"internal_names":"ATLAS19bcub, PS19hcp",
+	"internal_names":"ATLAS19bcub, PS19hcp, Gaia19fqq",
 	"isTNS_AT":1,
 	"name":"2019wfc",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wfc",
 	"public":1,
-	"ra":"10:36:14.905",
-	"radeg":159.062105052,
-	"redshift":null,
+	"ra":"10:36:14.900",
+	"radeg":159.062083,
+	"redshift":0.046586,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019wfc_2019-12-22_05-52-21_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458839.7446875,
+			"obsdate":"2019-12-22 05:52:21",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }
