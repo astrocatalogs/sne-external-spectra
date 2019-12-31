@@ -1,6 +1,6 @@
 {
-	"dec":"+55:30:12.40",
-	"decdeg":55.503443722222,
+	"dec":"+55:30:12.31",
+	"decdeg":55.503419,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,24 +18,85 @@
 	"host_redshift":0.04796,
 	"hostname":"CGCG 264-065",
 	"internal_name":"ZTF19acxndsk",
-	"internal_names":"ZTF19acxndsk",
+	"internal_names":"ZTF19acxndsk, Gaia19fpe, ATLAS19bdjg, PS19hwa",
 	"isTNS_AT":1,
 	"name":"2019wiq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wiq",
 	"public":1,
-	"ra":"09:08:47.618",
-	"radeg":137.19840997778,
-	"redshift":null,
+	"ra":"09:08:47.610",
+	"radeg":137.198375,
+	"redshift":0.04788,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019wiq_2019-12-19_03-47-20_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458836.6578704,
+			"obsdate":"2019-12-19 03:47:20",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wiq_2019-12-18_08-01-59_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458835.8347106,
+			"obsdate":"2019-12-18 08:01:59",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
 }

@@ -1,6 +1,6 @@
 {
-	"dec":"-02:51:04.50",
-	"decdeg":-2.8512505,
+	"dec":"-02:51:04.76",
+	"decdeg":-2.85132254063,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,24 +18,55 @@
 	"host_redshift":0.115,
 	"hostname":"SDSS J003520.02-025104.0",
 	"internal_name":"ZTF19acsfvog",
-	"internal_names":"ZTF19acsfvog",
+	"internal_names":"ZTF19acsfvog, PS19ily",
 	"isTNS_AT":1,
 	"name":"2019uxp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019uxp",
 	"public":1,
-	"ra":"00:35:20.023",
-	"radeg":8.8334278,
-	"redshift":null,
+	"ra":"00:35:20.038",
+	"radeg":8.83349225691,
+	"redshift":0.06,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019uxp_2019-12-27_19-48-02_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458845.3250231,
+			"obsdate":"2019-12-27 19:48:02",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }

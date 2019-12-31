@@ -1,0 +1,72 @@
+{
+	"dec":"-08:19:04.32",
+	"decdeg":-8.3178671,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-12-19 03:01:22",
+	"discoverymag":18.7863,
+	"end_prop_period":null,
+	"host_redshift":0.029,
+	"hostname":"SDSS J003849.83-081859.1",
+	"internal_name":"ZTF19aczmnqy",
+	"internal_names":"ZTF19aczmnqy, ATLAS19bdot",
+	"isTNS_AT":1,
+	"name":"2019xct",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":14,
+		"name":"SN IIb"
+	},
+	"objname":"2019xct",
+	"public":1,
+	"ra":"00:38:50.129",
+	"radeg":9.7088693,
+	"redshift":0.03,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019xct_2019-12-27_07-08-14_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458844.7973843,
+			"obsdate":"2019-12-27 07:08:14",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":14
+}

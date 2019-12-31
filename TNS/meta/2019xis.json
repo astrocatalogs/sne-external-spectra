@@ -1,0 +1,72 @@
+{
+	"dec":"-69:16:24.70",
+	"decdeg":-69.273528,
+	"discmagfilter":{
+		"family":"Cousins",
+		"id":14,
+		"name":"I"
+	},
+	"discoverer":"Gromadzki",
+	"discovererid":579,
+	"discovery_data_source":{
+		"group_name":"OGLE",
+		"groupid":17
+	},
+	"discoverydate":"2019-10-15 08:40:24",
+	"discoverymag":21.286,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"OGLE-GAL-LMC517.02-374.217-667.894",
+	"internal_name":"",
+	"internal_names":"",
+	"isTNS_AT":1,
+	"name":"2019xis",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019xis",
+	"public":1,
+	"ra":"05:36:13.700",
+	"radeg":84.057083,
+	"redshift":0.005,
+	"reporting_group":{
+		"group_name":"OGLE",
+		"groupid":17
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019xis_2019-12-28_07-03-52_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019xis_2019-12-28_07-03-52_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458845.7943519,
+			"obsdate":"2019-12-28 07:03:52",
+			"observer":"J. Antilen, T. Muller",
+			"public":1,
+			"reducer":"M. Smith, M. Grayling, P. Wiseman, C. Frohmaier, C. R. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":10
+}

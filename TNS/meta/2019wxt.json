@@ -1,0 +1,124 @@
+{
+	"dec":"+31:25:04.55",
+	"decdeg":31.4179294413,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2019-12-16 07:19:12",
+	"discoverymag":19.38,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19hgw",
+	"internal_names":"PS19hgw",
+	"isTNS_AT":1,
+	"name":"2019wxt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":14,
+		"name":"SN IIb"
+	},
+	"objname":"2019wxt",
+	"public":1,
+	"ra":"01:55:41.941",
+	"radeg":28.9247527006,
+	"redshift":0.036,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019wxt_2019-12-19_05-10-39_LBT_MODS2.ascii",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":121,
+				"name":"MODS2"
+			},
+			"jd":2458836.7157292,
+			"obsdate":"2019-12-19 05:10:39",
+			"observer":"Vallely, Wood",
+			"public":1,
+			"reducer":"Garnavich",
+			"remarks":"LBT spectrum from a ToO led by Mark Wagner",
+			"source_group_name":"None",
+			"telescope":{
+				"id":83,
+				"name":"LBT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2019wxt_2019-12-19_01-24-45_VLT-UT1_FORS2_adH0cc.asci",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2019wxt_2019-12-19_01-24-45_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2458836.5588542,
+			"obsdate":"2019-12-19 01:24:45",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"Quick reduction with telluric corrections.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wxt_2019-12-19_00-50-08_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wxt_2019-12-19_00-50-08_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458836.5348148,
+			"obsdate":"2019-12-19 00:50:08",
+			"observer":"Tomas Muller",
+			"public":1,
+			"reducer":"Phil Wiseman, Miika Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":14
+}

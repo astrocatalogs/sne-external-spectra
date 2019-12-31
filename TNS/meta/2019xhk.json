@@ -1,0 +1,64 @@
+{
+	"dec":"+80:24:20.30",
+	"decdeg":80.405639,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2019-12-21 10:36:28",
+	"discoverymag":18.505,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19bdsk",
+	"internal_names":"ATLAS19bdsk, Gaia19ftf",
+	"isTNS_AT":1,
+	"name":"2019xhk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019xhk",
+	"public":1,
+	"ra":"08:11:57.740",
+	"radeg":122.990583,
+	"redshift":0.065,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xhk_2019-12-29_04-05-50_LT_SPRAT.spec",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458846.6707176,
+			"obsdate":"2019-12-29 04:05:50",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

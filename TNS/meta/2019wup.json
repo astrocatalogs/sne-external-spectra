@@ -1,0 +1,72 @@
+{
+	"dec":"+38:11:50.81",
+	"decdeg":38.19744712,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-12-16 02:14:58",
+	"discoverymag":18.84,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF19acynije",
+	"internal_names":"ZTF19acynije",
+	"isTNS_AT":1,
+	"name":"2019wup",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019wup",
+	"public":1,
+	"ra":"00:24:22.599",
+	"radeg":6.09416138,
+	"redshift":0.017,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/FDST/tns_2019wup_2019-12-20_19-20-30_LT_SPRAT_FDST.asci",
+			"assoc_groups":[
+				{
+					"id":70,
+					"name":"FDST"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/FDST/tns_2019wup_2019-12-20_19-20-30_LT_SPRAT_FDST.fits",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458838.3059028,
+			"obsdate":"2019-12-20 19:20:30",
+			"observer":"C. Frohmaier",
+			"public":1,
+			"reducer":"C. Frohmaier",
+			"remarks":"",
+			"source_group":{
+				"id":70,
+				"name":"FDST"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

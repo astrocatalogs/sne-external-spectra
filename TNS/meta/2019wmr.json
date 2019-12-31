@@ -1,6 +1,6 @@
 {
-	"dec":"+33:31:41.66",
-	"decdeg":33.5282396466,
+	"dec":"+33:31:41.74",
+	"decdeg":33.5282617172,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -21,21 +21,52 @@
 	"internal_names":"ZTF18aacemcn, ATLAS19bcng, PS19gzo",
 	"isTNS_AT":1,
 	"name":"2019wmr",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019wmr",
 	"public":1,
-	"ra":"09:46:03.545",
-	"radeg":146.514770179,
-	"redshift":null,
+	"ra":"09:46:03.549",
+	"radeg":146.514789338,
+	"redshift":0.038,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019wmr_2019-12-23_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458840.5,
+			"obsdate":"2019-12-23 00:00:00",
+			"observer":"Georgios Dimitriadis",
+			"public":1,
+			"reducer":"Georgios Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
 }

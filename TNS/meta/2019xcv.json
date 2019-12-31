@@ -1,0 +1,64 @@
+{
+	"dec":"+48:23:04.41",
+	"decdeg":48.3845583333,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2019-12-19 07:55:12",
+	"discoverymag":18.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19bdhq",
+	"internal_names":"ATLAS19bdhq",
+	"isTNS_AT":1,
+	"name":"2019xcv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019xcv",
+	"public":1,
+	"ra":"01:28:30.474",
+	"radeg":22.126975,
+	"redshift":0.0342,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xcv_2019-12-25_22-48-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":3000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xcv_2019-12-25_22-48-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458843.45,
+			"obsdate":"2019-12-25 22:48:00",
+			"observer":"Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":3
+}

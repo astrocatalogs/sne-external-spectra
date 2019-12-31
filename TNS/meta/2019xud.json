@@ -1,0 +1,64 @@
+{
+	"dec":"+18:47:06.22",
+	"decdeg":18.785062,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2019-12-24 08:31:12",
+	"discoverymag":19.078,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19bdts",
+	"internal_names":"ATLAS19bdts, MASTER OT J023801.54+184704.3",
+	"isTNS_AT":1,
+	"name":"2019xud",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019xud",
+	"public":1,
+	"ra":"02:38:01.471",
+	"radeg":39.506128,
+	"redshift":0.0274,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xud_2019-12-25.58_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":3000,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458843.08,
+			"obsdate":"2019-12-25 13:55:12",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":3
+}

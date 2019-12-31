@@ -1,0 +1,72 @@
+{
+	"dec":"-16:06:25.90",
+	"decdeg":-16.1071954,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-12-18 11:32:19",
+	"discoverymag":18.6362,
+	"end_prop_period":null,
+	"host_redshift":0.018523,
+	"hostname":"WISEA J110004.78-160621.4",
+	"internal_name":"ZTF19aczjytt",
+	"internal_names":"ZTF19aczjytt",
+	"isTNS_AT":1,
+	"name":"2019wzh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019wzh",
+	"public":1,
+	"ra":"11:00:05.718",
+	"radeg":165.0238236,
+	"redshift":0.0185,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019wzh_2019-12-23_05-43-17_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458840.7383912,
+			"obsdate":"2019-12-23 05:43:17",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
+}

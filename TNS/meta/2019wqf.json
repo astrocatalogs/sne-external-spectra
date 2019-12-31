@@ -18,24 +18,55 @@
 	"host_redshift":0.033169,
 	"hostname":"UGC 09323",
 	"internal_name":"ZTF19acymzwh",
-	"internal_names":"ZTF19acymzwh",
+	"internal_names":"ZTF19acymzwh, ATLAS19bfeu",
 	"isTNS_AT":1,
 	"name":"2019wqf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wqf",
 	"public":1,
 	"ra":"14:30:00.138",
 	"radeg":217.50057356667,
-	"redshift":null,
+	"redshift":0.033,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019wqf_2019-12-23_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458840.5,
+			"obsdate":"2019-12-23 00:00:00",
+			"observer":"Georgios Dimitriadis",
+			"public":1,
+			"reducer":"Georgios Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
 }

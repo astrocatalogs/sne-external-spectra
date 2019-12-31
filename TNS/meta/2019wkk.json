@@ -21,21 +21,52 @@
 	"internal_names":"ATLAS19bdbl, PS19hcy",
 	"isTNS_AT":1,
 	"name":"2019wkk",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wkk",
 	"public":1,
 	"ra":"03:17:10.678",
 	"radeg":49.2944917337,
-	"redshift":null,
+	"redshift":0.032,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wkk_2019-12-28_01-36-38_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wkk_2019-12-28_01-36-38_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458845.5671065,
+			"obsdate":"2019-12-28 01:36:38",
+			"observer":"J. Antilen, T. Muller",
+			"public":1,
+			"reducer":"M. Smith, M. Grayling, P. Wiseman, C. Frohmaier, C. R. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }
