@@ -1,6 +1,6 @@
 {
-	"dec":"-45:57:37.77",
-	"decdeg":-45.9604928,
+	"dec":"-45:57:37.87",
+	"decdeg":-45.960519,
 	"discmagfilter":{
 		"family":"Sloan",
 		"id":21,
@@ -18,24 +18,55 @@
 	"host_redshift":null,
 	"hostname":"WISEA J065009.20-455737.5",
 	"internal_name":"ASASSN-19adz",
-	"internal_names":"ASASSN-19adz, ATLAS19beno",
+	"internal_names":"ASASSN-19adz, ATLAS19beno, Gaia20adg",
 	"isTNS_AT":1,
 	"name":"2019ybv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":104,
+		"name":"SN Ia-91T-like"
 	},
 	"objname":"2019ybv",
 	"public":1,
-	"ra":"06:50:08.924",
-	"radeg":102.5371832,
-	"redshift":null,
+	"ra":"06:50:08.910",
+	"radeg":102.537125,
+	"redshift":0.04,
 	"reporting_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ybv_2020-01-04_07-11-58_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019ybv_2020-01-04_07-11-58_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458852.7999769,
+			"obsdate":"2020-01-04 07:11:58",
+			"observer":"Nico Meza, Tomas Muller",
+			"public":1,
+			"reducer":"Matt Grayling, Phil Wiseman",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":104
 }

@@ -21,22 +21,52 @@
 	"internal_names":"",
 	"isTNS_AT":1,
 	"name":"2019xis",
-	"name_prefix":"SN",
+	"name_prefix":"AT",
 	"object_type":{
-		"id":10,
-		"name":"SN II"
+		"id":40,
+		"name":"Light-Echo"
 	},
 	"objname":"2019xis",
 	"public":1,
 	"ra":"05:36:13.700",
 	"radeg":84.057083,
-	"redshift":0.005,
+	"redshift":0.0009,
 	"reporting_group":{
 		"group_name":"OGLE",
 		"groupid":17
 	},
 	"sourceid":1,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019xis_2019-12-28_07-03-52_ESO-NTT_EFOSC2-NTT_ePESSTO%2B_0.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458845.7943519,
+			"obsdate":"2019-12-28 07:03:52",
+			"observer":"J. Antilen, T. Muller",
+			"public":1,
+			"reducer":"M. Smith, M. Grayling, P. Wiseman, C. Frohmaier, C. R. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019xis_2019-12-28_07-03-52_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
@@ -68,5 +98,5 @@
 			}
 		}
 	],
-	"type":10
+	"type":40
 }

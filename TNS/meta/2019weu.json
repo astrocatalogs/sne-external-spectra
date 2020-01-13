@@ -21,21 +21,52 @@
 	"internal_names":"ATLAS19bcxe, ZTF19acxgxcu, Gaia19fov",
 	"isTNS_AT":1,
 	"name":"2019weu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019weu",
 	"public":1,
 	"ra":"23:24:33.190",
 	"radeg":351.138292,
-	"redshift":null,
+	"redshift":0.038,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019weu_2020-01-01_02-28-15_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019weu_2020-01-01_02-28-15_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458849.6029514,
+			"obsdate":"2020-01-01 02:28:15",
+			"observer":"Y. Yao",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
 }

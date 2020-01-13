@@ -21,22 +21,52 @@
 	"internal_names":"ATLAS19bdir",
 	"isTNS_AT":1,
 	"name":"2019xdf",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019xdf",
 	"public":1,
 	"ra":"09:27:51.809",
 	"radeg":141.965871818,
-	"redshift":0.013,
+	"redshift":0.013012,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019xdf_2020-01-06_10-11-45_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2019xdf_2020-01-06_10-11-45_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458854.9248264,
+			"obsdate":"2020-01-06 10:11:45",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019xdf_2019-12-23_Lick-3m_KAST_UCSC.flm",
 			"assoc_groups":[
@@ -68,5 +98,5 @@
 			}
 		}
 	],
-	"type":null
+	"type":10
 }

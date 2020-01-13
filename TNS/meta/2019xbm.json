@@ -1,6 +1,6 @@
 {
-	"dec":"+58:08:03.38",
-	"decdeg":58.1342717,
+	"dec":"+58:08:03.35",
+	"decdeg":58.13426382,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -21,21 +21,52 @@
 	"internal_names":"ZTF19acyjjni",
 	"isTNS_AT":1,
 	"name":"2019xbm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":14,
+		"name":"SN IIb"
 	},
 	"objname":"2019xbm",
 	"public":1,
-	"ra":"13:07:13.987",
-	"radeg":196.80827955,
-	"redshift":null,
+	"ra":"13:07:13.988",
+	"radeg":196.80828288,
+	"redshift":0.026,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019xbm_2020-01-05_04-20-37_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458853.6809838,
+			"obsdate":"2020-01-05 04:20:37",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":14
 }

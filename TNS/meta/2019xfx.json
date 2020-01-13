@@ -1,6 +1,6 @@
 {
-	"dec":"-10:30:15.54",
-	"decdeg":-10.5043163,
+	"dec":"-10:30:15.04",
+	"decdeg":-10.5041779193,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,24 +18,85 @@
 	"host_redshift":0.056,
 	"hostname":"SDSS J022413.05-103015.7",
 	"internal_name":"ZTF19adalouc",
-	"internal_names":"ZTF19adalouc, ATLAS19becr",
+	"internal_names":"ZTF19adalouc, ATLAS19becr, PS19jfl",
 	"isTNS_AT":1,
 	"name":"2019xfx",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019xfx",
 	"public":1,
-	"ra":"02:24:13.198",
-	"radeg":36.0549911,
-	"redshift":null,
+	"ra":"02:24:13.190",
+	"radeg":36.0549598309,
+	"redshift":0.053,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019xfx_2020-01-08_04-17-05_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458856.6785301,
+			"obsdate":"2020-01-08 04:17:05",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"D. Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019xfx_2020-01-04_06-04-09_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458852.7528819,
+			"obsdate":"2020-01-04 06:04:09",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
 }

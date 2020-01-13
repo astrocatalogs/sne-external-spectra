@@ -1,6 +1,6 @@
 {
-	"dec":"+01:11:01.18",
-	"decdeg":1.18366,
+	"dec":"+01:11:01.01",
+	"decdeg":1.1836145666667,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,24 +18,47 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS19bedk",
-	"internal_names":"ATLAS19bedk",
+	"internal_names":"ATLAS19bedk, ZTF20aabqkla",
 	"isTNS_AT":1,
 	"name":"2019yfu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019yfu",
 	"public":1,
-	"ra":"12:45:36.369",
-	"radeg":191.401536667,
-	"redshift":null,
+	"ra":"12:45:36.367",
+	"radeg":191.40152806667,
+	"redshift":0.0845,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019yfu_2019-12-31_05-29-59.722_LT_SPRAT.spec",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458848.7291551,
+			"obsdate":"2019-12-31 05:29:59",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
 }

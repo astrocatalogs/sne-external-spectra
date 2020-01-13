@@ -1,6 +1,6 @@
 {
-	"dec":"+54:46:10.62",
-	"decdeg":54.7696179148,
+	"dec":"+54:46:10.50",
+	"decdeg":54.7695823224,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -28,15 +28,45 @@
 	},
 	"objname":"2019wmu",
 	"public":1,
-	"ra":"06:55:03.353",
-	"radeg":103.763969859,
-	"redshift":0.055,
+	"ra":"06:55:03.351",
+	"radeg":103.763963211,
+	"redshift":0.06,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wmu_2019-12-24_07-19-06_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wmu_2019-12-24_07-19-06_Lick-3m_KAST_ZTF.fits",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458841.8049306,
+			"obsdate":"2019-12-24 07:19:06",
+			"observer":"M. L. Graham",
+			"public":1,
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019wmu_2019-12-19_02-22-48_LT_SPRAT_TCD.txt",
 			"assoc_groups":[

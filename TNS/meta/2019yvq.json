@@ -1,6 +1,6 @@
 {
 	"dec":"+64:47:59.87",
-	"decdeg":64.7999639,
+	"decdeg":64.799962883333,
 	"discmagfilter":{
 		"family":"",
 		"id":1,
@@ -21,21 +21,66 @@
 	"internal_names":", ZTF19adcecwu, ATLAS19bfni",
 	"isTNS_AT":1,
 	"name":"2019yvq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019yvq",
 	"public":1,
-	"ra":"12:27:21.836",
-	"radeg":186.84098525,
-	"redshift":null,
+	"ra":"12:27:21.835",
+	"radeg":186.84098101667,
+	"redshift":0.0091,
 	"reporting_group":{
 		"group_name":"None",
 		"groupid":0
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019yvq_2020-01-04_01-46-05_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458852.573669,
+			"obsdate":"2020-01-04 01:46:05",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019yvq_2458850.337743_Kanata_HOWPol.dat",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":138,
+				"name":"HOWPol"
+			},
+			"jd":2458850.337743,
+			"obsdate":"2020-01-01 20:06:20",
+			"observer":"Tatsuya Nakaoka",
+			"public":1,
+			"reducer":"Miho Kawabata",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":90,
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":3
 }

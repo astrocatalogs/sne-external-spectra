@@ -21,21 +21,52 @@
 	"internal_names":"ZTF19adakacw",
 	"isTNS_AT":1,
 	"name":"2019xbn",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019xbn",
 	"public":1,
 	"ra":"10:24:06.848",
 	"radeg":156.0285315,
-	"redshift":null,
+	"redshift":0.03,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019xbn_2020-01-04_04-39-43_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458852.6942477,
+			"obsdate":"2020-01-04 04:39:43",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
 }

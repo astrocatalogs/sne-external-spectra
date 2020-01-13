@@ -1,6 +1,6 @@
 {
-	"dec":"-10:12:12.54",
-	"decdeg":-10.203484575,
+	"dec":"-10:12:12.53",
+	"decdeg":-10.203481,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,24 +18,77 @@
 	"host_redshift":null,
 	"hostname":"WISEA J040435.19-101211.5",
 	"internal_name":"ZTF19acyplkt",
-	"internal_names":"ZTF19acyplkt",
+	"internal_names":"ZTF19acyplkt, PS19jfs, Gaia20abh",
 	"isTNS_AT":1,
 	"name":"2019wvv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wvv",
 	"public":1,
-	"ra":"04:04:35.047",
-	"radeg":61.146030875,
-	"redshift":null,
+	"ra":"04:04:35.040",
+	"radeg":61.146,
+	"redshift":0.031,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wvv_2019-12-27_12-26-07_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wvv_2019-12-27_12-26-07_Lick-3m_KAST_ZTF.fits",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458845.0181366,
+			"obsdate":"2019-12-27 12:26:07",
+			"observer":"M. L. Graham",
+			"public":1,
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019wvv_2019-12-27_APO-3.5m_DIS.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019wvv_2019-12-27_APO-3.5m_DIS.fits",
+			"groupid":0,
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2458844.5,
+			"obsdate":"2019-12-27 00:00:00",
+			"observer":"Melissa L Graham",
+			"public":1,
+			"reducer":"Melissa L Graham",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	],
+	"type":3
 }

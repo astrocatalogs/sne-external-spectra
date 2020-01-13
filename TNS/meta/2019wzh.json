@@ -1,6 +1,6 @@
 {
-	"dec":"-16:06:25.90",
-	"decdeg":-16.1071954,
+	"dec":"-16:06:25.74",
+	"decdeg":-16.10715032,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,7 +18,7 @@
 	"host_redshift":0.018523,
 	"hostname":"WISEA J110004.78-160621.4",
 	"internal_name":"ZTF19aczjytt",
-	"internal_names":"ZTF19aczjytt",
+	"internal_names":"ZTF19aczjytt, ATLAS20abe",
 	"isTNS_AT":1,
 	"name":"2019wzh",
 	"name_prefix":"SN",
@@ -28,15 +28,45 @@
 	},
 	"objname":"2019wzh",
 	"public":1,
-	"ra":"11:00:05.718",
-	"radeg":165.0238236,
-	"redshift":0.0185,
+	"ra":"11:00:05.728",
+	"radeg":165.0238677,
+	"redshift":0.018523,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wzh_2020-01-03_10-18-24_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458851.9294444,
+			"obsdate":"2020-01-03 10:18:24",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2019wzh_2019-12-23_05-43-17_LT_SPRAT_TCD.txt",
 			"assoc_groups":[

@@ -1,6 +1,6 @@
 {
-	"dec":"+38:55:47.20",
-	"decdeg":38.9297783,
+	"dec":"+38:55:47.24",
+	"decdeg":38.929789,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,24 +18,55 @@
 	"host_redshift":0.017068,
 	"hostname":"NGC 6131",
 	"internal_name":"ZTF19acjtpqd",
-	"internal_names":"ZTF19acjtpqd",
+	"internal_names":"ZTF19acjtpqd, Gaia20aaz",
 	"isTNS_AT":1,
 	"name":"2019tqb",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objname":"2019tqb",
 	"public":1,
 	"ra":"16:21:53.900",
-	"radeg":245.4745836,
-	"redshift":null,
+	"radeg":245.474583,
+	"redshift":0.01717,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019tqb_2020-01-01_12-27-39_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458850.0192014,
+			"obsdate":"2020-01-01 12:27:39",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":5
 }
