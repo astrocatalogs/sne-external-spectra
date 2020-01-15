@@ -21,21 +21,50 @@
 	"internal_names":"ASASSN-19adm, Gaia20aee",
 	"isTNS_AT":1,
 	"name":"2019xfi",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019xfi",
 	"public":1,
 	"ra":"12:39:47.940",
 	"radeg":189.94975,
-	"redshift":null,
+	"redshift":0.017969,
 	"reporting_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xfi_2458859.534074_SALT_RSS.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019xfi_2458859.534074_SALT_RSS.fits",
+			"groupid":0,
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2458859.534074,
+			"obsdate":"2020-01-11 00:49:03",
+			"observer":"David Buckley",
+			"public":1,
+			"reducer":"M. Gromadzki",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":3
 }

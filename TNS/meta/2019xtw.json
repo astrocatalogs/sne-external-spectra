@@ -23,14 +23,14 @@
 	"name":"2019xtw",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":1,
-		"name":"SN"
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019xtw",
 	"public":1,
 	"ra":"02:43:33.638",
 	"radeg":40.8901588889,
-	"redshift":0,
+	"redshift":0.015964,
 	"reporting_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
@@ -68,6 +68,36 @@
 			}
 		},
 		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019xtw_2019-12-27_08-25-03_UH88_SNIFS_SCAT_0.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458844.8507292,
+			"obsdate":"2019-12-27 08:25:03",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2019xtw_2019-12-27_08-25-03_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
@@ -98,5 +128,5 @@
 			}
 		}
 	],
-	"type":1
+	"type":10
 }
