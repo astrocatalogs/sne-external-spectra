@@ -21,21 +21,52 @@
 	"internal_names":"ZTF19acxyucu",
 	"isTNS_AT":1,
 	"name":"2019wyp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019wyp",
 	"public":1,
 	"ra":"13:06:37.100",
 	"radeg":196.65458534167,
-	"redshift":null,
+	"redshift":0.081,
 	"reporting_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2019wyp_2020-01-18_MMT_BINOSPEC_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2458866.5,
+			"obsdate":"2020-01-18 00:00:00",
+			"observer":"Binospec Queue Service Observer",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	],
+	"type":3
 }

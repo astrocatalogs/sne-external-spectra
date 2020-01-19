@@ -21,21 +21,52 @@
 	"internal_names":"Gaia19fti",
 	"isTNS_AT":1,
 	"name":"2019xvu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019xvu",
 	"public":1,
 	"ra":"01:53:08.500",
 	"radeg":28.285417,
-	"redshift":null,
+	"redshift":0.063,
 	"reporting_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":24
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019xvu_2020-01-17_02-33-59_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019xvu_2020-01-17_02-33-59_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458865.6069329,
+			"obsdate":"2020-01-17 02:33:59",
+			"observer":"Erez Zimmerman, Ido Irani, Steve Schulze",
+			"public":1,
+			"reducer":"Rachel Bruch, Ofer Yaron",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }
