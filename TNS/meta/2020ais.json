@@ -1,0 +1,72 @@
+{
+	"dec":"+10:47:00.06",
+	"decdeg":10.78335,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-01-19 14:38:24",
+	"discoverymag":18,
+	"end_prop_period":null,
+	"host_redshift":0.019707,
+	"hostname":"IC 0727",
+	"internal_name":"ASASSN-20as",
+	"internal_names":"ASASSN-20as",
+	"isTNS_AT":1,
+	"name":"2020ais",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":103,
+		"name":"SN Ia-91bg-like"
+	},
+	"objname":"2020ais",
+	"public":1,
+	"ra":"11:44:28.531",
+	"radeg":176.11888,
+	"redshift":0.02,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2020ais_2020-01-29_05-24-09_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458877.7251042,
+			"obsdate":"2020-01-29 05:24:09",
+			"observer":"David Bersier",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":103
+}

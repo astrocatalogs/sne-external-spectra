@@ -1,0 +1,64 @@
+{
+	"dec":"-05:36:12.46",
+	"decdeg":-5.603461,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":59228,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-02 04:23:00",
+	"discoverymag":19.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aabcnkx",
+	"internal_names":"ZTF20aabcnkx, Gaia20ahh, ATLAS20aug, PS20ml",
+	"isTNS_AT":1,
+	"name":"2020pc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2020pc",
+	"public":1,
+	"ra":"04:13:26.020",
+	"radeg":63.358417,
+	"redshift":0.097,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020pc_2020-01-09_04-33-30_SOAR_Goodman.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458857.6899306,
+			"obsdate":"2020-01-09 04:33:30",
+			"observer":"R. Cartier",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":104
+}

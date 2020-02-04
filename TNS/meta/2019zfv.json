@@ -1,0 +1,72 @@
+{
+	"dec":"-04:16:54.76",
+	"decdeg":-4.28187900215,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":67899,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2019-12-24 14:11:02",
+	"discoverymag":20.58,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19jac",
+	"internal_names":"PS19jac",
+	"isTNS_AT":1,
+	"name":"2019zfv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019zfv",
+	"public":1,
+	"ra":"10:51:21.627",
+	"radeg":162.840111211,
+	"redshift":0.1357,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019zfv_2020-01-03_06-59-06.947_SOAR_Goodman_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458851.7910417,
+			"obsdate":"2020-01-03 06:59:06",
+			"observer":"M. R. Siebert",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"We measure an Si II 6355 velocity of -11,300 km/s.",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":3
+}

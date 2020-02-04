@@ -1,0 +1,64 @@
+{
+	"dec":"-04:49:19.70",
+	"decdeg":-4.82213908098,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-18 05:38:05",
+	"discoverymag":17.8719,
+	"end_prop_period":null,
+	"host_redshift":0.015444,
+	"hostname":"WISEA J044835.25-044910.4",
+	"internal_name":"ZTF20aagjpmt",
+	"internal_names":"ZTF20aagjpmt, ATLAS20atr, PS20en",
+	"isTNS_AT":1,
+	"name":"2020aer",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020aer",
+	"public":1,
+	"ra":"04:48:35.436",
+	"radeg":72.1476489139,
+	"redshift":0.015,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aer_2020-01-18_23-23-15.94_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aer_2020-01-18_23-23-15.94_LT_SPRAT.fits",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458867.4744792,
+			"obsdate":"2020-01-18 23:23:15",
+			"observer":"SS",
+			"public":1,
+			"reducer":"SPRAT automatic pipeline",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
+}

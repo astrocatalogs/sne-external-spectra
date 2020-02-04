@@ -1,0 +1,64 @@
+{
+	"dec":"+02:39:34.25",
+	"decdeg":2.65951392582,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-01-12 17:20:56",
+	"discoverymag":15,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 4636",
+	"internal_name":"",
+	"internal_names":", ATLAS20aup, PS20ep",
+	"isTNS_AT":1,
+	"name":"2020ue",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ue",
+	"public":1,
+	"ra":"12:42:46.765",
+	"radeg":190.694854992,
+	"redshift":0.003,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ue_2458861.36_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458861.36,
+			"obsdate":"2020-01-12 20:38:24",
+			"observer":"Kawabata",
+			"public":1,
+			"reducer":"",
+			"remarks":"Seimei 3.8m - KOOLS ",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":3
+}

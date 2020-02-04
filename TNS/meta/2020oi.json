@@ -1,0 +1,72 @@
+{
+	"dec":"+15:49:24.96",
+	"decdeg":15.8236,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-07 13:00:54",
+	"discoverymag":17.2799,
+	"end_prop_period":null,
+	"host_redshift":0.00524,
+	"hostname":"MESSIER 100",
+	"internal_name":"ZTF20aaelulu",
+	"internal_names":"ZTF20aaelulu, ATLAS20atq, PS20eg, Gaia20ali",
+	"isTNS_AT":1,
+	"name":"2020oi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objname":"2020oi",
+	"public":1,
+	"ra":"12:22:54.930",
+	"radeg":185.728875,
+	"redshift":0.0052,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020oi_2020-01-09_07-17-20_SOAR_Goodman_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":720,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458857.8037037,
+			"obsdate":"2020-01-09 07:17:20",
+			"observer":"R. Cartier",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":5
+}

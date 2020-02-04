@@ -1,0 +1,64 @@
+{
+	"dec":"-48:30:44.57",
+	"decdeg":-48.51238,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-01-05 08:38:24",
+	"discoverymag":15.5,
+	"end_prop_period":null,
+	"host_redshift":0.00918,
+	"hostname":"NGC 5333",
+	"internal_name":"ASASSN-20ag",
+	"internal_names":"ASASSN-20ag",
+	"isTNS_AT":1,
+	"name":"2020ga",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ga",
+	"public":1,
+	"ra":"13:54:24.360",
+	"radeg":208.6015,
+	"redshift":0.00917,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ga_2020-01-07_08-48-21_CTIO-4m_COSMOS.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":174,
+				"name":"COSMOS"
+			},
+			"jd":2458855.8669097,
+			"obsdate":"2020-01-07 08:48:21",
+			"observer":"R. Cartier/S. Points",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"The spectrum is consistent with a nearby SN Ia a few days before maximum heavily contaminated by host galaxy and with strong absorptions from Ca II H&K and Na D1 & D2 at the host galaxy redshift, indicative of significant host extinction in the line of sight. This is consistent with the SN being a nuclear transient. The reported distances to the host varies from 25 to 40 Mpc.  ",
+			"source_group_name":"None",
+			"telescope":{
+				"id":57,
+				"name":"CTIO-4m"
+			}
+		}
+	],
+	"type":3
+}

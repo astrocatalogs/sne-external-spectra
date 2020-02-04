@@ -1,0 +1,72 @@
+{
+	"dec":"-21:01:07.77",
+	"decdeg":-21.01882605,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-24 05:01:20",
+	"discoverymag":18.1547,
+	"end_prop_period":null,
+	"host_redshift":0.05641,
+	"hostname":"2MASX J05590353-2101073",
+	"internal_name":"ZTF20aahapsq",
+	"internal_names":"ZTF20aahapsq, ATLAS20dxs",
+	"isTNS_AT":1,
+	"name":"2020aro",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020aro",
+	"public":1,
+	"ra":"05:59:03.470",
+	"radeg":89.76445755,
+	"redshift":0.0564,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020aro_2458875.3535_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458875.3535,
+			"obsdate":"2020-01-26 20:29:02",
+			"observer":"Payne",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

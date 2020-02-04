@@ -1,0 +1,64 @@
+{
+	"dec":"+40:28:39.02",
+	"decdeg":40.4775068182,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-01-29 18:27:37",
+	"discoverymag":16.7,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 5371",
+	"internal_name":"",
+	"internal_names":", ATLAS20etm",
+	"isTNS_AT":1,
+	"name":"2020bio",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":1,
+		"name":"SN"
+	},
+	"objname":"2020bio",
+	"public":1,
+	"ra":"13:55:37.685",
+	"radeg":208.907020909,
+	"redshift":0.009,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020bio_2020-01-31_04-27-31.53_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020bio_2020-01-31_04-27-31.53_LT_SPRAT.fits",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458879.6857755,
+			"obsdate":"2020-01-31 04:27:31",
+			"observer":"SS",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":1
+}

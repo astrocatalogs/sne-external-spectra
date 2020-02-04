@@ -1,0 +1,72 @@
+{
+	"dec":"-17:42:18.51",
+	"decdeg":-17.70514125,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-01-04 06:23:02",
+	"discoverymag":18.855,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20arp",
+	"internal_names":"ATLAS20arp, ZTF20aaezgkg",
+	"isTNS_AT":1,
+	"name":"2020dr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objname":"2020dr",
+	"public":1,
+	"ra":"02:45:18.878",
+	"radeg":41.32866025,
+	"redshift":0.0257,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020dr_2020-01-05_03-03-55_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020dr_2020-01-05_03-03-55_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458853.6277199,
+			"obsdate":"2020-01-05 03:03:55",
+			"observer":"Tomas Muller, Nico Meza",
+			"public":1,
+			"reducer":"Phil Wiseman, Matt Grayling",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":5
+}

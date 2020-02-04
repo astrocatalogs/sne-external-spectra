@@ -1,0 +1,72 @@
+{
+	"dec":"+04:34:35.90",
+	"decdeg":4.576639,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Briganti",
+	"discovererid":157,
+	"discovery_data_source":{
+		"group_name":"ISSP",
+		"groupid":27
+	},
+	"discoverydate":"2019-12-30 04:40:11",
+	"discoverymag":16,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"IC4552",
+	"internal_name":"",
+	"internal_names":"",
+	"isTNS_AT":1,
+	"name":"2019zhs",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":100,
+		"name":"SN Ia-pec"
+	},
+	"objname":"2019zhs",
+	"public":1,
+	"ra":"15:38:55.800",
+	"radeg":234.7325,
+	"redshift":0.0228,
+	"reporting_group":{
+		"group_name":"ISSP",
+		"groupid":27
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019zhs_2019-12-31.23_Ekar_AFOSC_Padova-Asiago.",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2019zhs_2019-12-31.23_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458848.73,
+			"obsdate":"2019-12-31 05:31:12",
+			"observer":"I. Salmaso, P. Ochner",
+			"public":1,
+			"reducer":"A. Pastorello",
+			"remarks":"The observation was performed with the Asiago 1.82m Copernico Telescope (+ AFOSC; range 340-820 nm; resolution 1.4 nm).\r\n",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":100
+}

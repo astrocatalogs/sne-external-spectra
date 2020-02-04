@@ -1,0 +1,72 @@
+{
+	"dec":"+08:44:40.84",
+	"decdeg":8.7446767,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-04 12:35:47",
+	"discoverymag":18.5947,
+	"end_prop_period":null,
+	"host_redshift":0.045569,
+	"hostname":"WISEA J150648.78+084439.7",
+	"internal_name":"ZTF19acxqakw",
+	"internal_names":"ZTF19acxqakw, ATLAS19bfsk",
+	"isTNS_AT":1,
+	"name":"2020eh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020eh",
+	"public":1,
+	"ra":"15:06:48.623",
+	"radeg":226.702597325,
+	"redshift":0.04557,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020eh_2020-01-25_18-28-43_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020eh_2020-01-25_18-28-43_Lick-3m_KAST_ZTF.fits",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458874.2699421,
+			"obsdate":"2020-01-25 18:28:43",
+			"observer":"B. Sipocz",
+			"public":1,
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"+19:14:27.60",
+	"decdeg":19.2410000537,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-08 07:36:18",
+	"discoverymag":19.5324,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J072815.17+191424.4",
+	"internal_name":"ZTF20aaeqmjl",
+	"internal_names":"ZTF20aaeqmjl, ATLAS20brh, PS20my",
+	"isTNS_AT":1,
+	"name":"2020pm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objname":"2020pm",
+	"public":1,
+	"ra":"07:28:14.753",
+	"radeg":112.061471853,
+	"redshift":0.054,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020pm_2020-01-17_02-52-51_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020pm_2020-01-17_02-52-51_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458865.6200347,
+			"obsdate":"2020-01-17 02:52:51",
+			"observer":"Erez Zimmerman, Ido Irani, Steve Schulze",
+			"public":1,
+			"reducer":"Rachel Bruch, Ofer Yaron",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":5
+}

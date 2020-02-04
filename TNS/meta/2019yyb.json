@@ -1,0 +1,72 @@
+{
+	"dec":"-05:34:00.55",
+	"decdeg":-5.56681905496,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2019-12-27 12:12:57",
+	"discoverymag":19.3,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS19beri",
+	"internal_names":"ATLAS19beri, PS19jcv, ZTF20aaaxerd",
+	"isTNS_AT":1,
+	"name":"2019yyb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019yyb",
+	"public":1,
+	"ra":"09:03:48.867",
+	"radeg":135.953613374,
+	"redshift":0.068,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2019yyb_2019-12-31_06-51-56.599_SOAR_Goodman_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1400,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2458848.7860648,
+			"obsdate":"2019-12-31 06:51:56",
+			"observer":"I. Pelisoli ",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"We measure an Si II 6355 velocity of -11,600 km/s.",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	],
+	"type":3
+}

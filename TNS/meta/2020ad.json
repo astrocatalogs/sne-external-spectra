@@ -1,0 +1,64 @@
+{
+	"dec":"-29:17:07.40",
+	"decdeg":-29.285389,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-01-01 20:33:54",
+	"discoverymag":16.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"IC 4351",
+	"internal_name":"",
+	"internal_names":", ATLAS20app, Gaia20afi",
+	"isTNS_AT":1,
+	"name":"2020ad",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020ad",
+	"public":1,
+	"ra":"13:57:56.810",
+	"radeg":209.486708,
+	"redshift":0.0089,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ad_2020-01-03.28_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":400,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458851.78,
+			"obsdate":"2020-01-03 06:43:12",
+			"observer":"LT",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
+}
