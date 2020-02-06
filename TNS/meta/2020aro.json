@@ -1,6 +1,6 @@
 {
-	"dec":"-21:01:07.77",
-	"decdeg":-21.01882605,
+	"dec":"-21:01:07.74",
+	"decdeg":-21.01881625,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -28,15 +28,45 @@
 	},
 	"objname":"2020aro",
 	"public":1,
-	"ra":"05:59:03.470",
-	"radeg":89.76445755,
-	"redshift":0.0564,
+	"ra":"05:59:03.468",
+	"radeg":89.7644511,
+	"redshift":0.056,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020aro_2020-01-28_05-42-13_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458876.7376505,
+			"obsdate":"2020-01-28 05:42:13",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020aro_2458875.3535_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
