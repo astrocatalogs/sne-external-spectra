@@ -1,0 +1,102 @@
+{
+	"dec":"+40:14:37.53",
+	"decdeg":40.2437581,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-02-04 14:52:48",
+	"discoverymag":17,
+	"end_prop_period":null,
+	"host_redshift":0.025235,
+	"hostname":"UGC 09379",
+	"internal_name":"ASASSN-20bs",
+	"internal_names":"ASASSN-20bs, ZTF20aalxlis, ATLAS20feh",
+	"isTNS_AT":1,
+	"name":"2020bvc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":7,
+		"name":"SN Ic-BL"
+	},
+	"objname":"2020bvc",
+	"public":1,
+	"ra":"14:33:57.011",
+	"radeg":218.4875478,
+	"redshift":0.025235,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020bvc_2020-02-08_05-52-18_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458887.7446528,
+			"obsdate":"2020-02-08 05:52:18",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020bvc_2020-02-05_13-08-02_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020bvc_2020-02-05_13-08-02_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458885.0472454,
+			"obsdate":"2020-02-05 13:08:02",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":7
+}

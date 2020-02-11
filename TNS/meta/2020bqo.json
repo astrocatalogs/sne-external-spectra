@@ -1,0 +1,102 @@
+{
+	"dec":"-13:39:01.36",
+	"decdeg":-13.6503786,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-02 02:40:05",
+	"discoverymag":18.9952,
+	"end_prop_period":null,
+	"host_redshift":0.031729,
+	"hostname":"WISEA J030724.90-133904.6",
+	"internal_name":"ZTF20aalkcea",
+	"internal_names":"ZTF20aalkcea, ATLAS20fde",
+	"isTNS_AT":1,
+	"name":"2020bqo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020bqo",
+	"public":1,
+	"ra":"03:07:24.527",
+	"radeg":46.8521971,
+	"redshift":0.031729,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020bqo_2020-02-04_02-49-42_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020bqo_2020-02-04_02-49-42_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458883.6178472,
+			"obsdate":"2020-02-04 02:49:42",
+			"observer":"Ido Irani, Erez Zimmerman",
+			"public":1,
+			"reducer":"Ofer Yaron, Rachel Bruch",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020bqo_2020-02-03_03-12-38_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458882.6337731,
+			"obsdate":"2020-02-03 03:12:38",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"D. Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

@@ -21,21 +21,52 @@
 	"internal_names":"ASASSN-20bl, ATLAS20eqs, PS20nf",
 	"isTNS_AT":1,
 	"name":"2020big",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":9,
+		"name":"SN Ibn"
 	},
 	"objname":"2020big",
 	"public":1,
 	"ra":"05:01:15.822",
 	"radeg":75.3159253937,
-	"redshift":null,
+	"redshift":0.0245,
 	"reporting_group":{
 		"group_name":"ASAS-SN",
 		"groupid":3
 	},
 	"sourceid":1,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020big_2020-02-05_02-27-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020big_2020-02-05_02-27-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458884.6021181,
+			"obsdate":"2020-02-05 02:27:03",
+			"observer":"Ido Irani, Erez Zimmerman",
+			"public":1,
+			"reducer":"Ofer Yaron, Rachel Bruch",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":9
 }

@@ -18,24 +18,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"Gaia19fqs",
-	"internal_names":"Gaia19fqs, ATLAS20arj",
+	"internal_names":"Gaia19fqs, ATLAS20arj, PS20ty",
 	"isTNS_AT":1,
 	"name":"2019xgu",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2019xgu",
 	"public":1,
 	"ra":"13:18:06.270",
 	"radeg":199.526125,
-	"redshift":null,
+	"redshift":0.032,
 	"reporting_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":24
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019xgu_2458872.8176389_LCO-duPont_WFCCD_ASAS-SN.txt",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2019xgu_2458872.8176389_LCO-duPont_WFCCD_ASAS-SN.fits",
+			"instrument":{
+				"id":62,
+				"name":"WFCCD"
+			},
+			"jd":2458872.8176389,
+			"obsdate":"2020-01-24 07:37:24",
+			"observer":"R. Amorín",
+			"public":1,
+			"reducer":"S. Bose",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":50,
+				"name":"LCO-duPont"
+			}
+		}
+	],
+	"type":3
 }

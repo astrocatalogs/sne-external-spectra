@@ -1,0 +1,64 @@
+{
+	"dec":"+81:50:47.72",
+	"decdeg":81.846589,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-11 10:16:24",
+	"discoverymag":19.23,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aaeuxqk",
+	"internal_names":"ZTF20aaeuxqk, ATLAS20dxn, Gaia20apj",
+	"isTNS_AT":1,
+	"name":"2020ut",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ut",
+	"public":1,
+	"ra":"14:00:52.640",
+	"radeg":210.219333,
+	"redshift":0,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ut_2020-01-21_05-17-44.851_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ut_2020-01-21_05-17-44.851_LT_SPRAT.fits",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458869.7206481,
+			"obsdate":"2020-01-21 05:17:44",
+			"observer":"SS",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

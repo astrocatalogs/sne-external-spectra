@@ -21,21 +21,44 @@
 	"internal_names":"Gaia19fau, ATLAS19bdcu, ZTF19acbwejj, ",
 	"isTNS_AT":1,
 	"name":"2019upq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objname":"2019upq",
 	"public":1,
 	"ra":"14:29:08.120",
 	"radeg":217.283833,
-	"redshift":null,
+	"redshift":0,
 	"reporting_group":{
 		"group_name":"GaiaAlerts",
 		"groupid":24
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019upq_2020-02-05_04-05-44.769_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2019upq_2020-02-05_04-05-44.769_LT_SPRAT.fits",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458884.6706481,
+			"obsdate":"2020-02-05 04:05:44",
+			"observer":"SS",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
 }

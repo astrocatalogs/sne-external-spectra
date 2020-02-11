@@ -21,21 +21,52 @@
 	"internal_names":"ZTF20aajcdad, ATLAS20enf, PS20ll",
 	"isTNS_AT":1,
 	"name":"2020bcq",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":4,
+		"name":"SN Ib"
 	},
 	"objname":"2020bcq",
 	"public":1,
 	"ra":"13:26:29.652",
 	"radeg":201.623551915,
-	"redshift":null,
+	"redshift":0.018,
 	"reporting_group":{
 		"group_name":"ZTF",
 		"groupid":48
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020bcq_2020-02-02_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458881.5,
+			"obsdate":"2020-02-02 00:00:00",
+			"observer":"Cesar Rojas-Bravo",
+			"public":1,
+			"reducer":"Georgios Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":4
 }

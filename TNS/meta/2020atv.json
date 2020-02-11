@@ -1,0 +1,72 @@
+{
+	"dec":"-12:07:35.73",
+	"decdeg":-12.1265909239,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-25 07:01:25",
+	"discoverymag":18.85,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aahzyml",
+	"internal_names":"ZTF20aahzyml, PS20is",
+	"isTNS_AT":1,
+	"name":"2020atv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020atv",
+	"public":1,
+	"ra":"10:05:05.981",
+	"radeg":151.27491923,
+	"redshift":0.08,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020atv_2020-02-02_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458881.5,
+			"obsdate":"2020-02-02 00:00:00",
+			"observer":"Cesar Rojas-Bravo",
+			"public":1,
+			"reducer":"Georgios Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}
