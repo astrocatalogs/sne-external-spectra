@@ -18,24 +18,55 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_name":"ATLAS20fpe",
-	"internal_names":"ATLAS20fpe",
+	"internal_names":"ATLAS20fpe, MASTER OT J112731.59-451755.8",
 	"isTNS_AT":1,
 	"name":"2020ccm",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2020ccm",
 	"public":1,
 	"ra":"11:27:31.600",
 	"radeg":171.881665,
-	"redshift":null,
+	"redshift":0.077,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020ccm_2020-02-14_09-19-07_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020ccm_2020-02-14_09-19-07_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458893.8882755,
+			"obsdate":"2020-02-14 09:19:07",
+			"observer":"A. Moller, M. Amenouche, M. Smith",
+			"public":1,
+			"reducer":"M. Pursiainen, C. Angus",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }
