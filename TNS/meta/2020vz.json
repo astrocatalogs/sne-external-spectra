@@ -1,0 +1,64 @@
+{
+	"dec":"+08:47:16.85",
+	"decdeg":8.7880126,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":71270,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-14 03:49:33",
+	"discoverymag":21.0466,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aafegdf",
+	"internal_names":"ZTF20aafegdf",
+	"isTNS_AT":1,
+	"name":"2020vz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2020vz",
+	"public":1,
+	"ra":"07:34:32.286",
+	"radeg":113.6345262,
+	"redshift":0.25,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020vz_2020-01-16_03-04-56.4_Gemini-S_GMOS-S.dat",
+			"end_prop_period":null,
+			"exptime":750,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020vz_2020-01-16_03-04-56.4_Gemini-S_GMOS-S.fits",
+			"groupid":0,
+			"instrument":{
+				"id":9,
+				"name":"GMOS-S"
+			},
+			"jd":2458864.6284259,
+			"obsdate":"2020-01-16 03:04:56",
+			"observer":"Gemini South",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":16,
+				"name":"Gemini-S"
+			}
+		}
+	],
+	"type":13
+}

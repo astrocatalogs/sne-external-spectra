@@ -1,0 +1,72 @@
+{
+	"dec":"+06:42:55.62",
+	"decdeg":6.71545,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2019-12-24 08:39:50",
+	"discoverymag":19.69,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS19hwe",
+	"internal_names":"PS19hwe, ATLAS19becv, ZTF19adbryab, Gaia20afe",
+	"isTNS_AT":1,
+	"name":"2019xvo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2019xvo",
+	"public":1,
+	"ra":"03:58:22.720",
+	"radeg":59.594667,
+	"redshift":0.018373,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019xvo_2020-01-27_05-39-00_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019xvo_2020-01-27_05-39-00_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458875.7354167,
+			"obsdate":"2020-01-27 05:39:00",
+			"observer":"I. Andreoni, Y. Yao",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":10
+}

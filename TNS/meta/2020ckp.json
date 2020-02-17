@@ -1,0 +1,72 @@
+{
+	"dec":"-25:31:58.57",
+	"decdeg":-25.5329358,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-13 06:01:54",
+	"discoverymag":17.0059,
+	"end_prop_period":null,
+	"host_redshift":0.029851,
+	"hostname":"WISEA J083621.44-253200.8",
+	"internal_name":"ZTF20aamwfea",
+	"internal_names":"ZTF20aamwfea",
+	"isTNS_AT":1,
+	"name":"2020ckp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ckp",
+	"public":1,
+	"ra":"08:36:21.245",
+	"radeg":129.0885202,
+	"redshift":0.03,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020ckp_2458895.0039_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1400,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458895.0039,
+			"obsdate":"2020-02-15 12:05:36",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

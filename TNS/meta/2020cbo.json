@@ -21,21 +21,52 @@
 	"internal_names":"ATLAS20fns",
 	"isTNS_AT":1,
 	"name":"2020cbo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objname":"2020cbo",
 	"public":1,
 	"ra":"14:20:33.223",
 	"radeg":215.13843,
-	"redshift":null,
+	"redshift":0.04,
 	"reporting_group":{
 		"group_name":"ATLAS",
 		"groupid":18
 	},
 	"sourceid":2,
-	"spectra":[],
-	"type":null
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cbo_2020-02-13_07-23-27_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":400,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cbo_2020-02-13_07-23-27_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458892.8079514,
+			"obsdate":"2020-02-13 07:23:27",
+			"observer":"M. Smith, A. Moller, M. Amenouche",
+			"public":1,
+			"reducer":"C. Angus, M. Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
 }

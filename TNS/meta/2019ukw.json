@@ -1,0 +1,72 @@
+{
+	"dec":"+06:52:29.68",
+	"decdeg":6.87491137139,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-11-08 10:17:03",
+	"discoverymag":19.3577,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J060241.43+065231.7",
+	"internal_name":"ZTF19acqupbp",
+	"internal_names":"ZTF19acqupbp, PS19hby",
+	"isTNS_AT":1,
+	"name":"2019ukw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2019ukw",
+	"public":1,
+	"ra":"06:02:41.582",
+	"radeg":90.6732574128,
+	"redshift":0.071,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/LOSS/tns_2019ukw_2019-11-21.344_Lick-3m_KAST_LOSS.flm",
+			"assoc_groups":[
+				{
+					"id":8,
+					"name":"LOSS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458808.8439931,
+			"obsdate":"2019-11-21 08:15:21",
+			"observer":"WeiKang Zheng",
+			"public":1,
+			"reducer":"Thomas G. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":8,
+				"name":"LOSS"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

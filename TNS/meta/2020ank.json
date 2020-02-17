@@ -1,0 +1,102 @@
+{
+	"dec":"+04:19:26.89",
+	"decdeg":4.324136575,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-19 09:15:13",
+	"discoverymag":20.909,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aahbfmf",
+	"internal_names":"ZTF20aahbfmf, ATLAS20dzr",
+	"isTNS_AT":1,
+	"name":"2020ank",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objname":"2020ank",
+	"public":1,
+	"ra":"08:16:14.650",
+	"radeg":124.06104305,
+	"redshift":0.2485,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020ank_2020-02-14_08-38-25_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020ank_2020-02-14_08-38-25_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458893.8600116,
+			"obsdate":"2020-02-14 08:38:25",
+			"observer":"A. Tzanidakis",
+			"public":1,
+			"reducer":"A. Ho",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SGLF/tns_2020ank_2020-02-13_22-13-03_GTC_OSIRIS_SGLF.txt",
+			"assoc_groups":[
+				{
+					"id":81,
+					"name":"SGLF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":101,
+				"name":"OSIRIS"
+			},
+			"jd":2458893.4257292,
+			"obsdate":"2020-02-13 22:13:03",
+			"observer":"I. Pérez-Fournon et al.",
+			"public":1,
+			"reducer":"R. Marques-Chaves",
+			"remarks":"",
+			"source_group":{
+				"id":81,
+				"name":"SGLF"
+			},
+			"telescope":{
+				"id":71,
+				"name":"GTC"
+			}
+		}
+	],
+	"type":18
+}
