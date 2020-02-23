@@ -21,22 +21,82 @@
 	"internal_names":"ZTF19acyjzeo, ATLAS19bdhh",
 	"isTNS_AT":1,
 	"name":"2019wmc",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":4,
+		"name":"SN Ib"
 	},
 	"objname":"2019wmc",
 	"public":1,
 	"ra":"12:13:51.846",
 	"radeg":183.4660245,
-	"redshift":0.05,
+	"redshift":0.05016,
 	"reporting_group":{
 		"group_name":"ALeRCE",
 		"groupid":74
 	},
 	"sourceid":2,
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wmc_2020-01-01_10-43-27_P200_DBSP_ZTF_0.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":750,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wmc_2020-01-01_10-43-27_P200_DBSP_ZTF_0.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458849.9468403,
+			"obsdate":"2020-01-01 10:43:27",
+			"observer":"Y. Yao",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wmc_2020-01-01_10-43-27_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":750,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019wmc_2020-01-01_10-43-27_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458849.9468403,
+			"obsdate":"2020-01-01 10:43:27",
+			"observer":"Y. Yao",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2019wmc_2019-12-18_08-14-13_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
@@ -68,5 +128,5 @@
 			}
 		}
 	],
-	"type":null
+	"type":4
 }
