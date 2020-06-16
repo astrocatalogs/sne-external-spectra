@@ -1,0 +1,72 @@
+{
+	"dec":"+28:24:08.95",
+	"decdeg":28.4024871013,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":22,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":73181,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-05-06 10:07:40.800",
+	"discoverymag":20.46,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20dcv",
+	"internal_names":"PS20dcv, ATLAS20nae",
+	"isTNS_AT":1,
+	"name":"2020kaj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020kaj",
+	"public":1,
+	"ra":"13:34:48.856",
+	"radeg":203.703565115,
+	"redshift":0.14,
+	"reporting_group":{
+		"group_name":"YSE",
+		"groupid":83
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/YSE/tns_2020kaj_2020-05-22_NOT_ALFOSC_YSE.txt",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458991.5,
+			"obsdate":"2020-05-22 00:00:00",
+			"observer":"C. Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":3
+}

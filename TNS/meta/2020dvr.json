@@ -1,0 +1,72 @@
+{
+	"dec":"-19:53:14.28",
+	"decdeg":-19.8873,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-03-03 10:19:12.000",
+	"discoverymag":16.985,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20hhc",
+	"internal_names":"ATLAS20hhc, ZTF20aasmdec, PS20arz, Gaia20cci",
+	"isTNS_AT":1,
+	"name":"2020dvr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020dvr",
+	"public":1,
+	"ra":"09:54:35.130",
+	"radeg":148.646375,
+	"redshift":0.013,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020dvr_2020-03-04_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458912.5,
+			"obsdate":"2020-03-04 00:00:00",
+			"observer":"C. Aganze, A. Burgasser, R. Gerasimov, C. Hsu, R. Low, C. Theissen",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":3
+}

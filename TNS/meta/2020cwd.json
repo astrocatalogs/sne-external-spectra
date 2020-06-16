@@ -1,0 +1,72 @@
+{
+	"dec":"-49:00:23.94",
+	"decdeg":-49.00665,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-02-19 04:48:00.000",
+	"discoverymag":17.4,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC481435",
+	"internal_name":"ASASSN-20bz",
+	"internal_names":"ASASSN-20bz",
+	"isTNS_AT":1,
+	"name":"2020cwd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":9,
+		"name":"SN Ibn"
+	},
+	"objname":"2020cwd",
+	"public":1,
+	"ra":"06:06:59.081",
+	"radeg":91.74617,
+	"redshift":0.052,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cwd_2020-02-21_02-15-05_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cwd_2020-02-21_02-15-05_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458900.5938079,
+			"obsdate":"2020-02-21 02:15:05",
+			"observer":"Anais Möller, Mat Smith, Melissa Amenouche",
+			"public":1,
+			"reducer":"Charlotte Angus, Tomás Müller, Miika Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":9
+}

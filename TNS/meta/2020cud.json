@@ -1,0 +1,72 @@
+{
+	"dec":"-27:16:22.30",
+	"decdeg":-27.27286,
+	"discmagfilter":{
+		"family":"GOTO",
+		"id":120,
+		"name":"L"
+	},
+	"discoverer":"Kennedy",
+	"discovererid":1381,
+	"discovery_data_source":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"discoverydate":"2020-02-17 04:51:06.000",
+	"discoverymag":17.1,
+	"end_prop_period":null,
+	"host_redshift":0.0502,
+	"hostname":"2MASX J13274799-2716258",
+	"internal_name":"GOTO20hb",
+	"internal_names":"GOTO20hb, ATLAS20gor",
+	"isTNS_AT":1,
+	"name":"2020cud",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objname":"2020cud",
+	"public":1,
+	"ra":"13:27:47.620",
+	"radeg":201.948416154,
+	"redshift":0.045305,
+	"reporting_group":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cud_2020-02-21_09-31-31_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cud_2020-02-21_09-31-31_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458900.8968866,
+			"obsdate":"2020-02-21 09:31:31",
+			"observer":"Anais Möller, Mat Smith, Melissa Amenouche",
+			"public":1,
+			"reducer":"Charlotte Angus, Tomás Müller, Miika Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":104
+}

@@ -1,0 +1,64 @@
+{
+	"dec":"+20:14:45.25",
+	"decdeg":20.245903288889,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-27 06:32:44.002",
+	"discoverymag":20.3854,
+	"end_prop_period":null,
+	"host_redshift":0.037,
+	"hostname":"SDSS J162656.94+201447.8",
+	"internal_name":"ZTF20abccixp",
+	"internal_names":"ZTF20abccixp, ATLAS20ofl",
+	"isTNS_AT":1,
+	"name":"2020lfn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020lfn",
+	"public":1,
+	"ra":"16:26:56.889",
+	"radeg":246.73703718889,
+	"redshift":0.044,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020lfn_2020-05-29_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458998.5,
+			"obsdate":"2020-05-29 00:00:00",
+			"observer":"NOT",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":10
+}

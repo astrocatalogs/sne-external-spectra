@@ -1,0 +1,72 @@
+{
+	"dec":"-18:37:17.15",
+	"decdeg":-18.621429375,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-16 10:08:30.000",
+	"discoverymag":19.6509,
+	"end_prop_period":null,
+	"host_redshift":0.079,
+	"hostname":"SDSS J110551.53-183715.6",
+	"internal_name":"ZTF20aaocklb",
+	"internal_names":"ZTF20aaocklb, ATLAS20hgg",
+	"isTNS_AT":1,
+	"name":"2020csh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2020csh",
+	"public":1,
+	"ra":"11:05:51.091",
+	"radeg":166.462880425,
+	"redshift":0.07,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020csh_2020-02-21_03-10-22_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020csh_2020-02-21_03-10-22_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458900.6321991,
+			"obsdate":"2020-02-21 03:10:22",
+			"observer":"Anais Möller, Mat Smith, Melissa Amenouche",
+			"public":1,
+			"reducer":"Charlotte Angus, Tomás Müller, Miika Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":13
+}

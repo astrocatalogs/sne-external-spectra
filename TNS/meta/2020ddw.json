@@ -1,0 +1,64 @@
+{
+	"dec":"+82:38:54.62",
+	"decdeg":82.6485057,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-02-23 05:41:16.000",
+	"discoverymag":17.812,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20gef",
+	"internal_names":"ATLAS20gef, ZTF20aaqukzi",
+	"isTNS_AT":1,
+	"name":"2020ddw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ddw",
+	"public":1,
+	"ra":"04:50:02.795",
+	"radeg":72.511646466667,
+	"redshift":0.018129,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ddw_2020-02-24.68_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":2000,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458904.18,
+			"obsdate":"2020-02-24 16:19:12",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"+53:34:17.60",
+	"decdeg":53.5715556249,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-03-03 09:45:59.000",
+	"discoverymag":20.329,
+	"end_prop_period":null,
+	"host_redshift":0.0552453,
+	"hostname":"SDSS J114425.61+533417.4",
+	"internal_name":"ZTF20aasfdfr",
+	"internal_names":"ZTF20aasfdfr, ATLAS20hry, PS20bim",
+	"isTNS_AT":1,
+	"name":"2020dxr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020dxr",
+	"public":1,
+	"ra":"11:44:25.485",
+	"radeg":176.106189182,
+	"redshift":0.055238,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020dxr_2020-03-22_10-21-23_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2420,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458930.9315162,
+			"obsdate":"2020-03-22 10:21:23",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,64 @@
+{
+	"dec":"+09:13:50.61",
+	"decdeg":9.23072461372,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":73181,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-01-20 13:39:21.000",
+	"discoverymag":20.65,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20gg",
+	"internal_names":"PS20gg",
+	"isTNS_AT":1,
+	"name":"2020ama",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020ama",
+	"public":1,
+	"ra":"12:38:14.865",
+	"radeg":189.561937706,
+	"redshift":0.063977,
+	"reporting_group":{
+		"group_name":"YSE",
+		"groupid":83
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ama_2020-01-22_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458870.5,
+			"obsdate":"2020-01-22 00:00:00",
+			"observer":"C. Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":10
+}

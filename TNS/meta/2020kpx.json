@@ -1,0 +1,102 @@
+{
+	"dec":"+04:46:50.40",
+	"decdeg":4.78066591939,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-05-21 09:28:48.000",
+	"discoverymag":19.786,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20ngg",
+	"internal_names":"ATLAS20ngg, ZTF20abawgdl, PS20efn",
+	"isTNS_AT":1,
+	"name":"2020kpx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020kpx",
+	"public":1,
+	"ra":"15:38:10.152",
+	"radeg":234.542301721,
+	"redshift":0.02291,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020kpx_2020-05-23_00-13-51_LT_SPRAT_SIRAH.txt",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458992.5096181,
+			"obsdate":"2020-05-23 00:13:51",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline and Frederick Poidevin",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020kpx_2020-05-22_09-45-47_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458991.906794,
+			"obsdate":"2020-05-22 09:45:47",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"+63:09:45.17",
+	"decdeg":63.162547,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-05 12:13:54.000",
+	"discoverymag":20.57,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aadyyvk",
+	"internal_names":"ZTF20aadyyvk",
+	"isTNS_AT":1,
+	"name":"2020yy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2020yy",
+	"public":1,
+	"ra":"14:18:53.920",
+	"radeg":214.724667,
+	"redshift":0.0675,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/BTDG/tns_2020yy_2020-02-18_MMT_MMT-Blue_BTDG.txt",
+			"assoc_groups":[
+				{
+					"id":73,
+					"name":"BTDG"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":58,
+				"name":"MMT-Blue"
+			},
+			"jd":2458897.5,
+			"obsdate":"2020-02-18 00:00:00",
+			"observer":"Sebastian Gomez",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":73,
+				"name":"BTDG"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	],
+	"type":13
+}

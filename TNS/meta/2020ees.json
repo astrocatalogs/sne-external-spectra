@@ -1,0 +1,72 @@
+{
+	"dec":"+32:02:01.03",
+	"decdeg":32.033619,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-03-05 11:19:40.800",
+	"discoverymag":18.578,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20hmy",
+	"internal_names":"ATLAS20hmy, , MASTER OT J132715.24+320201.6, PS20afd, GSNST-20bh, Gaia20bxv",
+	"isTNS_AT":1,
+	"name":"2020ees",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ees",
+	"public":1,
+	"ra":"13:27:15.190",
+	"radeg":201.813292,
+	"redshift":0.024424,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020ees_2020-03-10_13-55-41_FTN_FLOYDS-N_SIRAH.ascii",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020ees_2020-03-10_13-55-41_FTN_FLOYDS-N_SIRAH.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458919.0803356,
+			"obsdate":"2020-03-10 13:55:41",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,64 @@
+{
+	"dec":"+58:49:51.06",
+	"decdeg":58.83085,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-29 08:20:07.999",
+	"discoverymag":20.2088,
+	"end_prop_period":null,
+	"host_redshift":0.069501,
+	"hostname":"WISEA J141043.41+584951.0",
+	"internal_name":"ZTF20aartnkv",
+	"internal_names":"ZTF20aartnkv, ATLAS20ivw, Gaia20brx",
+	"isTNS_AT":1,
+	"name":"2020dtd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2020dtd",
+	"public":1,
+	"ra":"14:10:43.410",
+	"radeg":212.680875,
+	"redshift":0.06954,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020dtd_2020-04-19_09-48-51_FTN_FLOYDS-N.ascii",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020dtd_2020-04-19_09-48-51_FTN_FLOYDS-N.fits",
+			"groupid":0,
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458958.9089236,
+			"obsdate":"2020-04-19 09:48:51",
+			"observer":"Robotic",
+			"public":1,
+			"reducer":"D. Hiramatsu",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":13
+}

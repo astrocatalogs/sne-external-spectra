@@ -1,0 +1,72 @@
+{
+	"dec":"-14:17:37.13",
+	"decdeg":-14.2936466,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-03-21 07:26:24.000",
+	"discoverymag":16.8,
+	"end_prop_period":null,
+	"host_redshift":0.017706,
+	"hostname":"NGC 2674",
+	"internal_name":"ASASSN-20dk",
+	"internal_names":"ASASSN-20dk, ZTF20aaukuaa",
+	"isTNS_AT":1,
+	"name":"2020eqv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020eqv",
+	"public":1,
+	"ra":"08:49:13.160",
+	"radeg":132.30483502,
+	"redshift":0.017706,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020eqv_2020-03-22_09-11-14_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2420,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458930.8828009,
+			"obsdate":"2020-03-22 09:11:14",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

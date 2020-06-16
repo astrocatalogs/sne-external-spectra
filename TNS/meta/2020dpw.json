@@ -1,0 +1,86 @@
+{
+	"dec":"+66:06:10.66",
+	"decdeg":66.102961,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Wiggins",
+	"discovererid":531,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-02-26 10:01:22.000",
+	"discoverymag":17,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 6952",
+	"internal_name":"",
+	"internal_names":", Gaia20bod, ZTF20aauhbvu, ATLAS20jwc",
+	"isTNS_AT":1,
+	"name":"2020dpw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":11,
+		"name":"SN IIP"
+	},
+	"objname":"2020dpw",
+	"public":1,
+	"ra":"20:37:10.550",
+	"radeg":309.293958,
+	"redshift":0.0048,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020dpw_2020-03-18_23-35-11_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":1803,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020dpw_2020-03-18_23-35-11_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458927.4827662,
+			"obsdate":"2020-03-18 23:35:11",
+			"observer":"R Leadbeater",
+			"public":1,
+			"reducer":"R Leadbeater",
+			"remarks":"Spectrum obtained using an ALPY 600 spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm  and Gaussian filtered to R~100",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020dpw_2458907.3_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458907.3,
+			"obsdate":"2020-02-27 19:12:00",
+			"observer":"Kawabata",
+			"public":1,
+			"reducer":"Kawabata",
+			"remarks":"Seimei 3.8m - KOOLS",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":11
+}

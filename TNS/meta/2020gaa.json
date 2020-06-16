@@ -1,0 +1,72 @@
+{
+	"dec":"+52:29:01.92",
+	"decdeg":52.48386605,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-04-05 08:25:07.003",
+	"discoverymag":19.1482,
+	"end_prop_period":null,
+	"host_redshift":0.051518,
+	"hostname":"WISEA J115647.17+522903.7",
+	"internal_name":"ZTF18aajivpr",
+	"internal_names":"ZTF18aajivpr, ATLAS20jui",
+	"isTNS_AT":1,
+	"name":"2020gaa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020gaa",
+	"public":1,
+	"ra":"11:56:46.904",
+	"radeg":179.19543455,
+	"redshift":0.0515,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020gaa_2020-04-16_07-27-05_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458955.8104745,
+			"obsdate":"2020-04-16 07:27:05",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"D. Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

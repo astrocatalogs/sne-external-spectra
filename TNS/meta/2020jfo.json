@@ -1,0 +1,272 @@
+{
+	"dec":"+04:28:54.15",
+	"decdeg":4.48170896822,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-06 04:51:41.184",
+	"discoverymag":16.01,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aaynrrh",
+	"internal_names":"ZTF20aaynrrh, ATLAS20ltk, PS20daq, MASTER OT J122150.49+042853.7",
+	"isTNS_AT":1,
+	"name":"2020jfo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020jfo",
+	"public":1,
+	"ra":"12:21:50.483",
+	"radeg":185.460346315,
+	"redshift":0.00502,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-20_20-52-23_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":6000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-20_20-52-23_Other_Other.fits",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458990.3697106,
+			"obsdate":"2020-05-20 20:52:23",
+			"observer":"V. Lecocq",
+			"public":1,
+			"reducer":"V. Lecocq",
+			"remarks":"low resolution spectrum (R=500) obtained with Alpy600 spectroscope on a Newtonian T250 f/4 telescope, CCD Atik 414ex ",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-19.847_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":6300,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458989.3469907,
+			"obsdate":"2020-05-19 20:19:41",
+			"observer":"Olivier GARDE",
+			"public":1,
+			"reducer":"Olivier GARDE",
+			"remarks":"LISA spectrograph with 35µm slit (R=700) with ATIK 414ex CCD camera in bin 2x2 mode taken with RC400 Astrosib telescope à f/5.5 (with CCDT67 focal reducer)",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-17_20-50-55_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":6000,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458987.3686921,
+			"obsdate":"2020-05-17 20:50:55",
+			"observer":"V. Lecocq",
+			"public":1,
+			"reducer":"V. Lecocq",
+			"remarks":"Low resolution spectrum (R=500) with an Alpy spectroscope on a Newtonian T250 f/4 telescope, and CCD Atik414ex,",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/PSH/tns_2020jfo_2020-05-14.950_Other_Other_PSH.txt",
+			"assoc_groups":[
+				{
+					"id":39,
+					"name":"PSH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458984.45,
+			"obsdate":"2020-05-14 22:48:00",
+			"observer":"Jaroslaw Grzegorzek",
+			"public":1,
+			"reducer":"Jaroslaw Grzegorzek",
+			"remarks":"I obtained optical spectrum using low resolution slit spectroscope (R~100) and 10\" SCT f/6.3. After cross-correlating with a library of SN spectra using SNID (Blondin & Tonry 2007, ApJ, 666, 1024), I find best fit with SN IIP (2004et) at +1 day after maximum.\r\n",
+			"source_group":{
+				"id":39,
+				"name":"PSH"
+			},
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-12_22-53-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":6000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-12_22-53-00_Other_Other.fits",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458982.4534722,
+			"obsdate":"2020-05-12 22:53:00",
+			"observer":"Pascal Le Dû",
+			"public":1,
+			"reducer":"Pascal Le Dû",
+			"remarks":"Amateur spectrum acquired from France with an Alpy600 spectroscope (R~600), 0,2 m F/5 Newtonian Telescope, CCD cam Atik414 EX.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-11_22-15-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jfo_2020-05-11_22-15-00_Other_Other.fits",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458981.4270833,
+			"obsdate":"2020-05-11 22:15:00",
+			"observer":"Pascal Le Dû",
+			"public":1,
+			"reducer":"Pascal Le Dû",
+			"remarks":"Amateur spectrum acquired from France with an Alpy600 spectroscope (R~600), 0,2 m F/5 Newtonian Telescope, CCD cam Atik414 EX. Strong gust of wind during observations. Poor quality guiding. Many raw spectrum not exploited. Significant noise on the spectra",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020jfo_2020-05-07_09-14-41_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458976.8851968,
+			"obsdate":"2020-05-07 09:14:41",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020jfo_2020-05-06_22-20-50.6_NOT_ALFOSC_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458976.4311343,
+			"obsdate":"2020-05-06 22:20:51",
+			"observer":"Teet Kuutma",
+			"public":1,
+			"reducer":"Cristina Barbarino",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020jfo_2020-05-06_22-04-20_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458976.4196759,
+			"obsdate":"2020-05-06 22:04:20",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
+}

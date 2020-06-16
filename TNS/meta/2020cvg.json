@@ -1,0 +1,64 @@
+{
+	"dec":"+24:18:15.74",
+	"decdeg":24.304373137,
+	"discmagfilter":{
+		"family":"GOTO",
+		"id":120,
+		"name":"L"
+	},
+	"discoverer":"Kennedy",
+	"discovererid":1381,
+	"discovery_data_source":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"discoverydate":"2020-02-06 02:35:20.000",
+	"discoverymag":18.4,
+	"end_prop_period":null,
+	"host_redshift":0.0465,
+	"hostname":"UGC 7248",
+	"internal_name":"GOTO20hm",
+	"internal_names":"GOTO20hm, ATLAS20fnd, PS20cfr",
+	"isTNS_AT":1,
+	"name":"2020cvg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020cvg",
+	"public":1,
+	"ra":"12:14:37.085",
+	"radeg":183.654522841,
+	"redshift":0.021,
+	"reporting_group":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020cvg_2020-03-11_22-51-41.9_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458920.4525579,
+			"obsdate":"2020-03-11 22:51:42",
+			"observer":"SS",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

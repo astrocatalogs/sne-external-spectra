@@ -1,0 +1,64 @@
+{
+	"dec":"+29:09:33.34",
+	"decdeg":29.159261,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-03-23 10:09:07.200",
+	"discoverymag":18.772,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20iey",
+	"internal_names":"ATLAS20iey, ZTF20aatwonv, PS20atr, Gaia20bwk",
+	"isTNS_AT":1,
+	"name":"2020euz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020euz",
+	"public":1,
+	"ra":"09:03:47.780",
+	"radeg":135.949083,
+	"redshift":null,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020euz_2020-03-30_20-38-48.52_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":2000,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458939.3602778,
+			"obsdate":"2020-03-30 20:38:49",
+			"observer":"SS",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"-00:58:28.42",
+	"decdeg":-0.974561669398,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-19 08:02:17.000",
+	"discoverymag":19.43,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aaovqfy",
+	"internal_names":"ZTF20aaovqfy, PS20agh",
+	"isTNS_AT":1,
+	"name":"2020cwa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020cwa",
+	"public":1,
+	"ra":"10:42:46.404",
+	"radeg":160.693349621,
+	"redshift":0.039,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cwa_2020-02-26_04-43-37_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cwa_2020-02-26_04-43-37_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458905.696956,
+			"obsdate":"2020-02-26 04:43:37",
+			"observer":"A. Moller, M. Amenouche",
+			"public":1,
+			"reducer":"C. R. Angus, T. Muller, M. Pursiainen, M. Smith",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":10
+}

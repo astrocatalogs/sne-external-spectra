@@ -1,0 +1,72 @@
+{
+	"dec":"-01:53:01.50",
+	"decdeg":-1.88375104685,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-11 05:18:37.002",
+	"discoverymag":20.006,
+	"end_prop_period":null,
+	"host_redshift":0.425,
+	"hostname":"SDSS J142256.59-015300.4",
+	"internal_name":"ZTF20aazhxsw",
+	"internal_names":"ZTF20aazhxsw, PS20def",
+	"isTNS_AT":1,
+	"name":"2020jqw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":11,
+		"name":"SN IIP"
+	},
+	"objname":"2020jqw",
+	"public":1,
+	"ra":"14:22:56.694",
+	"radeg":215.736223065,
+	"redshift":0.082,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SGLF/tns_2020jqw_2020-05-21_23-15-39_P48_ZTF-Cam_SGLF.txt",
+			"assoc_groups":[
+				{
+					"id":81,
+					"name":"SGLF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"instrument":{
+				"id":196,
+				"name":"ZTF-Cam"
+			},
+			"jd":2458991.4692014,
+			"obsdate":"2020-05-21 23:15:39",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT SPRAT pipeline and Frederick Poidevin",
+			"remarks":"",
+			"source_group":{
+				"id":81,
+				"name":"SGLF"
+			},
+			"telescope":{
+				"id":1,
+				"name":"P48"
+			}
+		}
+	],
+	"type":11
+}

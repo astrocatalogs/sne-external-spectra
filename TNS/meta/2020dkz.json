@@ -1,0 +1,72 @@
+{
+	"dec":"+23:48:35.64",
+	"decdeg":23.8099008351,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-19 06:38:21.000",
+	"discoverymag":20.965,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aaqgmji",
+	"internal_names":"ZTF20aaqgmji, ATLAS20hhn, PS20bhh",
+	"isTNS_AT":1,
+	"name":"2020dkz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020dkz",
+	"public":1,
+	"ra":"10:45:05.060",
+	"radeg":161.271083681,
+	"redshift":0.08,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZUDS/tns_2020dkz_2020-02-27_03-33-15.063_P200_DBSP_ZUDS.txt",
+			"assoc_groups":[
+				{
+					"id":87,
+					"name":"ZUDS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458906.6480903,
+			"obsdate":"2020-02-27 03:33:15",
+			"observer":"Goldstein",
+			"public":1,
+			"reducer":"Dhawan, Nugent",
+			"remarks":"",
+			"source_group":{
+				"id":87,
+				"name":"ZUDS"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
+}

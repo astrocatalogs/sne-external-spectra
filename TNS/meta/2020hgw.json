@@ -1,0 +1,72 @@
+{
+	"dec":"+38:55:46.28",
+	"decdeg":38.9295228047,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-04-15 09:17:47.904",
+	"discoverymag":17.88,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aaurjbj",
+	"internal_names":"ZTF20aaurjbj, ATLAS20kck, PS20caq",
+	"isTNS_AT":1,
+	"name":"2020hgw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020hgw",
+	"public":1,
+	"ra":"14:18:19.127",
+	"radeg":214.579694107,
+	"redshift":0.043,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020hgw_2020-05-23_07-46-25_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1845,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458992.8239005,
+			"obsdate":"2020-05-23 07:46:25",
+			"observer":"Matthew R. Siebert",
+			"public":1,
+			"reducer":"Matthew R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
+}

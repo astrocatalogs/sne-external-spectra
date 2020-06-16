@@ -1,0 +1,72 @@
+{
+	"dec":"+47:34:26.33",
+	"decdeg":47.573981457143,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Bersier",
+	"discovererid":112,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-03-21 07:37:55.200",
+	"discoverymag":17.815,
+	"end_prop_period":null,
+	"host_redshift":0.06223,
+	"hostname":null,
+	"internal_name":"ASASSN-20dn",
+	"internal_names":"ASASSN-20dn, ATLAS20ivt, ZTF18aaisybp",
+	"isTNS_AT":1,
+	"name":"2020euy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objname":"2020euy",
+	"public":1,
+	"ra":"13:36:29.483",
+	"radeg":204.12284688571,
+	"redshift":0.062312,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020euy_2020-04-02.01_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020euy_2020-04-02.01_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458941.51,
+			"obsdate":"2020-04-02 00:14:24",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":5
+}

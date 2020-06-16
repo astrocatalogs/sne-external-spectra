@@ -1,0 +1,94 @@
+{
+	"dec":"+11:13:53.96",
+	"decdeg":11.2316554455,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-03-31 08:06:55.002",
+	"discoverymag":19.0237,
+	"end_prop_period":null,
+	"host_redshift":0.007522,
+	"hostname":"NGC 4568",
+	"internal_name":"ZTF20aatzhhl",
+	"internal_names":"ZTF20aatzhhl, ATLAS20jjt, , PS20bzn",
+	"isTNS_AT":1,
+	"name":"2020fqv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":14,
+		"name":"SN IIb"
+	},
+	"objname":"2020fqv",
+	"public":1,
+	"ra":"12:36:33.261",
+	"radeg":189.13858706,
+	"redshift":0.007522,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020fqv_2020-04-02_03-46-17_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458941.6571412,
+			"obsdate":"2020-04-02 03:46:17",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020fqv_2020-04-01.6_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458941.1,
+			"obsdate":"2020-04-01 14:24:00",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":14
+}

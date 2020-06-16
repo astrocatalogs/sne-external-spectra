@@ -1,0 +1,64 @@
+{
+	"dec":"+08:10:10.56",
+	"decdeg":8.1696009845,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-01 08:37:32.998",
+	"discoverymag":20.0287,
+	"end_prop_period":null,
+	"host_redshift":0.032947,
+	"hostname":"CGCG 047-108",
+	"internal_name":"ZTF20aaxvzja",
+	"internal_names":"ZTF20aaxvzja, ATLAS20mfc, PS20dtk",
+	"isTNS_AT":1,
+	"name":"2020itj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objname":"2020itj",
+	"public":1,
+	"ra":"14:34:48.395",
+	"radeg":218.701643949,
+	"redshift":0.033,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020itj_2020-05-01_GTC_OSIRIS.txt",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":101,
+				"name":"OSIRIS"
+			},
+			"jd":2458970.5,
+			"obsdate":"2020-05-01 00:00:00",
+			"observer":"Galbany",
+			"public":1,
+			"reducer":"Galbany,Cabrera",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":71,
+				"name":"GTC"
+			}
+		}
+	],
+	"type":4
+}

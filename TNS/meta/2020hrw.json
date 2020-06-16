@@ -1,0 +1,72 @@
+{
+	"dec":"+05:33:42.76",
+	"decdeg":5.5618771993,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-04-16 11:55:40.800",
+	"discoverymag":20.33,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20cbx",
+	"internal_names":"PS20cbx, ZTF20aawmcrd, ATLAS20mzc",
+	"isTNS_AT":1,
+	"name":"2020hrw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020hrw",
+	"public":1,
+	"ra":"13:04:07.111",
+	"radeg":196.029627362,
+	"redshift":0.024,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020hrw_2020-05-27_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2458996.5,
+			"obsdate":"2020-05-27 00:00:00",
+			"observer":"Georgios Dimitriadis",
+			"public":1,
+			"reducer":"Georgios Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	],
+	"type":10
+}

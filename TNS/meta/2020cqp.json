@@ -1,0 +1,72 @@
+{
+	"dec":"-03:40:13.12",
+	"decdeg":-3.670311,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":null,
+	"discovererid":35587,
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"discoverydate":"2020-02-14 06:44:38.000",
+	"discoverymag":18.98,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"Gaia20ava",
+	"internal_names":"Gaia20ava, ZTF20aamknna, ATLAS20fvq, PS20ayz",
+	"isTNS_AT":1,
+	"name":"2020cqp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020cqp",
+	"public":1,
+	"ra":"14:32:21.070",
+	"radeg":218.087792,
+	"redshift":0.077,
+	"reporting_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cqp_2020-02-19_08-38-25_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020cqp_2020-02-19_08-38-25_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2458898.8600116,
+			"obsdate":"2020-02-19 08:38:25",
+			"observer":"M. Amenouche, A. Moller, M. Smith",
+			"public":1,
+			"reducer":"C. Angus, T. Muller, M. Pursiainen",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	],
+	"type":3
+}

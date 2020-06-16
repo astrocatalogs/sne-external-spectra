@@ -1,0 +1,94 @@
+{
+	"dec":"+22:55:14.45",
+	"decdeg":22.9206801965,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-24 06:27:05.003",
+	"discoverymag":20.3617,
+	"end_prop_period":null,
+	"host_redshift":0.031985,
+	"hostname":"CGCG 137-064",
+	"internal_name":"ZTF20abbhyxu",
+	"internal_names":"ZTF20abbhyxu, ATLAS20nzx, PS20dlw",
+	"isTNS_AT":1,
+	"name":"2020kyx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020kyx",
+	"public":1,
+	"ra":"16:13:45.521",
+	"radeg":243.439669858,
+	"redshift":0.031985,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020kyx_2020-05-25_06-13-43_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458994.7595255,
+			"obsdate":"2020-05-25 06:13:43",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"D. Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020kyx_2020-05-25_04-29-14.015_GTC_OSIRIS.txt",
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":101,
+				"name":"OSIRIS"
+			},
+			"jd":2458994.6869676,
+			"obsdate":"2020-05-25 04:29:14",
+			"observer":"Galbany",
+			"public":1,
+			"reducer":"Galbany,Cabrera",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":71,
+				"name":"GTC"
+			}
+		}
+	],
+	"type":3
+}

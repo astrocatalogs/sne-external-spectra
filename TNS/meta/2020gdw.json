@@ -1,0 +1,64 @@
+{
+	"dec":"-12:59:25.50",
+	"decdeg":-12.990417,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-04-10 13:58:55.000",
+	"discoverymag":15.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 5111",
+	"internal_name":"",
+	"internal_names":"",
+	"isTNS_AT":1,
+	"name":"2020gdw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020gdw",
+	"public":1,
+	"ra":"13:22:46.330",
+	"radeg":200.693042,
+	"redshift":0.018,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020gdw_2020-04-15_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":138,
+				"name":"HOWPol"
+			},
+			"jd":2458954.5,
+			"obsdate":"2020-04-15 00:00:00",
+			"observer":"Tatsuya Nakaoka",
+			"public":1,
+			"reducer":"Tatsuya Nakaoka",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":90,
+				"name":"Kanata"
+			}
+		}
+	],
+	"type":3
+}

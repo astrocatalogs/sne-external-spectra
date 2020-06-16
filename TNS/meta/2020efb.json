@@ -1,0 +1,72 @@
+{
+	"dec":"+46:27:48.20",
+	"decdeg":46.463389,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-03-07 02:55:57.000",
+	"discoverymag":19.4574,
+	"end_prop_period":null,
+	"host_redshift":0.084,
+	"hostname":"SDSS J062453.19+462746.1",
+	"internal_name":"ZTF20aasxrko",
+	"internal_names":"ZTF20aasxrko, PS20aaz, ATLAS20hxy, Gaia20bhh",
+	"isTNS_AT":1,
+	"name":"2020efb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020efb",
+	"public":1,
+	"ra":"06:24:53.390",
+	"radeg":96.222458,
+	"redshift":0.084,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020efb_2458917.777963_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458917.777963,
+			"obsdate":"2020-03-09 06:40:16",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":3
+}

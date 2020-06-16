@@ -1,0 +1,64 @@
+{
+	"dec":"+26:49:09.66",
+	"decdeg":26.81935,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-03-03 14:38:24.000",
+	"discoverymag":16.304,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20hid",
+	"internal_names":"ATLAS20hid, PS20abh, Gaia20bpr",
+	"isTNS_AT":1,
+	"name":"2020dxa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020dxa",
+	"public":1,
+	"ra":"15:58:43.090",
+	"radeg":239.679542,
+	"redshift":null,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020dxa_2020-03-05_04-16-47.74_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458913.6783218,
+			"obsdate":"2020-03-05 04:16:48",
+			"observer":"SS",
+			"public":1,
+			"reducer":"",
+			"remarks":"Normal SN Ia and probably rising. Astrodash gives a best match with SN 1998dh at -6 to -10 days.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

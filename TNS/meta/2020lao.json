@@ -1,0 +1,72 @@
+{
+	"dec":"+30:16:17.35",
+	"decdeg":30.2714853232,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-25 09:54:55.002",
+	"discoverymag":19.6895,
+	"end_prop_period":null,
+	"host_redshift":0.031162,
+	"hostname":"CGCG 169-041",
+	"internal_name":"ZTF20abbplei",
+	"internal_names":"ZTF20abbplei, ATLAS20omr, PS20dsm",
+	"isTNS_AT":1,
+	"name":"2020lao",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":7,
+		"name":"SN Ic-BL"
+	},
+	"objname":"2020lao",
+	"public":1,
+	"ra":"17:06:54.606",
+	"radeg":256.727524546,
+	"redshift":0.031162,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020lao_2020-06-01_11-51-15_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020lao_2020-06-01_11-51-15_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459001.9939236,
+			"obsdate":"2020-06-01 11:51:15",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":7
+}

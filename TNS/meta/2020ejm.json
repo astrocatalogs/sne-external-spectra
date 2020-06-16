@@ -1,0 +1,72 @@
+{
+	"dec":"-33:33:49.17",
+	"decdeg":-33.563658,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Valenti",
+	"discovererid":57,
+	"discovery_data_source":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"discoverydate":"2020-03-11 05:42:35.424",
+	"discoverymag":16,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"DLT20h",
+	"internal_names":"DLT20h",
+	"isTNS_AT":1,
+	"name":"2020ejm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020ejm",
+	"public":1,
+	"ra":"10:16:18.850",
+	"radeg":154.078542,
+	"redshift":0.009757,
+	"reporting_group":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020ejm_2020-03-11_08-02-02_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020ejm_2020-03-11_08-02-02_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458919.8347454,
+			"obsdate":"2020-03-11 08:02:02",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":3
+}

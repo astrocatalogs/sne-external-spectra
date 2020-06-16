@@ -1,0 +1,64 @@
+{
+	"dec":"+56:40:38.83",
+	"decdeg":56.6774526023,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-03-11 05:49:55.200",
+	"discoverymag":19.95,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20act",
+	"internal_names":"PS20act",
+	"isTNS_AT":1,
+	"name":"2020ekq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":11,
+		"name":"SN IIP"
+	},
+	"objname":"2020ekq",
+	"public":1,
+	"ra":"07:57:13.156",
+	"radeg":119.304814782,
+	"redshift":0.026,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ekq_2458921.37_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458921.37,
+			"obsdate":"2020-03-12 20:52:48",
+			"observer":"Julia Martikainen (NOT), Teet Kuutma (NOT)",
+			"public":1,
+			"reducer":"Luca Izzo (DARK/NBI)",
+			"remarks":"Coaddition of 4x900 s exposures taken with ALFOSC + Grism #4.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":11
+}

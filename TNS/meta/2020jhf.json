@@ -1,0 +1,64 @@
+{
+	"dec":"+27:00:31.11",
+	"decdeg":27.0086424404,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-05-08 10:13:26.400",
+	"discoverymag":18.096,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20lts",
+	"internal_names":"ATLAS20lts, ZTF18aahvndq, PS20dap",
+	"isTNS_AT":1,
+	"name":"2020jhf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020jhf",
+	"public":1,
+	"ra":"13:14:53.433",
+	"radeg":198.722637099,
+	"redshift":0.015371,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020jhf_2020-05-09_22-02-11.533_GTC_OSIRIS.txt",
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":101,
+				"name":"OSIRIS"
+			},
+			"jd":2458979.4181829,
+			"obsdate":"2020-05-09 22:02:12",
+			"observer":"Galbany",
+			"public":1,
+			"reducer":"Galbany,Cabrera",
+			"remarks":"Best SNID fits points to SN2002dl (91bg-like) at -7 days (pre-maximum).",
+			"source_group_name":"None",
+			"telescope":{
+				"id":71,
+				"name":"GTC"
+			}
+		}
+	],
+	"type":3
+}

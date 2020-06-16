@@ -1,0 +1,102 @@
+{
+	"dec":"+40:48:29.27",
+	"decdeg":40.808131,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-03-06 11:09:32.000",
+	"discoverymag":19.9105,
+	"end_prop_period":null,
+	"host_redshift":0.033,
+	"hostname":"SDSS J171623.88+404826.0",
+	"internal_name":"ZTF20aaswzdm",
+	"internal_names":"ZTF20aaswzdm, ATLAS20hty, Gaia20boh, PS20cfu",
+	"isTNS_AT":1,
+	"name":"2020edh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2020edh",
+	"public":1,
+	"ra":"17:16:23.960",
+	"radeg":259.099833,
+	"redshift":0.033,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020edh_2020-03-10_12-45-21_FTN_FLOYDS-N_SIRAH.ascii",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020edh_2020-03-10_12-45-21_FTN_FLOYDS-N_SIRAH.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2458919.0314931,
+			"obsdate":"2020-03-10 12:45:21",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020edh_2020-03-10_03-47-15_LT_SPRAT_SIRAH.txt",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2458918.6578125,
+			"obsdate":"2020-03-10 03:47:15",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":13
+}

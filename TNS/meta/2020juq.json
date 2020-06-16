@@ -1,0 +1,72 @@
+{
+	"dec":"+21:52:41.62",
+	"decdeg":21.8782283192,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-09 09:08:38.000",
+	"discoverymag":19.676,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aaznoxg",
+	"internal_names":"ZTF20aaznoxg, ATLAS20mhx, PS20ddu",
+	"isTNS_AT":1,
+	"name":"2020juq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020juq",
+	"public":1,
+	"ra":"15:45:08.841",
+	"radeg":236.286836002,
+	"redshift":0.12,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/YSE/tns_2020juq_2020-05-27_NOT_ALFOSC_YSE.txt",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458996.5,
+			"obsdate":"2020-05-27 00:00:00",
+			"observer":"C.Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"+18:02:32.97",
+	"decdeg":18.042491714286,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-23 05:10:57.000",
+	"discoverymag":19.5,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20aahaxjl",
+	"internal_names":"ZTF20aahaxjl, ATLAS20cop",
+	"isTNS_AT":1,
+	"name":"2020amt",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020amt",
+	"public":1,
+	"ra":"07:34:43.709",
+	"radeg":113.68212057143,
+	"redshift":0.045,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020amt_2020-02-14_06-14-08_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020amt_2020-02-14_06-14-08_P200_DBSP_ZTF.fits",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458893.7598148,
+			"obsdate":"2020-02-14 06:14:08",
+			"observer":"A. Tzanidakis",
+			"public":1,
+			"reducer":"A. Ho",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":3
+}

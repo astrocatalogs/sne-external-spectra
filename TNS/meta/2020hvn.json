@@ -1,0 +1,72 @@
+{
+	"dec":"+30:06:43.44",
+	"decdeg":30.112066604545,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-04-20 07:40:48.000",
+	"discoverymag":17.7,
+	"end_prop_period":null,
+	"host_redshift":0.023386,
+	"hostname":"2MASX J11193797+3006422",
+	"internal_name":"ASASSN-20ed",
+	"internal_names":"ASASSN-20ed, ZTF18aawpwlf, ATLAS20krx, ZTF20abcidhc",
+	"isTNS_AT":1,
+	"name":"2020hvn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020hvn",
+	"public":1,
+	"ra":"11:19:37.947",
+	"radeg":169.90811356818,
+	"redshift":0.02344,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020hvn_2020-05-07_07-30-16_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2458976.8126852,
+			"obsdate":"2020-05-07 07:30:16",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":10
+}

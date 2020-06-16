@@ -1,0 +1,86 @@
+{
+	"dec":"+06:05:59.07",
+	"decdeg":6.09974140019,
+	"discmagfilter":{
+		"family":"Cousins",
+		"id":13,
+		"name":"R"
+	},
+	"discoverer":"Conseil",
+	"discovererid":166,
+	"discovery_data_source":{
+		"group_name":"TAROT",
+		"groupid":19
+	},
+	"discoverydate":"2020-03-19 02:53:00.000",
+	"discoverymag":18.5,
+	"end_prop_period":null,
+	"host_redshift":0.024562,
+	"hostname":"PGC 40043",
+	"internal_name":"",
+	"internal_names":", ATLAS20ier, PS20aji",
+	"isTNS_AT":1,
+	"name":"2020epi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objname":"2020epi",
+	"public":1,
+	"ra":"12:22:08.778",
+	"radeg":185.536573544,
+	"redshift":0.024,
+	"reporting_group":{
+		"group_name":"TAROT",
+		"groupid":19
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020epi_2020-03-30_23-03-31_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":4804,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020epi_2020-03-30_23-03-31_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458939.4607755,
+			"obsdate":"2020-03-30 23:03:31",
+			"observer":"R Leadbeater",
+			"public":1,
+			"reducer":"R Leadbeater",
+			"remarks":"R~130 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020epi_2020-03-26_23-23-06_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":3603,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020epi_2020-03-26_23-23-06_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2458935.474375,
+			"obsdate":"2020-03-26 23:23:06",
+			"observer":"R Leadbeater",
+			"public":1,
+			"reducer":"R Leadbeater",
+			"remarks":"R~130 spectrum obtained using modified ALPY spectrograph at Three Hills Observatory as described here http://www.threehillsobservatory.co.uk/astro/spectroscopy_20.htm",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":5
+}

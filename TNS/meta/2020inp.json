@@ -1,0 +1,70 @@
+{
+	"dec":"+10:16:00.88",
+	"decdeg":10.2669113272,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":73181,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-04-29 10:12:00.000",
+	"discoverymag":20.42,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20cpk",
+	"internal_names":"PS20cpk",
+	"isTNS_AT":1,
+	"name":"2020inp",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":105,
+		"name":"SN Iax[02cx-like]"
+	},
+	"objname":"2020inp",
+	"public":1,
+	"ra":"15:06:29.427",
+	"radeg":226.622611216,
+	"redshift":0.07,
+	"reporting_group":{
+		"group_name":"YSE",
+		"groupid":83
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020inp_2020-05-22_Gemini-N_GMOS.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":6,
+				"name":"GMOS"
+			},
+			"jd":2458991.5,
+			"obsdate":"2020-05-22 00:00:00",
+			"observer":"Gautham Narayan",
+			"public":1,
+			"reducer":"Georgios Dimitriadis",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":15,
+				"name":"Gemini-N"
+			}
+		}
+	],
+	"type":105
+}

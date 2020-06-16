@@ -1,0 +1,72 @@
+{
+	"dec":"-25:58:28.34",
+	"decdeg":-25.974539,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-04-02 10:01:39.000",
+	"discoverymag":16.5732,
+	"end_prop_period":null,
+	"host_redshift":0.007515,
+	"hostname":"ESO 515- G 004",
+	"internal_name":"ZTF20aaunfpj",
+	"internal_names":"ZTF20aaunfpj, Gaia20bpc, ATLAS20jky, PS20dci",
+	"isTNS_AT":1,
+	"name":"2020fsb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020fsb",
+	"public":1,
+	"ra":"15:39:03.810",
+	"radeg":234.765875,
+	"redshift":0.007515,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020fsb_2020-04-04_18-12-49_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020fsb_2020-04-04_18-12-49_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2458944.2589005,
+			"obsdate":"2020-04-04 18:12:49",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":10
+}

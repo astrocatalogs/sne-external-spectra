@@ -1,0 +1,72 @@
+{
+	"dec":"+58:33:46.78",
+	"decdeg":58.562994,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-03-28 06:19:45.002",
+	"discoverymag":17.828,
+	"end_prop_period":null,
+	"host_redshift":0.01041,
+	"hostname":"NGC3690",
+	"internal_name":"ZTF18aarlpzd",
+	"internal_names":"ZTF18aarlpzd, ",
+	"isTNS_AT":1,
+	"name":"2020fkb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objname":"2020fkb",
+	"public":1,
+	"ra":"11:28:30.436",
+	"radeg":172.126817,
+	"redshift":0.01,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020fkb_2020-04-02.82_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020fkb_2020-04-02.82_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458942.32,
+			"obsdate":"2020-04-02 19:40:48",
+			"observer":"L. Tomasella",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":4
+}

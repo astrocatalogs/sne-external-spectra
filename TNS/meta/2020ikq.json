@@ -1,0 +1,64 @@
+{
+	"dec":"+28:59:00.11",
+	"decdeg":28.9833628928,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-04-28 09:47:31.200",
+	"discoverymag":18.959,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20lfu",
+	"internal_names":"ATLAS20lfu, ZTF20aaxhzhc, PS20ctw",
+	"isTNS_AT":1,
+	"name":"2020ikq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":14,
+		"name":"SN IIb"
+	},
+	"objname":"2020ikq",
+	"public":1,
+	"ra":"13:36:05.016",
+	"radeg":204.020901072,
+	"redshift":0.037,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ikq_2020-05-15_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2458984.5,
+			"obsdate":"2020-05-15 00:00:00",
+			"observer":"C. R. Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":14
+}

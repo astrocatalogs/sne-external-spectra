@@ -1,0 +1,72 @@
+{
+	"dec":"+33:12:34.80",
+	"decdeg":33.2096664058,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-21 05:00:07.000",
+	"discoverymag":19.7244,
+	"end_prop_period":null,
+	"host_redshift":0.042335,
+	"hostname":"WISEA J093157.88+331241.0",
+	"internal_name":"ZTF20aapjiwl",
+	"internal_names":"ZTF20aapjiwl, ATLAS20fyd, PS20abg",
+	"isTNS_AT":1,
+	"name":"2020dbd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020dbd",
+	"public":1,
+	"ra":"09:31:57.283",
+	"radeg":142.988677766,
+	"redshift":0.042335,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2020dbd_2020-02-25_03-32-45_VLT-UT1_FORS2_adH0cc.ascii",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2020dbd_2020-02-25_03-32-45_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2458904.6477431,
+			"obsdate":"2020-02-25 03:32:45",
+			"observer":"Service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"Quick-reduction spectrum, corrected for telluric absorption.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	],
+	"type":10
+}

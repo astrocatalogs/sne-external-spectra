@@ -1,0 +1,64 @@
+{
+	"dec":"+04:44:47.84",
+	"decdeg":4.74662146365,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-03-19 14:24:00.000",
+	"discoverymag":20.6,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20aes",
+	"internal_names":"PS20aes, ATLAS20idj, ZTF20aattqfr",
+	"isTNS_AT":1,
+	"name":"2020eqc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020eqc",
+	"public":1,
+	"ra":"15:32:44.401",
+	"radeg":233.185003552,
+	"redshift":0.0415,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020eqc_2020-04-03_01-08-54_Ekar_AFOSC.txt",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458942.5478472,
+			"obsdate":"2020-04-03 01:08:54",
+			"observer":"Paolo Ochner",
+			"public":1,
+			"reducer":"Luca Izzo",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	],
+	"type":3
+}

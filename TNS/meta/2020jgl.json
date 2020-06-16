@@ -1,0 +1,72 @@
+{
+	"dec":"-14:48:20.08",
+	"decdeg":-14.8055765576,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-05-07 06:54:43.200",
+	"discoverymag":18.136,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20lti",
+	"internal_names":"ATLAS20lti, PS20cyf",
+	"isTNS_AT":1,
+	"name":"2020jgl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020jgl",
+	"public":1,
+	"ra":"09:28:58.420",
+	"radeg":142.243415032,
+	"redshift":0.006758,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020jgl_2020-05-07_21-29-06_GTC_OSIRIS_SIRAH.txt",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":500,
+			"fitsfile":"",
+			"instrument":{
+				"id":101,
+				"name":"OSIRIS"
+			},
+			"jd":2458610.5,
+			"obsdate":"2020-05-07 21:29:06",
+			"observer":"Galbany",
+			"public":1,
+			"reducer":"Galbany,Cabrera",
+			"remarks":"Strong Calcium and several high-velocity features.",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":71,
+				"name":"GTC"
+			}
+		}
+	],
+	"type":3
+}

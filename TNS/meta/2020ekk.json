@@ -1,0 +1,64 @@
+{
+	"dec":"+22:30:47.74",
+	"decdeg":22.513261,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Itagaki",
+	"discovererid":87,
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-03-11 18:41:05.000",
+	"discoverymag":17.4,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC 10528",
+	"internal_name":"",
+	"internal_names":", ATLAS20hzl, ZTF20aattrkw, Gaia20bob",
+	"isTNS_AT":1,
+	"name":"2020ekk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020ekk",
+	"public":1,
+	"ra":"16:44:45.150",
+	"radeg":251.188125,
+	"redshift":0.011,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020ekk_2020-03-12.85_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2458921.35,
+			"obsdate":"2020-03-12 20:24:00",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	],
+	"type":10
+}

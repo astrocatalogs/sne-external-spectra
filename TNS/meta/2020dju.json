@@ -1,0 +1,72 @@
+{
+	"dec":"-21:26:14.86",
+	"decdeg":-21.43746,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-02-24 13:43:40.800",
+	"discoverymag":18.208,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20gtc",
+	"internal_names":"ATLAS20gtc",
+	"isTNS_AT":1,
+	"name":"2020dju",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":100,
+		"name":"SN Ia-pec"
+	},
+	"objname":"2020dju",
+	"public":1,
+	"ra":"13:39:20.140",
+	"radeg":204.8339175,
+	"redshift":0.04,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020dju_2458917.970023_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458917.970023,
+			"obsdate":"2020-03-09 11:16:50",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	],
+	"type":100
+}
