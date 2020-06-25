@@ -1,0 +1,72 @@
+{
+	"dec":"+42:34:41.33",
+	"decdeg":42.5781462367,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-26 07:46:22.000",
+	"discoverymag":20.89,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20abctyza",
+	"internal_names":"ZTF20abctyza, ATLAS20omw, PS20dtn",
+	"isTNS_AT":1,
+	"name":"2020lmg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020lmg",
+	"public":1,
+	"ra":"18:12:19.661",
+	"radeg":273.081922562,
+	"redshift":0.101,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SGLF/tns_2020lmg_2020-06-01_04-06-49_LT_SPRAT_SGLF.txt",
+			"assoc_groups":[
+				{
+					"id":81,
+					"name":"SGLF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459001.6714005,
+			"obsdate":"2020-06-01 04:06:49",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline and Frederick Poidevin",
+			"remarks":"",
+			"source_group":{
+				"id":81,
+				"name":"SGLF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

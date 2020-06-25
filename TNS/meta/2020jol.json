@@ -1,0 +1,72 @@
+{
+	"dec":"+00:25:19.81",
+	"decdeg":0.422169,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-05-11 06:51:50.400",
+	"discoverymag":17.199,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20lwr",
+	"internal_names":"ATLAS20lwr, Gaia20civ, MASTER OT J102721.17+002519.3",
+	"isTNS_AT":1,
+	"name":"2020jol",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020jol",
+	"public":1,
+	"ra":"10:27:21.150",
+	"radeg":156.838125,
+	"redshift":0.022,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020jol_2459006.232980325_SALT_RSS_DEHVILS.dat",
+			"assoc_groups":[
+				{
+					"id":92,
+					"name":"DEHVILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":933,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020jol_2459006.232980325_SALT_RSS_DEHVILS.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459006.2329803,
+			"obsdate":"2020-06-05 17:35:29",
+			"observer":"R. Skelton",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"good SNID matches to several SN Ia at about 2 weeks past maximum.",
+			"source_group":{
+				"id":92,
+				"name":"DEHVILS"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":3
+}

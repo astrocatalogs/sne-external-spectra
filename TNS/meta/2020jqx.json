@@ -1,0 +1,102 @@
+{
+	"dec":"-05:56:30.83",
+	"decdeg":-5.9418983,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-11 05:18:37.002",
+	"discoverymag":18.5371,
+	"end_prop_period":null,
+	"host_redshift":0.059908,
+	"hostname":"LCRS B141536.1-054241",
+	"internal_name":"ZTF20aazhyrs",
+	"internal_names":"ZTF20aazhyrs, ATLAS20mga",
+	"isTNS_AT":1,
+	"name":"2020jqx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objname":"2020jqx",
+	"public":1,
+	"ra":"14:18:13.785",
+	"radeg":214.55743925,
+	"redshift":0.0599,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020jqx_2459006.262679395_SALT_RSS_DEHVILS.dat",
+			"assoc_groups":[
+				{
+					"id":92,
+					"name":"DEHVILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":933,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020jqx_2459006.262679395_SALT_RSS_DEHVILS.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459006.2626794,
+			"obsdate":"2020-06-05 18:18:16",
+			"observer":"R. Skelton",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"Good SNID matches to SN Ia at about three weeks past maximum light.",
+			"source_group":{
+				"id":92,
+				"name":"DEHVILS"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020jqx_2020-05-27_07-34-40_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458996.8157407,
+			"obsdate":"2020-05-27 07:34:40",
+			"observer":"Y. Yao, A. Dahiwale",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":4
+}

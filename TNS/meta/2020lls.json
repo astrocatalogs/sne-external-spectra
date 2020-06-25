@@ -1,0 +1,72 @@
+{
+	"dec":"+24:26:14.03",
+	"decdeg":24.43722955,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-31 06:01:27.264",
+	"discoverymag":19.94,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20abdnpdo",
+	"internal_names":"ZTF20abdnpdo, ATLAS20owf",
+	"isTNS_AT":1,
+	"name":"2020lls",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objname":"2020lls",
+	"public":1,
+	"ra":"17:10:21.514",
+	"radeg":257.58964225,
+	"redshift":0.04106,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020lls_2020-06-12_NOT_ALFOSC_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459012.5,
+			"obsdate":"2020-06-12 00:00:00",
+			"observer":"Tassilo Schweyer",
+			"public":1,
+			"reducer":"Cristina Barbarino",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	],
+	"type":5
+}

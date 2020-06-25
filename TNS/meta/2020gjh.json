@@ -1,0 +1,72 @@
+{
+	"dec":"+22:07:57.65",
+	"decdeg":22.1326818446,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":null,
+	"discovererid":35588,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-04-03 14:13:55.200",
+	"discoverymag":21.76,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20bcc",
+	"internal_names":"PS20bcc, ZTF20aayxdse, ATLAS20lvj",
+	"isTNS_AT":1,
+	"name":"2020gjh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020gjh",
+	"public":1,
+	"ra":"15:34:08.002",
+	"radeg":233.533339679,
+	"redshift":0.0865,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020gjh_2020-05-27_18-01-50_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458997.2512731,
+			"obsdate":"2020-05-27 18:01:50",
+			"observer":"Y. Yao, A. Dahiwale",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":10
+}

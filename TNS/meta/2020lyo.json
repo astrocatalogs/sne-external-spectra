@@ -1,0 +1,72 @@
+{
+	"dec":"+24:19:01.78",
+	"decdeg":24.31716,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Bersier",
+	"discovererid":112,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-06-05 05:57:07.200",
+	"discoverymag":16.344,
+	"end_prop_period":null,
+	"host_redshift":0.0257,
+	"hostname":"PGC34881",
+	"internal_name":"ASASSN-20gb",
+	"internal_names":"ASASSN-20gb",
+	"isTNS_AT":1,
+	"name":"2020lyo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020lyo",
+	"public":1,
+	"ra":"11:22:13.243",
+	"radeg":170.55518,
+	"redshift":0.027,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ASAS-SN/tns_2020lyo_2020-06-11_21-28-57.483_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459012.3951042,
+			"obsdate":"2020-06-11 21:28:57",
+			"observer":"D Bersier",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

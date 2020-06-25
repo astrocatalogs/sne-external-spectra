@@ -1,0 +1,72 @@
+{
+	"dec":"-10:34:22.64",
+	"decdeg":-10.572956775,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-04-13 14:16:48.000",
+	"discoverymag":18.721,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20kce",
+	"internal_names":"ATLAS20kce, ZTF20aawijco",
+	"isTNS_AT":1,
+	"name":"2020hfn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objname":"2020hfn",
+	"public":1,
+	"ra":"19:48:47.990",
+	"radeg":297.199957675,
+	"redshift":0.024854,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020hfn_2020-05-27_11-34-34_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":500,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458996.982338,
+			"obsdate":"2020-05-27 11:34:34",
+			"observer":"Y. Yao, A. Dahiwale",
+			"public":1,
+			"reducer":"Y. Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	],
+	"type":13
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"+44:39:07.41",
+	"decdeg":44.65205945,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-06-15 08:55:40.800",
+	"discoverymag":18.589,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20paa",
+	"internal_names":"ATLAS20paa, ZTF20abfhyil",
+	"isTNS_AT":1,
+	"name":"2020mrf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020mrf",
+	"public":1,
+	"ra":"15:47:54.163",
+	"radeg":236.97567915,
+	"redshift":0.058809,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020mrf_2020-06-17_10-40-15_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020mrf_2020-06-17_10-40-15_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459017.9446181,
+			"obsdate":"2020-06-17 10:40:15",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	],
+	"type":10
+}

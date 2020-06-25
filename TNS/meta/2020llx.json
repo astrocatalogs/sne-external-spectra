@@ -1,0 +1,72 @@
+{
+	"dec":"-55:33:44.17",
+	"decdeg":-55.56227,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Stanek",
+	"discovererid":82,
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-05-31 00:14:24.000",
+	"discoverymag":15,
+	"end_prop_period":null,
+	"host_redshift":0.009947,
+	"hostname":"NGC 7140",
+	"internal_name":"ASASSN-20fv",
+	"internal_names":"ASASSN-20fv",
+	"isTNS_AT":1,
+	"name":"2020llx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020llx",
+	"public":1,
+	"ra":"21:52:14.038",
+	"radeg":328.05849,
+	"redshift":0.009947,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020llx_2020-06-04_19-28-42_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020llx_2020-06-04_19-28-42_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2459005.3115972,
+			"obsdate":"2020-06-04 19:28:42",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	],
+	"type":10
+}

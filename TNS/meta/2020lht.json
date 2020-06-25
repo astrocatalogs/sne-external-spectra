@@ -1,0 +1,72 @@
+{
+	"dec":"+05:12:04.00",
+	"decdeg":5.201111,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":73181,
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-05-29 06:25:55.200",
+	"discoverymag":20.09,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"PS20dly",
+	"internal_names":"PS20dly, ZTF20abcqkts, ATLAS20oxg, Gaia20cwa",
+	"isTNS_AT":1,
+	"name":"2020lht",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020lht",
+	"public":1,
+	"ra":"12:17:15.800",
+	"radeg":184.315833,
+	"redshift":0.076,
+	"reporting_group":{
+		"group_name":"YSE",
+		"groupid":83
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020lht_2020-06-17_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459017.5,
+			"obsdate":"2020-06-17 00:00:00",
+			"observer":"Siebert, Foley, Dimitriadis",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	],
+	"type":3
+}

@@ -1,0 +1,72 @@
+{
+	"dec":"-31:43:51.86",
+	"decdeg":-31.731072,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":null,
+	"discovererid":35595,
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-05-20 13:59:31.200",
+	"discoverymag":19.019,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ATLAS20nik",
+	"internal_names":"ATLAS20nik",
+	"isTNS_AT":1,
+	"name":"2020kqv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020kqv",
+	"public":1,
+	"ra":"20:49:03.001",
+	"radeg":312.262504,
+	"redshift":0.076,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020kqv_2459006.47552083_SALT_RSS_DEHVILS.dat",
+			"assoc_groups":[
+				{
+					"id":92,
+					"name":"DEHVILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":467,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020kqv_2459006.47552083_SALT_RSS_DEHVILS.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459006.4755208,
+			"obsdate":"2020-06-05 23:24:45",
+			"observer":"R. Skelton",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"Noisy, but good SNID match to normal SN Ia at z ~= 0.076 approximately 1 week after max.",
+			"source_group":{
+				"id":92,
+				"name":"DEHVILS"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":3
+}

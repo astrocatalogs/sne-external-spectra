@@ -1,0 +1,72 @@
+{
+	"dec":"+40:02:02.18",
+	"decdeg":40.033939,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-06-09 05:21:58.997",
+	"discoverymag":18.8337,
+	"end_prop_period":null,
+	"host_redshift":0.031021,
+	"hostname":"ARK 491",
+	"internal_name":"ZTF18aaiykoz",
+	"internal_names":"ZTF18aaiykoz, Gaia20csp, ATLAS20pab",
+	"isTNS_AT":1,
+	"name":"2020mcc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020mcc",
+	"public":1,
+	"ra":"15:57:59.500",
+	"radeg":239.497917,
+	"redshift":0.0305,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020mcc_2020-06-11_04-46-41_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459011.6990856,
+			"obsdate":"2020-06-11 04:46:41",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	],
+	"type":3
+}

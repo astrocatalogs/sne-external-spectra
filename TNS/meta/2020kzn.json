@@ -1,0 +1,72 @@
+{
+	"dec":"+03:01:40.20",
+	"decdeg":3.0278325833333,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":49023,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-05-22 07:31:30.720",
+	"discoverymag":19.61,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20abawntz",
+	"internal_names":"ZTF20abawntz, ATLAS20nwj",
+	"isTNS_AT":1,
+	"name":"2020kzn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020kzn",
+	"public":1,
+	"ra":"15:38:11.563",
+	"radeg":234.54817776667,
+	"redshift":0.078,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020kzn_2459019.406579865_SALT_RSS_DEHVILS.dat",
+			"assoc_groups":[
+				{
+					"id":92,
+					"name":"DEHVILS"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":933,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DEHVILS/tns_2020kzn_2459019.406579865_SALT_RSS_DEHVILS.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459019.4065799,
+			"obsdate":"2020-06-18 21:45:29",
+			"observer":"M. Mogotsi",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"SN Ia at about +18 days, also with host galaxy light yielding z = 0.078",
+			"source_group":{
+				"id":92,
+				"name":"DEHVILS"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	],
+	"type":3
+}
