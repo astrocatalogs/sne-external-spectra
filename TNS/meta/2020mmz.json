@@ -1,0 +1,64 @@
+{
+	"dec":"+64:15:14.24",
+	"decdeg":64.2539544,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-06-13 05:18:15.998",
+	"discoverymag":17.0528,
+	"end_prop_period":null,
+	"host_redshift":0.00531,
+	"hostname":"NGC 2814",
+	"internal_name":"ZTF20abevbxv",
+	"internal_names":"ZTF20abevbxv",
+	"isTNS_AT":1,
+	"name":"2020mmz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020mmz",
+	"public":1,
+	"ra":"09:21:11.570",
+	"radeg":140.2982064,
+	"redshift":0.00531,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020mmz_2020-06-22_20-55-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020mmz_2020-06-22_20-55-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459023.3715278,
+			"obsdate":"2020-06-22 20:55:00",
+			"observer":"Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	],
+	"type":10
+}

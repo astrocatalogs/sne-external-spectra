@@ -1,0 +1,72 @@
+{
+	"dec":"+83:04:39.36",
+	"decdeg":83.07759874,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":59228,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-06-13 07:56:15.072",
+	"discoverymag":20.3,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"ZTF20abewogd",
+	"internal_names":"ZTF20abewogd, ATLAS20qxd",
+	"isTNS_AT":1,
+	"name":"2020muw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020muw",
+	"public":1,
+	"ra":"20:48:22.854",
+	"radeg":312.09522324,
+	"redshift":0.06,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020muw_2020-06-25_08-23-04_LT_SPRAT_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459025.8493519,
+			"obsdate":"2020-06-25 08:23:04",
+			"observer":"LTRobot",
+			"public":1,
+			"reducer":"D. Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":3
+}

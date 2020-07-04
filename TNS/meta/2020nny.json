@@ -1,0 +1,64 @@
+{
+	"dec":"+15:10:15.09",
+	"decdeg":15.1708573,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":null,
+	"discovererid":66140,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-06-26 11:23:07.996",
+	"discoverymag":19.093,
+	"end_prop_period":null,
+	"host_redshift":0.030654,
+	"hostname":"IC 1461",
+	"internal_name":"ZTF20abisitz",
+	"internal_names":"ZTF20abisitz",
+	"isTNS_AT":1,
+	"name":"2020nny",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020nny",
+	"public":1,
+	"ra":"22:58:34.235",
+	"radeg":344.6426449,
+	"redshift":0.030654,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020nny_2020-06-27_04-36-01.170_GTC_OSIRIS.txt",
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":101,
+				"name":"OSIRIS"
+			},
+			"jd":2459027.6916782,
+			"obsdate":"2020-06-27 04:36:01",
+			"observer":"Galbany",
+			"public":1,
+			"reducer":"Galbany,Cabrera",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":71,
+				"name":"GTC"
+			}
+		}
+	],
+	"type":10
+}

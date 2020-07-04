@@ -1,0 +1,72 @@
+{
+	"dec":"-01:40:24.06",
+	"decdeg":-1.67335090909,
+	"discmagfilter":{
+		"family":"GOTO",
+		"id":120,
+		"name":"L"
+	},
+	"discoverer":null,
+	"discovererid":58806,
+	"discovery_data_source":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"discoverydate":"2020-06-30 02:07:19.488",
+	"discoverymag":18,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_name":"GOTO20abj",
+	"internal_names":"GOTO20abj, ASASSN-20hp, ATLAS20rrc",
+	"isTNS_AT":1,
+	"name":"2020ntl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objname":"2020ntl",
+	"public":1,
+	"ra":"21:48:25.918",
+	"radeg":327.107992727,
+	"redshift":0.027,
+	"reporting_group":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"sourceid":2,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/GOTO/tns_2020ntl_2020-07-01_02-08-53_LT_SPRAT_GOTO.txt",
+			"assoc_groups":[
+				{
+					"id":59,
+					"name":"GOTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459031.5895023,
+			"obsdate":"2020-07-01 02:08:53",
+			"observer":"LT",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":59,
+				"name":"GOTO"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	],
+	"type":10
+}

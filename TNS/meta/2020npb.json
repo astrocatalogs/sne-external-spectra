@@ -1,0 +1,72 @@
+{
+	"dec":"+44:51:45.63",
+	"decdeg":44.8626747106,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"Perez-Fournon",
+	"discovererid":977,
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-06-23 07:22:42.000",
+	"discoverymag":20.568,
+	"end_prop_period":null,
+	"host_redshift":0.03846,
+	"hostname":"UGC 11088",
+	"internal_name":"ZTF20abhmqdn",
+	"internal_names":"ZTF20abhmqdn, ATLAS20qwk, PS20epf",
+	"isTNS_AT":1,
+	"name":"2020npb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objname":"2020npb",
+	"public":1,
+	"ra":"17:59:58.223",
+	"radeg":269.992597814,
+	"redshift":0.038,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"sourceid":1,
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020npb_2020-07-02_Gemini-N_GMOS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":6,
+				"name":"GMOS"
+			},
+			"jd":2459032.5,
+			"obsdate":"2020-07-02 00:00:00",
+			"observer":"G. Dimitriadis, R. J. Foley, Q. Wang",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":15,
+				"name":"Gemini-N"
+			}
+		}
+	],
+	"type":3
+}
