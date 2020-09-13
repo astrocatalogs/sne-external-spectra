@@ -1,0 +1,73 @@
+{
+	"dec":"-59:18:03.02",
+	"decdeg":-59.300839,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"P. Marples, J. Brimacombe, K. Z. Stanek, C. S. Kochanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20im",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-07-17 17:45:36.000",
+	"discoverymag":17.5,
+	"end_prop_period":null,
+	"host_redshift":0.014637,
+	"hostname":"IC 4830",
+	"internal_names":"ASASSN-20im, Gaia20drk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":63835,
+	"objname":"2020ppi",
+	"public":1,
+	"ra":"19:13:45.520",
+	"radeg":288.439667,
+	"radeg_err":0,
+	"redshift":0.014637,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020ppi_2020-07-19_10-56-46_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020ppi_2020-07-19_10-56-46_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2459049.956088,
+			"obsdate":"2020-07-19 10:56:46",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	]
+}

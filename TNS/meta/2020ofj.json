@@ -1,0 +1,103 @@
+{
+	"dec":"-02:15:38.33",
+	"decdeg":-2.26064773372,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, F.E. Bauer, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20abjyorg",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-07-08 11:37:01.998",
+	"discoverymag":18.9458,
+	"end_prop_period":null,
+	"host_redshift":0.052566,
+	"hostname":"MCG -01-03-083",
+	"internal_names":"ZTF20abjyorg, ATLAS20she, PS20hei",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":62859,
+	"objname":"2020ofj",
+	"public":1,
+	"ra":"01:03:56.713",
+	"radeg":15.9863041091,
+	"radeg_err":0,
+	"redshift":0.0527,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020ofj_2020-07-19_10-50-25_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459049.9516782,
+			"obsdate":"2020-07-19 10:50:25",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020ofj_2459048.59158565_SALT_RSS_SIRAH.dat",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2033,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020ofj_2459048.59158565_SALT_RSS_SIRAH.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459048.5915857,
+			"obsdate":"2020-07-18 02:11:53",
+			"observer":"A. Kniazev",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	]
+}

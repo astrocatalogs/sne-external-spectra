@@ -1,0 +1,65 @@
+{
+	"dec":"+49:17:32.00",
+	"decdeg":49.292222,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"Nora Linn Strothjohann (WIS) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abqvsik",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-09 04:01:29.280",
+	"discoverymag":18.43,
+	"end_prop_period":null,
+	"host_redshift":0.002592,
+	"hostname":"UGC 06930",
+	"internal_names":"ZTF20abqvsik",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":64874,
+	"objname":"2020rcq",
+	"public":1,
+	"ra":"11:57:14.680",
+	"radeg":179.311167,
+	"radeg_err":0,
+	"redshift":0.002597,
+	"reporter":"Steve Schulze",
+	"reporterid":50,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020rcq_2020-08-12_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":400,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459073.5,
+			"obsdate":"2020-08-12 00:00:00",
+			"observer":"Laurane Lisa Fréour, Cecilie Koeertz Wedderkopp, Louise Vandbæk Kroer, Yasmin Jundiyeh",
+			"public":1,
+			"reducer":"Johan Fynbo",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

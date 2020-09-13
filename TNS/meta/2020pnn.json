@@ -1,0 +1,65 @@
+{
+	"dec":"+22:02:13.55",
+	"decdeg":22.037096742857,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF18aavwurv",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-07-15 06:30:12.672",
+	"discoverymag":17.98,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF18aavwurv, ZTF20abmihnc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":63787,
+	"objname":"2020pnn",
+	"public":1,
+	"ra":"18:04:04.747",
+	"radeg":271.0197771,
+	"radeg_err":0.00027777777777778,
+	"redshift":null,
+	"reporter":"ZTF_AMPEL_NEW",
+	"reporterid":49023,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020pnn_2459075.51229689_NOT_ALFOSC.ascii",
+			"end_prop_period":null,
+			"exptime":450,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020pnn_2459075.51229689_NOT_ALFOSC.fits",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459075.5122969,
+			"obsdate":"2020-08-14 00:17:43",
+			"observer":"Victoria Quist, Kristina Sundgaard Jepsen, Mette Vindbæk Madsen, André Endrup Hartwigsen",
+			"public":1,
+			"reducer":"Johan Fynbo",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

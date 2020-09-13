@@ -1,0 +1,73 @@
+{
+	"dec":"+48:25:42.40",
+	"decdeg":48.428444,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Anna Ho (Caltech) for the ZTF collaboration",
+	"discoverer_internal_name":"ZTF19abzfxel",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-09-23 04:09:15.840",
+	"discoverymag":19.28,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF19abzfxel",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objid":65180,
+	"objname":"2019aafe",
+	"public":1,
+	"ra":"23:16:16.484",
+	"radeg":349.068683,
+	"radeg_err":0,
+	"redshift":0.074,
+	"reporter":"Nora Linn Strotjohann",
+	"reporterid":1928,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2019aafe_2019-09-24_10-32-29_Keck1_LRIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2458750.9392245,
+			"obsdate":"2019-09-24 10:32:29",
+			"observer":"I. Andreoni",
+			"public":1,
+			"reducer":"D. Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
+}

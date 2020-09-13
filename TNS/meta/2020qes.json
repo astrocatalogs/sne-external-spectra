@@ -1,0 +1,73 @@
+{
+	"dec":"-28:01:59.30",
+	"decdeg":-28.0331388636,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, C. S. Kochanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20jb",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-07-24 01:12:00.000",
+	"discoverymag":16.7,
+	"end_prop_period":null,
+	"host_redshift":0.026095,
+	"hostname":"WISEA J001326.15-280159.3 ",
+	"internal_names":"ASASSN-20jb, ATLAS20uou",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":64241,
+	"objname":"2020qes",
+	"public":1,
+	"ra":"00:13:26.127",
+	"radeg":3.35886136364,
+	"radeg_err":0,
+	"redshift":0.026,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020qes_2020-07-25_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459055.5,
+			"obsdate":"2020-07-25 00:00:00",
+			"observer":"M. R. Siebert, G. Dimitriadis, R. J. Foley (UCSC)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
+}

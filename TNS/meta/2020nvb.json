@@ -1,0 +1,87 @@
+{
+	"dec":"+03:34:22.01",
+	"decdeg":3.572781,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Koichi Itagaki",
+	"discoverer_internal_name":"",
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-07-01 13:10:34.000",
+	"discoverymag":13,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 4457",
+	"internal_names":", ATLAS20rvf, Gaia20dmy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":62589,
+	"objname":"2020nvb",
+	"public":1,
+	"ra":"12:28:58.780",
+	"radeg":187.244917,
+	"radeg_err":0,
+	"redshift":0.002939,
+	"reporter":"Koichi Itagaki",
+	"reporterid":87,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020nvb_2020-07-01.91_LT_SPRAT.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459032.41,
+			"obsdate":"2020-07-01 21:50:24",
+			"observer":"S. C. Williams (Turku), R. Kotak (Turku), P. A. Mazzali (LJMU) ",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020nvb_2020-07-01_20-40-02_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020nvb_2020-07-01_20-40-02_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459032.3611343,
+			"obsdate":"2020-07-01 20:40:02",
+			"observer":"Flavio Castellani (Osservatorio Monte Baldo A99 Italy)",
+			"public":1,
+			"reducer":"Flavio Castellani (Osservatorio Monte Baldo A99 Italy), Claudio Balcon (Belluno, Italy)",
+			"remarks":"The spectrum has been taken using ALPY 600 spectrograph and Atik 460Ex CCD attached to a SC 10” F10 telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
+}

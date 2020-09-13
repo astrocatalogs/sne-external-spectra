@@ -1,0 +1,73 @@
+{
+	"dec":"-09:13:34.86",
+	"decdeg":-9.22635,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"M. Kennedy, D.Steeghs, D. K. Galloway, V. Dhillon, P. O'Brien, G. Ramsay, D. Pollacco, E. Thrane, S. Poshyachinda, R. Kotak, L. Nuttall, E. Pallé, K. Ulaczyk, J. Lyman, K. Ackley, M. Dyer, T. Heikkilä, on behalf of GOTO collaboration",
+	"discoverer_internal_name":"GOTO20akm",
+	"discovery_data_source":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"discoverydate":"2020-07-16 04:06:16.128",
+	"discoverymag":18.7,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"GOTO20akm, ATLAS20tbh, ZTF20abmcyox, PS20gix, Gaia20dob",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":63753,
+	"objname":"2020pmf",
+	"public":1,
+	"ra":"00:52:37.940",
+	"radeg":13.158083,
+	"radeg_err":0,
+	"redshift":0.074,
+	"reporter":"GOTO_bot",
+	"reporterid":58806,
+	"reporting_group":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/GOTO/tns_2020pmf_2020-07-23_05-03-34.796_LT_SPRAT_GOTO.txt",
+			"assoc_groups":[
+				{
+					"id":59,
+					"name":"GOTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459053.7108102,
+			"obsdate":"2020-07-23 05:03:35",
+			"observer":"LT",
+			"public":1,
+			"reducer":"J. Lyman",
+			"remarks":"",
+			"source_group":{
+				"id":59,
+				"name":"GOTO"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

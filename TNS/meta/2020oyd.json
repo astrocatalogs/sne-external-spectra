@@ -1,0 +1,73 @@
+{
+	"dec":"+09:20:00.31",
+	"decdeg":9.333419,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Ismael Perez-Fournon (IAC and ULL), Saurabh W. Jha, Mi Dai (Rutgers), Frederick Poidevin, Camilo Jimenez Angel, Raphael Shirley (IAC and ULL), Rui Marques Chaves (CAB), Qinan Wang, Sofia Rest (JHU), Armin Rest (STScI), and Steve Rodney (Univ. of South Carolina), on behalf of the SIRAH team",
+	"discoverer_internal_name":"ZTF20abkrwdu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-07-11 08:35:41.000",
+	"discoverymag":19.655,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abkrwdu, ATLAS20ttq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objid":63351,
+	"objname":"2020oyd",
+	"public":1,
+	"ra":"20:04:29.829",
+	"radeg":301.124287,
+	"radeg_err":0,
+	"redshift":0.075,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SIRAH",
+		"groupid":85
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020oyd_2020-07-14_01-17-15_LT_SPRAT_SIRAH.txt",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459044.5536458,
+			"obsdate":"2020-07-14 01:17:15",
+			"observer":"LT robot",
+			"public":1,
+			"reducer":"LT-SPRAT pipeline and Frederick Poidevin",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

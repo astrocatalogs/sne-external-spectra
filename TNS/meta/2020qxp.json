@@ -1,0 +1,65 @@
+{
+	"dec":"+36:37:43.64",
+	"decdeg":36.628789,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20jq",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-08-08 03:07:12.000",
+	"discoverymag":16.8,
+	"end_prop_period":null,
+	"host_redshift":0.003639,
+	"hostname":"NGC 5002",
+	"internal_names":"ASASSN-20jq, Gaia20dqm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":64743,
+	"objname":"2020qxp",
+	"public":1,
+	"ra":"13:10:37.790",
+	"radeg":197.657458,
+	"radeg_err":0,
+	"redshift":null,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020qxp_2459076.4_NOT_ALFOSC.dat",
+			"end_prop_period":null,
+			"exptime":100,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020qxp_2459076.4_NOT_ALFOSC.fits",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459076.4,
+			"obsdate":"2020-08-14 21:36:00",
+			"observer":"Laurane Lisa Fréour Cecilie (NBI), Koertz Wedderkopp (NBI), Louise Vandbæk Kroer (NBI), Yasmin Jundiye (NBI)",
+			"public":1,
+			"reducer":"Johan Fynbo (NBI, DAWN)",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"dec":"+02:17:01.82",
+	"decdeg":2.283839,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Saurabh W. Jha, Mi Dai (Rutgers), Ismael Perez-Fournon, Frederick Poidevin (IAC and ULL), Qinan Wang, Sofia Rest (JHU), and Armin Rest (STScI), on behalf of the SIRAH team",
+	"discoverer_internal_name":"ZTF20abmudrv",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-07-17 11:01:55.000",
+	"discoverymag":20.954,
+	"end_prop_period":null,
+	"host_redshift":0.046035,
+	"hostname":"UGC 768 NOTES01",
+	"internal_names":"ZTF20abmudrv, ATLAS20txv, PS20gid, Gaia20dnz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":63925,
+	"objname":"2020pst",
+	"public":1,
+	"ra":"01:13:12.040",
+	"radeg":18.300167,
+	"radeg_err":0,
+	"redshift":0.046,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SIRAH",
+		"groupid":85
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020pst_2020-07-26_09-22-33_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459056.8906597,
+			"obsdate":"2020-07-26 09:22:33",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"D. Neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020pst_2459049.608125_SALT_RSS_SIRAH.dat",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2133,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020pst_2459049.608125_SALT_RSS_SIRAH.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459049.608125,
+			"obsdate":"2020-07-19 02:35:42",
+			"observer":"M. Mogotsi",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"SNID matches with normal SN Ia before or near maximum. Si II expansion velocity is 14,200 km/s.",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	]
+}

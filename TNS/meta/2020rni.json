@@ -1,0 +1,73 @@
+{
+	"dec":"+03:57:45.11",
+	"decdeg":3.9625295181818,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Saurabh W. Jha, Mi Dai (Rutgers), Ismael Perez-Fournon, Frederick Poidevin (IAC and ULL), Qinan Wang, Sofia Rest (JHU), and Armin Rest (STScI), on behalf of the SIRAH team",
+	"discoverer_internal_name":"ZTF20abstsxb",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-14 09:48:08.000",
+	"discoverymag":20.72,
+	"end_prop_period":null,
+	"host_redshift":0.094,
+	"hostname":"SDSS J235746+035747",
+	"internal_names":"ZTF20abstsxb, ATLAS20xxl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":65286,
+	"objname":"2020rni",
+	"public":1,
+	"ra":"23:57:46.648",
+	"radeg":359.4443681,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.094,
+	"reporter":"Saurabh Jha",
+	"reporterid":174,
+	"reporting_group":{
+		"group_name":"SIRAH",
+		"groupid":85
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020rni_2459078.479600695_SALT_RSS_SIRAH.dat",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2133,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SIRAH/tns_2020rni_2459078.479600695_SALT_RSS_SIRAH.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459078.4796007,
+			"obsdate":"2020-08-16 23:30:37",
+			"observer":"E. Kotze",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"Good SNID matches to SN Ia one week or more before maximum light.",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	]
+}

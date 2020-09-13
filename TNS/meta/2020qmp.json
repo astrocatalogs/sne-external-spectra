@@ -1,0 +1,65 @@
+{
+	"dec":"+36:48:17.28",
+	"decdeg":36.8048,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Bessel",
+		"id":15,
+		"name":"J"
+	},
+	"discoverer":"K. De, M. Hankins on behalf of the Palomar Gattini-IR collaboration",
+	"discoverer_internal_name":"PGIR20eid",
+	"discovery_data_source":{
+		"group_name":"Gattini",
+		"groupid":67
+	},
+	"discoverydate":"2020-07-30 03:50:24.000",
+	"discoverymag":14.738,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PGIR20eid, MASTER OT J120844.47+364817.1, Gaia20dof, ATLAS20viz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":64450,
+	"objname":"2020qmp",
+	"public":1,
+	"ra":"12:08:44.440",
+	"radeg":182.185167,
+	"radeg_err":0,
+	"redshift":0.003,
+	"reporter":"Gattini_Bot",
+	"reporterid":64909,
+	"reporting_group":{
+		"group_name":"Gattini",
+		"groupid":67
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020qmp_2020-07-31.46_Kanata_HOWPol.txt",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":138,
+				"name":"HOWPol"
+			},
+			"jd":2459061.96,
+			"obsdate":"2020-07-31 11:02:24",
+			"observer":"T Nakaoka",
+			"public":1,
+			"reducer":"T Nakaoka",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":90,
+				"name":"Kanata"
+			}
+		}
+	]
+}

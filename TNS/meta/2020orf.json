@@ -1,0 +1,65 @@
+{
+	"dec":"+38:59:42.36",
+	"decdeg":38.9951,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abkacis",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-07-10 05:38:29.184",
+	"discoverymag":20.27,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abkacis, ATLAS20sxb, PS20gja, Gaia20dvh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":63171,
+	"objname":"2020orf",
+	"public":1,
+	"ra":"15:49:43.080",
+	"radeg":237.4295,
+	"radeg_err":0,
+	"redshift":0.06,
+	"reporter":"ZTF_AMPEL_NEW",
+	"reporterid":49023,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020orf_2020-07-17_08-27-49.306_Keck2_DEIMOS.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020orf_2020-07-17_08-27-49.306_Keck2_DEIMOS.fits",
+			"groupid":0,
+			"instrument":{
+				"id":4,
+				"name":"DEIMOS"
+			},
+			"jd":2459047.8526505,
+			"obsdate":"2020-07-17 08:27:49",
+			"observer":"G. Terreran",
+			"public":1,
+			"reducer":"G. Terreran",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":5,
+				"name":"Keck2"
+			}
+		}
+	]
+}
