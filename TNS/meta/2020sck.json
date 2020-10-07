@@ -1,0 +1,73 @@
+{
+	"dec":"+02:06:50.21",
+	"decdeg":2.11394744791,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF20abwrcmq",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-25 10:03:21.600",
+	"discoverymag":19.7,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abwrcmq, PS20gyi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":105,
+		"name":"SN Iax[02cx-like]"
+	},
+	"objid":65683,
+	"objname":"2020sck",
+	"public":1,
+	"ra":"01:10:34.832",
+	"radeg":17.6451329262,
+	"radeg_err":0,
+	"redshift":0.017,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/TCD/tns_2020sck_2020-08-30_03-43-31.576_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459091.6552199,
+			"obsdate":"2020-08-30 03:43:32",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

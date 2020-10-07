@@ -1,0 +1,73 @@
+{
+	"dec":"+28:38:25.22",
+	"decdeg":28.640339,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":22,
+		"name":"r"
+	},
+	"discoverer":"Daniel Perley (LJMU) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abxyjtx",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-01 03:13:06.240",
+	"discoverymag":19.44,
+	"end_prop_period":null,
+	"host_redshift":0.03324,
+	"hostname":"NGC 6001",
+	"internal_names":"ZTF20abxyjtx, ATLAS20yul, Gaia20elb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":65838,
+	"objname":"2020sic",
+	"public":1,
+	"ra":"15:47:45.110",
+	"radeg":236.937958,
+	"radeg_err":0,
+	"redshift":0.03324,
+	"reporter":"Daniel Perley",
+	"reporterid":235,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020sic_2020-09-02_NOT_ALFOSC_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459094.5,
+			"obsdate":"2020-09-02 00:00:00",
+			"observer":"S. Schulze",
+			"public":1,
+			"reducer":"S. Schulze",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

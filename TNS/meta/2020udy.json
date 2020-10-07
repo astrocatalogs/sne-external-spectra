@@ -1,0 +1,77 @@
+{
+	"dec":"+44:35:15.27",
+	"decdeg":44.5875744,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"Jakob Nordin (Humboldt Uniersität zu Berlin), Daniel Perley (Liverpool John Moores University)",
+	"discoverer_internal_name":"ZTF20acdqjeq",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-24 08:23:42.720",
+	"discoverymag":19.63,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acdqjeq, ATLAS20bbyi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":105,
+		"name":"SN Iax[02cx-like]"
+	},
+	"objid":67097,
+	"objname":"2020udy",
+	"public":1,
+	"ra":"02:06:49.342",
+	"radeg":31.705593244444,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.017222,
+	"reporter":"Jakob Nordin",
+	"reporterid":664,
+	"reporting_group":{
+		"group_name":"AMPEL",
+		"groupid":82
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020udy_2459117.9148101_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":82,
+					"name":"AMPEL"
+				},
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459117.9148101,
+			"obsdate":"2020-09-25 09:57:20",
+			"observer":"J Nordin",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

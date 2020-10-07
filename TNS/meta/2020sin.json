@@ -1,0 +1,65 @@
+{
+	"dec":"+16:52:50.61",
+	"decdeg":16.8807236216,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, L. Hernandez-Garcia, A. Munoz-Arancibia, F.E. Bauer, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20abxpzxg",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-26 11:25:34.997",
+	"discoverymag":20.9838,
+	"end_prop_period":null,
+	"host_redshift":0.094,
+	"hostname":"SDSS J011737.31+165254.3",
+	"internal_names":"ZTF20abxpzxg, PS20hgs, ATLAS20zxv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":65849,
+	"objname":"2020sin",
+	"public":1,
+	"ra":"01:17:37.417",
+	"radeg":19.4059032298,
+	"radeg_err":0,
+	"redshift":0.077,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020sin_2020-09-18_MMT_BINOSPEC.ascii",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020sin_2020-09-18_MMT_BINOSPEC.fits",
+			"groupid":0,
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2459110.5,
+			"obsdate":"2020-09-18 00:00:00",
+			"observer":"queue",
+			"public":1,
+			"reducer":"Terreran",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

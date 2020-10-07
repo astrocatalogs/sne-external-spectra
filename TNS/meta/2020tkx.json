@@ -1,0 +1,65 @@
+{
+	"dec":"+34:06:59.54",
+	"decdeg":34.116539,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":"S.T. Hodgkin, E. Breedt, A. Delgado, D.L. Harrison, M. van Leeuwen, G. Rixon, T. Wevers, A. Yoldas (IoA Cambridge), N. Ihanec, K. Kruszyńska, K.A. Rybicki, Ł. Wyrzykowski (Warsaw University Astronomical Observatory), Z. Kostrzewa-Rutkowska (Leiden Observatory), D. Eappachen (SRON/RU), G. Marton (Konkoly Observatory), on behalf of the Gaia Alerts team",
+	"discoverer_internal_name":"Gaia20ehu",
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"discoverydate":"2020-09-14 11:48:28.800",
+	"discoverymag":18.47,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"Gaia20ehu, ATLAS20bbhr, ZTF20abzoeiw, PS20hta",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":7,
+		"name":"SN Ic-BL"
+	},
+	"objid":66594,
+	"objname":"2020tkx",
+	"public":1,
+	"ra":"18:40:09.000",
+	"radeg":280.0375,
+	"radeg_err":0,
+	"redshift":null,
+	"reporter":"Gaia_Bot1",
+	"reporterid":35587,
+	"reporting_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020tkx_2020-09-18_20-12-07.924_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459111.3417477,
+			"obsdate":"2020-09-18 20:12:08",
+			"observer":"Robotic",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"dec":"+12:47:59.73",
+	"decdeg":12.7999256575,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, L. Hernandez-Garcia, A. Munoz-Arancibia, F.E. Bauer, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20abxzrqw",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-01 09:29:56.999",
+	"discoverymag":19.7076,
+	"end_prop_period":null,
+	"host_redshift":0.052,
+	"hostname":"SDSS J013505.58+124757.7",
+	"internal_names":"ZTF20abxzrqw, ATLAS20zgt, PS20hrf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":65902,
+	"objname":"2020sko",
+	"public":1,
+	"ra":"01:35:05.869",
+	"radeg":23.7744554106,
+	"radeg_err":0,
+	"redshift":0.0467,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020sko_2020-09-16_07-49-08_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459108.825787,
+			"obsdate":"2020-09-16 07:49:08",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020sko_2020-09-16_03-28-24_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020sko_2020-09-16_03-28-24_APO-3.5m_DIS_ZTF.fits",
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2459108.6447222,
+			"obsdate":"2020-09-16 03:28:24",
+			"observer":"M. L. Graham",
+			"public":1,
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	]
+}

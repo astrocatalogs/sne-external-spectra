@@ -1,0 +1,73 @@
+{
+	"dec":"+15:57:14.55",
+	"decdeg":15.9540408311,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":112,
+		"name":"i"
+	},
+	"discoverer":"Anna Ho",
+	"discoverer_internal_name":"",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-06 06:02:44.160",
+	"discoverymag":17.94,
+	"end_prop_period":null,
+	"host_redshift":0.01335,
+	"hostname":"NGC 7722",
+	"internal_names":", ZTF20abyptpc, PS20heu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":66103,
+	"objname":"2020ssf",
+	"public":1,
+	"ra":"23:38:40.872",
+	"radeg":354.670298282,
+	"radeg_err":0,
+	"redshift":0.01335,
+	"reporter":"Anna Ho",
+	"reporterid":949,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020ssf_2020-09-09_12-48-01_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020ssf_2020-09-09_12-48-01_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459102.0333449,
+			"obsdate":"2020-09-09 12:48:01",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
+}

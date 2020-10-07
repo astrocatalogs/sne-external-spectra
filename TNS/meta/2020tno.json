@@ -1,0 +1,73 @@
+{
+	"dec":"+14:54:14.07",
+	"decdeg":14.90390795,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"Simeon Reusch (DESY) for the Zwicky Transient Facility (ZTF) Collaboration",
+	"discoverer_internal_name":"ZTF20acaapwk",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-17 11:23:33.216",
+	"discoverymag":19.24,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acaapwk, ATLAS20bbyr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":66664,
+	"objname":"2020tno",
+	"public":1,
+	"ra":"07:15:59.261",
+	"radeg":108.9969191,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.074,
+	"reporter":"ZTF_AMPEL_NEW",
+	"reporterid":49023,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020tno_2459113.6984407_NOT_ALFOSC_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459113.6984407,
+			"obsdate":"2020-09-21 04:45:45",
+			"observer":"Steve Schulze (WIS)",
+			"public":1,
+			"reducer":"Steve Schulze (WIS)",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

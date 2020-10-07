@@ -1,0 +1,65 @@
+{
+	"dec":"+40:51:00.77",
+	"decdeg":40.850213671875,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abpzatb",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-07 11:52:11.712",
+	"discoverymag":19.89,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abpzatb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":6,
+		"name":"SN Ib/c"
+	},
+	"objid":65225,
+	"objname":"2020rkz",
+	"public":1,
+	"ra":"02:45:17.211",
+	"radeg":41.321713815625,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.1,
+	"reporter":"ZTF_AMPEL_COMPLETE",
+	"reporterid":59228,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020rkz_2020-08-30_HET_HET-LRS.dat",
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":43,
+				"name":"HET-LRS"
+			},
+			"jd":2459091.5,
+			"obsdate":"2020-08-30 00:00:00",
+			"observer":"S. Janowiecki",
+			"public":1,
+			"reducer":"B. Thomas, G. Zeimann",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":7,
+				"name":"HET"
+			}
+		}
+	]
+}

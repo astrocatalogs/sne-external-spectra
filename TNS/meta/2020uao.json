@@ -1,0 +1,73 @@
+{
+	"dec":"+27:02:42.08",
+	"decdeg":27.045022,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":" C. Jimenez Angel, I. Perez-Fournon, F. Poidevin (IAC & ULL), R. Shirley (Univ. of Southampton), R. Marques-Chaves (CAB), S. Geier (GRANTECAN & IAC), Y. Shu (IoA), S. Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's  NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF20accrldu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-22 07:46:37.000",
+	"discoverymag":19.682,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"2MFGC 00836",
+	"internal_names":"ZTF20accrldu, ATLAS20bbpz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":67009,
+	"objname":"2020uao",
+	"public":1,
+	"ra":"01:08:47.612",
+	"radeg":17.198383,
+	"radeg_err":0,
+	"redshift":0.038,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2020uao_2020-09-25_04-40-35_VLT-UT1_FORS2_adH0cc.asci",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2020uao_2020-09-25_04-40-35_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2459117.6948495,
+			"obsdate":"2020-09-25 04:40:35",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"Quick-reduction spectrum, telluric correction applied.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	]
+}

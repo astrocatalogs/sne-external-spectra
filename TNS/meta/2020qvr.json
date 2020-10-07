@@ -1,0 +1,73 @@
+{
+	"dec":"-26:25:22.53",
+	"decdeg":-26.4229251061,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"K. De (Caltech) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abpuxcc",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-07-31 10:26:43.008",
+	"discoverymag":19.2016,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abpuxcc, ATLAS20vno, PS20gvn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objid":64692,
+	"objname":"2020qvr",
+	"public":1,
+	"ra":"23:25:33.384",
+	"radeg":351.389098897,
+	"radeg_err":0,
+	"redshift":0.028,
+	"reporter":"ZTF_CLU_PUBLIC",
+	"reporterid":71270,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020qvr_2020-09-23_18-37-53_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2459116.2763079,
+			"obsdate":"2020-09-23 18:37:53",
+			"observer":"A. Dahiwale",
+			"public":1,
+			"reducer":"A. Tzanidakis",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	]
+}

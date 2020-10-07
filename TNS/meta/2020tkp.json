@@ -1,0 +1,65 @@
+{
+	"dec":"+22:46:12.45",
+	"decdeg":22.7701245689,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"K. De (Caltech) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abzbfct",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-14 08:07:09.120",
+	"discoverymag":19.96,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abzbfct, PS20hoa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":66586,
+	"objname":"2020tkp",
+	"public":1,
+	"ra":"23:58:10.572",
+	"radeg":359.544048488,
+	"radeg_err":0,
+	"redshift":0.035,
+	"reporter":"ZTF_CLU_PUBLIC",
+	"reporterid":71270,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020tkp_2020-09-21_11-25-28_FTN_FLOYDS-N.ascii",
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459113.9760185,
+			"obsdate":"2020-09-21 11:25:28",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Craig Pellegrino",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
+}

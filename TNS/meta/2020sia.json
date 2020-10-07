@@ -1,0 +1,73 @@
+{
+	"dec":"+28:49:21.61",
+	"decdeg":28.8226690668,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20abxidyb",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-29 11:44:57.984",
+	"discoverymag":20.09,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abxidyb, PS20hex, ATLAS20zhl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":65836,
+	"objname":"2020sia",
+	"public":1,
+	"ra":"00:20:40.583",
+	"radeg":5.1690963928,
+	"radeg_err":0,
+	"redshift":0.099,
+	"reporter":"ZTF_AMPEL_COMPLETE",
+	"reporterid":59228,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020sia_2020-09-17_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459109.5,
+			"obsdate":"2020-09-17 00:00:00",
+			"observer":"M. R. Siebert, K. Taggart , S. Tinyanont, G. Dimitriadis, R. J. Foley",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
+}

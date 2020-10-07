@@ -1,0 +1,73 @@
+{
+	"dec":"-13:21:29.90",
+	"decdeg":-13.358306,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"S. Taubenberger, S. H. Suyu, S. Schuldt, R. Cañameras, J. Bayer, S. Huber, U. Nöbauer, C. Vogl, A. Yıldırım (MPA/TUM Garching), D. Sluse (STAR Institute Liège), J. H. H. Chan, F. Courbin (EPFL Lausanne), M. Kromer (HITS Heidelberg), S. Sim (QUB Belfast)",
+	"discoverer_internal_name":"ZTF20abvxhvg",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-08-12 09:02:10.000",
+	"discoverymag":20.022,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J233844.99-132131.8",
+	"internal_names":"ZTF20abvxhvg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":65877,
+	"objname":"2020sjp",
+	"public":1,
+	"ra":"23:38:45.026",
+	"radeg":354.687608,
+	"radeg_err":0,
+	"redshift":0.206,
+	"reporter":"Stefan Taubenberger",
+	"reporterid":266,
+	"reporting_group":{
+		"group_name":"HOLISMOKES",
+		"groupid":97
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/HOLISMOKES/tns_2020sjp_2020-08-27_11-09-07_Gemini-N_GMOS_HOLISMOKES.dat",
+			"assoc_groups":[
+				{
+					"id":97,
+					"name":"HOLISMOKES"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":6,
+				"name":"GMOS"
+			},
+			"jd":2459088.9646644,
+			"obsdate":"2020-08-27 11:09:07",
+			"observer":"service",
+			"public":1,
+			"reducer":"S. Taubenberger",
+			"remarks":"Quick-reduction spectrum with approximate flux calibration.",
+			"source_group":{
+				"id":97,
+				"name":"HOLISMOKES"
+			},
+			"telescope":{
+				"id":15,
+				"name":"Gemini-N"
+			}
+		}
+	]
+}

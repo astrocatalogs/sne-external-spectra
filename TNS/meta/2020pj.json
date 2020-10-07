@@ -1,0 +1,73 @@
+{
+	"dec":"+33:05:41.47",
+	"decdeg":33.09485168,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20aabqihu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-01-02 12:13:43.000",
+	"discoverymag":19.71,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20aabqihu, ATLAS20cab",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":120,
+		"name":"TDE"
+	},
+	"objid":51955,
+	"objname":"2020pj",
+	"public":1,
+	"ra":"15:31:34.960",
+	"radeg":232.89566778,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.068,
+	"reporter":"ZTF_AMPEL_COMPLETE",
+	"reporterid":59228,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020pj_2020-02-26_11-31-41_DCT_Deveny-LMI_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":143,
+				"name":"Deveny-LMI"
+			},
+			"jd":2458905.9803356,
+			"obsdate":"2020-02-26 11:31:41",
+			"observer":"Charlotte Ward",
+			"public":1,
+			"reducer":"Charlotte Ward",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":93,
+				"name":"DCT"
+			}
+		}
+	]
+}

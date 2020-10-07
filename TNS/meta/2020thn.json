@@ -1,0 +1,73 @@
+{
+	"dec":"+45:05:29.87",
+	"decdeg":45.091630433333,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"Saurabh W. Jha, Mi Dai (Rutgers), Ismael Perez-Fournon, Frederick Poidevin (IAC and ULL), Qinan Wang, Sofia Rest (JHU), and Armin Rest (STScI), on behalf of the SIRAH team",
+	"discoverer_internal_name":"ZTF20abzjvse",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-14 07:38:16.000",
+	"discoverymag":20.138,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abzjvse, ATLAS20bbqc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":66506,
+	"objname":"2020thn",
+	"public":1,
+	"ra":"00:06:56.117",
+	"radeg":1.7338209333333,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.08,
+	"reporter":"Saurabh Jha",
+	"reporterid":174,
+	"reporting_group":{
+		"group_name":"SIRAH",
+		"groupid":85
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020thn_2020-09-24_04-42-58_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459116.6965046,
+			"obsdate":"2020-09-24 04:42:58",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}
