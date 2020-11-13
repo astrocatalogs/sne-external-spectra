@@ -1,0 +1,73 @@
+{
+	"dec":"-03:59:55.84",
+	"decdeg":-3.9988447,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF20aaqepvb",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-02-21 12:24:28.800",
+	"discoverymag":19.11,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20aaqepvb, ATLAS20lmk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":55332,
+	"objname":"2020edr",
+	"public":1,
+	"ra":"18:00:15.049",
+	"radeg":270.0627042,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.015,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020edr_2020-07-16_23-14-57_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2459047.4687153,
+			"obsdate":"2020-07-16 23:14:57",
+			"observer":"A. Dahiwale, Y. Sharma, ",
+			"public":1,
+			"reducer":"V. Karambelkar",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	]
+}

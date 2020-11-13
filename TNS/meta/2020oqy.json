@@ -1,0 +1,73 @@
+{
+	"dec":"+69:55:08.52",
+	"decdeg":69.919033,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":" I. Perez-Fournon, C. Jimenez Angel, F. Poidevin, R. Shirley (IAC & ULL), R. Marques-Chaves (CAB), S. Geier (GRANTECAN & IAC), Y. Shu (IoA), S. Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF20abgjbpj",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-06-16 08:51:39.000",
+	"discoverymag":20.936,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abgjbpj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":63163,
+	"objname":"2020oqy",
+	"public":1,
+	"ra":"20:37:45.829",
+	"radeg":309.440954,
+	"radeg_err":0,
+	"redshift":0.135,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/FLEET/tns_2020oqy_2020-08-19_MMT_BINOSPEC_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2459080.5,
+			"obsdate":"2020-08-19 00:00:00",
+			"observer":"Binospec Queue Service Observer",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

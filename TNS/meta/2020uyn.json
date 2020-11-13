@@ -1,0 +1,73 @@
+{
+	"dec":"+47:40:02.32",
+	"decdeg":47.667311,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":18,
+		"name":"L"
+	},
+	"discoverer":"Xiaofeng Wang(THU), Gaobo Xi (THU), Jun Mo(THU), Jicheng Zhang (BNU), Wenxiong Li (THU), and Lei Hu(PMO) on behalf of TMTS collaborations",
+	"discoverer_internal_name":"TMTS-2020B",
+	"discovery_data_source":{
+		"group_name":"TMTS",
+		"groupid":69
+	},
+	"discoverydate":"2020-10-05 11:28:17.300",
+	"discoverymag":16.85,
+	"end_prop_period":null,
+	"host_redshift":0.047,
+	"hostname":"WISEA J191025.19+474001.0",
+	"internal_names":"TMTS-2020B, ATLAS20bcms, Gaia20exx, PS20kug",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":67636,
+	"objname":"2020uyn",
+	"public":1,
+	"ra":"19:10:25.440",
+	"radeg":287.606,
+	"radeg_err":0,
+	"redshift":0.047,
+	"reporter":"Xiaofeng Wang",
+	"reporterid":173,
+	"reporting_group":{
+		"group_name":"TMTS",
+		"groupid":69
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020uyn_2459131.7545_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459131.7545,
+			"obsdate":"2020-10-09 06:06:29",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline, only blue channel available",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

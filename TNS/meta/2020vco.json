@@ -1,0 +1,73 @@
+{
+	"dec":"-19:49:48.35",
+	"decdeg":-19.8300982817,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"R. Shirley (Univ. of Southampton), I. Perez-Fournon, C. Jimenez Angel, F. Poidevin (IAC & ULL), R. Marques-Chaves (Univ. of Geneva), S. Geier (GRANTECAN & IAC), Y. Shu (MPA), S.  Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF20acgzjje",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-10-06 05:34:07.000",
+	"discoverymag":19.607,
+	"end_prop_period":null,
+	"host_redshift":0.05751,
+	"hostname":"6dF J2157262-194945",
+	"internal_names":"ZTF20acgzjje, PS20ikx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":67741,
+	"objname":"2020vco",
+	"public":1,
+	"ra":"21:57:26.051",
+	"radeg":329.358547616,
+	"radeg_err":0,
+	"redshift":0.07,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020vco_2020-10-13_04-24-42_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2250,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459135.6838194,
+			"obsdate":"2020-10-13 04:24:42",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

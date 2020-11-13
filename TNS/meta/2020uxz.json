@@ -1,0 +1,95 @@
+{
+	"dec":"+12:55:17.39",
+	"decdeg":12.9214964667,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Koichi Itagaki",
+	"discoverer_internal_name":"",
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-10-05 13:45:30.000",
+	"discoverymag":16.5,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 514",
+	"internal_names":", ATLAS20bcma, ZTF20achlced, PS20idl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":67622,
+	"objname":"2020uxz",
+	"public":1,
+	"ra":"01:24:06.899",
+	"radeg":21.0287466647,
+	"radeg_err":0,
+	"redshift":0.008246,
+	"reporter":"Koichi Itagaki",
+	"reporterid":87,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.txt",
+			"end_prop_period":null,
+			"exptime":3000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.fits",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459141.4791667,
+			"obsdate":"2020-10-18 23:30:00",
+			"observer":"Frederic Pastor",
+			"public":1,
+			"reducer":"Frederic Pastor",
+			"remarks":"confirmed by GELATO of a SN Ia",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020uxz_2020-10-05_16-44-03_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020uxz_2020-10-05_16-44-03_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2459128.1972569,
+			"obsdate":"2020-10-05 16:44:03",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	]
+}

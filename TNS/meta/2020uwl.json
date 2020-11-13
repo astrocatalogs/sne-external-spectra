@@ -1,0 +1,73 @@
+{
+	"dec":"-15:24:45.34",
+	"decdeg":-15.4125948888,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, A. Munoz-Arancibia, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acgnenc",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-10-04 08:37:16.003",
+	"discoverymag":18.4308,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J012926.55-152443.1",
+	"internal_names":"ZTF20acgnenc, ATLAS20bcll, PS20icz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":67582,
+	"objname":"2020uwl",
+	"public":1,
+	"ra":"01:29:26.608",
+	"radeg":22.3608686326,
+	"radeg_err":0,
+	"redshift":0.093,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/YSE/tns_2020uwl_2020-10-08_NOT_ALFOSC_YSE.txt",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459130.5,
+			"obsdate":"2020-10-08 00:00:00",
+			"observer":"C Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

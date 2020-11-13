@@ -1,0 +1,65 @@
+{
+	"dec":"-16:51:23.24",
+	"decdeg":-16.8564550071,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20achuvhd",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-10-08 10:32:05.004",
+	"discoverymag":19.4931,
+	"end_prop_period":null,
+	"host_redshift":0.067744,
+	"hostname":"WISEA J052145.99-165115.5",
+	"internal_names":"ZTF20achuvhd, PS20ixg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objid":67786,
+	"objname":"2020veg",
+	"public":1,
+	"ra":"05:21:46.340",
+	"radeg":80.4430838811,
+	"radeg_err":0,
+	"redshift":0.076,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020veg_2020-10-13_04-32-15_TNG_DOLORES.dat",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020veg_2020-10-13_04-32-15_TNG_DOLORES.fits",
+			"groupid":0,
+			"instrument":{
+				"id":15,
+				"name":"DOLORES"
+			},
+			"jd":2459135.6890625,
+			"obsdate":"2020-10-13 04:32:15",
+			"observer":"Shane Moran",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":14,
+				"name":"TNG"
+			}
+		}
+	]
+}

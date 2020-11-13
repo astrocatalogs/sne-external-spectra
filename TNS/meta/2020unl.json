@@ -1,0 +1,65 @@
+{
+	"dec":"+55:42:39.91",
+	"decdeg":55.7110869856,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, A. Munoz-Arancibia, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acgbkji",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-30 08:51:24.002",
+	"discoverymag":19.1961,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J063547.85+554238.1",
+	"internal_names":"ZTF20acgbkji, ATLAS20bcks, PS20kly",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":67348,
+	"objname":"2020unl",
+	"public":1,
+	"ra":"06:35:48.093",
+	"radeg":98.950389268,
+	"radeg_err":0,
+	"redshift":0.04,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020unl_2020-10-13_03-10-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020unl_2020-10-13_03-10-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459135.6319444,
+			"obsdate":"2020-10-13 03:10:00",
+			"observer":"Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
+}

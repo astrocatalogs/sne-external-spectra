@@ -1,0 +1,73 @@
+{
+	"dec":"-62:21:28.95",
+	"decdeg":-62.358042,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"S. Valenti, D.J.Sand, S. Wyatt, M. Lundquist, R. Amaro, J. Andrews, J. Jencson, Y. Dong",
+	"discoverer_internal_name":"DLT20q",
+	"discovery_data_source":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"discoverydate":"2020-10-22 16:41:01.824",
+	"discoverymag":16.5191,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"IC2200",
+	"internal_names":"DLT20q",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":69692,
+	"objname":"2020xyw",
+	"public":1,
+	"ra":"07:28:07.980",
+	"radeg":112.03325,
+	"radeg_err":0,
+	"redshift":0.010814,
+	"reporter":"DLT40_bot1",
+	"reporterid":37975,
+	"reporting_group":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020xyw_2020-10-22_17-08-11_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020xyw_2020-10-22_17-08-11_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2459145.2140162,
+			"obsdate":"2020-10-22 17:08:11",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	]
+}
