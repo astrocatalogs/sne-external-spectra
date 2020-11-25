@@ -1,6 +1,6 @@
 {
-	"dec":"+15:39:33.43",
-	"decdeg":15.6592851946,
+	"dec":"+15:39:33.37",
+	"decdeg":15.659269,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20zne, PS20hjn, ZTF20abyyfmw",
+	"internal_names":"ATLAS20zne, PS20hjn, ZTF20abyyfmw, Gaia20fad",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -28,7 +28,7 @@
 	"objname":"2020szr",
 	"public":1,
 	"ra":"23:09:33.100",
-	"radeg":347.387918501,
+	"radeg":347.387917,
 	"radeg_err":0,
 	"redshift":0.02581,
 	"reporter":"ATLAS_Bot1",
@@ -39,6 +39,28 @@
 	},
 	"source":"bot",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020szr_2020-09-17_22-40-09.544_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459110.4445486,
+			"obsdate":"2020-09-17 22:40:10",
+			"observer":"Robotic",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020szr_2020-09-15_05-25-14_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[

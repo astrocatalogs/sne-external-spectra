@@ -1,0 +1,73 @@
+{
+	"dec":"-21:33:27.94",
+	"decdeg":-21.5577611111,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, D. O'Neill, P. Clark, M. Fulton, J. Gillanders, M. Dobson (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO), A. Townsend (University of Manchester)",
+	"discoverer_internal_name":"ATLAS20bcmf",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-10-05 12:43:12.000",
+	"discoverymag":18.287,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS20bcmf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":100,
+		"name":"SN Ia-pec"
+	},
+	"objid":67630,
+	"objname":"2020uyh",
+	"public":1,
+	"ra":"06:07:19.418",
+	"radeg":91.8309077778,
+	"radeg_err":0,
+	"redshift":0.051,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020uyh_2459159.0816_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459159.0816,
+			"obsdate":"2020-11-05 13:57:30",
+			"observer":"Thomas de Jaeger/Michael Tucker ",
+			"public":1,
+			"reducer":"Thomas de Jaeger/Michael Tucker ",
+			"remarks":"Reduced with the summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

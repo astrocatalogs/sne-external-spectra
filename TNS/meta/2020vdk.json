@@ -1,0 +1,73 @@
+{
+	"dec":"-14:41:23.48",
+	"decdeg":-14.6898557306,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"R. Shirley (Univ. of Southampton), I. Perez-Fournon, C. Jimenez Angel, F. Poidevin (IAC & ULL), R. Marques-Chaves (Univ. of Geneva), S. Geier (GRANTECAN & IAC), Y. Shu (MPA), S.  Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF20achaxsk",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-10-06 07:13:11.000",
+	"discoverymag":19.387,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20achaxsk, ATLAS20bcul, PS20idq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":1,
+		"name":"SN"
+	},
+	"objid":67763,
+	"objname":"2020vdk",
+	"public":1,
+	"ra":"00:54:18.670",
+	"radeg":13.5777904047,
+	"radeg_err":0,
+	"redshift":0.074,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020vdk_2020-10-14_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459136.5,
+			"obsdate":"2020-10-14 00:00:00",
+			"observer":"M. R. Siebert, S. Tinyanont, K. Taggart",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
+}

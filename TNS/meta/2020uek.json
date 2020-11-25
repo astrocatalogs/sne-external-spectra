@@ -19,10 +19,10 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_names":"ATLAS20bbsx",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":67109,
 	"objname":"2020uek",
@@ -30,7 +30,7 @@
 	"ra":"00:53:54.913",
 	"radeg":13.4788046341,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.031942,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020uek_2020-10-11_10-29-27_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1520,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459133.9371181,
+			"obsdate":"2020-10-11 10:29:27",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline, only blue channel available.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
 }

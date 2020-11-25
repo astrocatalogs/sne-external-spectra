@@ -1,0 +1,73 @@
+{
+	"dec":"+38:37:50.43",
+	"decdeg":38.6306738462,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS20bevx",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-11-03 09:17:16.800",
+	"discoverymag":18.931,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS20bevx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objid":70307,
+	"objname":"2020yvv",
+	"public":1,
+	"ra":"23:59:13.568",
+	"radeg":359.806534615,
+	"radeg_err":0,
+	"redshift":0.032,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020yvv_2020-11-08_21-26-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020yvv_2020-11-08_21-26-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2459162.3930556,
+			"obsdate":"2020-11-08 21:26:00",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	]
+}

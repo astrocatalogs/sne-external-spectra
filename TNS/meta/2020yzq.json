@@ -1,0 +1,65 @@
+{
+	"dec":"+23:28:32.00",
+	"decdeg":23.475555866667,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Yang Shen, Fei Du, Yirui Fu, Xinyu Jiang, Yi Ding, Wei Gao, Lun Kun, Mi Zhang and Xing Gao",
+	"discoverer_internal_name":"PSP20B",
+	"discovery_data_source":{
+		"group_name":"XOSS",
+		"groupid":10
+	},
+	"discoverydate":"2020-11-07 12:33:15.000",
+	"discoverymag":16.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 6628",
+	"internal_names":"PSP20B, ATLAS20bfhg, ZTF20acpjbgc",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":70422,
+	"objname":"2020yzq",
+	"public":1,
+	"ra":"18:22:23.370",
+	"radeg":275.5973766,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.01482,
+	"reporter":"Mi Zhang",
+	"reporterid":662,
+	"reporting_group":{
+		"group_name":"XOSS",
+		"groupid":10
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020yzq_2459159.3008_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2459159.3008,
+			"obsdate":"2020-11-05 19:13:09",
+			"observer":"Jujia Zhang (YNAO)",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		}
+	]
+}

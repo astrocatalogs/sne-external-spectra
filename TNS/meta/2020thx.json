@@ -1,6 +1,6 @@
 {
-	"dec":"-14:47:38.32",
-	"decdeg":-14.7939766676,
+	"dec":"-14:47:38.25",
+	"decdeg":-14.7939585793,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"Sloan",
@@ -21,14 +21,14 @@
 	"internal_names":"PS20hlj",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":1,
-		"name":"SN"
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":66516,
 	"objname":"2020thx",
 	"public":1,
-	"ra":"01:29:08.372",
-	"radeg":22.2848821696,
+	"ra":"01:29:08.374",
+	"radeg":22.2848935872,
 	"radeg_err":0,
 	"redshift":0.084,
 	"reporter":"YSE_Bot1",
@@ -39,6 +39,36 @@
 	},
 	"source":"bot",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020thx_2020-10-14_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459136.5,
+			"obsdate":"2020-10-14 00:00:00",
+			"observer":"M. R. Siebert, S. Tinyanont, K. Taggart",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020thx_2020-09-17_Keck1_LRIS_UCSC.flm",
 			"assoc_groups":[

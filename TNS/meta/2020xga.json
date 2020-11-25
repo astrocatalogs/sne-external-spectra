@@ -1,0 +1,73 @@
+{
+	"dec":"-11:14:33.90",
+	"decdeg":-11.2427497073,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS20jxm",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-10-14 12:24:28.800",
+	"discoverymag":19.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS20jxm, ZTF20acilzkh, ATLAS20beys",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objid":69199,
+	"objname":"2020xga",
+	"public":1,
+	"ra":"03:46:39.365",
+	"radeg":56.6640226482,
+	"radeg_err":0,
+	"redshift":0.44,
+	"reporter":"PS1_Bot1",
+	"reporterid":35588,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020xga_2020-11-06_02-54-17_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1499,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020xga_2020-11-06_02-54-17_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459159.6210301,
+			"obsdate":"2020-11-06 02:54:17",
+			"observer":"M. Gromadzki, N. Ihanec",
+			"public":1,
+			"reducer":"S. Moran",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

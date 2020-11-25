@@ -1,6 +1,6 @@
 {
-	"dec":"+52:44:42.38",
-	"decdeg":52.7451066667,
+	"dec":"+52:44:42.28",
+	"decdeg":52.7450772975,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20yzq",
-	"name_prefix":"AT",
+	"internal_names":"ATLAS20yzq, PS20izu",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":66001,
 	"objname":"2020soi",
 	"public":1,
-	"ra":"18:27:24.470",
-	"radeg":276.851958333,
+	"ra":"18:27:24.461",
+	"radeg":276.851919001,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.032,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020soi_2459123.7579_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3000,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459123.7579,
+			"obsdate":"2020-10-01 06:11:23",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
 }

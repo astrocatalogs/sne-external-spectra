@@ -1,0 +1,73 @@
+{
+	"dec":"-44:39:25.93",
+	"decdeg":-44.657203,
+	"decdeg_err":2.2222222222222e-05,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"S. Valenti, D.J.Sand, S. Wyatt, M. Lundquist, R. Amaro, J. Andrews, J. Jencson, Y. Dong",
+	"discoverer_internal_name":"DLT20u",
+	"discovery_data_source":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"discoverydate":"2020-11-10 04:07:48.576",
+	"discoverymag":18.83,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC1448",
+	"internal_names":"DLT20u",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":11,
+		"name":"SN IIP"
+	},
+	"objid":70479,
+	"objname":"2020zbv",
+	"public":1,
+	"ra":"03:44:28.620",
+	"radeg":56.11925,
+	"radeg_err":6.9444444444444e-05,
+	"redshift":0.0039,
+	"reporter":"DLT40_bot1",
+	"reporterid":37975,
+	"reporting_group":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DLT40/tns_2020zbv_2020-11-10_Gemini-S_GMOS-S_DLT40.dat",
+			"assoc_groups":[
+				{
+					"id":30,
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":675,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/DLT40/tns_2020zbv_2020-11-10_Gemini-S_GMOS-S_DLT40.fits",
+			"instrument":{
+				"id":9,
+				"name":"GMOS-S"
+			},
+			"jd":2459163.5,
+			"obsdate":"2020-11-10 00:00:00",
+			"observer":"Prado",
+			"public":1,
+			"reducer":"Lundquist, Amaro, Andrews",
+			"remarks":"Quick look classification from Gemini GMOS spectrum.",
+			"source_group":{
+				"id":30,
+				"name":"DLT40"
+			},
+			"telescope":{
+				"id":16,
+				"name":"Gemini-S"
+			}
+		}
+	]
+}

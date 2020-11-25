@@ -1,0 +1,73 @@
+{
+	"dec":"+19:16:22.61",
+	"decdeg":19.272947,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"J. Villafañe-Calvo (ULL), M. R. Alarcón (ULL & IAC), J. Barrios-Pérez (ULL & IAC), C. Cuervo-Rodríguez (ULL), E. Esparza-Borges (ULL), J. González-Otero (ULL), A. Laza-Ramos (ULL), G. Muñoz-Sánchez (ULL), M. Puig-Subirà (ULL), and I. Pérez-Fournon (ULL & IAC) ",
+	"discoverer_internal_name":"ZTF20acitojm",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-10-13 10:36:34.000",
+	"discoverymag":19.874,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acitojm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":69884,
+	"objname":"2020yfu",
+	"public":1,
+	"ra":"06:41:19.780",
+	"radeg":100.332417,
+	"radeg_err":0,
+	"redshift":0.05,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"ULL-ASTRO-MASTER",
+		"groupid":76
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020yfu_2020-10-29_06-58-34_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020yfu_2020-10-29_06-58-34_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459151.7906713,
+			"obsdate":"2020-10-29 06:58:34",
+			"observer":"N. Ihanec, M. Gromadzki",
+			"public":1,
+			"reducer":"T. Wevers",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

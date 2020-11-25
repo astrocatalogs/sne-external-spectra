@@ -1,6 +1,6 @@
 {
-	"dec":"+00:27:54.41",
-	"decdeg":0.465114009686,
+	"dec":"+00:27:54.32",
+	"decdeg":0.465087910025,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -19,18 +19,18 @@
 	"host_redshift":0.056976,
 	"hostname":"WISEA J221502.17+002754.5",
 	"internal_names":"ZTF20acbcfhk, PS20hug",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":66987,
 	"objname":"2020tzs",
 	"public":1,
-	"ra":"22:15:02.234",
-	"radeg":333.759306437,
+	"ra":"22:15:02.249",
+	"radeg":333.759372494,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.057,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020tzs_2020-10-14_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459136.5,
+			"obsdate":"2020-10-14 00:00:00",
+			"observer":"M. R. Siebert, S. Tinyanont, K. Taggart",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
 }

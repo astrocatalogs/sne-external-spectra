@@ -1,0 +1,103 @@
+{
+	"dec":"+07:08:58.73",
+	"decdeg":7.1496459333333,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acowddo",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-01 07:23:55.003",
+	"discoverymag":19.6157,
+	"end_prop_period":null,
+	"host_redshift":0.051,
+	"hostname":"SDSS J015405.95+070859.8",
+	"internal_names":"ZTF20acowddo, ATLAS20bffa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":70370,
+	"objname":"2020yyg",
+	"public":1,
+	"ra":"01:54:05.884",
+	"radeg":28.524518166667,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.073,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020yyg_2020-11-09_04-01-04_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":899,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020yyg_2020-11-09_04-01-04_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459162.6674074,
+			"obsdate":"2020-11-09 04:01:04",
+			"observer":"N.Ihanec, M.Gromadzki",
+			"public":1,
+			"reducer":"S.Brennan, M.Fraser, R.Byrne",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020yyg_2020-11-08_19-24-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020yyg_2020-11-08_19-24-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2459162.3083333,
+			"obsdate":"2020-11-08 19:24:00",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
-	"dec":"+05:08:18.64",
-	"decdeg":5.13851193439,
+	"dec":"+05:08:18.60",
+	"decdeg":5.13850052894,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"PS1",
@@ -27,10 +27,10 @@
 	"objid":69202,
 	"objname":"2020xgd",
 	"public":1,
-	"ra":"00:19:45.833",
-	"radeg":4.94097081398,
+	"ra":"00:19:45.830",
+	"radeg":4.94095810088,
 	"radeg_err":0,
-	"redshift":0.46,
+	"redshift":0.454,
 	"reporter":"PS1_Bot1",
 	"reporterid":35588,
 	"reporting_group":{
@@ -39,6 +39,36 @@
 	},
 	"source":"bot",
 	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/FLEET/tns_2020xgd_2020-11-06_Magellan-Clay_LDSS-3_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":78,
+				"name":"LDSS-3"
+			},
+			"jd":2459159.5,
+			"obsdate":"2020-11-06 00:00:00",
+			"observer":"Yuri Beletsky",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":63,
+				"name":"Magellan-Clay"
+			}
+		},
 		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020xgd_2020-10-23_02-46-57.35_SOAR_Goodman_REFITT.dat",
 			"assoc_groups":[

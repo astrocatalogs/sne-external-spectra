@@ -19,10 +19,10 @@
 	"host_redshift":0.167,
 	"hostname":"SDSS J000505.12+124603.3",
 	"internal_names":"ZTF20acajvrj, PS20hrw, ATLAS20bcbv",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":66814,
 	"objname":"2020ttg",
@@ -30,7 +30,7 @@
 	"ra":"00:05:05.219",
 	"radeg":1.27174402042,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.0705,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020ttg_2020-10-15_14-48-34_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020ttg_2020-10-15_14-48-34_APO-3.5m_DIS_ZTF.fits",
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2459138.1170602,
+			"obsdate":"2020-10-15 14:48:34",
+			"observer":"M. L. Graham, R. A. Phillipson, C. A. Phillips, T. D. Kennedy, C. E. Matt",
+			"public":1,
+			"reducer":"M. L. Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	]
 }
