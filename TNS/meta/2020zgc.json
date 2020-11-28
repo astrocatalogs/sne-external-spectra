@@ -1,0 +1,73 @@
+{
+	"dec":"-19:25:54.64",
+	"decdeg":-19.4318436236,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acpkpla",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-11 06:30:21.001",
+	"discoverymag":18.7672,
+	"end_prop_period":null,
+	"host_redshift":0.0676,
+	"hostname":"2dFGRS TGS841Z423",
+	"internal_names":"ZTF20acpkpla, ATLAS20bfhs, PS20kyr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":70591,
+	"objname":"2020zgc",
+	"public":1,
+	"ra":"01:24:17.003",
+	"radeg":21.0708450289,
+	"radeg_err":0,
+	"redshift":0.068,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/UCSC/tns_2020zgc_2020-11-15_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459168.5,
+			"obsdate":"2020-11-15 00:00:00",
+			"observer":"S. Tinyanont, G. Dimitriadis",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	]
+}

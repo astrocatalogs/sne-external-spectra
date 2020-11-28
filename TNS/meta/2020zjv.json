@@ -1,0 +1,73 @@
+{
+	"dec":"-01:39:01.16",
+	"decdeg":-1.65032145,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acpwjus",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-12 10:25:03.000",
+	"discoverymag":19.0869,
+	"end_prop_period":null,
+	"host_redshift":0.075,
+	"hostname":"SDSS J092633.20-013900.3",
+	"internal_names":"ZTF20acpwjus, ATLAS20bfsh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objid":70688,
+	"objname":"2020zjv",
+	"public":1,
+	"ra":"09:26:33.258",
+	"radeg":141.6385736,
+	"radeg_err":2.5e-05,
+	"redshift":0.075,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020zjv_2020-11-17_08-00-38_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1500,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020zjv_2020-11-17_08-00-38_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459170.8337731,
+			"obsdate":"2020-11-17 08:00:38",
+			"observer":"N Ihanec, M. Gromadzki",
+			"public":1,
+			"reducer":"T. Wevers",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

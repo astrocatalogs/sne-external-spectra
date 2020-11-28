@@ -40,6 +40,28 @@
 	"source":"user",
 	"spectra":[
 		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-11-22_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":7200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459175.5,
+			"obsdate":"2020-11-22 00:00:00",
+			"observer":"Etienne Bertrand",
+			"public":1,
+			"reducer":"ISIS SOFTWARE",
+			"remarks":"Matériel C11 + spectrographe Alpy600.  6 x 1200s. Résolution=560",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
 			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.txt",
 			"end_prop_period":null,
 			"exptime":3000,

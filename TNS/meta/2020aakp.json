@@ -1,0 +1,73 @@
+{
+	"dec":"-74:12:48.89",
+	"decdeg":-74.21358,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"David Bersier",
+	"discoverer_internal_name":"ASASSN-20ol",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-11-18 04:23:31.200",
+	"discoverymag":17.519,
+	"end_prop_period":null,
+	"host_redshift":0.023,
+	"hostname":"PGC19480",
+	"internal_names":"ASASSN-20ol",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":71412,
+	"objname":"2020aakp",
+	"public":1,
+	"ra":"06:43:06.166",
+	"radeg":100.77569,
+	"radeg_err":0,
+	"redshift":0.028,
+	"reporter":"David Bersier",
+	"reporterid":112,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020aakp_2020-11-21_04-25-25_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020aakp_2020-11-21_04-25-25_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459174.6843171,
+			"obsdate":"2020-11-21 04:25:25",
+			"observer":"N. Ihanec, M. Gromadzki",
+			"public":1,
+			"reducer":"E. Callis, M. Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

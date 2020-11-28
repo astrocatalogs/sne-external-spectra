@@ -1,0 +1,73 @@
+{
+	"dec":"-22:48:31.31",
+	"decdeg":-22.8086978534,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS20kuq",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-11-03 12:08:38.400",
+	"discoverymag":19.48,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS20kuq, ATLAS20bfhd, ZTF20acmbhgy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":70337,
+	"objname":"2020ywz",
+	"public":1,
+	"ra":"04:41:33.492",
+	"radeg":70.3895491244,
+	"radeg_err":0,
+	"redshift":0.114,
+	"reporter":"PS2_Bot1",
+	"reporterid":67899,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020ywz_2020-11-09_04-12-34.68_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020ywz_2020-11-09_04-12-34.68_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459162.6753935,
+			"obsdate":"2020-11-09 04:12:35",
+			"observer":"C. Briceno",
+			"public":1,
+			"reducer":"K. E. Weil, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

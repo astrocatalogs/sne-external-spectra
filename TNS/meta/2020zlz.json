@@ -1,0 +1,65 @@
+{
+	"dec":"-33:07:29.50",
+	"decdeg":-33.124861,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":"S.T. Hodgkin, E. Breedt, A. Delgado, D.L. Harrison, M. van Leeuwen, G. Rixon, T. Wevers, A. Yoldas (IoA Cambridge), N. Ihanec, K. Kruszyńska, K.A. Rybicki, Ł. Wyrzykowski (Warsaw University Astronomical Observatory), Z. Kostrzewa-Rutkowska (Leiden Observatory), D. Eappachen (SRON/RU), G. Marton (Konkoly Observatory), on behalf of the Gaia Alerts team",
+	"discoverer_internal_name":"Gaia20ffa",
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"discoverydate":"2020-11-11 01:42:14.400",
+	"discoverymag":15.88,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"Gaia20ffa, ATLAS20bffv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":70744,
+	"objname":"2020zlz",
+	"public":1,
+	"ra":"19:59:54.900",
+	"radeg":299.97875,
+	"radeg_err":0,
+	"redshift":null,
+	"reporter":"Gaia_Bot1",
+	"reporterid":35587,
+	"reporting_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020zlz_2020-11-15_01-21-25_SOAR_Goodman.dat",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459168.5565394,
+			"obsdate":"2020-11-15 01:21:25",
+			"observer":"Strader",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

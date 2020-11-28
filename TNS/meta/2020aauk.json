@@ -1,0 +1,65 @@
+{
+	"dec":"-05:43:09.67",
+	"decdeg":-5.71935205,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20actiymd",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-23 10:28:06.997",
+	"discoverymag":18.9779,
+	"end_prop_period":null,
+	"host_redshift":0.039434,
+	"hostname":"WISEA J081750.69-054305.6",
+	"internal_names":"ZTF20actiymd, ATLAS20bgay",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":71673,
+	"objname":"2020aauk",
+	"public":1,
+	"ra":"08:17:50.951",
+	"radeg":124.46229415,
+	"radeg_err":2.5e-05,
+	"redshift":0.03943,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aauk_2020-11-24_00-00-00_Magellan-Baade_IMACS.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2459177.5,
+			"obsdate":"2020-11-24 00:00:00",
+			"observer":"C. Contreras/H. Rivera/C. Fuentes/A. Pasten",
+			"public":1,
+			"reducer":"R. Cartier/E. D. Huichapan",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	]
+}

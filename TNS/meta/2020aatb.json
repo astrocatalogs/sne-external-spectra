@@ -1,0 +1,65 @@
+{
+	"dec":"-15:56:31.43",
+	"decdeg":-15.9420646,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"A. Munoz-Arancibia, A. Mourao, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acrzwvx",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-23 08:55:40.999",
+	"discoverymag":17.6471,
+	"end_prop_period":null,
+	"host_redshift":0.009954,
+	"hostname":"NGC 1906",
+	"internal_names":"ZTF20acrzwvx, DLT20x, ATLAS20bgam",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":71638,
+	"objname":"2020aatb",
+	"public":1,
+	"ra":"05:24:46.411",
+	"radeg":81.1933774,
+	"radeg_err":2.5e-05,
+	"redshift":0.009954,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aatb_2020-11-24_00-00-00_Magellan-Baade_IMACS.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2459177.5,
+			"obsdate":"2020-11-24 00:00:00",
+			"observer":"C. Contreras/H. Rivera/C. Fuentes/A. Pasten",
+			"public":1,
+			"reducer":"R. Cartier/E. D. Huichapan",
+			"remarks":"We estimate a phase of +2.4 days after the explosion. Host galaxy redshift from NED.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	]
+}

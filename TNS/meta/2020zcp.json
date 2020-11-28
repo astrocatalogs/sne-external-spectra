@@ -1,0 +1,73 @@
+{
+	"dec":"-00:50:13.40",
+	"decdeg":-0.837056541246,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS20kxl",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-11-08 08:05:16.800",
+	"discoverymag":20.45,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS20kxl, ATLAS20bfze",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objid":70499,
+	"objname":"2020zcp",
+	"public":1,
+	"ra":"02:57:10.537",
+	"radeg":44.2939049133,
+	"radeg_err":0,
+	"redshift":0.043,
+	"reporter":"PS1_Bot1",
+	"reporterid":35588,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/YSE/tns_2020zcp_2020-11-16_NOT_ALFOSC_YSE.txt",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459169.5,
+			"obsdate":"2020-11-16 00:00:00",
+			"observer":"C Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

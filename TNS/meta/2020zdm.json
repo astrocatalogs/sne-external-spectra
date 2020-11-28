@@ -1,6 +1,6 @@
 {
-	"dec":"-48:51:58.17",
-	"decdeg":-48.866158,
+	"dec":"-48:51:58.30",
+	"decdeg":-48.8661936364,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"Sloan",
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"WISEA J062922.45-485200.8",
-	"internal_names":"ASASSN-20nz",
-	"name_prefix":"AT",
+	"internal_names":"ASASSN-20nz, ATLAS20bflm",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":70522,
 	"objname":"2020zdm",
 	"public":1,
-	"ra":"06:29:22.241",
-	"radeg":97.342671,
+	"ra":"06:29:22.293",
+	"radeg":97.3428872727,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.05,
 	"reporter":"Patrick Vallely",
 	"reporterid":668,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":3
 	},
 	"source":"user",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020zdm_2020-11-15_06-53-02_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020zdm_2020-11-15_06-53-02_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459168.7868287,
+			"obsdate":"2020-11-15 06:53:02",
+			"observer":"N. Ihanec, M. Gromadzki",
+			"public":1,
+			"reducer":"T. Wevers",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
 }

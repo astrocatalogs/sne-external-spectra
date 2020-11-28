@@ -1,0 +1,73 @@
+{
+	"dec":"-07:48:32.79",
+	"decdeg":-7.8091083,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acpomqu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-11 03:03:38.998",
+	"discoverymag":20.4426,
+	"end_prop_period":null,
+	"host_redshift":0.086,
+	"hostname":"SDSS J215902.91-074832.9",
+	"internal_names":"ZTF20acpomqu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":70641,
+	"objname":"2020zia",
+	"public":1,
+	"ra":"21:59:03.220",
+	"radeg":329.76341776667,
+	"radeg_err":2.5e-05,
+	"redshift":0.052,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2020zia_2020-11-15_00-53-59_VLT-UT1_FORS2_adH0cc.asci",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1000,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/adH0cc/tns_2020zia_2020-11-15_00-53-59_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2459168.5374884,
+			"obsdate":"2020-11-15 00:53:59",
+			"observer":"service",
+			"public":1,
+			"reducer":"G. Csoernyei",
+			"remarks":"Quick-reduction spectrum, telluric correction applied.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	]
+}

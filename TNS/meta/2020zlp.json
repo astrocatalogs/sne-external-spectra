@@ -1,0 +1,73 @@
+{
+	"dec":"+29:57:04.43",
+	"decdeg":29.951231,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":"S.T. Hodgkin, E. Breedt, A. Delgado, D.L. Harrison, M. van Leeuwen, G. Rixon, T. Wevers, A. Yoldas (IoA Cambridge), N. Ihanec, K. Kruszyńska, K.A. Rybicki, Ł. Wyrzykowski (Warsaw University Astronomical Observatory), Z. Kostrzewa-Rutkowska (Leiden Observatory), D. Eappachen (SRON/RU), G. Marton (Konkoly Observatory), on behalf of the Gaia Alerts team",
+	"discoverer_internal_name":"Gaia20fec",
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"discoverydate":"2020-11-08 22:53:45.600",
+	"discoverymag":18.11,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"Gaia20fec",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":70734,
+	"objname":"2020zlp",
+	"public":1,
+	"ra":"08:53:51.200",
+	"radeg":133.463333,
+	"radeg_err":0,
+	"redshift":0.044,
+	"reporter":"Gaia_Bot1",
+	"reporterid":35587,
+	"reporting_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020zlp_2459168.0037_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459168.0037,
+			"obsdate":"2020-11-14 12:05:20",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}
