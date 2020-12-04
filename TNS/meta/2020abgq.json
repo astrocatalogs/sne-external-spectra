@@ -1,0 +1,65 @@
+{
+	"dec":"-01:56:38.67",
+	"decdeg":-1.9440742,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Koichi Itagaki",
+	"discoverer_internal_name":"",
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-11-30 20:29:11.000",
+	"discoverymag":16.3,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC 4454",
+	"internal_names":", ZTF20acuosvy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72048,
+	"objname":"2020abgq",
+	"public":1,
+	"ra":"12:28:50.263",
+	"radeg":187.20942815,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.008029,
+	"reporter":"Koichi Itagaki",
+	"reporterid":87,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020abgq_2459185.3_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":3000,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459185.3,
+			"obsdate":"2020-12-01 19:12:00",
+			"observer":"M. Kawabata",
+			"public":1,
+			"reducer":"",
+			"remarks":"Spectra obtained using KOOLS-IFU (Matsubayashi et al. 2019) on the 3.8m Seimei telescope of Kyoto University.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
+}
