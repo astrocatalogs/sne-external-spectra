@@ -1,7 +1,7 @@
 {
-	"dec":"-05:23:44.28",
-	"decdeg":-5.39563375,
-	"decdeg_err":2.5e-05,
+	"dec":"-05:23:44.25",
+	"decdeg":-5.39562486,
+	"decdeg_err":4.3836678706222e-05,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.068,
 	"hostname":"SDSS J234828.47-052344.4",
-	"internal_names":"ZTF20actrovz",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actrovz, ATLAS20bgju",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71820,
 	"objname":"2020aazy",
 	"public":1,
-	"ra":"23:48:28.535",
-	"radeg":357.11889735,
-	"radeg_err":2.5e-05,
-	"redshift":null,
+	"ra":"23:48:28.524",
+	"radeg":357.11885006,
+	"radeg_err":3.2682478487894e-05,
+	"redshift":0.09,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020aazy_2020-12-03_06-54-10_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020aazy_2020-12-03_06-54-10_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459186.7876157,
+			"obsdate":"2020-12-03 06:54:10",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
 }

@@ -18,11 +18,11 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acugxbm",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acugxbm, ATLAS20bgle",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71922,
 	"objname":"2020abdv",
@@ -30,7 +30,7 @@
 	"ra":"09:39:55.980",
 	"radeg":144.9832483,
 	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"redshift":0.026218,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
 	"reporting_group":{
@@ -38,5 +38,28 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020abdv_2020-12-03_00-58-31_Other_Other.txt",
+			"end_prop_period":null,
+			"exptime":3200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459186.5406366,
+			"obsdate":"2020-12-03 00:58:31",
+			"observer":"Dodin,Tsvetkov,Shatski,Belinski",
+			"public":1,
+			"reducer":"Dodin,Tsvetkov,Shatski,Belinski",
+			"remarks":"CMO-SAI",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
 }

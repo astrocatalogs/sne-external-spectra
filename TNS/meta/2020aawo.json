@@ -1,7 +1,7 @@
 {
-	"dec":"+39:10:33.39",
-	"decdeg":39.1759421,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+39:10:33.44",
+	"decdeg":39.1759562115,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.030371,
 	"hostname":"KUG 1035+394",
-	"internal_names":"ZTF20actnuls",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actnuls, ATLAS20bgik, PS20lvp",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":71731,
 	"objname":"2020aawo",
 	"public":1,
-	"ra":"10:38:05.924",
-	"radeg":159.524681325,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"10:38:05.932",
+	"radeg":159.524714771,
+	"radeg_err":0,
+	"redshift":0.030371,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,28 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aawo_2020-12-01_02-28-35_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459184.6031829,
+			"obsdate":"2020-12-01 02:28:35",
+			"observer":"Dodin,Tsvetkov,Shatski,Belinski",
+			"public":1,
+			"reducer":"Dodin,Tsvetkov,Shatski,Belinski",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
 }

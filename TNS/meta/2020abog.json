@@ -1,0 +1,73 @@
+{
+	"dec":"-19:25:12.79",
+	"decdeg":-19.42022,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"K. E. Weil, D. Milisavljevic on behalf of REFITT",
+	"discoverer_internal_name":"ZTF20acpgjac",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-10-30 10:56:58.272",
+	"discoverymag":19.3028,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":" ",
+	"internal_names":"ZTF20acpgjac",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72253,
+	"objname":"2020abog",
+	"public":1,
+	"ra":"07:52:28.214",
+	"radeg":118.1175563,
+	"radeg_err":0,
+	"redshift":0.063,
+	"reporter":"REFITT_BOT",
+	"reporterid":92366,
+	"reporting_group":{
+		"group_name":"REFITT",
+		"groupid":98
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020abog_2020-11-26_05-49-05.82_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020abog_2020-11-26_05-49-05.82_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459179.742419,
+			"obsdate":"2020-11-26 05:49:06",
+			"observer":"C. Briceno",
+			"public":1,
+			"reducer":"K. E. Weil, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

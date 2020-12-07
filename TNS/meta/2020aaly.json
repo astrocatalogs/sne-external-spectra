@@ -1,7 +1,7 @@
 {
-	"dec":"+38:03:17.49",
-	"decdeg":38.05485695,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+38:03:17.47",
+	"decdeg":38.054853547368,
+	"decdeg_err":3.1825401447383e-05,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -19,18 +19,18 @@
 	"host_redshift":null,
 	"hostname":"WISEA J032201.49+380316.9",
 	"internal_names":"ZTF20acrufey, ATLAS20bghn",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71447,
 	"objname":"2020aaly",
 	"public":1,
-	"ra":"03:22:01.434",
-	"radeg":50.505976225,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"03:22:01.429",
+	"radeg":50.505954410526,
+	"radeg_err":3.5287837397169e-05,
+	"redshift":0.06,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020aaly_2459188.60_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459188.6,
+			"obsdate":"2020-12-05 02:24:00",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
 }
