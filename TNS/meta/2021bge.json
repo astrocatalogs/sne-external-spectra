@@ -1,0 +1,65 @@
+{
+	"dec":"-01:04:57.61",
+	"decdeg":-1.082669,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Koichi Itagaki",
+	"discoverer_internal_name":"",
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2021-01-27 12:24:40.000",
+	"discoverymag":16.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"UGC2505",
+	"internal_names":", ATLAS21dfn, Gaia21aqd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":76082,
+	"objname":"2021bge",
+	"public":1,
+	"ra":"03:03:00.640",
+	"radeg":45.752667,
+	"radeg_err":0,
+	"redshift":0.0136,
+	"reporter":"Koichi Itagaki",
+	"reporterid":87,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021bge_2021-01-30_00-51-12.437_SOAR_Goodman.ascii",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021bge_2021-01-30_00-51-12.437_SOAR_Goodman.fits",
+			"groupid":0,
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459244.5355556,
+			"obsdate":"2021-01-30 00:51:12",
+			"observer":" R. Cartier",
+			"public":1,
+			"reducer":"R. Cartier/G. Terreran",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

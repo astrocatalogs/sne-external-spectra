@@ -1,0 +1,73 @@
+{
+	"dec":"+23:08:43.79",
+	"decdeg":23.1454982849,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aagpbkj",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-04 06:26:49.001",
+	"discoverymag":18.9317,
+	"end_prop_period":null,
+	"host_redshift":0.087214,
+	"hostname":"WISEA J090021.24+230845.6",
+	"internal_names":"ZTF21aagpbkj, ATLAS21dps, PS21abh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":104,
+		"name":"SN Ia-91T-like"
+	},
+	"objid":76414,
+	"objname":"2021bsr",
+	"public":1,
+	"ra":"09:00:21.268",
+	"radeg":135.088616564,
+	"radeg_err":0,
+	"redshift":0.087,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/YSE/tns_2021bsr_2021-02-14_NOT_ALFOSC_YSE.txt",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459259.5,
+			"obsdate":"2021-02-14 00:00:00",
+			"observer":"C. R. Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

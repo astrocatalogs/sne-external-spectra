@@ -1,0 +1,73 @@
+{
+	"dec":"-00:05:20.05",
+	"decdeg":-0.0889022165841,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"D. Duev (Caltech) on behalf of ZTF/Fritz",
+	"discoverer_internal_name":"ZTF20acveadu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-05 09:08:38.400",
+	"discoverymag":18.682,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acveadu, PS20mbv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":72361,
+	"objname":"2020absk",
+	"public":1,
+	"ra":"09:04:00.919",
+	"radeg":136.003827732,
+	"radeg_err":0,
+	"redshift":0.01889,
+	"reporter":"Fritz",
+	"reporterid":96526,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020absk_2020-12-18_02-20-34_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459201.5976157,
+			"obsdate":"2020-12-18 02:20:34",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

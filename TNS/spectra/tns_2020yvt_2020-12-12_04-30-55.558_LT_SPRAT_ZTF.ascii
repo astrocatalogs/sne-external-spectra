@@ -1,0 +1,702 @@
+RA:{'value': '10:3:51.86', 'comment': '[HH:MM:SS.ss] Apparent RA where telescope is po'}
+DEC:{'value': '59:26:10.00', 'comment': '[DD:MM:SS.ss] Apparent Dec where telescope is p'}
+END:
+LST:{'value': '8:44:39.00', 'comment': '[HH:MM:SS] Local sidereal time at start of curr'}
+MJD:59195.188143
+DATE:2020-12-12
+ACCUM:0
+AZDMD:{'value': 22.1608, 'comment': '[degrees] Azimuth demand'}
+CAMID:{'value': '85mm_f1.8', 'comment': 'Nikon AF Nikkor 85mm f/1.8D'}
+CLOUD:{'value': 82.4, 'comment': '[degrees C] Cloud tdiff measure'}
+COLID:{'value': '150mm_f3.0', 'comment': 'Edmund Optics achromatic doublet #49391'}
+EXPID:{'value': 'v_e_20201211_44_1_0_0', 'comment': 'Original raw LT FITS filename'}
+L1SAT:{'value': False, 'comment': '[logical] TRUE if brightest object is saturated'}
+L2ARC:{'value': 'v_a_20201211_45_1_0_1_arc_tr_cor.fits', 'comment': 'Filename of arc'}
+NAXIS:{'value': 2, 'comment': 'number of data axes'}
+OBSID:{'value': 'EXPOSURE', 'comment': 'Observation Id'}
+PM-RA:{'value': 0.0, 'comment': '[sec/year] Proper motion in RA of the current o'}
+TAGID:{'value': 'JMU', 'comment': 'Telescope Allocation Committee ID'}
+ACQIMG:{'value': '/icc/sprat-data/v_q_20201211_42_1_0_2.fits', 'comment': 'Acquisitioni image file'}
+ACQSAT:{'value': False, 'comment': 'Is acquisition image saturated'}
+AGFWHM:{'value': 2.114, 'comment': '[arcsec] Autoguider FWHM'}
+AGGMAG:{'value': 14.514, 'comment': '[mag] Autoguider guide star mag'}
+AGMODE:{'value': 'UNKNOWN', 'comment': 'Autoguider mode'}
+ALTDMD:{'value': 56.6791, 'comment': '[degrees] Altitude axis demand'}
+AZSTAT:{'value': 'TRACKING', 'comment': 'Azimuth axis state'}
+BITPIX:{'value': -32, 'comment': 'number of bits per data pixel'}
+CAMFOC:{'value': 0.0, 'comment': '[mm] Camera focus (infinity)'}
+CAT-RA:{'value': '10:3:51.86', 'comment': '[HH:MM:SS.sss] RA of the current observation so'}
+CDELT1:{'value': 9.2, 'comment': '[pixel] Pixel scale on axis 1'}
+CDELT2:{'value': 1.0, 'comment': '[pixel] Pixel scale on axis 2'}
+COLFOC:{'value': 6.25, 'comment': '[mm] Collimator focus. Scale reading.'}
+CRPIX1:{'value': 1.0, 'comment': '[pixel] Reference pixel on axis 1'}
+CRPIX2:{'value': 1.0, 'comment': '[pixel] Reference pixel on axis 2'}
+CRVAL1:{'value': 4020.0, 'comment': '[pixel] Value at ref. pixel on axis 1'}
+CRVAL2:{'value': 1.0, 'comment': '[pixel] Value at ref. pixel on axis 2'}
+CTYPE1:{'value': 'Wavelength', 'comment': 'Type of co-ordinate on axis 1'}
+CTYPE2:{'value': 'a2', 'comment': 'Type of co-ordinate on axis 2'}
+CUNIT1:{'value': 'Angstroms', 'comment': 'Units for axis 1'}
+CUNIT2:{'value': 'Pixels', 'comment': 'Units for axis 2'}
+DFOCUS:{'value': 0.0, 'comment': '[mm] Focus offset'}
+ESTSEE:{'value': 3.804678, 'comment': '[(arcsec)] Estimated seeing at start of observa'}
+EXPNUM:1
+FOCDMD:{'value': 21.14, 'comment': '[mm] Focus demand'}
+GCOUNT:{'value': 1, 'comment': 'required keyword; must = 1'}
+GRATID:{'value': 'Wasatch600', 'comment': 'Wasatch VPH transmission grating'}
+GRPUID:{'value': 247083, 'comment': 'Group unique ID'}
+L1DARK:{'value': 'v_dark_1.fits.20201212', 'comment': 'Dark used'}
+L1DATE:{'value': '2020-12-12 08:34:06 GMT', 'comment': 'When this reduction was performed'}
+L1FLAT:{'value': 'v_slit_both_1.fits.20200115', 'comment': 'Flat used'}
+L1MEAN:{'value': 10.18164, 'comment': '[counts] mean of frame background in counts'}
+L1XPIX:{'value': 543.0618, 'comment': 'Coordinate of brightest object in frame after t'}
+L1YPIX:{'value': 132.1434, 'comment': 'Coordinate of brightest object in frame after t'}
+L2DATE:{'value': '12-12-20 08:34:19', 'comment': 'when this reduction was performed'}
+NAXIS1:{'value': 433, 'comment': 'length of data axis 1'}
+NAXIS2:{'value': 1, 'comment': 'length of data axis 2'}
+OBJECT:{'value': 'ZTF19aanbpus', 'comment': 'Actual name of the current observation source'}
+ORIGIN:Liverpool JMU
+PCOUNT:{'value': 0, 'comment': 'required keyword; must = 0'}
+PM-DEC:{'value': 0.0, 'comment': '[arcsec/year] Proper motion in declination  of'}
+PMCDMD:{'value': 'OPEN', 'comment': 'Primary mirror cover demand'}
+PMCPOS:{'value': 'OPEN', 'comment': 'Primary mirror cover position'}
+PROGID:{'value': 'XJZ20B01', 'comment': 'Program ID'}
+PROPID:{'value': 'JZ20B01', 'comment': 'Proposal ID'}
+RADVEL:{'value': 0.0, 'comment': '[km/s] Radial velocity of the current observati'}
+ROTDMD:{'value': 12.8499, 'comment': 'Rotator axis demand'}
+RUNNUM:44
+SEEING:{'value': 999.0, 'comment': '[Dummy] Unable to calculate'}
+SERIES:0
+STDDEV:{'value': 11.17021, 'comment': '[counts] Standard deviation of Backgrd in count'}
+SUNALT:{'value': -43.505134, 'comment': '[(degs)] Solar altitude'}
+USERID:{'value': 'Perley.Dan', 'comment': 'User login ID'}
+WAVCAL:None
+WAVERR:{'value': 99.9, 'comment': 'Error'}
+WAVSET:{'value': 5555.0, 'comment': '[Angstrom] Wavelength Setting.'}
+WMSPMT:{'value': 0.0, 'comment': 'Primary mirror temperature'}
+ACQINST:{'value': 'SPRAT', 'comment': 'Acquisition instrument'}
+ACQMODE:{'value': 'WCS_FIT', 'comment': 'Acquisition mode'}
+ACQXPIX:{'value': 494.0, 'comment': '[pixels] Acquisition X pixel'}
+ACQYPIX:{'value': 179.0, 'comment': '[pixels] Acquisition Y pixel'}
+AGFILST:{'value': 'IN POSN', 'comment': 'Autoguider filter state'}
+AGFOCST:{'value': 'TRACKING', 'comment': 'Autoguider focus state'}
+AGFOCUS:{'value': 14.63, 'comment': '[mm] Autoguider focus position'}
+AGMIRST:{'value': 'IN POSN', 'comment': 'Autoguider mirror state'}
+AGSTATE:{'value': 'OKAY', 'comment': 'Autoguider sw state'}
+AIRMASS:{'value': 1.19907, 'comment': '[n/a] Airmass'}
+ALTSTAT:{'value': 'TRACKING', 'comment': 'Altitude axis state'}
+AZIMUTH:{'value': 22.1608, 'comment': '[degrees] Azimuth axis position'}
+BACKGRD:{'value': 9.962473, 'comment': '[counts] frame background level in counts'}
+CAT-DEC:{'value': '59:26:10.00', 'comment': '[DD:MM:SS.sss] Declination of the current obser'}
+DATASUM:{'value': '4121981149', 'comment': 'data unit checksum updated 2020-12-12T08:34:20'}
+ENC1DMD:{'value': 'OPEN', 'comment': 'Enc 1 demand'}
+ENC1POS:{'value': 'OPEN', 'comment': 'Enc 1 position'}
+ENC2DMD:{'value': 'OPEN', 'comment': 'Enc 2 demand'}
+ENC2POS:{'value': 'OPEN', 'comment': 'Enc 2 position'}
+ENVHUM0:{'value': 41.3, 'comment': '[percent] Relative humidity outside instrument'}
+ENVHUM1:{'value': 0.0, 'comment': '[percent] Relative humidity inside instrument'}
+EQUINOX:{'value': 2000.0, 'comment': '[Years] Date of the coordinate system for curre'}
+EXPTIME:750.0
+EXTNAME:SPEC_NONSS
+FILTER1:{'value': '4020longpass', 'comment': 'Edmund Optics 400nm longpass filter #84754'}
+FILTER2:{'value': 'clear', 'comment': 'The filter.'}
+FOCSTAT:{'value': 'TRACKING', 'comment': 'Focus state'}
+FOLDDMD:{'value': 'UNKNOWN', 'comment': 'Fold mirror demand'}
+FOLDPOS:{'value': 'UNKNOWN', 'comment': 'Fold mirror position'}
+FOVDIM1:{'value': 0, 'comment': '[arcsec] Size of field of view (dimension 1)'}
+FOVDIM2:{'value': 0, 'comment': '[arcsec] Size of field of view (dimension 2)'}
+FOVTYPE:{'value': 'slit', 'comment': 'Type of field of view'}
+GRATANG:{'value': 0.95, 'comment': '[mm] Grism rear stop lateral displacement'}
+GRATPOS:{'value': 'IN', 'comment': 'Whether the grism is in or out of the beam'}
+GRATROT:{'value': '1', 'comment': "The grating rotation position ['0'|'1']"}
+GRATSET:{'value': 'blue', 'comment': 'The grating rotation position'}
+GROUPID:{'value': 'ZTF19aanbpus-sp', 'comment': 'Group Id'}
+GRPMONP:{'value': 43200.0, 'comment': '[secs] Group monitor period'}
+MOONALT:{'value': -10.670772, 'comment': '[(degs)] Lunar altitude'}
+OBSDATE:2020-12-12T04:30:55.558
+OBSTYPE:EXPOSE
+ORIENT1:{'value': -234.0, 'comment': '[adu] Gyro position (X)'}
+ORIENT2:{'value': 49.0, 'comment': '[adu] Gyro position (Y)'}
+ORIENT3:{'value': -146.0, 'comment': '[adu] Gyro position (Z)'}
+PMCSTAT:{'value': 'IN POSN', 'comment': 'Primary mirror cover state'}
+RATRACK:{'value': 0.0, 'comment': '[sec/sec] Non-sidereal tracking in RA of the cu'}
+REFPRES:{'value': 770.0, 'comment': '[mbar] Pressure used in refraction calculation'}
+REFTEMP:{'value': 283.15, 'comment': '[Kelvin] Temperature used in refraction calcula'}
+ROTMODE:{'value': 'FLOAT', 'comment': '[{SKY, MOUNT, VFLOAT, VERTICAL, FLOAT}] Cassegr'}
+SLITPOS:{'value': 'IN', 'comment': 'Whether the slit is in or out of the beam'}
+SRCTYPE:{'value': 'EXTRASOLAR', 'comment': 'Type of source'}
+TELMODE:{'value': 'ROBOTIC', 'comment': 'Telescope mode'}
+TELSTAT:{'value': 'WARN', 'comment': 'Current telescope status'}
+UTSTART:04:30:55.558
+WAVCENT:{'value': 5555.0, 'comment': '[Angstrom] Central Wavelength'}
+WAVDISP:{'value': 4.71, 'comment': '[Angstrom/pixel] Dispersion (per binned pixel).'}
+WAVLONG:{'value': 7960, 'comment': '[Angstrom] Longest wavelength on CCD.'}
+WINDDIR:{'value': 135.0, 'comment': '[degrees E of N] Wind direction'}
+WMSPRES:{'value': 777.0, 'comment': '[mbar] Current pressure'}
+WMSRAIN:{'value': 'CLEAR', 'comment': 'Rain alert'}
+WMSTEMP:{'value': 282.25, 'comment': '[Kelvin] Current (external) temperature'}
+ACQFAPER:{'value': 4017.93, 'comment': '[sprat ADU/sec] Brightness in acq. image'}
+ACQFAUTO:{'value': 20106.8, 'comment': '[sprat ADU/sec] Brightness in acq. image'}
+ACQFLAGS:{'value': 0, 'comment': 'SExtractor flags'}
+ACQIMAGE:{'value': 'v_q_20201211_42_1_0_1.fits', 'comment': 'Acq. image used for flux photometry'}
+ACQ_XIMG:{'value': 494.776, 'comment': 'X coordinate in acq. image'}
+ACQ_YIMG:{'value': 179.137, 'comment': 'Y coordinate in acq. image'}
+AGFILDMD:{'value': 'RETRACT', 'comment': 'Autoguider filter demand'}
+AGFILPOS:{'value': 'RETRACT', 'comment': 'Autoguider filter position'}
+AGFOCDMD:{'value': 14.631, 'comment': '[mm] Autoguider focus demand'}
+AGMIRDMD:{'value': 0.0, 'comment': '[mm] Autoguider mirror demand'}
+AGMIRPOS:{'value': 0.0, 'comment': '[mm] Autoguider mirror position'}
+ALTITUDE:{'value': 56.6791, 'comment': '[degrees] Altitude axis position'}
+AUTOGUID:{'value': 'LOCKED', 'comment': '[{LOCKED, UNLOCKED SUSPENDED}] Autoguider lock'}
+BFOCCTRL:{'value': 'UNKNOWN', 'comment': 'Beam control instrument'}
+CAT-EPOC:{'value': 2000.0, 'comment': '[Year] Catalog date of the epoch'}
+CAT-EQUI:{'value': 2000.0, 'comment': '[Year] Catalog date of the coordinate system fo'}
+CAT-NAME:{'value': 'ZTF19aanbpus', 'comment': 'Catalog name of the current observation source'}
+CCDATEMP:{'value': 213.671, 'comment': 'Cached temperature of CCD'}
+CCDSTEMP:{'value': 213.15, 'comment': 'Target temperature setpoint of CCD'}
+CHECKSUM:{'value': 'JfchJcbZJcbfJcbZ', 'comment': 'HDU checksum updated 2020-12-12T08:34:20'}
+CONFIGID:{'value': 31801, 'comment': 'Unique configuration ID.'}
+CONFNAME:{'value': 'SPRAT-blue', 'comment': 'The instrument configuration used.'}
+DATE-OBS:2020-12-12T04:30:55.558
+DECTRACK:{'value': 0.0, 'comment': '[arcsec/sec] Non-sidereal tracking in declinati'}
+DETECTOR:{'value': 'E2V CCD30-11 10333-02-26', 'comment': 'Andor iDus DU420A-BV'}
+ENC1STAT:{'value': 'IN POSN', 'comment': 'Enc 1 state'}
+ENC2STAT:{'value': 'IN POSN', 'comment': 'Enc 2 state'}
+ENGSTATE:{'value': 'DISABLED', 'comment': 'Engineering override state'}
+ENVTEMP0:{'value': 282.35, 'comment': '[Kelvin] Air temperature outside instrument'}
+ENVTEMP1:{'value': -1.0, 'comment': '[Kelvin] Air temperature inside instrument'}
+EXPTOTAL:{'value': 1500.0, 'comment': 'Total exposure time'}
+FILTERI1:{'value': 'Edmund Optics 400nm longpass filter #84754', 'comment': 'Edmund Optics 400nm lon'}
+FILTERI2:{'value': 'Clear-01', 'comment': 'The filter.'}
+FOLDSTAT:{'value': 'UNKNOWN', 'comment': 'Fold mirror state'}
+GRPAIRCO:{'value': 2.0, 'comment': 'Maximum airmass'}
+GRPEDATE:{'value': '2020-12-20 T 12:00:00 UTC', 'comment': '[date] Group expiry date'}
+GRPEXTCO:{'value': 'NONE', 'comment': 'Extinction category'}
+GRPMAXHA:{'value': 'UNKNOWN', 'comment': '[degs] Maximum hour angle'}
+GRPMINHA:{'value': 'NONE', 'comment': '[degs] Minimum hour angle'}
+GRPNOMEX:{'value': 1740.0, 'comment': '[secs] Group nominal exec time'}
+GRPNUMOB:{'value': 2, 'comment': 'Number of observations in group'}
+GRPSEECO:{'value': 'NONE', 'comment': '[arcsec] Maximum seeing'}
+GRPSKYCO:{'value': '4.0 MAG', 'comment': 'Sky brightness category'}
+GRPTIMNG:{'value': 'REPEATABLE', 'comment': 'Group timing constraint class'}
+INSTRUME:{'value': 'SPRAT', 'comment': 'Instrument used.'}
+L1COUNTS:{'value': 1859472.0, 'comment': '[counts] Counts in brightest object (sky subtra'}
+L1DARKSC:{'value': 1.25, 'comment': 'Scaling factor applied to dark frame'}
+L1ELPMEA:{'value': 0.0, 'comment': 'mean of ellipticities'}
+L1ELPVAR:{'value': 0.0, 'comment': 'RMS of ellipticities'}
+L1EXTRMS:{'value': 999.0, 'comment': 'RMS on multiple extinction estimates in image'}
+L1FRINSC:{'value': 0.0, 'comment': 'Scaling factor applied to fringe frame'}
+L1MEDIAN:{'value': 9.962473, 'comment': '[counts] median of frame background in counts'}
+L1ORIMEA:{'value': 0.0, 'comment': 'mean of orientations'}
+L1ORISER:{'value': 0.0, 'comment': 'Standard error of orientations'}
+L1ORIVAR:{'value': 57295780000.0, 'comment': 'RMS of orientations'}
+L1PHOTOM:{'value': -999.0, 'comment': '[mag] Estimated extinction for standards images'}
+L1SEEING:{'value': 999.0, 'comment': '[Dummy] Unable to calculate'}
+L1SEESEC:{'value': 999.0, 'comment': '[Dummy] Unable to calculate'}
+L1SKYBRT:{'value': 99.9, 'comment': '[mag/arcsec^2] Estimated sky brightness'}
+L1STATDA:{'value': 1, 'comment': 'Status flag for DP(RT) dark frame correction'}
+L1STATDM:{'value': 1, 'comment': 'Mode for DP(RT) dark frame subtraction'}
+L1STATFL:{'value': 1, 'comment': 'Status flag for DP(RT) flatfield correction'}
+L1STATFM:{'value': 3, 'comment': 'Mode flag for DP(RT) fringe frame subtraction'}
+L1STATFR:{'value': -1, 'comment': 'Status flag for DP(RT) defringing correction'}
+L1STATOV:{'value': 1, 'comment': 'Status flag for DP(RT) overscan correction'}
+L1STATTR:{'value': 1, 'comment': 'Status flag for DP(RT) overscan trimming'}
+L1STATZE:{'value': -1, 'comment': 'Status flag for DP(RT) bias frame (zero) correc'}
+L1STATZM:{'value': 0, 'comment': 'Mode flag for DP(RT) bias frame subtraction'}
+L1ZEROSC:{'value': 1.0, 'comment': 'Scaling factor applied to zero frame'}
+L2ARCALF:{'value': 0.041066, 'comment': '[] Debug diagnostic on arc matching, alpha'}
+L2ARCBET:{'value': -2.6e-05, 'comment': '[] Debug diagnostic on arc matching, beta'}
+L2ARCMAT:{'value': 16.0, 'comment': 'Number of arc lines matched in fit'}
+L2ARCOFF:{'value': 0.027804, 'comment': '[] Mean offset of arc from expected'}
+L2MAXLAM:{'value': 8099.8, 'comment': '[A] Min wavelength in primary image'}
+L2MINLAM:{'value': 3427.6, 'comment': '[A] Min wavelength in primary image'}
+L2STATAR:{'value': 3, 'comment': 'Status flag for L2 sparcfit routine'}
+L2STATCA:{'value': 0, 'comment': 'Status flag for L2 spclip routine (arc)'}
+L2STATCC:{'value': 0, 'comment': 'Status flag for L2 spclip routine (continuum)'}
+L2STATCR:{'value': 0, 'comment': 'Status flag for L2 spclip routine (ref)'}
+L2STATCT:{'value': 0, 'comment': 'Status flag for L2 spclip routine (target)'}
+L2STATF1:{'value': 0, 'comment': 'Status flag for L2 spfind routine (ref uncorrec'}
+L2STATF2:{'value': 0, 'comment': 'Status flag for L2 spfind routine (target corre'}
+L2STATFL:{'value': 0, 'comment': 'Status flag for L2 spflcor routine'}
+L2STATOA:{'value': 0, 'comment': 'Status flag for L2 spcorrect routine (arc)'}
+L2STATOC:{'value': 0, 'comment': 'Status flag for L2 spcorrect routine (continuum'}
+L2STATOR:{'value': 0, 'comment': 'Status flag for L2 spcorrect routine (ref)'}
+L2STATOT:{'value': 0, 'comment': 'Status flag for L2 spcorrect routine (target)'}
+L2STATRE:{'value': 0, 'comment': 'Status flag for L2 sprebin routine'}
+L2STATT1:{'value': 0, 'comment': 'Status flag for L2 sptrace routine (ref uncorre'}
+L2STATX1:{'value': 0, 'comment': 'Status flag for L2 spextract routine (target NO'}
+L2STATX2:{'value': 0, 'comment': 'Status flag for L2 spextract routine (target SS'}
+LAMP1SET:{'value': False, 'comment': 'Is the Xenon lamp on?'}
+LAMP1TYP:{'value': 'Xe', 'comment': 'LOT Oriel xenon penlight type 6033'}
+LAMP2SET:{'value': False, 'comment': 'Is the Tungsten lamp on?'}
+LAMP2TYP:{'value': 'W', 'comment': 'Bosch 434 12v tungsten halide'}
+LATITUDE:{'value': 28.7624, 'comment': '[degrees] Observatory Latitude'}
+LONGITUD:{'value': -17.8792, 'comment': '[degrees West] Observatory Longitude'}
+MIRSYSST:{'value': 'UNKNOWN', 'comment': 'Primary mirror support state'}
+MJD_MEAN:59195.192537
+MOONDIST:{'value': 94.766568, 'comment': '[(degs)] Lunar Distance from Target'}
+MOONFRAC:{'value': 0.081308, 'comment': '[(0 - 1)] Lunar illuminated fraction'}
+NETSTATE:{'value': 'ENABLED', 'comment': 'Network control state'}
+PARALLAX:{'value': 0.0, 'comment': '[arcsec] Parallax of the current observation so'}
+PIXSCALE:0.442
+PWRESTRT:{'value': False, 'comment': 'Power will be cycled imminently'}
+PWSHUTDN:{'value': False, 'comment': 'Power will be shutdown imminently'}
+RADECSYS:{'value': 'FK5', 'comment': '[{FK4, FK5}] Fundamental coordinate system of c'}
+REFHUMID:{'value': 30.0, 'comment': 'Percentage humidity used in refraction calculat'}
+ROTANGLE:{'value': 12.85, 'comment': '[degrees] Rotator mount angle'}
+ROTSKYPA:{'value': 213.6839, 'comment': '[degrees] Rotator position angle'}
+ROTSTATE:{'value': 'TRACKING', 'comment': 'Rotator axis state'}
+SATURATN:{'value': 63054, 'comment': '[ADU] Approx saturation level'}
+SCHEDPHT:{'value': 'PHOTOMETRIC', 'comment': 'Predicted photom when group scheduled'}
+SCHEDSEE:{'value': 2.988928, 'comment': '[(arcsec)] Predicted seeing when group schedule'}
+SCHEDSKY:{'value': 0.0, 'comment': 'Predicted sky when group scheduled'}
+TCSSTATE:{'value': 'OKAY', 'comment': 'TCS state'}
+TELESCOP:{'value': 'Liverpool Telescope', 'comment': 'The Name of the Telescope'}
+TELFOCUS:{'value': 21.14, 'comment': '[mm] Focus position'}
+TEMPDATE:2020-12-12T04:30:55.554
+TEMPSTAT:{'value': 'OK', 'comment': 'CCD Temperature status at cache point.'}
+TEMPTUBE:{'value': 8.66, 'comment': '[degrees C] Temperature of the telescope tube'}
+USRDEFOC:{'value': 0.0, 'comment': '[mm] Requested defocus'}
+WAVRESOL:{'value': 18.0, 'comment': '[Angstrom] Resolution at central wavelength.'}
+WAVSHORT:{'value': 4020, 'comment': '[Angstrom] Shortest wavelength on CCD.'}
+WINDSPEE:{'value': 6.6, 'comment': '[m/s] Windspeed'}
+WMAGBTMP:{'value': 10.68, 'comment': 'AG Box temperature'}
+WMFOCTMP:{'value': 0.0, 'comment': 'Focus temperature'}
+WMOILTMP:{'value': 9.6, 'comment': 'Oil temperature'}
+WMSDEWPT:{'value': -2.6, 'comment': 'Dewpoint'}
+WMSHUMID:{'value': 44.0, 'comment': '[0.00% - 100.00%] Current percentage humidity'}
+WMSMOIST:{'value': 0.05, 'comment': 'Moisture level'}
+WMSSTATE:{'value': 'OKAY', 'comment': 'WMS system state'}
+XTENSION:{'value': 'IMAGE', 'comment': 'IMAGE extension'}
+4020.0	1.10209
+4029.2	1.14143
+4038.4	1.12443
+4047.6	1.14571
+4056.8	1.18397
+4066.0	1.14239
+4075.2	1.22803
+4084.4	1.11114
+4093.6	1.16635
+4102.8	1.09067
+4112.0	1.13827
+4121.2	1.1456
+4130.4	1.17386
+4139.6	1.15812
+4148.8	1.10714
+4158.0	1.04246
+4167.2	1.00946
+4176.4	0.98983
+4185.6	1.05398
+4194.8	1.0755
+4204.0	1.09453
+4213.2	1.08566
+4222.4	1.05741
+4231.6	1.07028
+4240.8	1.09764
+4250.0	1.11795
+4259.2	1.09714
+4268.4	1.04666
+4277.6	1.06088
+4286.8	1.07898
+4296.0	1.05947
+4305.2	1.06838
+4314.4	1.08517
+4323.6	1.07581
+4332.8	1.07308
+4342.0	0.969958
+4351.2	0.990177
+4360.4	1.01091
+4369.6	1.05772
+4378.8	1.27325
+4388.0	1.42609
+4397.2	1.02668
+4406.4	1.06146
+4415.6	1.07016
+4424.8	1.0123
+4434.0	1.04873
+4443.2	1.05847
+4452.4	1.04781
+4461.6	1.04692
+4470.8	1.06886
+4480.0	1.05064
+4489.2	1.05359
+4498.4	1.02686
+4507.6	1.02956
+4516.8	1.03189
+4526.0	1.04326
+4535.2	1.05861
+4544.4	1.07033
+4553.6	1.08842
+4562.8	1.08463
+4572.0	1.03788
+4581.2	1.0475
+4590.4	1.07767
+4599.6	1.07425
+4608.8	1.07181
+4618.0	1.07068
+4627.2	1.08769
+4636.4	1.04546
+4645.6	1.06589
+4654.8	1.09215
+4664.0	1.09753
+4673.2	1.08052
+4682.4	1.06744
+4691.6	1.05184
+4700.8	1.06341
+4710.0	1.04764
+4719.2	0.999815
+4728.4	1.01292
+4737.6	1.01964
+4746.8	1.00181
+4756.0	0.973441
+4765.2	1.00613
+4774.4	0.997329
+4783.6	1.0279
+4792.8	1.03779
+4802.0	1.04721
+4811.2	1.04077
+4820.4	1.02907
+4829.6	1.05568
+4838.8	1.04973
+4848.0	1.03005
+4857.2	1.03121
+4866.4	1.0264
+4875.6	1.00492
+4884.8	1.00319
+4894.0	1.00449
+4903.2	1.41555
+4912.4	2.00352
+4921.6	1.43202
+4930.8	0.9696
+4940.0	0.976798
+4949.2	0.999493
+4958.4	1.01135
+4967.6	0.99299
+4976.8	1.00733
+4986.0	1.01053
+4995.2	1.05234
+5004.4	1.24855
+5013.6	1.40322
+5022.8	1.10857
+5032.0	1.03256
+5041.2	1.03345
+5050.4	1.44772
+5059.6	2.00959
+5068.8	1.43395
+5078.0	1.00438
+5087.2	0.985817
+5096.4	0.989798
+5105.6	0.978607
+5114.8	1.00083
+5124.0	0.963288
+5133.2	0.951177
+5142.4	0.967455
+5151.6	0.962374
+5160.8	0.980831
+5170.0	0.972976
+5179.2	0.988986
+5188.4	0.951053
+5197.6	0.957325
+5206.8	0.959361
+5216.0	0.940875
+5225.2	0.910847
+5234.4	0.932169
+5243.6	0.950199
+5252.8	0.968301
+5262.0	0.959955
+5271.2	0.955073
+5280.4	0.959367
+5289.6	0.962068
+5298.8	0.959093
+5308.0	0.969218
+5317.2	0.941264
+5326.4	0.947476
+5335.6	0.969825
+5344.8	0.981771
+5354.0	0.983854
+5363.2	0.97474
+5372.4	0.98533
+5381.6	0.996213
+5390.8	0.988449
+5400.0	0.988466
+5409.2	1.0136
+5418.4	0.995437
+5427.6	1.0009
+5436.8	0.994407
+5446.0	0.985893
+5455.2	0.949313
+5464.4	0.965274
+5473.6	0.97662
+5482.8	0.984421
+5492.0	0.981661
+5501.2	0.994364
+5510.4	0.990776
+5519.6	0.982512
+5528.8	0.987851
+5538.0	0.978924
+5547.2	1.00591
+5556.4	0.99191
+5565.6	0.981551
+5574.8	1.0121
+5584.0	0.994661
+5593.2	1.00232
+5602.4	0.99502
+5611.6	0.988787
+5620.8	0.96773
+5630.0	0.965284
+5639.2	0.963735
+5648.4	0.959299
+5657.6	0.964324
+5666.8	0.973078
+5676.0	0.989418
+5685.2	0.965737
+5694.4	0.966363
+5703.6	0.965139
+5712.8	0.953669
+5722.0	0.952714
+5731.2	0.957141
+5740.4	0.946056
+5749.6	0.942491
+5758.8	0.909178
+5768.0	0.882638
+5777.2	0.888597
+5786.4	0.923964
+5795.6	0.903073
+5804.8	0.913091
+5814.0	0.931803
+5823.2	0.928919
+5832.4	0.940926
+5841.6	0.945638
+5850.8	0.978361
+5860.0	0.994645
+5869.2	0.996472
+5878.4	1.01393
+5887.6	1.0132
+5896.8	0.998848
+5906.0	1.02091
+5915.2	0.985142
+5924.4	1.03534
+5933.6	1.10798
+5942.8	1.07624
+5952.0	0.95381
+5961.2	0.932912
+5970.4	0.97676
+5979.6	0.989166
+5988.8	0.987008
+5998.0	0.97631
+6007.2	0.960489
+6016.4	0.964655
+6025.6	0.973291
+6034.8	0.975647
+6044.0	0.943832
+6053.2	0.960106
+6062.4	0.946462
+6071.6	0.939358
+6080.8	0.941611
+6090.0	0.927002
+6099.2	0.951759
+6108.4	0.936174
+6117.6	0.954114
+6126.8	0.927521
+6136.0	0.937613
+6145.2	0.92271
+6154.4	0.920156
+6163.6	0.927732
+6172.8	0.940158
+6182.0	0.931591
+6191.2	0.910662
+6200.4	0.904484
+6209.6	0.919358
+6218.8	0.879954
+6228.0	0.870334
+6237.2	0.876253
+6246.4	0.894549
+6255.6	0.867007
+6264.8	0.889776
+6274.0	0.870162
+6283.2	0.847179
+6292.4	0.824643
+6301.6	0.819611
+6310.8	0.806231
+6320.0	0.777304
+6329.2	0.787414
+6338.4	0.793359
+6347.6	0.783935
+6356.8	0.840227
+6366.0	0.860576
+6375.2	0.82858
+6384.4	0.816328
+6393.6	0.806025
+6402.8	0.825932
+6412.0	0.845268
+6421.2	0.855542
+6430.4	0.856685
+6439.6	0.903378
+6448.8	0.876154
+6458.0	0.897669
+6467.2	0.871725
+6476.4	0.896843
+6485.6	0.887993
+6494.8	0.925515
+6504.0	0.913081
+6513.2	0.907493
+6522.4	0.916637
+6531.6	0.931759
+6540.8	0.910602
+6550.0	0.889203
+6559.2	0.858505
+6568.4	0.834148
+6577.6	0.844665
+6586.8	0.843242
+6596.0	0.879605
+6605.2	1.08781
+6614.4	1.51699
+6623.6	3.6603
+6632.8	5.57925
+6642.0	2.45822
+6651.2	2.41776
+6660.4	1.62453
+6669.6	0.936993
+6678.8	0.944661
+6688.0	0.93746
+6697.2	0.940342
+6706.4	0.913669
+6715.6	0.92589
+6724.8	0.918194
+6734.0	0.92882
+6743.2	0.930328
+6752.4	0.956659
+6761.6	0.892752
+6770.8	1.00444
+6780.0	1.33645
+6789.2	1.69897
+6798.4	1.44044
+6807.6	1.21558
+6816.8	0.881381
+6826.0	0.882294
+6835.2	0.882702
+6844.4	0.904894
+6853.6	0.882962
+6862.8	0.810437
+6872.0	0.708877
+6881.2	0.72496
+6890.4	0.774636
+6899.6	0.75894
+6908.8	0.783968
+6918.0	0.795135
+6927.2	0.806525
+6936.4	0.798726
+6945.6	0.78993
+6954.8	0.765645
+6964.0	0.802799
+6973.2	0.81732
+6982.4	0.835948
+6991.6	0.831858
+7000.8	0.829211
+7010.0	0.861478
+7019.2	0.864769
+7028.4	0.868326
+7037.6	0.875731
+7046.8	0.874201
+7056.0	0.904175
+7065.2	0.849375
+7074.4	0.872929
+7083.6	0.863633
+7092.8	0.860746
+7102.0	0.862832
+7111.2	0.901233
+7120.4	0.869661
+7129.6	0.852257
+7138.8	0.864163
+7148.0	0.84442
+7157.2	0.800081
+7166.4	0.761292
+7175.6	0.749336
+7184.8	0.709327
+7194.0	0.700056
+7203.2	0.758891
+7212.4	0.840727
+7221.6	0.780776
+7230.8	0.779795
+7240.0	0.755326
+7249.2	0.748701
+7258.4	0.733171
+7267.6	0.751693
+7276.8	0.755579
+7286.0	0.765355
+7295.2	0.776164
+7304.4	0.774708
+7313.6	0.793205
+7322.8	0.808962
+7332.0	0.809203
+7341.2	0.8137
+7350.4	0.815696
+7359.6	0.805286
+7368.8	0.793869
+7378.0	0.766858
+7387.2	0.829773
+7396.4	0.857908
+7405.6	0.867778
+7414.8	0.857582
+7424.0	0.79936
+7433.2	0.777657
+7442.4	0.829884
+7451.6	0.82793
+7460.8	0.81286
+7470.0	0.809422
+7479.2	0.845791
+7488.4	0.833393
+7497.6	0.795619
+7506.8	0.823849
+7516.0	0.793712
+7525.2	0.805835
+7534.4	0.78306
+7543.6	0.832189
+7552.8	0.830225
+7562.0	0.814964
+7571.2	0.808728
+7580.4	0.828488
+7589.6	0.705327
+7598.8	0.459702
+7608.0	0.29197
+7617.2	0.441213
+7626.4	0.523724
+7635.6	0.500796
+7644.8	0.571262
+7654.0	0.65029
+7663.2	0.745222
+7672.4	0.804429
+7681.6	0.795035
+7690.8	0.807244
+7700.0	0.829348
+7709.2	0.832736
+7718.4	0.825518
+7727.6	0.833691
+7736.8	0.783701
+7746.0	0.772486
+7755.2	0.809337
+7764.4	0.82613
+7773.6	0.807234
+7782.8	0.800327
+7792.0	0.777908
+7801.2	0.751659
+7810.4	0.823554
+7819.6	0.825395
+7828.8	0.920198
+7838.0	0.986053
+7847.2	0.873399
+7856.4	0.861435
+7865.6	0.849433
+7874.8	0.907606
+7884.0	0.827663
+7893.2	0.865561
+7902.4	0.891084
+7911.6	0.867867
+7920.8	0.774173
+7930.0	0.745449
+7939.2	0.840057
+7948.4	0.765525
+7957.6	0.76321
+7966.8	0.811333
+7976.0	0.891778
+7985.2	0.922282
+7994.4	0.882733

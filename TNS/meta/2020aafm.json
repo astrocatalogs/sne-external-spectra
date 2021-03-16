@@ -1,6 +1,6 @@
 {
-	"dec":"+52:05:50.06",
-	"decdeg":52.097238671,
+	"dec":"+52:05:50.05",
+	"decdeg":52.0972373967,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -19,18 +19,18 @@
 	"host_redshift":null,
 	"hostname":"WISEA J091334.46+520552.0",
 	"internal_names":"ZTF20acrbqnp, PS20lrp",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":71255,
 	"objname":"2020aafm",
 	"public":1,
 	"ra":"09:13:34.585",
-	"radeg":138.394104146,
+	"radeg":138.394102598,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.066,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/YSE/tns_2020aafm_2020-12-06_NOT_ALFOSC_YSE.csv",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459189.5,
+			"obsdate":"2020-12-06 00:00:00",
+			"observer":"C Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
 }

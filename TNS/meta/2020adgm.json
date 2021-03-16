@@ -1,0 +1,73 @@
+{
+	"dec":"-53:04:21.40",
+	"decdeg":-53.07261,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20qc",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-20 06:28:48.000",
+	"discoverymag":17.4,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J041302.39-530422.2",
+	"internal_names":"ASASSN-20qc",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":29,
+		"name":"AGN"
+	},
+	"objid":73416,
+	"objname":"2020adgm",
+	"public":1,
+	"ra":"04:13:02.518",
+	"radeg":63.26049,
+	"radeg_err":0,
+	"redshift":0.056,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/StarDestroyers/tns_2020adgm_2021-01-11_13-35-06_FTS_FLOYDS-S_StarDestroyers.ascii",
+			"assoc_groups":[
+				{
+					"id":100,
+					"name":"StarDestroyers"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/StarDestroyers/tns_2020adgm_2021-01-11_13-35-06_FTS_FLOYDS-S_StarDestroyers.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2459226.0660417,
+			"obsdate":"2021-01-11 13:35:06",
+			"observer":"Robotic",
+			"public":1,
+			"reducer":"C. Pellegrino",
+			"remarks":"",
+			"source_group":{
+				"id":100,
+				"name":"StarDestroyers"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	]
+}

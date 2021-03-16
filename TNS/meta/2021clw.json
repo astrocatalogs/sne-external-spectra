@@ -1,0 +1,73 @@
+{
+	"dec":"-50:34:57.14",
+	"decdeg":-50.58254,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"P. Vallely, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-21bg",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2021-02-10 03:50:24.000",
+	"discoverymag":16.7,
+	"end_prop_period":null,
+	"host_redshift":0.023389,
+	"hostname":"NGC 2115",
+	"internal_names":"ASASSN-21bg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":76921,
+	"objname":"2021clw",
+	"public":1,
+	"ra":"05:51:19.939",
+	"radeg":87.83308,
+	"radeg_err":0,
+	"redshift":0.0234,
+	"reporter":"Patrick Vallely",
+	"reporterid":668,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021clw_2021-02-16_03-40-01_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021clw_2021-02-16_03-40-01_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459261.6527894,
+			"obsdate":"2021-02-16 03:40:01",
+			"observer":"L. Harvey, M. Magee",
+			"public":1,
+			"reducer":"S. Prentice, M. Deckers",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

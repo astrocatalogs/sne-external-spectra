@@ -1,7 +1,7 @@
 {
-	"dec":"-00:54:28.92",
-	"decdeg":-0.9080324,
-	"decdeg_err":2.7777777777778e-05,
+	"dec":"-00:54:29.02",
+	"decdeg":-0.908061,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20actnzxm",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actnzxm, ATLAS20bgkk, Gaia20frr, PS21aeq",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":71859,
 	"objname":"2020abbl",
 	"public":1,
-	"ra":"12:17:52.238",
-	"radeg":184.4676598,
-	"radeg_err":2.7777777777778e-05,
-	"redshift":null,
+	"ra":"12:17:52.230",
+	"radeg":184.467625,
+	"radeg_err":0,
+	"redshift":0.0211309996,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abbl_2020-12-12_15-24-29_Keck1_LRIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459196.1420023,
+			"obsdate":"2020-12-12 15:24:29",
+			"observer":"Yuhan Yao, Yashvi Sharma",
+			"public":1,
+			"reducer":"Anna Ho",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
 }

@@ -1,0 +1,73 @@
+{
+	"dec":"+23:57:03.71",
+	"decdeg":23.9510301972,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acwcqnv",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-06 08:37:21.999",
+	"discoverymag":20.0133,
+	"end_prop_period":null,
+	"host_redshift":0.136,
+	"hostname":"SDSS J080649.65+235704.0",
+	"internal_names":"ZTF20acwcqnv, ATLAS20bhnt, PS20mpo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72564,
+	"objname":"2020acae",
+	"public":1,
+	"ra":"08:06:49.841",
+	"radeg":121.707670493,
+	"radeg_err":0,
+	"redshift":0.09,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/adH0cc/tns_2020acae_2020-12-12_07-13-37_VLT-UT1_FORS2_adH0cc.asci",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/adH0cc/tns_2020acae_2020-12-12_07-13-37_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2459195.8011227,
+			"obsdate":"2020-12-12 07:13:37",
+			"observer":"Service",
+			"public":1,
+			"reducer":"G. Csoernyei",
+			"remarks":"Quick reduction file, telluric corrected",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
-	"dec":"-26:59:15.98",
-	"decdeg":-26.9877724,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-26:59:16.15",
+	"decdeg":-26.987819,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acumekm, ATLAS20bgku",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acumekm, ATLAS20bgku, Gaia20fpm",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":72058,
 	"objname":"2020abgv",
 	"public":1,
-	"ra":"02:38:40.807",
-	"radeg":39.6700283,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"02:38:40.800",
+	"radeg":39.67,
+	"radeg_err":0,
+	"redshift":0.057,
 	"reporter":"ZTF_AMPEL_COMPLETE",
 	"reporterid":59228,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abgv_2020-12-15_03-11-57_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abgv_2020-12-15_03-11-57_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459198.6332986,
+			"obsdate":"2020-12-15 03:11:57",
+			"observer":"P. Pessi, J. Anderson",
+			"public":1,
+			"reducer":"C. Gutierrez",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
 }

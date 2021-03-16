@@ -1,0 +1,73 @@
+{
+	"dec":"+14:02:40.36",
+	"decdeg":14.0445431932,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20actpavu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-11-25 03:41:49.998",
+	"discoverymag":18.8869,
+	"end_prop_period":null,
+	"host_redshift":0.073,
+	"hostname":"SDSS J232547.39+140245.2",
+	"internal_names":"ZTF20actpavu, PS20mtn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":71815,
+	"objname":"2020aazt",
+	"public":1,
+	"ra":"23:25:47.163",
+	"radeg":351.4465107,
+	"radeg_err":0,
+	"redshift":0.0315,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020aazt_2020-01-27_19-39-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020aazt_2020-01-27_19-39-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2458876.31875,
+			"obsdate":"2020-01-27 19:39:00",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	]
+}

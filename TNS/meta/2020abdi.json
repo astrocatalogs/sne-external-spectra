@@ -1,7 +1,7 @@
 {
-	"dec":"+39:48:29.05",
-	"decdeg":39.808070633333,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+39:48:29.27",
+	"decdeg":39.808131,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acuhgar",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acuhgar, ATLAS20bgmq, Gaia21ade",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":71909,
 	"objname":"2020abdi",
 	"public":1,
-	"ra":"12:12:50.123",
-	"radeg":183.20884626667,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"12:12:50.120",
+	"radeg":183.208833,
+	"radeg_err":0,
+	"redshift":0.053,
 	"reporter":"ZTF_AMPEL_COMPLETE",
 	"reporterid":59228,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2020abdi_2021-01-06_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459220.5,
+			"obsdate":"2021-01-06 00:00:00",
+			"observer":"K. Taggart, C. Rojas-Bravo",
+			"public":1,
+			"reducer":"C. Rojas-Bravo",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	]
 }

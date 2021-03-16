@@ -1,0 +1,65 @@
+{
+	"dec":"-19:30:05.68",
+	"decdeg":-19.5015781,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF20acuzfpk",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-05 07:13:26.400",
+	"discoverymag":18.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acuzfpk, ATLAS20bgva",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72323,
+	"objname":"2020abqy",
+	"public":1,
+	"ra":"05:13:33.668",
+	"radeg":78.390283,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.057,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020abqy_2020-12-07_00-00-00_Magellan-Baade_IMACS.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2459190.5,
+			"obsdate":"2020-12-07 00:00:00",
+			"observer":"C. Contreras/A. Pasten/C. Fuentes",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	]
+}

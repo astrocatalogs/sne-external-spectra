@@ -1,0 +1,73 @@
+{
+	"dec":"+13:13:15.76",
+	"decdeg":13.2210434708,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":23,
+		"name":"i"
+	},
+	"discoverer":"D. O. Jones (UC Santa Cruz), K. D. French (Carnegie, Illinois), A. Agnello, C. R. Angus, Z. Ansari, N. Arendse, C. Gall, C. Grillo, S. H. Bruun, C. Hede, J. Hjorth, L. Izzo, H. Korhonen, S. Raimundo, D. Kodi Ramanah, A. Sarangi, R. Wojtak, H. Pfister (DARK, U Copenhagen), K. Auchettl (DARK, UC Santa Cruz, U Melbourne), K. C. Chambers, M. E. Huber, E. A. Magnier, T. J. L. de Boer, J. R. Fairlamb, C. C. Lin, R. J. Wainscoat, T. Lowe, M. Willman, J. Bulger, A. S. B. Schultz (IfA, Hawaii), A. Engel, A. Gagliano, G. Narayan, M. Soraisam (Illinois), Q. Wang (JHU), A. Rest (JHU, STScI), S. J. Smartt, K. W. Smith (Queen's University Belfast), K. Alexander, A. Baldeschi, P. Blanchard, D. Coppejans, L. DeMarchi, A. Hajela, W. Jacobson-Galan, R. Margutti, D. Matthews, C. Stauffer, M. Stroh, G. Terreran (Northwestern), M. Drout (U Toronto), D. A. Coulter, G. Dimitriadis, R. J. Foley, T. Hung, C. D. Kilpatrick, C. Rojas-Bravo, M. R. Siebert (UC Santa Cruz), E. Ramirez-Ruiz (UC Santa Cruz, DARK)",
+	"discoverer_internal_name":"PS21gj",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2021-01-08 13:45:07.200",
+	"discoverymag":20.42,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS21gj, ATLAS21chg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":75343,
+	"objname":"2021afj",
+	"public":1,
+	"ra":"11:36:28.475",
+	"radeg":174.118646926,
+	"radeg_err":0,
+	"redshift":0.097,
+	"reporter":"YSE_Bot1",
+	"reporterid":73181,
+	"reporting_group":{
+		"group_name":"YSE",
+		"groupid":83
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2021afj_2021-02-05_SOAR_Goodman_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459250.5,
+			"obsdate":"2021-02-05 00:00:00",
+			"observer":"G. Dimitriadis",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

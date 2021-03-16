@@ -1,0 +1,73 @@
+{
+	"dec":"-31:09:10.18",
+	"decdeg":-31.1528266667,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20qk",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-24 06:28:48.000",
+	"discoverymag":17.5,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ASASSN-20qk, ATLAS20bhnl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":73637,
+	"objname":"2020adox",
+	"public":1,
+	"ra":"04:53:40.321",
+	"radeg":73.4180047368,
+	"radeg_err":0,
+	"redshift":0.074,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020adox_2020-12-31_09-16-16_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2420,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459214.8862963,
+			"obsdate":"2020-12-31 09:16:16",
+			"observer":"Hinkle",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick reduction pipeline.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

@@ -1,6 +1,6 @@
 {
-	"dec":"+38:37:50.43",
-	"decdeg":38.6306738462,
+	"dec":"+38:37:50.23",
+	"decdeg":38.6306203936,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20bevx",
+	"internal_names":"ATLAS20bevx, PS20nfi",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":4,
@@ -27,8 +27,8 @@
 	"objid":70307,
 	"objname":"2020yvv",
 	"public":1,
-	"ra":"23:59:13.568",
-	"radeg":359.806534615,
+	"ra":"23:59:13.596",
+	"radeg":359.806648305,
 	"radeg_err":0,
 	"redshift":0.032,
 	"reporter":"ATLAS_Bot1",
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020yvv_2020-11-08_21-26-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020yvv_2020-11-08_21-26-00_Ekar_AFOSC_Padova-Asiago.dat",
 			"assoc_groups":[
 				{
 					"id":16,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":2700,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Padova-Asiago/tns_2020yvv_2020-11-08_21-26-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020yvv_2020-11-08_21-26-00_Ekar_AFOSC_Padova-Asiago.fits",
 			"instrument":{
 				"id":37,
 				"name":"AFOSC"

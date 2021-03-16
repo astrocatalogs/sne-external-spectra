@@ -1,0 +1,73 @@
+{
+	"dec":"-68:26:13.27",
+	"decdeg":-68.43702,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"P. Vallely, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20pm",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-09 00:00:00.000",
+	"discoverymag":16.6,
+	"end_prop_period":null,
+	"host_redshift":0.026992,
+	"hostname":"NGC 0813",
+	"internal_names":"ASASSN-20pm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72555,
+	"objname":"2020abzv",
+	"public":1,
+	"ra":"02:01:39.797",
+	"radeg":30.41582,
+	"radeg_err":0,
+	"redshift":0.027,
+	"reporter":"Patrick Vallely",
+	"reporterid":668,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abzv_2021-01-03_00-52-27_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abzv_2021-01-03_00-52-27_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459217.5364236,
+			"obsdate":"2021-01-03 00:52:27",
+			"observer":"K. Smith, J. Gillanders",
+			"public":1,
+			"reducer":"S. Srivastav",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

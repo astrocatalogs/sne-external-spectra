@@ -1,0 +1,95 @@
+{
+	"dec":"-01:44:24.50",
+	"decdeg":-1.740139,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"A. Munoz-Arancibia, A. Mourao, G. Pignata, F. Forster, F.E. Bauer, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aabpszb",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-07 03:50:09.001",
+	"discoverymag":19.1459,
+	"end_prop_period":null,
+	"host_redshift":0.016348,
+	"hostname":"UGC 00784",
+	"internal_names":"ZTF21aabpszb, ATLAS21awb, PS21ef, Gaia21adm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":74899,
+	"objname":"2021pc",
+	"public":1,
+	"ra":"01:14:04.820",
+	"radeg":18.520083,
+	"radeg_err":0,
+	"redshift":0.016348,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021pc_2021-01-16_05-19-43.147280_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2160,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459230.7220255,
+			"obsdate":"2021-01-16 05:19:43",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021pc_2021-01-07_15-49-20_CMO-2.5m_TDS.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":249,
+				"name":"TDS"
+			},
+			"jd":2459222.1592593,
+			"obsdate":"2021-01-07 15:49:20",
+			"observer":"Seva Lander",
+			"public":1,
+			"reducer":"Alexander Dodin",
+			"remarks":"The observations were performed with the Transient Double-beam Spectrograph mounted on the 2.5-m Telescope of the Caucasus Mountain Observatory (CMO)",
+			"source_group_name":"None",
+			"telescope":{
+				"id":149,
+				"name":"CMO-2.5m"
+			}
+		}
+	]
+}

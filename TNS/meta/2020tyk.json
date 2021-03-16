@@ -1,0 +1,103 @@
+{
+	"dec":"+20:00:03.04",
+	"decdeg":20.000843254545,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"R. Shirley (Univ. of Southampton), I. Perez-Fournon, C. Jimenez Angel, F. Poidevin (IAC & ULL), R. Marques-Chaves (CAB), S. Geier (GRANTECAN & IAC), Y. Shu (IoA), S.  Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF20acbekkx",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-17 08:58:40.000",
+	"discoverymag":20.478,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acbekkx, ATLAS20bcqv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objid":66953,
+	"objname":"2020tyk",
+	"public":1,
+	"ra":"01:37:58.386",
+	"radeg":24.493275790909,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.087,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020tyk_2020-10-23_05-09-36.51_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020tyk_2020-10-23_05-09-36.51_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459145.715,
+			"obsdate":"2020-10-23 05:09:37",
+			"observer":"C. Briceno",
+			"public":1,
+			"reducer":"K. E. Weil, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/FLEET/tns_2020tyk_2020-10-18_MMT_BINOSPEC_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2459140.5,
+			"obsdate":"2020-10-18 00:00:00",
+			"observer":"Binospec Queue Service Observer",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

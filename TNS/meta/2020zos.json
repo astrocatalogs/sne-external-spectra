@@ -18,11 +18,11 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"WISEA J050632.07+074535.3",
-	"internal_names":"ZTF20acqgklx, PS20lax",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acqgklx, PS20lax, ATLAS20bgvg",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objid":70815,
 	"objname":"2020zos",
@@ -30,7 +30,7 @@
 	"ra":"05:06:32.092",
 	"radeg":76.6337166148,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.14,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,28 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020zos_2020-12-07_09-08-01_MMT_MMT-Blue.txt",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":58,
+				"name":"MMT-Blue"
+			},
+			"jd":2459190.8805671,
+			"obsdate":"2020-12-07 09:08:01",
+			"observer":"Peter Blanchard",
+			"public":1,
+			"reducer":"Peter Blanchard",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
 }

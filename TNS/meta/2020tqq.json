@@ -1,0 +1,73 @@
+{
+	"dec":"+14:20:02.09",
+	"decdeg":14.3339137955,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"R. Marques-Chaves (CAB), I. Perez-Fournon, C. Jimenez Angel, F. Poidevin (IAC & ULL), R. Shirley (Univ. of Southampton), S. Geier (GRANTECAN & IAC), Y. Shu (IoA), S. Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF20abzcefc",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-09-14 09:04:28.000",
+	"discoverymag":19.981,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20abzcefc, PS20hrp, ATLAS20bbqg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":66746,
+	"objname":"2020tqq",
+	"public":1,
+	"ra":"01:42:41.010",
+	"radeg":25.6708758406,
+	"radeg_err":0,
+	"redshift":0.056,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020tqq_2020-11-09_03-04-52.11_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020tqq_2020-11-09_03-04-52.11_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459162.6283796,
+			"obsdate":"2020-11-09 03:04:52",
+			"observer":"C. Briceno",
+			"public":1,
+			"reducer":"K. E. Weil, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

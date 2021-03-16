@@ -1,7 +1,7 @@
 {
-	"dec":"+35:04:09.30",
-	"decdeg":35.0692496,
-	"decdeg_err":5.5555555555556e-05,
+	"dec":"+35:04:09.52",
+	"decdeg":35.0693108731,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20berh, ZTF20acosehg",
+	"internal_names":"ATLAS20berh, ZTF20acosehg, PS20ngg",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,9 +27,9 @@
 	"objid":69850,
 	"objname":"2020yem",
 	"public":1,
-	"ra":"02:50:56.487",
-	"radeg":42.7353638,
-	"radeg_err":5.5555555555556e-05,
+	"ra":"02:50:56.477",
+	"radeg":42.7353226359,
+	"radeg_err":0,
 	"redshift":0.08,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020yem_2020-11-06_12-35-54_P60_SEDM_ZTF.ascii",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020yem_2020-11-06_12-35-54_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
 					"id":48,

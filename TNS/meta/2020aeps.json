@@ -1,0 +1,73 @@
+{
+	"dec":"+32:32:07.58",
+	"decdeg":32.535439,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Hanjie Tan, Mi Zhang, Guoyou Sun, Xing Gao (Xingming Observatory)",
+	"discoverer_internal_name":"XM25HT",
+	"discovery_data_source":{
+		"group_name":"XOSS",
+		"groupid":10
+	},
+	"discoverydate":"2020-12-29 21:42:09.000",
+	"discoverymag":16.89,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"XM25HT, ZTF20adagenq, Gaia21adn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":74342,
+	"objname":"2020aeps",
+	"public":1,
+	"ra":"12:08:47.430",
+	"radeg":182.197625,
+	"radeg_err":0,
+	"redshift":0.0244,
+	"reporter":"Hanjie Tan",
+	"reporterid":198,
+	"reporting_group":{
+		"group_name":"XOSS",
+		"groupid":10
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020aeps_2459220.159_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459220.159,
+			"obsdate":"2021-01-05 15:48:58",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction piepline. Only blue channel available. ",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

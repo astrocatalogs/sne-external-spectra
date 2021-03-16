@@ -1,0 +1,73 @@
+{
+	"dec":"+02:09:06.79",
+	"decdeg":2.15188474841,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aajtstm",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-08 09:05:49.004",
+	"discoverymag":20.6748,
+	"end_prop_period":null,
+	"host_redshift":0.077687,
+	"hostname":"SDSS J123025.72+020907.7",
+	"internal_names":"ZTF21aajtstm, PS21aaq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":105,
+		"name":"SN Iax[02cx-like]"
+	},
+	"objid":76979,
+	"objname":"2021cob",
+	"public":1,
+	"ra":"12:30:25.353",
+	"radeg":187.605636157,
+	"radeg_err":0,
+	"redshift":0.078,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2021cob_2021-02-12_12-46-50_Keck1_LRIS_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459258.0325231,
+			"obsdate":"2021-02-12 12:46:50",
+			"observer":"M. R. Siebert, K. Taggart, R. J. Foley ",
+			"public":1,
+			"reducer":"M. R. Siebert",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
+}

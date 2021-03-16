@@ -1,0 +1,87 @@
+{
+	"dec":"+65:27:07.55",
+	"decdeg":65.4520971429,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders, C. Webb (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21flz",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-02-13 09:08:38.400",
+	"discoverymag":18.337,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21flz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77193,
+	"objname":"2021cwc",
+	"public":1,
+	"ra":"06:39:46.830",
+	"radeg":99.945125,
+	"radeg_err":0,
+	"redshift":0.021,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021cwc_2021-02-14_NOT_ALFOSC_0.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459259.5,
+			"obsdate":"2021-02-14 00:00:00",
+			"observer":"C. R. Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021cwc_2021-02-14_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459259.5,
+			"obsdate":"2021-02-14 00:00:00",
+			"observer":"C.R.Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"dec":"+56:27:53.65",
+	"decdeg":56.4649014352,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"J. Hernández-Fuertes,  H. Vázquez Ramió, J. Varela (CEFCA), A. Ederoclite (IAG/USP), B. B. Siffert (UFRJ), L. Espinosa (IAG/USP), V. M. Placco (NSF/NOIRLab), A. Álvarez-Candal (ON), N. Maícas, C. López-Sanjuan, A. Marín-Franch, A. J. Cenarro (CEFCA)",
+	"discoverer_internal_name":"JVAR20a",
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2020-12-22 03:54:32.000",
+	"discoverymag":21.13,
+	"end_prop_period":null,
+	"host_redshift":0.044,
+	"hostname":"MCG+09-14-052",
+	"internal_names":"JVAR20a, PS20mpm, ZTF20adadsgm",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":73561,
+	"objname":"2020admb",
+	"public":1,
+	"ra":"08:32:26.000",
+	"radeg":128.108333781,
+	"radeg_err":0,
+	"redshift":0.043947,
+	"reporter":"Héctor Vázquez Ramió",
+	"reporterid":2147,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020admb_2021-01-02_12-03-49.924708_P60_SEDM_ZTF_0.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2160,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459217.0026505,
+			"obsdate":"2021-01-02 12:03:50",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020admb_2021-01-02_12-03-49.924708_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2160,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459217.0026505,
+			"obsdate":"2021-01-02 12:03:50",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

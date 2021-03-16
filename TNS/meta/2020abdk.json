@@ -1,6 +1,6 @@
 {
 	"dec":"+00:02:42.97",
-	"decdeg":0.0452687459964,
+	"decdeg":0.0452685576876,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"Sloan",
@@ -19,18 +19,18 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_names":"PS20lto",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71911,
 	"objname":"2020abdk",
 	"public":1,
-	"ra":"05:34:29.070",
-	"radeg":83.6211251558,
+	"ra":"05:34:29.074",
+	"radeg":83.6211410913,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.04,
 	"reporter":"PS2_Bot1",
 	"reporterid":67899,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":4
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020abdk_2020-12-07_11-15-47_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459190.969294,
+			"obsdate":"2020-12-07 11:15:47",
+			"observer":"M E Huber",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline, only red channel available.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
 }

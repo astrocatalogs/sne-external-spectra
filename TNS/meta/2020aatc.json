@@ -1,7 +1,7 @@
 {
-	"dec":"-10:15:07.48",
-	"decdeg":-10.252077514286,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-10:15:07.52",
+	"decdeg":-10.252089,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":0.015254,
 	"hostname":"MCG -02-08-007",
-	"internal_names":"ZTF20actddoh, ATLAS20bgjn",
+	"internal_names":"ZTF20actddoh, ATLAS20bgjn, Gaia21abr, PS21t",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,9 +27,9 @@
 	"objid":71639,
 	"objname":"2020aatc",
 	"public":1,
-	"ra":"02:48:16.425",
-	"radeg":42.068439114286,
-	"radeg_err":0.00027777777777778,
+	"ra":"02:48:16.430",
+	"radeg":42.068458,
+	"radeg_err":0,
 	"redshift":0.01525,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aatc_2020-11-24_00-00-00_Magellan-Baade_IMACS.asci",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020aatc_2020-11-24_00-00-00_Magellan-Baade_IMACS.asci",
 			"end_prop_period":null,
 			"exptime":null,
 			"fitsfile":"",

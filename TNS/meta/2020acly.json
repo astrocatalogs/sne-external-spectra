@@ -1,0 +1,65 @@
+{
+	"dec":"+52:53:36.57",
+	"decdeg":52.8934913211,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS20mca",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-12-11 11:03:50.400",
+	"discoverymag":16.37,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS20mca",
+	"name_prefix":"AT",
+	"object_type":{
+		"id":27,
+		"name":"CV"
+	},
+	"objid":72875,
+	"objname":"2020acly",
+	"public":1,
+	"ra":"06:41:39.290",
+	"radeg":100.41370757,
+	"radeg_err":0,
+	"redshift":null,
+	"reporter":"PS1_Bot1",
+	"reporterid":35588,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020acly_2020-12-12_23-49-45.221_LT_SPRAT.dat",
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459196.4928819,
+			"obsdate":"2020-12-12 23:49:45",
+			"observer":"Robotic",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"dec":"+30:01:40.80",
+	"decdeg":30.027999767,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"Daniel Perley (LJMU), Anna Ho (UC Berkeley), Lucy Astles (University of Liverpool)",
+	"discoverer_internal_name":"ZTF21aaiaqhh",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-07 07:55:14.592",
+	"discoverymag":19.217,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS1237667254556033173",
+	"internal_names":"ZTF21aaiaqhh, ATLAS21dws, PS21akg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":76620,
+	"objname":"2021can",
+	"public":1,
+	"ra":"12:55:30.795",
+	"radeg":193.878314526,
+	"radeg_err":0,
+	"redshift":0.0207,
+	"reporter":"Daniel Perley",
+	"reporterid":235,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021can_2459253.7677963_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459253.7677963,
+			"obsdate":"2021-02-08 06:25:38",
+			"observer":"Daniel Perley",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

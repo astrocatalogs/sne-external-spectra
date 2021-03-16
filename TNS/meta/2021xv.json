@@ -1,0 +1,73 @@
+{
+	"dec":"+36:46:46.33",
+	"decdeg":36.779536,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, G. Pignata, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aadatfg",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-10 12:23:34.999",
+	"discoverymag":19.9349,
+	"end_prop_period":null,
+	"host_redshift":0.061,
+	"hostname":"SDSS J160732.83+364646.1",
+	"internal_names":"ZTF21aadatfg, ATLAS21cmb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":7,
+		"name":"SN Ic-BL"
+	},
+	"objid":75135,
+	"objname":"2021xv",
+	"public":1,
+	"ra":"16:07:32.810",
+	"radeg":241.886708,
+	"radeg_err":0,
+	"redshift":0.05,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021xv_2459239.7189359954_NOT_ALFOSC_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459239.7189359954,
+			"obsdate":"2021-01-25 05:15:16",
+			"observer":"Steve Schulze",
+			"public":1,
+			"reducer":"Steve Schulze",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

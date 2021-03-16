@@ -1,0 +1,103 @@
+{
+	"dec":"+54:47:22.45",
+	"decdeg":54.789569,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS20binb",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-12-17 13:46:33.600",
+	"discoverymag":19.322,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS20binb, ZTF20acxzqyp, PS20myp, Gaia21ben",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":73224,
+	"objname":"2020aczg",
+	"public":1,
+	"ra":"10:01:06.690",
+	"radeg":150.277875,
+	"radeg_err":0,
+	"redshift":0.03,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SIRAH/tns_2020aczg_2020-12-20.469_Lick-3m_KAST_SIRAH.flm",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459203.9689931,
+			"obsdate":"2020-12-20 11:15:22",
+			"observer":"T. Brink",
+			"public":1,
+			"reducer":"T. Brink",
+			"remarks":"",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020aczg_2020-12-19_12-47-42.447457_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459203.033125,
+			"obsdate":"2020-12-19 12:47:42",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

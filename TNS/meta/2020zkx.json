@@ -1,7 +1,7 @@
 {
 	"dec":"+06:44:28.84",
-	"decdeg":6.74134542,
-	"decdeg_err":0.00027777777777778,
+	"decdeg":6.74134466087,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":0.028508,
 	"hostname":"WISEA J111832.30+064427.3",
-	"internal_names":"ZTF20acnvtxy, ATLAS20bfcg",
+	"internal_names":"ZTF20acnvtxy, ATLAS20bfcg, PS20mdc",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":11,
@@ -27,9 +27,9 @@
 	"objid":70716,
 	"objname":"2020zkx",
 	"public":1,
-	"ra":"11:18:31.839",
-	"radeg":169.63266396,
-	"radeg_err":0.00027777777777778,
+	"ra":"11:18:31.840",
+	"radeg":169.632667151,
+	"radeg_err":0,
 	"redshift":0.03,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020zkx_2459168.0962_UH88_SNIFS_SCAT.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020zkx_2459168.0962_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
 					"id":51,

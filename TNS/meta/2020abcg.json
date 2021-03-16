@@ -1,7 +1,7 @@
 {
-	"dec":"+15:20:37.48",
-	"decdeg":15.34374445,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+15:20:37.56",
+	"decdeg":15.3437655525,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.248,
 	"hostname":"SDSS J085230.27+152037.0",
-	"internal_names":"ZTF20actveqm",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actveqm, ATLAS20bhev, PS20nkm",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71881,
 	"objname":"2020abcg",
 	"public":1,
-	"ra":"08:52:30.297",
-	"radeg":133.12623776667,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"08:52:30.290",
+	"radeg":133.126209563,
+	"radeg_err":0,
+	"redshift":0.111,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020abcg_2020-12-18_06-45-36.13_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020abcg_2020-12-18_06-45-36.13_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459201.7816667,
+			"obsdate":"2020-12-18 06:45:36",
+			"observer":"R. Cartier",
+			"public":1,
+			"reducer":"K. E. Weil, B. M. Subrayan, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
 }

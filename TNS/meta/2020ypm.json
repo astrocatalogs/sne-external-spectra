@@ -1,7 +1,7 @@
 {
-	"dec":"-05:57:34.49",
-	"decdeg":-5.9595817,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-05:57:34.50",
+	"decdeg":-5.95958450484,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20ackpjmb",
+	"internal_names":"ZTF20ackpjmb, PS20mkx",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,9 +27,9 @@
 	"objid":70140,
 	"objname":"2020ypm",
 	"public":1,
-	"ra":"01:57:38.788",
-	"radeg":29.411618628571,
-	"radeg_err":0.00027777777777778,
+	"ra":"01:57:38.790",
+	"radeg":29.4116255155,
+	"radeg_err":0,
 	"redshift":0.135,
 	"reporter":"ZTF_AMPEL_COMPLETE",
 	"reporterid":59228,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020ypm_2020-11-09_03-34-55.82_SOAR_Goodman_REFITT.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020ypm_2020-11-09_03-34-55.82_SOAR_Goodman_REFITT.dat",
 			"assoc_groups":[
 				{
 					"id":98,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":600,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/REFITT/tns_2020ypm_2020-11-09_03-34-55.82_SOAR_Goodman_REFITT.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020ypm_2020-11-09_03-34-55.82_SOAR_Goodman_REFITT.fits",
 			"instrument":{
 				"id":127,
 				"name":"Goodman"

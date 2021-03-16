@@ -18,11 +18,11 @@
 	"end_prop_period":null,
 	"host_redshift":0.036882,
 	"hostname":"WISEA J052200.10-071132.9",
-	"internal_names":"ZTF20acptgfl, PS20kye",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acptgfl, PS20kye, ATLAS20bgzt",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":11,
+		"name":"SN IIP"
 	},
 	"objid":70677,
 	"objname":"2020zjk",
@@ -30,7 +30,7 @@
 	"ra":"05:22:00.028",
 	"radeg":80.5001159515,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.0368,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020zjk_2021-01-16_01-12-15.54_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020zjk_2021-01-16_01-12-15.54_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459230.5501736,
+			"obsdate":"2021-01-16 01:12:16",
+			"observer":"C. Briceno",
+			"public":1,
+			"reducer":"K. E. Weil, B. M. Subrayan, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
 }

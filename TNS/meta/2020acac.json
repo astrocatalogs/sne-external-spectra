@@ -1,0 +1,65 @@
+{
+	"dec":"+25:29:19.97",
+	"decdeg":25.488881,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acbjgoa",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-05 12:51:00.003",
+	"discoverymag":19.0998,
+	"end_prop_period":null,
+	"host_redshift":0.015137,
+	"hostname":"UGC 09340",
+	"internal_names":"ZTF20acbjgoa, Gaia20fpu, ATLAS20bjhv, PS21gk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":72562,
+	"objname":"2020acac",
+	"public":1,
+	"ra":"14:31:00.620",
+	"radeg":217.752583,
+	"radeg_err":0,
+	"redshift":0.015137,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020acac_2020-12-11_02-38-54_CMO-2.5m_TDS.txt",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":249,
+				"name":"TDS"
+			},
+			"jd":2459194.6103472,
+			"obsdate":"2020-12-11 02:38:54",
+			"observer":"Atapin K., Burlak M.",
+			"public":1,
+			"reducer":"Dodin A.",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":149,
+				"name":"CMO-2.5m"
+			}
+		}
+	]
+}

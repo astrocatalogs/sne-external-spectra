@@ -1,7 +1,7 @@
 {
-	"dec":"-03:26:29.38",
-	"decdeg":-3.4414957466667,
-	"decdeg_err":3.6169819217408e-05,
+	"dec":"-03:26:29.42",
+	"decdeg":-3.44150517032,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acoxmsr, ATLAS20bfpa",
+	"internal_names":"ZTF20acoxmsr, ATLAS20bfpa, PS20mwz",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,9 +27,9 @@
 	"objid":70392,
 	"objname":"2020yza",
 	"public":1,
-	"ra":"10:41:35.158",
-	"radeg":160.39649002667,
-	"radeg_err":4.0233526096447e-05,
+	"ra":"10:41:35.169",
+	"radeg":160.396536831,
+	"radeg_err":0,
 	"redshift":0.071,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020yza_2020-11-08_14-14-21_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020yza_2020-11-08_14-14-21_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
 					"id":38,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":3600,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020yza_2020-11-08_14-14-21_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020yza_2020-11-08_14-14-21_FTN_FLOYDS-N_Global_SN_Project.fits",
 			"instrument":{
 				"id":108,
 				"name":"FLOYDS-N"

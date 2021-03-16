@@ -1,6 +1,6 @@
 {
-	"dec":"+21:51:48.98",
-	"decdeg":21.8636043177,
+	"dec":"+21:51:48.85",
+	"decdeg":21.863569,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acmaaan, PS20khn, ATLAS20berr",
+	"internal_names":"ZTF20acmaaan, PS20khn, ATLAS20berr, Gaia20fub",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":10,
@@ -27,8 +27,8 @@
 	"objid":69680,
 	"objname":"2020xyk",
 	"public":1,
-	"ra":"00:20:55.734",
-	"radeg":5.23222688087,
+	"ra":"00:20:55.740",
+	"radeg":5.23225,
 	"radeg_err":0,
 	"redshift":0.0187,
 	"reporter":"ZTF_Bot1",
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020xyk_2020-10-25_03-15-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020xyk_2020-10-25_03-15-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
 				{
 					"id":63,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":900,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020xyk_2020-10-25_03-15-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020xyk_2020-10-25_03-15-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
 			"instrument":{
 				"id":31,
 				"name":"EFOSC2-NTT"
@@ -70,7 +70,7 @@
 			}
 		},
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/SCAT/tns_2020xyk_2459145.8202_UH88_SNIFS_SCAT.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020xyk_2459145.8202_UH88_SNIFS_SCAT.dat",
 			"assoc_groups":[
 				{
 					"id":51,
@@ -100,7 +100,7 @@
 			}
 		},
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ZTF/tns_2020xyk_2020-10-23_05-21-20_P60_SEDM_ZTF.ascii",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020xyk_2020-10-23_05-21-20_P60_SEDM_ZTF.ascii",
 			"assoc_groups":[
 				{
 					"id":48,

@@ -1,0 +1,73 @@
+{
+	"dec":"-62:27:02.59",
+	"decdeg":-62.45072,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"D Bersier, K Stanek",
+	"discoverer_internal_name":"ASASSN-20pi",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-02 04:09:07.200",
+	"discoverymag":17.081,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"PGC127532",
+	"internal_names":"ASASSN-20pi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72477,
+	"objname":"2020abww",
+	"public":1,
+	"ra":"03:14:25.063",
+	"radeg":48.60443,
+	"radeg_err":0,
+	"redshift":0.059,
+	"reporter":"David Bersier",
+	"reporterid":112,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abww_2020-12-11_03-30-22_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abww_2020-12-11_03-30-22_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459194.646088,
+			"obsdate":"2020-12-11 03:30:22",
+			"observer":"J. P. Anderson, P. Pessi",
+			"public":1,
+			"reducer":"L. Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

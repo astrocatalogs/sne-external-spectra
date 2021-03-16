@@ -1,6 +1,6 @@
 {
 	"dec":"-31:20:16.62",
-	"decdeg":-31.3379504651,
+	"decdeg":-31.33795,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"Sloan",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":0.059658,
 	"hostname":"WISEA J040255.26-312018.9",
-	"internal_names":"ASASSN-20od, ATLAS20bffc",
+	"internal_names":"ASASSN-20od, ATLAS20bffc, Gaia20fol",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,8 +27,8 @@
 	"objid":70863,
 	"objname":"2020zqo",
 	"public":1,
-	"ra":"04:02:55.154",
-	"radeg":60.729807907,
+	"ra":"04:02:55.180",
+	"radeg":60.729917,
 	"radeg_err":0,
 	"redshift":0.06,
 	"reporter":"Krzysztof Stanek",
@@ -40,7 +40,7 @@
 	"source":"user",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020zqo_2020-11-21_05-54-35_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020zqo_2020-11-21_05-54-35_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
 				{
 					"id":63,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":600,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020zqo_2020-11-21_05-54-35_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020zqo_2020-11-21_05-54-35_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
 			"instrument":{
 				"id":31,
 				"name":"EFOSC2-NTT"

@@ -1,0 +1,65 @@
+{
+	"dec":"+18:01:09.37",
+	"decdeg":18.0192682,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aaaytny",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-01 12:37:26.400",
+	"discoverymag":18.74,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aaaytny, ATLAS21cvk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":74798,
+	"objname":"2021mc",
+	"public":1,
+	"ra":"16:01:45.472",
+	"radeg":240.439468,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.0459,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021mc_2021-01-16_15-00-31_FTN_FLOYDS-N.ascii",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459231.1253588,
+			"obsdate":"2021-01-16 15:00:31",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
+}

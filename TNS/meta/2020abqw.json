@@ -1,0 +1,73 @@
+{
+	"dec":"+20:10:29.36",
+	"decdeg":20.174821033333,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF20acvevsn",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-05 12:14:03.998",
+	"discoverymag":19.2155,
+	"end_prop_period":null,
+	"host_redshift":0.01417,
+	"hostname":"NGC 3646",
+	"internal_names":"ZTF20acvevsn, ATLAS20bhbx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":72321,
+	"objname":"2020abqw",
+	"public":1,
+	"ra":"11:21:41.002",
+	"radeg":170.42084156667,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.014,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020abqw_2020-12-06_14-42-00_Gemini-N_GMOS_SCAT.txt",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":6,
+				"name":"GMOS"
+			},
+			"jd":2459190.1125,
+			"obsdate":"2020-12-06 14:42:00",
+			"observer":"Ashall/Huber/de jaeger",
+			"public":1,
+			"reducer":"de jaeger",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":15,
+				"name":"Gemini-N"
+			}
+		}
+	]
+}

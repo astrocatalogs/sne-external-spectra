@@ -1,0 +1,73 @@
+{
+	"dec":"+11:56:22.21",
+	"decdeg":11.939503225,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF20acvcpau",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-07 04:09:46.944",
+	"discoverymag":19.79,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acvcpau, ATLAS20bjvy",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objid":73520,
+	"objname":"2020adkm",
+	"public":1,
+	"ra":"03:25:00.805",
+	"radeg":51.253352391667,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.226,
+	"reporter":"ZTF_AMPEL_COMPLETE",
+	"reporterid":59228,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/FLEET/tns_2020adkm_2021-01-14_05-23-26_MMT_MMT-Blue_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":58,
+				"name":"MMT-Blue"
+			},
+			"jd":2459228.7246065,
+			"obsdate":"2021-01-14 05:23:26",
+			"observer":"Peter Blanchard",
+			"public":1,
+			"reducer":"Peter Blanchard",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

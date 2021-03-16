@@ -1,6 +1,6 @@
 {
-	"dec":"+14:07:16.61",
-	"decdeg":14.121281,
+	"dec":"+14:07:16.62",
+	"decdeg":14.1212839616,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acpyldh",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acpyldh, PS20mny",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":18,
+		"name":"SLSN-I"
 	},
 	"objid":72118,
 	"objname":"2020abjc",
 	"public":1,
-	"ra":"09:28:00.278",
-	"radeg":142.001158,
+	"ra":"09:28:00.274",
+	"radeg":142.001139801,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.219,
 	"reporter":"Ismael Perez-Fournon",
 	"reporterid":977,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":81
 	},
 	"source":"user",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/FLEET/tns_2020abjc_2020-12-18_10-20-44_MMT_MMT-Blue_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":58,
+				"name":"MMT-Blue"
+			},
+			"jd":2459201.9310648,
+			"obsdate":"2020-12-18 10:20:44",
+			"observer":"Peter Blanchard",
+			"public":1,
+			"reducer":"Peter Blanchard",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
 }

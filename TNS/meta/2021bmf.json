@@ -1,0 +1,73 @@
+{
+	"dec":"-06:22:49.51",
+	"decdeg":-6.3804188,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21djt",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-01-30 14:42:43.200",
+	"discoverymag":18.12,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21djt, ZTF21aagtpro",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":7,
+		"name":"SN Ic-BL"
+	},
+	"objid":76243,
+	"objname":"2021bmf",
+	"public":1,
+	"ra":"16:33:29.416",
+	"radeg":248.3725656,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.04,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021bmf_2021-02-03_08-45-19_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021bmf_2021-02-03_08-45-19_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459248.8648032,
+			"obsdate":"2021-02-03 08:45:19",
+			"observer":"M. Magee, J. Terwel",
+			"public":1,
+			"reducer":"S. Prentice, L. Harvey",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

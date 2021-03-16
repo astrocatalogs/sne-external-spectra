@@ -1,0 +1,65 @@
+{
+	"dec":"+30:43:26.51",
+	"decdeg":30.724031,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS20biko",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-12-14 06:24:28.800",
+	"discoverymag":19.531,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS20biko, ZTF20acxnafa, PS20mor, Gaia21aiw",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":73047,
+	"objname":"2020acsn",
+	"public":1,
+	"ra":"23:03:57.530",
+	"radeg":345.989708,
+	"radeg_err":0,
+	"redshift":0.06,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020acsn_2020-12-18_15-12-51_CMO-2.5m_TDS.txt",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":249,
+				"name":"TDS"
+			},
+			"jd":2459202.1339236,
+			"obsdate":"2020-12-18 15:12:51",
+			"observer":"Burlak M., Tatarnikov A.",
+			"public":1,
+			"reducer":"Dodin A.",
+			"remarks":"Good fits to several 91T-like and peculiar SN2007if. Redshift from SNID best fit.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":149,
+				"name":"CMO-2.5m"
+			}
+		}
+	]
+}

@@ -1,0 +1,103 @@
+{
+	"dec":"-15:53:31.45",
+	"decdeg":-15.8920687024,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"T.Pogrosheva, V. Lipunov, E. Gorbovskoy, V.Kornilov, N.Tyurina, P.Balanutsa, A.Kuznetsov, F.Balakin, V.Vladimirov, D. Vlasenko, I.Gorbunov, D.Zimnukhov, V.Senik, T.Pogrosheva, D.Kuvshinov, D. Cheryasov (Lomonosov Moscow State University, SAI, Physics Department), R. Podesta, C.Lopez, F. Podesta, C.Francile (Observatorio Astronomico Felix Aguilar OAFA), R. Rebolo, M. Serra (The Instituto de Astrofisica de Canarias), D. Buckley (South African Astronomical Observatory), O.A. Gres, N.M. Budnev, O.Ershova (Irkutsk State University, API), A. Tlatov, D. Dormidontov (Kislovodsk Solar Station of the Pulkovo Observatory), V. Yurkov, A. Gabovich, Yu. Sergienko (Blagoveschensk Educational State University)",
+	"discoverer_internal_name":"MASTER OT J061317.78-155331.4",
+	"discovery_data_source":{
+		"group_name":"MASTER",
+		"groupid":36
+	},
+	"discoverydate":"2020-11-13 03:49:39.936",
+	"discoverymag":17.8,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"MASTER OT J061317.78-155331.4, ZTF20acpvbbh, ATLAS20bfic, PS20nsj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":70782,
+	"objname":"2020znl",
+	"public":1,
+	"ra":"06:13:17.899",
+	"radeg":93.3245777913,
+	"radeg_err":0,
+	"redshift":0.043,
+	"reporter":"MASTER",
+	"reporterid":42529,
+	"reporting_group":{
+		"group_name":"MASTER",
+		"groupid":36
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020znl_2020-12-07_04-36-12_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020znl_2020-12-07_04-36-12_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459190.6918056,
+			"obsdate":"2020-12-07 04:36:12",
+			"observer":"P.J. Pessi, J. Anderson",
+			"public":1,
+			"reducer":"L. Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020znl_2020-11-21_03-50-23_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020znl_2020-11-21_03-50-23_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459174.6599884,
+			"obsdate":"2020-11-21 03:50:23",
+			"observer":"N. Ihanec, M. Gromadzki",
+			"public":1,
+			"reducer":"E. Callis, M. Fraser",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

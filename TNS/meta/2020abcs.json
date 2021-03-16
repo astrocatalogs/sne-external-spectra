@@ -1,6 +1,6 @@
 {
-	"dec":"-24:11:50.47",
-	"decdeg":-24.197352,
+	"dec":"-24:11:50.71",
+	"decdeg":-24.197419,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20bgff",
-	"name_prefix":"AT",
+	"internal_names":"ATLAS20bgff, Gaia20fot",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71893,
 	"objname":"2020abcs",
 	"public":1,
-	"ra":"22:41:25.808",
-	"radeg":340.357532,
+	"ra":"22:41:25.800",
+	"radeg":340.3575,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.049,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abcs_2020-12-08_02-26-04_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abcs_2020-12-08_02-26-04_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459191.6014352,
+			"obsdate":"2020-12-08 02:26:04",
+			"observer":"P. J. Pessi, J. Anderson",
+			"public":1,
+			"reducer":"L. Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
 }

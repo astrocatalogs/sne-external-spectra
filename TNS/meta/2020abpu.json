@@ -1,7 +1,7 @@
 {
-	"dec":"+46:44:59.97",
-	"decdeg":46.749993,
-	"decdeg_err":2.7777777777778e-05,
+	"dec":"+46:45:00.11",
+	"decdeg":46.75003084,
+	"decdeg_err":2.1864958266597e-05,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acvchhw",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acvchhw, ATLAS20bhav",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":72293,
 	"objname":"2020abpu",
 	"public":1,
-	"ra":"23:36:00.802",
-	"radeg":354.0033426,
-	"radeg_err":2.7777777777778e-05,
-	"redshift":null,
+	"ra":"23:36:00.810",
+	"radeg":354.00337688,
+	"radeg_err":4.1469309134906e-05,
+	"redshift":0.046,
 	"reporter":"Fritz",
 	"reporterid":96526,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abpu_2021-01-14_04-59-48_Keck1_LRIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459228.7081944,
+			"obsdate":"2021-01-14 04:59:48",
+			"observer":"Ulf-Christoffer Fremling",
+			"public":1,
+			"reducer":"Ulf-Christoffer Fremling",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		}
+	]
 }

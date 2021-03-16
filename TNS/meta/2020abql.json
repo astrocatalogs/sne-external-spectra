@@ -1,0 +1,65 @@
+{
+	"dec":"-80:34:00.91",
+	"decdeg":-80.566919,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20pf",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-05 06:00:00.000",
+	"discoverymag":15.5,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"ESO 018- G 006",
+	"internal_names":"ASASSN-20pf, Gaia21aiz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72310,
+	"objname":"2020abql",
+	"public":1,
+	"ra":"08:21:32.240",
+	"radeg":125.384333,
+	"radeg_err":0,
+	"redshift":0.015,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020abql_2020-12-07_00-00-00_Magellan-Baade_IMACS.asci",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2459190.5,
+			"obsdate":"2020-12-07 00:00:00",
+			"observer":"C. Contreras/A. Pasten/C. Fuentes",
+			"public":1,
+			"reducer":"R. Cartier",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
-	"dec":"-08:27:06.28",
-	"decdeg":-8.45174565,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-08:27:06.26",
+	"decdeg":-8.451739,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"WISEA J034717.72-082702.9",
-	"internal_names":"ZTF20actekrw, ATLAS20bgmw",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actekrw, ATLAS20bgmw, PS20mho, Gaia20fvb",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objid":71665,
 	"objname":"2020aauc",
 	"public":1,
-	"ra":"03:47:18.145",
-	"radeg":56.825605575,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"03:47:18.140",
+	"radeg":56.825583,
+	"radeg_err":0,
+	"redshift":0.033,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,66 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020aauc_2020-12-18_04-49-22.93_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020aauc_2020-12-18_04-49-22.93_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459201.7009491,
+			"obsdate":"2020-12-18 04:49:23",
+			"observer":"R. Cartier",
+			"public":1,
+			"reducer":"K. E. Weil, B. M. Subrayan, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020aauc_2020-12-14_06-58-10.417_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":5700,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459197.7903935,
+			"obsdate":"2020-12-14 06:58:10",
+			"observer":"Melissa L. Graham, Christopher A. Phillips",
+			"public":1,
+			"reducer":" Melissa L. Graham ",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	]
 }

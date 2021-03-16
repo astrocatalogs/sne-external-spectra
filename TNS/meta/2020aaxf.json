@@ -1,6 +1,6 @@
 {
-	"dec":"-01:24:52.22",
-	"decdeg":-1.41450588499,
+	"dec":"-01:24:52.37",
+	"decdeg":-1.41454823616,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
@@ -19,18 +19,18 @@
 	"host_redshift":0.014813,
 	"hostname":"UGC 04352 NED01",
 	"internal_names":"ZTF20actqnhg, ATLAS20bgax, PS20lsz",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":14,
+		"name":"SN IIb"
 	},
 	"objid":71748,
 	"objname":"2020aaxf",
 	"public":1,
 	"ra":"08:20:41.967",
-	"radeg":125.174861696,
+	"radeg":125.174861411,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.031,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,28 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020aaxf_2020-12-07_01-24-11_Other_Other.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459190.5584606,
+			"obsdate":"2020-12-07 01:24:11",
+			"observer":"Dodin,Tsvetkov,Shatski,Belinski",
+			"public":1,
+			"reducer":"Dodin,Tsvetkov,Shatski,Belinski",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
 }

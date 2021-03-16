@@ -1,7 +1,7 @@
 {
-	"dec":"+24:04:14.94",
-	"decdeg":24.0708174,
-	"decdeg_err":2.7777777777778e-05,
+	"dec":"+24:04:14.66",
+	"decdeg":24.070739,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20actpqgc",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actpqgc, ATLAS20bgrl, Gaia20fvx, PS20mom",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objid":71923,
 	"objname":"2020abdw",
 	"public":1,
-	"ra":"02:01:17.103",
-	"radeg":30.3212626,
-	"radeg_err":2.7777777777778e-05,
-	"redshift":null,
+	"ra":"02:01:17.090",
+	"radeg":30.321208,
+	"radeg_err":0,
+	"redshift":0.0327790007,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
 	"reporting_group":{
@@ -38,5 +38,96 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abdw_2020-12-16_03-25-05.319099_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459199.642419,
+			"obsdate":"2020-12-16 03:25:05",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abdw_2020-12-14_03-43-11.842_Lick-3m_KAST_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3300,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459197.6549884,
+			"obsdate":"2020-12-14 03:43:12",
+			"observer":"Melissa L. Graham, Christopher A. Phillips",
+			"public":1,
+			"reducer":" Melissa L. Graham ",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020abdw_2020-12-08_01-46-18.32_SOAR_Goodman_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":800,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2020abdw_2020-12-08_01-46-18.32_SOAR_Goodman_REFITT.fits",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459191.5738194,
+			"obsdate":"2020-12-08 01:46:18",
+			"observer":"C. Briceno",
+			"public":1,
+			"reducer":"K. E. Weil, B. M. Subrayan, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
 }

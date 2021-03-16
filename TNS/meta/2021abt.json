@@ -1,0 +1,73 @@
+{
+	"dec":"-07:14:57.01",
+	"decdeg":-7.2491685,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, L. Hernandez-Garcia, G. Pignata, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aadrtcs",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-10 12:59:14.004",
+	"discoverymag":19.3743,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"LEDA 1022096",
+	"internal_names":"ZTF21aadrtcs, ATLAS21cae",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":75247,
+	"objname":"2021abt",
+	"public":1,
+	"ra":"13:19:17.751",
+	"radeg":199.8239617,
+	"radeg_err":2.5e-05,
+	"redshift":0.0014285,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021abt_2021-01-18_15-37-52.442_LCO2m_Spectral_Global_SN_Project.txt",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021abt_2021-01-18_15-37-52.442_LCO2m_Spectral_Global_SN_Project.fits",
+			"instrument":{
+				"id":209,
+				"name":"Spectral"
+			},
+			"jd":2459233.1512963,
+			"obsdate":"2021-01-18 15:37:52",
+			"observer":"Andy Howell,  Estefania Padilla, Craig Pellegrino, Jamie Burke, Daichi Hiramatsu, Curtis McCully ",
+			"public":1,
+			"reducer":"Estefania Padilla Gonzalez",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":122,
+				"name":"LCO2m"
+			}
+		}
+	]
+}

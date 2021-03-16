@@ -19,10 +19,10 @@
 	"host_redshift":0.05796,
 	"hostname":"2MASX J23352328-1447543",
 	"internal_names":"ZTF20acoredl, ATLAS20bexi, PS20lhs",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":70241,
 	"objname":"2020yti",
@@ -30,7 +30,7 @@
 	"ra":"23:35:23.651",
 	"radeg":353.848545082,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.05796,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020yti_2020-11-13_06-55-26.148129_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459166.7884954,
+			"obsdate":"2020-11-13 06:55:26",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
 }

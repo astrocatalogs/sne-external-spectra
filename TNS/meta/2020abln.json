@@ -1,0 +1,73 @@
+{
+	"dec":"+18:14:42.04",
+	"decdeg":18.245009825,
+	"decdeg_err":0.00027777777777778,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"D. Duev (Caltech) on behalf of ZTF/Fritz",
+	"discoverer_internal_name":"ZTF20acumcrz",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-01 04:35:57.696",
+	"discoverymag":19.1556,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acumcrz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72182,
+	"objname":"2020abln",
+	"public":1,
+	"ra":"01:31:38.884",
+	"radeg":22.912018675,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.054,
+	"reporter":"Fritz",
+	"reporterid":96526,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abln_2020-12-07_02-10-43_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020abln_2020-12-07_02-10-43_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459190.5907755,
+			"obsdate":"2020-12-07 02:10:43",
+			"observer":"P.J. Pessi, J. Anderson",
+			"public":1,
+			"reducer":"L. Galbany",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

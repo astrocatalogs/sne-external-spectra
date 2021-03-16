@@ -1,0 +1,95 @@
+{
+	"dec":"+56:18:53.61",
+	"decdeg":56.314891461538,
+	"decdeg_err":3.6057572307961e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, G. Pignata, A. Munoz-Arancibia, L. Hernandez-Garcia, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aaaosmn",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-03 11:15:45.999",
+	"discoverymag":19.1517,
+	"end_prop_period":null,
+	"host_redshift":0.037513,
+	"hostname":"WISEA J144702.66+561851.4",
+	"internal_names":"ZTF21aaaosmn, ATLAS21axd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":74527,
+	"objname":"2021ct",
+	"public":1,
+	"ra":"14:47:02.625",
+	"radeg":221.76093806154,
+	"radeg_err":0.00013954770090694,
+	"redshift":0.0375,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021ct_2021-01-14_14-13-12_FTN_FLOYDS-N.ascii",
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459229.0925,
+			"obsdate":"2021-01-14 14:13:12",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021ct_2021-01-14_10-22-06.337348_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459228.9320139,
+			"obsdate":"2021-01-14 10:22:06",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

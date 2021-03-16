@@ -1,6 +1,6 @@
 {
-	"dec":"+12:55:17.39",
-	"decdeg":12.9214964667,
+	"dec":"+12:55:17.26",
+	"decdeg":12.921461,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"NGC 514",
-	"internal_names":", ATLAS20bcma, ZTF20achlced, PS20idl",
+	"internal_names":", ATLAS20bcma, ZTF20achlced, PS20idl, Gaia20fty",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,8 +27,8 @@
 	"objid":67622,
 	"objname":"2020uxz",
 	"public":1,
-	"ra":"01:24:06.899",
-	"radeg":21.0287466647,
+	"ra":"01:24:06.890",
+	"radeg":21.028708,
 	"radeg_err":0,
 	"redshift":0.008246,
 	"reporter":"Koichi Itagaki",
@@ -40,7 +40,7 @@
 	"source":"user",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-11-22_Other_Other.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020uxz_2020-11-22_Other_Other.dat",
 			"end_prop_period":null,
 			"exptime":7200,
 			"fitsfile":"",
@@ -62,10 +62,10 @@
 			}
 		},
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.txt",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.txt",
 			"end_prop_period":null,
 			"exptime":3000,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020uxz_2020-10-18_23-30-00_Other_Other.fits",
 			"groupid":0,
 			"instrument":{
 				"id":0,
@@ -84,7 +84,7 @@
 			}
 		},
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020uxz_2020-10-05_16-44-03_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020uxz_2020-10-05_16-44-03_FTS_FLOYDS-S_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
 					"id":38,
@@ -93,7 +93,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":1800,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020uxz_2020-10-05_16-44-03_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020uxz_2020-10-05_16-44-03_FTS_FLOYDS-S_Global_SN_Project.fits",
 			"instrument":{
 				"id":125,
 				"name":"FLOYDS-S"

@@ -1,7 +1,7 @@
 {
-	"dec":"-05:25:54.45",
-	"decdeg":-5.43179115,
-	"decdeg_err":2.5e-05,
+	"dec":"-05:25:54.42",
+	"decdeg":-5.43178387413,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":0.015661,
 	"hostname":"WISEA J125329.34-052547.1",
-	"internal_names":"ZTF20acqntkr",
+	"internal_names":"ZTF20acqntkr, PS20mnv",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,9 +27,9 @@
 	"objid":72101,
 	"objname":"2020abim",
 	"public":1,
-	"ra":"12:53:29.629",
-	"radeg":193.3734531,
-	"radeg_err":2.5e-05,
+	"ra":"12:53:29.640",
+	"radeg":193.373499076,
+	"radeg_err":0,
 	"redshift":0.015661,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020abim_2020-12-04_03-07-13_Other_Other.txt",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020abim_2020-12-04_03-07-13_Other_Other.txt",
 			"end_prop_period":null,
 			"exptime":3600,
 			"fitsfile":"",

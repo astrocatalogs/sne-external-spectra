@@ -1,0 +1,73 @@
+{
+	"dec":"+24:18:07.54",
+	"decdeg":24.3020940371,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"J. Brimacombe, K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20pu",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-12 12:28:48.000",
+	"discoverymag":18,
+	"end_prop_period":null,
+	"host_redshift":0.051371,
+	"hostname":"WISEA J094236.66+241835.8",
+	"internal_names":"ASASSN-20pu, ATLAS20bhkh, PS20nso",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":72958,
+	"objname":"2020acpc",
+	"public":1,
+	"ra":"09:42:37.436",
+	"radeg":145.65598483,
+	"radeg_err":0,
+	"redshift":0.051371,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020acpc_2020-12-16_22-02-00_Ekar_AFOSC_Padova-Asiago.dat",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020acpc_2020-12-16_22-02-00_Ekar_AFOSC_Padova-Asiago.fits",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2459200.4180556,
+			"obsdate":"2020-12-16 22:02:00",
+			"observer":"Tomasella",
+			"public":1,
+			"reducer":"Tomasella",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		}
+	]
+}

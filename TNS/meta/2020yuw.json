@@ -18,11 +18,11 @@
 	"end_prop_period":null,
 	"host_redshift":0.145,
 	"hostname":"SDSS J100201.86-020058.9",
-	"internal_names":"ZTF20acoxdas, ATLAS20bexj, Gaia20feb",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acoxdas, ATLAS20bexj, Gaia20feb, PS20mbn",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":70282,
 	"objname":"2020yuw",
@@ -30,7 +30,7 @@
 	"ra":"10:02:01.930",
 	"radeg":150.508042,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.1,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020yuw_2020-12-12_NOT_ALFOSC_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459195.5,
+			"obsdate":"2020-12-12 00:00:00",
+			"observer":"Steve Schulze",
+			"public":1,
+			"reducer":"Steve Schulze",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
 }

@@ -1,0 +1,65 @@
+{
+	"dec":"+40:33:03.85",
+	"decdeg":40.551069,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21dkk",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-01-31 05:25:26.400",
+	"discoverymag":18.592,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21dkk, Gaia21aue",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":76257,
+	"objname":"2021bms",
+	"public":1,
+	"ra":"02:49:31.170",
+	"radeg":42.379875,
+	"radeg_err":0,
+	"redshift":0.030121,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021bms_2021-02-14_18-34-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":6000,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021bms_2021-02-14_18-34-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459260.2736111,
+			"obsdate":"2021-02-14 18:34:00",
+			"observer":"Claudio Balcon (Belluno)",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
+}

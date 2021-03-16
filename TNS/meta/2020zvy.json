@@ -1,7 +1,7 @@
 {
-	"dec":"-01:09:04.88",
-	"decdeg":-1.1513563,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-01:09:04.79",
+	"decdeg":-1.151331,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acpjcoe",
+	"internal_names":"ZTF20acpjcoe, Gaia20fqj",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -27,9 +27,9 @@
 	"objid":71005,
 	"objname":"2020zvy",
 	"public":1,
-	"ra":"22:01:01.577",
-	"radeg":330.2565716,
-	"radeg_err":0.00027777777777778,
+	"ra":"22:01:01.570",
+	"radeg":330.256542,
+	"radeg_err":0,
 	"redshift":0.032,
 	"reporter":"ZTF_AMPEL_COMPLETE",
 	"reporterid":59228,
@@ -40,10 +40,10 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020zvy_2020-11-29_18-10-00_Other_Other.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020zvy_2020-11-29_18-10-00_Other_Other.dat",
 			"end_prop_period":null,
 			"exptime":4800,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020zvy_2020-11-29_18-10-00_Other_Other.fit",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020zvy_2020-11-29_18-10-00_Other_Other.fit",
 			"groupid":0,
 			"instrument":{
 				"id":0,

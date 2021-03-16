@@ -1,0 +1,73 @@
+{
+	"dec":"-23:24:45.40",
+	"decdeg":-23.4126115112,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21dov",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-02-06 06:38:52.800",
+	"discoverymag":17.23,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21dov, PS21abl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":14,
+		"name":"SN IIb"
+	},
+	"objid":76549,
+	"objname":"2021bxu",
+	"public":1,
+	"ra":"02:09:16.455",
+	"radeg":32.3185608926,
+	"radeg_err":0,
+	"redshift":0.0178,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/POISE%20/tns_2021bxu_2021-02-08_01-41-48.018_APO-3.5m_DIS_POISE.dat",
+			"assoc_groups":[
+				{
+					"id":112,
+					"name":"POISE "
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2459253.5706944,
+			"obsdate":"2021-02-08 01:41:48",
+			"observer":"J. DerKacy",
+			"public":1,
+			"reducer":"J. DerKacy",
+			"remarks":"",
+			"source_group":{
+				"id":112,
+				"name":"POISE "
+			},
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	]
+}

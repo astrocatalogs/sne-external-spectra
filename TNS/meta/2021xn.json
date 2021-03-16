@@ -1,0 +1,117 @@
+{
+	"dec":"+53:39:51.91",
+	"decdeg":53.664419,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, G. Pignata, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aacvhsc",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-10 03:47:21.998",
+	"discoverymag":19.358,
+	"end_prop_period":null,
+	"host_redshift":0.013,
+	"hostname":"SDSS J013751.16+533958.8",
+	"internal_names":"ZTF21aacvhsc, ATLAS21bgv, Gaia21avk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":75127,
+	"objname":"2021xn",
+	"public":1,
+	"ra":"01:37:50.930",
+	"radeg":24.462208,
+	"radeg_err":0,
+	"redshift":0.017,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021xn_2021-01-26_19-40-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":6000,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021xn_2021-01-26_19-40-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459241.3194444,
+			"obsdate":"2021-01-26 19:40:00",
+			"observer":"Claudio Balcon (Belluno)",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021xn_2021-01-14_17-51-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021xn_2021-01-14_17-51-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459229.24375,
+			"obsdate":"2021-01-14 17:51:00",
+			"observer":"Susanna D'Isep, Sara Balcon, Claudio Balcon",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021xn_2021-01-14_03-57-11.740813_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459228.6647106,
+			"obsdate":"2021-01-14 03:57:12",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

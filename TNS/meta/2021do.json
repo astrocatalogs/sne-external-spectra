@@ -1,0 +1,65 @@
+{
+	"dec":"+73:23:51.02",
+	"decdeg":73.3975058236,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aaaubig",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-01-02 10:53:45.600",
+	"discoverymag":20,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aaaubig, PS21aa",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objid":74552,
+	"objname":"2021do",
+	"public":1,
+	"ra":"10:16:56.518",
+	"radeg":154.235493569,
+	"radeg_err":0,
+	"redshift":0.009346,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021do_2021-01-04_21-03-43_CMO-2.5m_TDS.txt",
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":249,
+				"name":"TDS"
+			},
+			"jd":2459219.377581,
+			"obsdate":"2021-01-04 21:03:43",
+			"observer":"Voziakova O., Lander S.",
+			"public":1,
+			"reducer":"Dodin A.",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":149,
+				"name":"CMO-2.5m"
+			}
+		}
+	]
+}

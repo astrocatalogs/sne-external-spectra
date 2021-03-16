@@ -1,6 +1,6 @@
 {
-	"dec":"+03:34:26.24",
-	"decdeg":3.57395538462,
+	"dec":"+03:34:26.08",
+	"decdeg":3.573911,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20bgkm",
+	"internal_names":"ATLAS20bgkm, Gaia20fss, PS21j",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":10,
@@ -27,8 +27,8 @@
 	"objid":72132,
 	"objname":"2020abjq",
 	"public":1,
-	"ra":"01:06:14.633",
-	"radeg":16.56097,
+	"ra":"01:06:14.630",
+	"radeg":16.560958,
 	"radeg_err":0,
 	"redshift":0.018433,
 	"reporter":"ATLAS_Bot1",
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020abjq_2020-12-03_08-11-34_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020abjq_2020-12-03_08-11-34_FTN_FLOYDS-N_Global_SN_Project.ascii",
 			"assoc_groups":[
 				{
 					"id":38,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":2700,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/Global%20SN%20Project/tns_2020abjq_2020-12-03_08-11-34_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020abjq_2020-12-03_08-11-34_FTN_FLOYDS-N_Global_SN_Project.fits",
 			"instrument":{
 				"id":108,
 				"name":"FLOYDS-N"

@@ -1,7 +1,7 @@
 {
-	"dec":"-08:37:09.08",
-	"decdeg":-8.6191893714286,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-08:37:08.97",
+	"decdeg":-8.61915894581,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20beju, ZTF20acndwyv",
-	"name_prefix":"AT",
+	"internal_names":"ATLAS20beju, ZTF20acndwyv, PS20nsi",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":69726,
 	"objname":"2020yae",
 	"public":1,
 	"ra":"10:50:29.520",
-	"radeg":162.62300108571,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"radeg":162.622999553,
+	"radeg_err":0,
+	"redshift":0.09,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020yae_2020-12-08_14-09-58_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3620,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459192.0902546,
+			"obsdate":"2020-12-08 14:09:58",
+			"observer":"Aaron Do",
+			"public":1,
+			"reducer":"",
+			"remarks":"Reduced with a summit-based quick-reduction pipeline. Only red channel available.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
 }

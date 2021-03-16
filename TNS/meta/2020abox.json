@@ -1,7 +1,7 @@
 {
-	"dec":"+03:07:28.23",
-	"decdeg":3.1245073,
-	"decdeg_err":2.7777777777778e-05,
+	"dec":"+03:07:28.44",
+	"decdeg":3.12456770156,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acusneh",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acusneh, ATLAS20bheq, PS20nsq",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":72270,
 	"objname":"2020abox",
 	"public":1,
-	"ra":"10:47:30.709",
-	"radeg":161.8779524,
-	"radeg_err":2.7777777777778e-05,
-	"redshift":null,
+	"ra":"10:47:30.695",
+	"radeg":161.877896688,
+	"radeg_err":0,
+	"redshift":0.054,
 	"reporter":"Fritz",
 	"reporterid":96526,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abox_2020-12-19_07-45-55.072248_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2160,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459202.8235532,
+			"obsdate":"2020-12-19 07:45:55",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
 }

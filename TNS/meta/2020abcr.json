@@ -1,6 +1,6 @@
 {
-	"dec":"-37:35:02.92",
-	"decdeg":-37.5841433333,
+	"dec":"-37:35:02.98",
+	"decdeg":-37.584161,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20bgfc",
-	"name_prefix":"AT",
+	"internal_names":"ATLAS20bgfc, Gaia20fwi",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71892,
 	"objname":"2020abcr",
 	"public":1,
-	"ra":"05:10:05.760",
-	"radeg":77.5240008333,
+	"ra":"05:10:05.770",
+	"radeg":77.524042,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.05,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -38,5 +38,28 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020abcr_2020-11-30_Magellan-Baade_IMACS.txt",
+			"end_prop_period":null,
+			"exptime":720,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020abcr_2020-11-30_Magellan-Baade_IMACS.fits",
+			"groupid":0,
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2459183.5,
+			"obsdate":"2020-11-30 00:00:00",
+			"observer":"M. Díaz, N. Morrell",
+			"public":1,
+			"reducer":"N. Morrell",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		}
+	]
 }

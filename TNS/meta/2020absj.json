@@ -1,0 +1,73 @@
+{
+	"dec":"+11:52:25.39",
+	"decdeg":11.8737205408,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"D. Duev (Caltech) on behalf of ZTF/Fritz",
+	"discoverer_internal_name":"ZTF20acvezdt",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2020-12-05 12:55:02.208",
+	"discoverymag":19.6979,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF20acvezdt, ATLAS20bijc, PS21aes",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":72360,
+	"objname":"2020absj",
+	"public":1,
+	"ra":"13:10:55.719",
+	"radeg":197.732162803,
+	"radeg_err":0,
+	"redshift":0.0289169997,
+	"reporter":"Fritz",
+	"reporterid":96526,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020absj_2020-12-12_11-55-13.438787_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459195.9966782,
+			"obsdate":"2020-12-12 11:55:13",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"ysharma",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

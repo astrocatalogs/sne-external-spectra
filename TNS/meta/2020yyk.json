@@ -1,7 +1,7 @@
 {
-	"dec":"-01:37:28.24",
-	"decdeg":-1.624511375,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-01:37:28.12",
+	"decdeg":-1.62447815982,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":0.204,
 	"hostname":"SDSS J222246.77-013728.1",
-	"internal_names":"ZTF20acopmey, ATLAS20bfbm",
+	"internal_names":"ZTF20acopmey, ATLAS20bfbm, PS20mkn",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":104,
@@ -27,9 +27,9 @@
 	"objid":70374,
 	"objname":"2020yyk",
 	"public":1,
-	"ra":"22:22:46.754",
-	"radeg":335.69480915,
-	"radeg_err":0.00027777777777778,
+	"ra":"22:22:46.757",
+	"radeg":335.694821253,
+	"radeg_err":0,
 	"redshift":0.08,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
@@ -40,7 +40,7 @@
 	"source":"bot",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020yyk_2020-11-06_01-52-26_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020yyk_2020-11-06_01-52-26_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
 				{
 					"id":63,
@@ -49,7 +49,7 @@
 			],
 			"end_prop_period":null,
 			"exptime":1499,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/ePESSTO%2B/tns_2020yyk_2020-11-06_01-52-26_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020yyk_2020-11-06_01-52-26_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
 			"instrument":{
 				"id":31,
 				"name":"EFOSC2-NTT"

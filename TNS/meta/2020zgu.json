@@ -1,7 +1,7 @@
 {
-	"dec":"+45:17:57.02",
-	"decdeg":45.2991734,
-	"decdeg_err":1.6339675639458e-05,
+	"dec":"+45:17:56.90",
+	"decdeg":45.299139,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acphdbu, ATLAS20bftt",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acphdbu, ATLAS20bftt, Gaia20fmq, PS20mbg",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":70609,
 	"objname":"2020zgu",
 	"public":1,
-	"ra":"10:03:36.909",
-	"radeg":150.9037864,
-	"radeg_err":1.2361229712552e-05,
-	"redshift":null,
+	"ra":"10:03:36.900",
+	"radeg":150.90375,
+	"radeg_err":0,
+	"redshift":0.041408,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
 	"reporting_group":{
@@ -38,5 +38,28 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020zgu_2020-11-26_00-53-00_Other_Other.dat",
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020zgu_2020-11-26_00-53-00_Other_Other.fit",
+			"groupid":0,
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459179.5368056,
+			"obsdate":"2020-11-26 00:53:00",
+			"observer":"Claudio Balcon (Belluno)",
+			"public":1,
+			"reducer":"Claudio Balcon",
+			"remarks":"I obtained the low-resolution spectrum R~100 using the FOSC-ES32 spectrograph attached to a 0.2m telescope, in the course of Italian Supernovae Search Project.",
+			"source_group_name":"None",
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		}
+	]
 }

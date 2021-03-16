@@ -1,7 +1,7 @@
 {
-	"dec":"+02:06:25.70",
-	"decdeg":2.10714014,
-	"decdeg_err":2.5e-05,
+	"dec":"+02:06:25.67",
+	"decdeg":2.107131,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.033056,
 	"hostname":"NGC 5331 NED02",
-	"internal_names":"ZTF20actocyw",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actocyw, ATLAS20bgzj, Gaia21acu, PS21alg",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":72106,
 	"objname":"2020abir",
 	"public":1,
-	"ra":"13:52:16.529",
-	"radeg":208.06886888,
-	"radeg_err":2.5e-05,
-	"redshift":null,
+	"ra":"13:52:16.530",
+	"radeg":208.068875,
+	"radeg_err":0,
+	"redshift":0.0330559984,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abir_2020-11-26_12-55-31.555088_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2160,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459180.0385532,
+			"obsdate":"2020-11-26 12:55:32",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
 }

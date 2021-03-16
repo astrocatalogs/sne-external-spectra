@@ -19,10 +19,10 @@
 	"host_redshift":null,
 	"hostname":null,
 	"internal_names":"ATLAS20bflo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objid":71032,
 	"objname":"2020zwy",
@@ -38,5 +38,36 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020zwy_2020-12-06_14-42-00_UH88_SNIFS_SCAT.txt",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459190.1125,
+			"obsdate":"2020-12-06 14:42:00",
+			"observer":"Ashall",
+			"public":1,
+			"reducer":"Ashall",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
 }

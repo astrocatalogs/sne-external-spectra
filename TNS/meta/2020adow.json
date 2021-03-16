@@ -1,0 +1,87 @@
+{
+	"dec":"+27:42:43.56",
+	"decdeg":27.7121003677,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, C. S. Kochanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20qj",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-26 09:50:24.000",
+	"discoverymag":16.2,
+	"end_prop_period":null,
+	"host_redshift":0.007505,
+	"hostname":"KUG 0830+278",
+	"internal_names":"ASASSN-20qj, ATLAS20bjid, ZTF20adadrhw, PS21kj",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objid":73636,
+	"objname":"2020adow",
+	"public":1,
+	"ra":"08:33:42.262",
+	"radeg":128.426091347,
+	"radeg_err":0,
+	"redshift":0.0075050001,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020adow_2021-01-08_P200_DBSP.ascii",
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2459222.5,
+			"obsdate":"2021-01-08 00:00:00",
+			"observer":"Anastasios Tzanidakis",
+			"public":1,
+			"reducer":"Yashvi Sharma",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020adow_2020-12-27_21-25-44_CMO-2.5m_TDS.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":249,
+				"name":"TDS"
+			},
+			"jd":2459211.3928704,
+			"obsdate":"2020-12-27 21:25:44",
+			"observer":"Sergey Zheltoukhov",
+			"public":1,
+			"reducer":"Alexander Dodin",
+			"remarks":"Based on spectra obtained with the TDS - Transient Double beam Spectrograph for the 2.5m telescope of the Caucasus Mountain Observatory (CMO) of Sternberg Astronomical Institute of the Lomonosov Moscow State University (https://arxiv.org/abs/2011.03061).",
+			"source_group_name":"None",
+			"telescope":{
+				"id":149,
+				"name":"CMO-2.5m"
+			}
+		}
+	]
+}

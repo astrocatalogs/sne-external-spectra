@@ -1,0 +1,73 @@
+{
+	"dec":"-21:28:18.95",
+	"decdeg":-21.4719299391,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS20mbz",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2020-12-10 05:05:16.800",
+	"discoverymag":19.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS20mbz, ATLAS20biky",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":103,
+		"name":"SN Ia-91bg-like"
+	},
+	"objid":72874,
+	"objname":"2020aclx",
+	"public":1,
+	"ra":"00:37:53.521",
+	"radeg":9.4730032924,
+	"radeg_err":0,
+	"redshift":0.06,
+	"reporter":"PS1_Bot1",
+	"reporterid":35588,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Pan-STARRS1/tns_2020aclx_2020-12-13_07-40-00_UH88_SNIFS_Pan-STARRS1.txt",
+			"assoc_groups":[
+				{
+					"id":4,
+					"name":"Pan-STARRS1"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2000,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459196.8194444,
+			"obsdate":"2020-12-13 07:40:00",
+			"observer":"Mark Huber",
+			"public":1,
+			"reducer":"Mark Huber",
+			"remarks":"The spectrum was obtained by the Spectral Classification of Astronomical Transients group at UH IfA.",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

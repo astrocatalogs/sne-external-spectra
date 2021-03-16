@@ -1,0 +1,73 @@
+{
+	"dec":"-04:07:19.31",
+	"decdeg":-4.1220318,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-21an",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2021-01-31 05:45:36.000",
+	"discoverymag":17,
+	"end_prop_period":null,
+	"host_redshift":0.0435,
+	"hostname":"WISEA J020253.98-040719.6",
+	"internal_names":"ASASSN-21an, ATLAS18bcmp, ZTF18abrbywo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":76196,
+	"objname":"2021bkm",
+	"public":1,
+	"ra":"02:02:53.957",
+	"radeg":30.7248213,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.0435,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021bkm_2021-02-04_00-50-02_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021bkm_2021-02-04_00-50-02_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459249.5347454,
+			"obsdate":"2021-02-04 00:50:02",
+			"observer":"M. Magee, J. Terwel",
+			"public":1,
+			"reducer":"S. Prentice, L. Harvey",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

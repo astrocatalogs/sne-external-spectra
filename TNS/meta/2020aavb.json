@@ -1,6 +1,6 @@
 {
-	"dec":"+20:47:38.68",
-	"decdeg":20.7940790909,
+	"dec":"+20:47:38.65",
+	"decdeg":20.794069,
 	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"",
@@ -18,7 +18,7 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":"NGC3697",
-	"internal_names":", ATLAS20bgfa",
+	"internal_names":", ATLAS20bgfa, Gaia21agi, PS21aaw",
 	"name_prefix":"SN",
 	"object_type":{
 		"id":3,
@@ -28,7 +28,7 @@
 	"objname":"2020aavb",
 	"public":1,
 	"ra":"11:28:48.290",
-	"radeg":172.201208182,
+	"radeg":172.201208,
 	"radeg_err":0,
 	"redshift":0.020884,
 	"reporter":"Fabio Briganti",
@@ -40,10 +40,40 @@
 	"source":"user",
 	"spectra":[
 		{
-			"asciifile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aavb_2020-11-24_03-59-00_Other_Other.dat",
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Padova-Asiago/tns_2020aavb_2020-11-24.2_Ekar_AFOSC_Padova-Asiago.ascii",
+			"assoc_groups":[
+				{
+					"id":16,
+					"name":"Padova-Asiago"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":37,
+				"name":"AFOSC"
+			},
+			"jd":2459177.7,
+			"obsdate":"2020-11-24 04:48:00",
+			"observer":"Reguitti A.",
+			"public":1,
+			"reducer":"Benetti S.",
+			"remarks":"",
+			"source_group":{
+				"id":16,
+				"name":"Padova-Asiago"
+			},
+			"telescope":{
+				"id":34,
+				"name":"Ekar"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020aavb_2020-11-24_03-59-00_Other_Other.dat",
 			"end_prop_period":null,
 			"exptime":6000,
-			"fitsfile":"https://wis-tns.weizmann.ac.il/system/files/uploaded/general/tns_2020aavb_2020-11-24_03-59-00_Other_Other.fit",
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2020aavb_2020-11-24_03-59-00_Other_Other.fit",
 			"groupid":0,
 			"instrument":{
 				"id":0,

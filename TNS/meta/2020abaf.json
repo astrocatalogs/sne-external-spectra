@@ -1,7 +1,7 @@
 {
 	"dec":"+07:57:20.30",
-	"decdeg":7.9556395666667,
-	"decdeg_err":0.00027777777777778,
+	"decdeg":7.95563795516,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.083038,
 	"hostname":"WISEA J101016.72+075719.7",
-	"internal_names":"ZTF20actvlbq, ATLAS20bgnd",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actvlbq, ATLAS20bgnd, PS20mnx",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":71827,
 	"objname":"2020abaf",
 	"public":1,
-	"ra":"10:10:16.630",
-	"radeg":152.5692927,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"10:10:16.639",
+	"radeg":152.569329979,
+	"radeg_err":0,
+	"redshift":0.083038,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020abaf_2020-12-12_11-10-22_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020abaf_2020-12-12_11-10-22_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459195.9655324,
+			"obsdate":"2020-12-12 11:10:22",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Daichi Hiramatsu",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
 }

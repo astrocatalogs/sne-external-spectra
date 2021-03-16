@@ -1,7 +1,7 @@
 {
-	"dec":"+10:53:47.31",
-	"decdeg":10.8964756,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+10:53:47.43",
+	"decdeg":10.896509631,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ATLAS",
 		"id":72,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ATLAS20bewg, ZTF20acnvniw",
-	"name_prefix":"AT",
+	"internal_names":"ATLAS20bewg, ZTF20acnvniw, PS20mpl",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objid":70335,
 	"objname":"2020ywx",
 	"public":1,
-	"ra":"11:53:26.229",
-	"radeg":178.35928946667,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"11:53:26.217",
+	"radeg":178.359235521,
+	"radeg_err":0,
+	"redshift":0.0217,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":18
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020ywx_2020-12-17_08-09-25_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020ywx_2020-12-17_08-09-25_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459200.8398727,
+			"obsdate":"2020-12-17 08:09:25",
+			"observer":"P. Pessi, J. Anderson",
+			"public":1,
+			"reducer":"C. Gutierrez",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
 }

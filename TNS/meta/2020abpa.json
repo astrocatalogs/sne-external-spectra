@@ -1,7 +1,7 @@
 {
-	"dec":"+23:33:27.21",
-	"decdeg":23.557558875,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+23:33:27.30",
+	"decdeg":23.5575830529,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20acueziy",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20acueziy, ATLAS20bgly, PS20nsl",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":5,
+		"name":"SN Ic"
 	},
 	"objid":72273,
 	"objname":"2020abpa",
 	"public":1,
-	"ra":"23:32:02.142",
-	"radeg":353.008926625,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"23:32:02.147",
+	"radeg":353.008946268,
+	"radeg_err":0,
+	"redshift":0.023303,
 	"reporter":"ZTF_AMPEL_COMPLETE",
 	"reporterid":59228,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020abpa_2020-12-12_05-49-10_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2459195.7424769,
+			"obsdate":"2020-12-12 05:49:10",
+			"observer":"Aishwarya Dahiwale",
+			"public":1,
+			"reducer":"Yuhan Yao",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	]
 }

@@ -1,0 +1,73 @@
+{
+	"dec":"-37:44:19.85",
+	"decdeg":-37.738846,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"S. Valenti, D.J.Sand, S. Wyatt, M. Lundquist, R. Amaro, J. Andrews, J. Jencson, Y. Dong, S. Davis, D. Janzen",
+	"discoverer_internal_name":"DLT20aa",
+	"discovery_data_source":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"discoverydate":"2020-12-12 13:14:45.888",
+	"discoverymag":18.4205,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC0300",
+	"internal_names":"DLT20aa, ATLAS20bhnu",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":112,
+		"name":"SN IIn-pec"
+	},
+	"objid":72859,
+	"objname":"2020acli",
+	"public":1,
+	"ra":"00:55:08.916",
+	"radeg":13.787152,
+	"radeg_err":0,
+	"redshift":null,
+	"reporter":"DLT40_bot1",
+	"reporterid":37975,
+	"reporting_group":{
+		"group_name":"DLT40",
+		"groupid":30
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/DLT40/tns_2020acli_2020-12-13_00-31-38_Gemini-S_GMOS-S_DLT40.txt",
+			"assoc_groups":[
+				{
+					"id":30,
+					"name":"DLT40"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":9,
+				"name":"GMOS-S"
+			},
+			"jd":2459196.5219676,
+			"obsdate":"2020-12-13 00:31:38",
+			"observer":"Gemini Queue Observer",
+			"public":1,
+			"reducer":"",
+			"remarks":"Quick look classification from Gemini-S GMOS spectrum.",
+			"source_group":{
+				"id":30,
+				"name":"DLT40"
+			},
+			"telescope":{
+				"id":16,
+				"name":"Gemini-S"
+			}
+		}
+	]
+}

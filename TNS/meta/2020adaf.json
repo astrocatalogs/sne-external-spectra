@@ -1,0 +1,73 @@
+{
+	"dec":"-61:33:20.77",
+	"decdeg":-61.55577,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"J. Brimacombe, D. desai, K. Z. Stanek, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-20pz",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2020-12-14 01:55:12.000",
+	"discoverymag":17.9,
+	"end_prop_period":null,
+	"host_redshift":0.048597,
+	"hostname":"ESO 115-IG 010 NED02",
+	"internal_names":"ASASSN-20pz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":73249,
+	"objname":"2020adaf",
+	"public":1,
+	"ra":"02:25:07.793",
+	"radeg":36.28247,
+	"radeg_err":0,
+	"redshift":0.048,
+	"reporter":"Krzysztof Stanek",
+	"reporterid":82,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020adaf_2020-12-22_00-50-33_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2020adaf_2020-12-22_00-50-33_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459205.5351042,
+			"obsdate":"2020-12-22 00:50:33",
+			"observer":"P. Pessi, K. Smith, S. Srivastav",
+			"public":1,
+			"reducer":"C. Gutierrez",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

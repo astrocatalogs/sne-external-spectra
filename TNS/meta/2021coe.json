@@ -1,0 +1,73 @@
+{
+	"dec":"+00:30:37.83",
+	"decdeg":0.5105094,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aaisnth",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-08 11:39:18.000",
+	"discoverymag":19.7508,
+	"end_prop_period":null,
+	"host_redshift":0.0544,
+	"hostname":"WISEA J131954.18+003043.3",
+	"internal_names":"ZTF21aaisnth",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":100,
+		"name":"SN Ia-pec"
+	},
+	"objid":76982,
+	"objname":"2021coe",
+	"public":1,
+	"ra":"13:19:54.193",
+	"radeg":199.9758031,
+	"radeg_err":2.5e-05,
+	"redshift":0.054,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021coe_2021-02-12_06-37-23_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021coe_2021-02-12_06-37-23_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459257.7759606,
+			"obsdate":"2021-02-12 06:37:23",
+			"observer":"S. Prentice, M. Deckers",
+			"public":1,
+			"reducer":"J. Terwel, M. Magee",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

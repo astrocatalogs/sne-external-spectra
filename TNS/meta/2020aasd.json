@@ -1,7 +1,7 @@
 {
-	"dec":"+33:34:00.91",
-	"decdeg":33.56692054,
-	"decdeg_err":0.00027777777777778,
+	"dec":"+33:34:00.90",
+	"decdeg":33.5669170808,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.047,
 	"hostname":"SDSS J092314.98+333401.3",
-	"internal_names":"ZTF20actawpa, ATLAS20bgbl",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actawpa, ATLAS20bgbl, PS20nhi",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":71614,
 	"objname":"2020aasd",
 	"public":1,
-	"ra":"09:23:15.017",
-	"radeg":140.8125698,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"09:23:15.018",
+	"radeg":140.812574654,
+	"radeg_err":0,
+	"redshift":0.025,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2020aasd_2459190.7_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459190.7,
+			"obsdate":"2020-12-07 04:48:00",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
 }

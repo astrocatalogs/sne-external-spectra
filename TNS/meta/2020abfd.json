@@ -1,7 +1,7 @@
 {
-	"dec":"-21:45:39.15",
-	"decdeg":-21.760874875,
-	"decdeg_err":0.00027777777777778,
+	"dec":"-21:45:39.10",
+	"decdeg":-21.760861,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF20actdeqw, ATLAS20bgfy",
-	"name_prefix":"AT",
+	"internal_names":"ZTF20actdeqw, ATLAS20bgfy, Gaia20fqk",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":72005,
 	"objname":"2020abfd",
 	"public":1,
-	"ra":"01:47:46.484",
-	"radeg":26.943683,
-	"radeg_err":0.00027777777777778,
-	"redshift":null,
+	"ra":"01:47:46.490",
+	"radeg":26.943708,
+	"radeg_err":0,
+	"redshift":0.045,
 	"reporter":"ZTF_Bot1",
 	"reporterid":48869,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020abfd_2020-12-15_05-57-56_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2020abfd_2020-12-15_05-57-56_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459198.7485648,
+			"obsdate":"2020-12-15 05:57:56",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
 }
