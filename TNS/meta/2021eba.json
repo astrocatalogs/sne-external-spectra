@@ -1,0 +1,73 @@
+{
+	"dec":"+44:02:20.31",
+	"decdeg":44.0389752,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aanrhag",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-28 07:09:07.200",
+	"discoverymag":19.61,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aanrhag, ATLAS21iog",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":78015,
+	"objname":"2021eba",
+	"public":1,
+	"ra":"09:17:42.280",
+	"radeg":139.4261648,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.039724,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/TCD/tns_2021eba_2459293.44404_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459293.44404,
+			"obsdate":"2021-03-19 22:39:25",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

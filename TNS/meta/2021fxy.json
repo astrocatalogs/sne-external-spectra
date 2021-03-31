@@ -1,0 +1,73 @@
+{
+	"dec":"-19:30:45.06",
+	"decdeg":-19.5125176165,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"",
+		"id":1,
+		"name":"Clear"
+	},
+	"discoverer":"Koichi Itagaki",
+	"discoverer_internal_name":"",
+	"discovery_data_source":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"discoverydate":"2021-03-17 17:23:37.000",
+	"discoverymag":16.9,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"NGC5022",
+	"internal_names":", ATLAS21iic, ZTF21aaprfqv, PS21cam",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":79325,
+	"objname":"2021fxy",
+	"public":1,
+	"ra":"13:13:01.577",
+	"radeg":198.256572093,
+	"radeg_err":0,
+	"redshift":0.0094,
+	"reporter":"Koichi Itagaki",
+	"reporterid":87,
+	"reporting_group":{
+		"group_name":"None",
+		"groupid":0
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SIRAH/tns_2021fxy_2459291.613943865_SALT_RSS_SIRAH.dat",
+			"assoc_groups":[
+				{
+					"id":85,
+					"name":"SIRAH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2094,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/SIRAH/tns_2021fxy_2459291.613943865_SALT_RSS_SIRAH.fits",
+			"instrument":{
+				"id":117,
+				"name":"RSS"
+			},
+			"jd":2459291.613943865,
+			"obsdate":"2021-03-18 02:44:04",
+			"observer":"D. Groenewald",
+			"public":1,
+			"reducer":"S. W. Jha",
+			"remarks":"Young SN Ia; adopting host NGC 5018 redshift z = 0.0094 (via NED) yields Si II velocity of -18,000 km/s",
+			"source_group":{
+				"id":85,
+				"name":"SIRAH"
+			},
+			"telescope":{
+				"id":82,
+				"name":"SALT"
+			}
+		}
+	]
+}

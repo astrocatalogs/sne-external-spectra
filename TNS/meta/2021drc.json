@@ -1,0 +1,73 @@
+{
+	"dec":"+21:23:12.22",
+	"decdeg":21.3867286876,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aamttit",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-23 08:28:19.200",
+	"discoverymag":18.58,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aamttit, PS21bzk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77748,
+	"objname":"2021drc",
+	"public":1,
+	"ra":"11:27:49.081",
+	"radeg":171.954503784,
+	"radeg_err":0,
+	"redshift":0.040571,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021drc_2021-02-23_12-23-58.216564_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459269.0166435,
+			"obsdate":"2021-02-23 12:23:58",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"neill",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

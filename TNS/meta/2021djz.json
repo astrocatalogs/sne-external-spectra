@@ -1,0 +1,73 @@
+{
+	"dec":"-02:27:05.34",
+	"decdeg":-2.45148314965,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"R. Shirley (Univ. of Southampton), I. Perez-Fournon, C. Jimenez Angel, F. Poidevin (IAC & ULL), R. Marques-Chaves (Univ. of Geneva), S. Geier (GRANTECAN & IAC), Y. Shu (MPA), S.  Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF21aalnxkl",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-18 11:02:25.000",
+	"discoverymag":19.402,
+	"end_prop_period":null,
+	"host_redshift":0.0874,
+	"hostname":"2dFGRS N198Z119",
+	"internal_names":"ZTF21aalnxkl, PS21bze",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77558,
+	"objname":"2021djz",
+	"public":1,
+	"ra":"13:31:55.494",
+	"radeg":202.981224954,
+	"radeg_err":0,
+	"redshift":0.087,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021djz_2021-02-22_08-20-53_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021djz_2021-02-22_08-20-53_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459267.8478356,
+			"obsdate":"2021-02-22 08:20:53",
+			"observer":"L. Harvey, S. Prentice",
+			"public":1,
+			"reducer":"M. Magee, M. Deckers",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

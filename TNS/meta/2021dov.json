@@ -1,0 +1,103 @@
+{
+	"dec":"-00:26:31.71",
+	"decdeg":-0.442141976238,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aamokak",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-22 06:36:00.000",
+	"discoverymag":18.14,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aamokak, PS21aif",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77689,
+	"objname":"2021dov",
+	"public":1,
+	"ra":"08:56:18.707",
+	"radeg":134.077946504,
+	"radeg_err":0,
+	"redshift":0.012,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/PSH/tns_2021dov_2021-03-21_Other_Other_PSH.dat",
+			"assoc_groups":[
+				{
+					"id":39,
+					"name":"PSH"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":0,
+				"name":"Other"
+			},
+			"jd":2459294.5,
+			"obsdate":"2021-03-21 00:00:00",
+			"observer":"Jarosław Grzegorzek",
+			"public":1,
+			"reducer":"Jarosław Grzegorzek",
+			"remarks":"SN-Spec R~100 slit spectroscope",
+			"source_group":{
+				"id":39,
+				"name":"PSH"
+			},
+			"telescope":{
+				"id":0,
+				"name":"Other"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2021dov_2021-02-22_08-14-30_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459267.8434028,
+			"obsdate":"2021-02-22 08:14:30",
+			"observer":"Ashall",
+			"public":1,
+			"reducer":"Ashall",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

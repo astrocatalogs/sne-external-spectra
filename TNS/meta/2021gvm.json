@@ -1,0 +1,73 @@
+{
+	"dec":"+13:24:40.28",
+	"decdeg":13.4111884,
+	"decdeg_err":2.7777777777778e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"K. De (Caltech) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF21aaqjmps",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-21 06:27:01.728",
+	"discoverymag":19.5747,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aaqjmps, ATLAS21jds",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":1,
+		"name":"SN"
+	},
+	"objid":79946,
+	"objname":"2021gvm",
+	"public":1,
+	"ra":"13:30:01.219",
+	"radeg":202.5050795,
+	"radeg_err":2.7777777777778e-05,
+	"redshift":0.025,
+	"reporter":"ZTF_CLU_PUBLIC",
+	"reporterid":71270,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021gvm_2021-03-23_06-07-18_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021gvm_2021-03-23_06-07-18_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459296.7550694,
+			"obsdate":"2021-03-23 06:07:18",
+			"observer":"T. Kravtsov, C. Gutierrez, S. C. Williams",
+			"public":1,
+			"reducer":"T. Nagao",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

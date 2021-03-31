@@ -1,0 +1,73 @@
+{
+	"dec":"+16:26:04.80",
+	"decdeg":16.4346655556,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland, H. Flewelling (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, D. O'Neill, P. Clark, M. Fulton, J. Gillanders, M. Dobson (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS20hqn",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2020-03-03 07:20:38.400",
+	"discoverymag":18.975,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS20hqn",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":55377,
+	"objname":"2020efk",
+	"public":1,
+	"ra":"09:13:26.428",
+	"radeg":138.360117222,
+	"radeg_err":0,
+	"redshift":0.072191,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2020efk_2458917_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2100,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2458917,
+			"obsdate":"2020-03-08 12:00:00",
+			"observer":"M.A.Tucker",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

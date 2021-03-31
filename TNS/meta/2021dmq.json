@@ -1,0 +1,73 @@
+{
+	"dec":"+50:54:08.06",
+	"decdeg":50.902239,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, G. Pignata, A. Munoz-Arancibia, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aamhtui",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-20 04:12:24.002",
+	"discoverymag":20.2585,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J054848.30+505407.1",
+	"internal_names":"ZTF21aamhtui, ATLAS21hpo, Gaia21bji",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77627,
+	"objname":"2021dmq",
+	"public":1,
+	"ra":"05:48:48.420",
+	"radeg":87.20175,
+	"radeg_err":0,
+	"redshift":0.04,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/TCD/tns_2021dmq_2021-02-23_20-12-14.750_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459269.3418287,
+			"obsdate":"2021-02-23 20:12:15",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

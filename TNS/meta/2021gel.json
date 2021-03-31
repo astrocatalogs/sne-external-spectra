@@ -1,0 +1,73 @@
+{
+	"dec":"+31:25:42.22",
+	"decdeg":31.4283941603,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders, C. Webb (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21ikd",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-03-18 12:04:19.200",
+	"discoverymag":18.749,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21ikd, PS21byd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":103,
+		"name":"SN Ia-91bg-like"
+	},
+	"objid":79496,
+	"objname":"2021gel",
+	"public":1,
+	"ra":"12:26:32.288",
+	"radeg":186.634535203,
+	"radeg_err":0,
+	"redshift":0.06,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2021gel_2021-03-22_00-00-00_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459295.5,
+			"obsdate":"2021-03-22 00:00:00",
+			"observer":"T. Hung",
+			"public":1,
+			"reducer":"T. Hung",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	]
+}

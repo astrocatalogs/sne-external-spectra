@@ -1,0 +1,95 @@
+{
+	"dec":"-06:34:53.12",
+	"decdeg":-6.58142151077,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders, C. Webb (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21gfy",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-02-15 10:14:52.800",
+	"discoverymag":18.134,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21gfy, PS21aid",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":77327,
+	"objname":"2021dbg",
+	"public":1,
+	"ra":"09:24:26.796",
+	"radeg":141.11165005,
+	"radeg_err":0,
+	"redshift":0.02,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021dbg_2459262.2042603_Lijiang-2.4m_YFOSC.dat",
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":107,
+				"name":"YFOSC"
+			},
+			"jd":2459262.2042603,
+			"obsdate":"2021-02-16 16:54:08",
+			"observer":"Jujia Zhang",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":77,
+				"name":"Lijiang-2.4m"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021dbg_2021-02-16_04-05-44_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021dbg_2021-02-16_04-05-44_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459261.6706481,
+			"obsdate":"2021-02-16 04:05:44",
+			"observer":"L. Harvey, M. Magee",
+			"public":1,
+			"reducer":"S. Prentice, M. Deckers",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

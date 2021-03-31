@@ -1,0 +1,73 @@
+{
+	"dec":"+14:04:34.67",
+	"decdeg":14.0762961033,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"C. Jimenez Angel, I. Perez-Fournon, F. Poidevin (IAC & ULL), R. Shirley (Univ. of Southampton), R. Marques-Chaves (Univ. of Geneva), S. Geier (GRANTECAN & IAC), Y. Shu (MPA), S. Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's  NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF21aaljjvt",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-17 09:54:05.000",
+	"discoverymag":19.623,
+	"end_prop_period":null,
+	"host_redshift":0.080131,
+	"hostname":"SDSS J113137.85+140438.4",
+	"internal_names":"ZTF21aaljjvt, PS21afk, ATLAS21gte",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77480,
+	"objname":"2021dha",
+	"public":1,
+	"ra":"11:31:38.463",
+	"radeg":172.910260566,
+	"radeg_err":0,
+	"redshift":0.08,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2021dha_2021-03-07_SOAR_Goodman_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459280.5,
+			"obsdate":"2021-03-07 00:00:00",
+			"observer":"G. Dimitriadis",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

@@ -1,0 +1,99 @@
+{
+	"dec":"+18:47:58.75",
+	"decdeg":18.7996536,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, G. Pignata, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aaomuka",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-07 06:49:44.999",
+	"discoverymag":19.9255,
+	"end_prop_period":null,
+	"host_redshift":0.003803,
+	"hostname":"MCG +03-29-027",
+	"internal_names":"ZTF21aaomuka, ATLAS21iht",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":78531,
+	"objname":"2021euj",
+	"public":1,
+	"ra":"11:18:05.493",
+	"radeg":169.52288555,
+	"radeg_err":2.5e-05,
+	"redshift":0.07,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/POISE/tns_2021euj_2021-03-08_03-58-04.6_Magellan-Baade_IMACS_POISE.dat",
+			"assoc_groups":[
+				{
+					"id":32,
+					"name":"CSP"
+				},
+				{
+					"id":112,
+					"name":"POISE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/POISE/tns_2021euj_2021-03-08_03-58-04.6_Magellan-Baade_IMACS_POISE.fits",
+			"instrument":{
+				"id":75,
+				"name":"IMACS"
+			},
+			"jd":2459281.6653241,
+			"obsdate":"2021-03-08 03:58:05",
+			"observer":"Sahana Kumar, Jing Lu, Eric Hsiao",
+			"public":1,
+			"reducer":"Nidia Morrell",
+			"remarks":"",
+			"source_group":{
+				"id":112,
+				"name":"POISE"
+			},
+			"telescope":{
+				"id":54,
+				"name":"Magellan-Baade"
+			}
+		},
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021euj_2021-03-07_20-10-07_CMO-2.5m_TDS.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":249,
+				"name":"TDS"
+			},
+			"jd":2459281.3403588,
+			"obsdate":"2021-03-07 20:10:07",
+			"observer":"Kirill Atapin",
+			"public":1,
+			"reducer":"Alexander Dodin",
+			"remarks":"The observations were performed with the Transient Double-beam Spectrograph mounted on the 2.5-m Telescope of the Caucasus Mountain Observatory (CMO)  ",
+			"source_group_name":"None",
+			"telescope":{
+				"id":149,
+				"name":"CMO-2.5m"
+			}
+		}
+	]
+}

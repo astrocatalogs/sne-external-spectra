@@ -1,0 +1,73 @@
+{
+	"dec":"+12:42:10.49",
+	"decdeg":12.70291375,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders, C. Webb (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21hgl",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-03-03 10:14:52.800",
+	"discoverymag":18.476,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21hgl",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":78160,
+	"objname":"2021egh",
+	"public":1,
+	"ra":"09:49:51.241",
+	"radeg":147.463505,
+	"radeg_err":0,
+	"redshift":0.029921,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021egh_2021-03-04_13-38-45_FTS_FLOYDS-S_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021egh_2021-03-04_13-38-45_FTS_FLOYDS-S_Global_SN_Project.fits",
+			"instrument":{
+				"id":125,
+				"name":"FLOYDS-S"
+			},
+			"jd":2459278.0685764,
+			"obsdate":"2021-03-04 13:38:45",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":75,
+				"name":"FTS"
+			}
+		}
+	]
+}

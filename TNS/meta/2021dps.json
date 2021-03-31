@@ -1,0 +1,73 @@
+{
+	"dec":"-02:13:38.46",
+	"decdeg":-2.22735107945,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, G. Pignata, A. Munoz-Arancibia, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aamobbh",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-22 05:35:20.996",
+	"discoverymag":19.1331,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J080053.74-021340.6",
+	"internal_names":"ZTF21aamobbh, ATLAS21gwa, PS21ayi",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":9,
+		"name":"SN Ibn"
+	},
+	"objid":77712,
+	"objname":"2021dps",
+	"public":1,
+	"ra":"08:00:54.091",
+	"radeg":120.225378084,
+	"radeg_err":0,
+	"redshift":0.057,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021dps_2021-03-11_00-00-00_APO-3.5m_DIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":70,
+				"name":"DIS"
+			},
+			"jd":2459284.5,
+			"obsdate":"2021-03-11 00:00:00",
+			"observer":"Melissa Graham",
+			"public":1,
+			"reducer":"Melissa Graham",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":55,
+				"name":"APO-3.5m"
+			}
+		}
+	]
+}

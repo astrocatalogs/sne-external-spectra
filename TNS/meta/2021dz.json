@@ -1,7 +1,7 @@
 {
-	"dec":"+79:48:39.04",
-	"decdeg":79.8108432,
-	"decdeg_err":2.7777777777778e-05,
+	"dec":"+79:48:38.74",
+	"decdeg":79.8107603999,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF21aaaodzf",
-	"name_prefix":"AT",
+	"internal_names":"ZTF21aaaodzf, ATLAS21ags, PS21cg",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":74567,
 	"objname":"2021dz",
 	"public":1,
-	"ra":"10:28:44.351",
-	"radeg":157.1847938,
-	"radeg_err":2.7777777777778e-05,
-	"redshift":null,
+	"ra":"10:28:44.355",
+	"radeg":157.184810698,
+	"radeg_err":0,
+	"redshift":0.031582,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2021dz_2021-02-07_10-19-20.21_MDM-2.4_OSMOS_REFITT.dat",
+			"assoc_groups":[
+				{
+					"id":98,
+					"name":"REFITT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/REFITT/tns_2021dz_2021-02-07_10-19-20.21_MDM-2.4_OSMOS_REFITT.fits",
+			"instrument":{
+				"id":150,
+				"name":"OSMOS"
+			},
+			"jd":2459252.9300926,
+			"obsdate":"2021-02-07 10:19:20",
+			"observer":"J. Rupert",
+			"public":1,
+			"reducer":"K. E. Weil, B. M. Subrayan, D. Milisaljevic",
+			"remarks":" ",
+			"source_group":{
+				"id":98,
+				"name":"REFITT"
+			},
+			"telescope":{
+				"id":11,
+				"name":"MDM-2.4"
+			}
+		}
+	]
 }

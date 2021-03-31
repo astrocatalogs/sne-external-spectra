@@ -1,0 +1,73 @@
+{
+	"dec":"+08:16:48.62",
+	"decdeg":8.28017315926,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland, H. Flewelling (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, D. O'Neill, P. Clark, M. Fulton, J. Gillanders, M. Dobson (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS19bfmg",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2019-12-29 13:33:35.000",
+	"discoverymag":19.513,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS19bfmg, ZTF19adajybt, PS20dr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objid":51159,
+	"objname":"2019zeu",
+	"public":1,
+	"ra":"10:13:57.430",
+	"radeg":153.489291095,
+	"radeg_err":0,
+	"redshift":0.39,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/FLEET/tns_2019zeu_2020-02-19_MMT_MMT-Blue_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":58,
+				"name":"MMT-Blue"
+			},
+			"jd":2458898.5,
+			"obsdate":"2020-02-19 00:00:00",
+			"observer":"Sebastian Gomez",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

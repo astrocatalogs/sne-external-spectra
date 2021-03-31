@@ -1,0 +1,73 @@
+{
+	"dec":"+43:24:53.68",
+	"decdeg":43.414909777778,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"J. Nordin, V. Brinnel, M. Giomi, J. van Santen (HU Berlin), A. Gal-Yam, O. Yaron, S. Schulze (Weizmann) on behalf of ZTF",
+	"discoverer_internal_name":"ZTF19adaivcf",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-12-19 11:43:22.000",
+	"discoverymag":19.87,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF19adaivcf, ATLAS19bfmr",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objid":51082,
+	"objname":"2019zbv",
+	"public":1,
+	"ra":"10:15:01.124",
+	"radeg":153.75468334444,
+	"radeg_err":0.00027777777777778,
+	"redshift":0.37,
+	"reporter":"ZTF_AMPEL_COMPLETE",
+	"reporterid":59228,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/FLEET/tns_2019zbv_2020-01-19_MMT_BINOSPEC_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2458867.5,
+			"obsdate":"2020-01-19 00:00:00",
+			"observer":"Binospec Queue Service Observer",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

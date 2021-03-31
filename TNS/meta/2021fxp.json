@@ -1,0 +1,73 @@
+{
+	"dec":"+32:26:23.77",
+	"decdeg":32.4399353,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aapejbx",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-17 06:12:57.600",
+	"discoverymag":18.73,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aapejbx, ATLAS21ikg",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":79316,
+	"objname":"2021fxp",
+	"public":1,
+	"ra":"11:11:09.432",
+	"radeg":167.7892992,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.07,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2021fxp_2459297.974948_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459297.974948,
+			"obsdate":"2021-03-24 11:23:56",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"Tucker",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

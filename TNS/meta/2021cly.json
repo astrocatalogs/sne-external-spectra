@@ -1,0 +1,73 @@
+{
+	"dec":"-10:19:33.03",
+	"decdeg":-10.3258402785,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":71,
+		"name":"cyan"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders, C. Webb (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21eii",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-02-03 07:35:02.400",
+	"discoverymag":19.279,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21eii, PS21ahd",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":4,
+		"name":"SN Ib"
+	},
+	"objid":76923,
+	"objname":"2021cly",
+	"public":1,
+	"ra":"03:58:37.251",
+	"radeg":59.6552140329,
+	"radeg_err":0,
+	"redshift":0.037,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2021cly_2021-03-07_SOAR_Goodman_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459280.5,
+			"obsdate":"2021-03-07 00:00:00",
+			"observer":"G. Dimitriadis",
+			"public":1,
+			"reducer":"G. Dimitriadis",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
+}

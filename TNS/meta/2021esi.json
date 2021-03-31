@@ -1,0 +1,65 @@
+{
+	"dec":"+27:29:09.95",
+	"decdeg":27.4860981228,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aaoiaar",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-07 03:36:00.000",
+	"discoverymag":18.63,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aaoiaar, PS21bxq",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":14,
+		"name":"SN IIb"
+	},
+	"objid":78477,
+	"objname":"2021esi",
+	"public":1,
+	"ra":"06:50:03.350",
+	"radeg":102.513959371,
+	"radeg_err":0,
+	"redshift":0.03,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/general/tns_2021esi_2021-03-19_NOT_ALFOSC.txt",
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"groupid":0,
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459292.5,
+			"obsdate":"2021-03-19 00:00:00",
+			"observer":"C Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group_name":"None",
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

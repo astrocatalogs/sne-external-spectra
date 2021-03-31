@@ -1,7 +1,7 @@
 {
-	"dec":"+29:39:27.96",
-	"decdeg":29.65776694,
-	"decdeg_err":2.5e-05,
+	"dec":"+29:39:28.00",
+	"decdeg":29.6577780712,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":111,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":0.023483,
 	"hostname":"UGC 08195",
-	"internal_names":"ZTF21aakupth, ATLAS21ghi",
-	"name_prefix":"AT",
+	"internal_names":"ZTF21aakupth, ATLAS21ghi, PS21ckv",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objid":77168,
 	"objname":"2021cvd",
 	"public":1,
-	"ra":"13:06:23.225",
-	"radeg":196.59676938,
-	"radeg_err":2.5e-05,
-	"redshift":null,
+	"ra":"13:06:23.226",
+	"radeg":196.596774169,
+	"radeg_err":0,
+	"redshift":0.023,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2021cvd_2459279.949844_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2200,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459279.949844,
+			"obsdate":"2021-03-06 10:47:46",
+			"observer":"mHuber",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
 }

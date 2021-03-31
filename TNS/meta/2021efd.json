@@ -1,0 +1,73 @@
+{
+	"dec":"+23:38:58.60",
+	"decdeg":23.6496111568,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, G. Pignata, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aanvncv",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-02 08:04:29.997",
+	"discoverymag":19.7713,
+	"end_prop_period":null,
+	"host_redshift":0.027859,
+	"hostname":"KUG 1121+239",
+	"internal_names":"ZTF21aanvncv, ATLAS21iia, PS21byo",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":6,
+		"name":"SN Ib/c"
+	},
+	"objid":78127,
+	"objname":"2021efd",
+	"public":1,
+	"ra":"11:24:24.712",
+	"radeg":171.102967357,
+	"radeg_err":0,
+	"redshift":0.028,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/POISE/tns_2021efd_2021-03-04_03-41-45.768_NOT_ALFOSC_POISE.txt",
+			"assoc_groups":[
+				{
+					"id":112,
+					"name":"POISE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459277.6539931,
+			"obsdate":"2021-03-04 03:41:46",
+			"observer":"Pasi Hakala, Rosa Clavero",
+			"public":1,
+			"reducer":"M. Stritzinger",
+			"remarks":"",
+			"source_group":{
+				"id":112,
+				"name":"POISE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

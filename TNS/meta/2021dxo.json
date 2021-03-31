@@ -1,0 +1,73 @@
+{
+	"dec":"+42:00:32.33",
+	"decdeg":42.0089806306,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, G. Pignata, A. Munoz-Arancibia, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aanplys",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-28 10:48:59.996",
+	"discoverymag":18.7393,
+	"end_prop_period":null,
+	"host_redshift":0.022885,
+	"hostname":"KUG 1207+422",
+	"internal_names":"ZTF21aanplys, ATLAS21hgy, PS21atb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":77917,
+	"objname":"2021dxo",
+	"public":1,
+	"ra":"12:09:38.807",
+	"radeg":182.411697819,
+	"radeg_err":0,
+	"redshift":0.022885,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021dxo_2021-03-04_14-01-10_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021dxo_2021-03-04_14-01-10_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459278.0841435,
+			"obsdate":"2021-03-04 14:01:10",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
+}

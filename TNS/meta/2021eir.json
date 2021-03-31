@@ -1,0 +1,73 @@
+{
+	"dec":"+58:15:00.29",
+	"decdeg":58.250081,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":"S.T. Hodgkin, E. Breedt, A. Delgado, D.L. Harrison, M. van Leeuwen, G. Rixon, T. Wevers, A. Yoldas (IoA Cambridge), N. Ihanec, K. Kruszyńska, K.A. Rybicki, Ł. Wyrzykowski (Warsaw University Astronomical Observatory), Z. Kostrzewa-Rutkowska (Leiden Observatory), D. Eappachen (SRON/RU), G. Marton (Konkoly Observatory), on behalf of the Gaia Alerts team",
+	"discoverer_internal_name":"Gaia21ber",
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"discoverydate":"2021-03-02 19:32:09.600",
+	"discoverymag":18.93,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"Gaia21ber, ATLAS21hkb, ZTF21aantxma",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":78223,
+	"objname":"2021eir",
+	"public":1,
+	"ra":"10:41:54.480",
+	"radeg":160.477,
+	"radeg_err":0,
+	"redshift":0.07023,
+	"reporter":"Gaia_Bot1",
+	"reporterid":35587,
+	"reporting_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021eir_2021-03-17_09-07-46.249575_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459290.8803935,
+			"obsdate":"2021-03-17 09:07:46",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

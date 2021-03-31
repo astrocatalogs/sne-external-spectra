@@ -1,0 +1,73 @@
+{
+	"dec":"+05:06:26.17",
+	"decdeg":5.107269,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"GOTO",
+		"id":120,
+		"name":"L"
+	},
+	"discoverer":"S. Williams, M. Kennedy, K. Ackley, D. Steeghs, D. K. Galloway, V. Dhillon, P. O'Brien, G. Ramsay, D. Pollacco, E. Thrane, S. Poshyachinda, R. Kotak, L. Nuttall, E. Pallé, K. Ulaczyk, J. Lyman, M. Dyer, T. Heikkilä, on behalf of GOTO collaboration",
+	"discoverer_internal_name":"GOTO21cl",
+	"discovery_data_source":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"discoverydate":"2021-03-14 04:19:21.504",
+	"discoverymag":20.4,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"GOTO21cl, ATLAS21idr, ZTF21aapkfjx, Gaia21bmm, PS21clz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":79119,
+	"objname":"2021fqb",
+	"public":1,
+	"ra":"15:11:05.910",
+	"radeg":227.774625,
+	"radeg_err":0,
+	"redshift":0.035,
+	"reporter":"GOTO_bot",
+	"reporterid":58806,
+	"reporting_group":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/GOTO/tns_2021fqb_2021-03-17.20_LT_SPRAT_GOTO.txt",
+			"assoc_groups":[
+				{
+					"id":59,
+					"name":"GOTO"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459290.7,
+			"obsdate":"2021-03-17 04:48:00",
+			"observer":"J. Lyman",
+			"public":1,
+			"reducer":"",
+			"remarks":"Normalised flux",
+			"source_group":{
+				"id":59,
+				"name":"GOTO"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

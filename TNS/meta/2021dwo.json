@@ -1,0 +1,73 @@
+{
+	"dec":"-01:34:13.26",
+	"decdeg":-1.5703492,
+	"decdeg_err":5.5555555555556e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"C. Fremling (Caltech) on behalf of the Zwicky Transient Facility (ZTF) collaboration",
+	"discoverer_internal_name":"ZTF21aamkxbl",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-21 11:36:57.600",
+	"discoverymag":19.11,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aamkxbl, ATLAS21gwk",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77891,
+	"objname":"2021dwo",
+	"public":1,
+	"ra":"14:24:43.452",
+	"radeg":216.1810513,
+	"radeg_err":5.5555555555556e-05,
+	"redshift":0.057153,
+	"reporter":"ZTF_Bot1",
+	"reporterid":48869,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021dwo_2021-03-04_12-50-01_FTN_FLOYDS-N_Global_SN_Project.ascii",
+			"assoc_groups":[
+				{
+					"id":38,
+					"name":"Global SN Project"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":3600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/Global%20SN%20Project/tns_2021dwo_2021-03-04_12-50-01_FTN_FLOYDS-N_Global_SN_Project.fits",
+			"instrument":{
+				"id":108,
+				"name":"FLOYDS-N"
+			},
+			"jd":2459278.0347338,
+			"obsdate":"2021-03-04 12:50:01",
+			"observer":"Las Cumbres Observatory",
+			"public":1,
+			"reducer":"Jamison Burke",
+			"remarks":"",
+			"source_group":{
+				"id":38,
+				"name":"Global SN Project"
+			},
+			"telescope":{
+				"id":74,
+				"name":"FTN"
+			}
+		}
+	]
+}

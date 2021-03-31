@@ -1,0 +1,73 @@
+{
+	"dec":"+19:44:53.91",
+	"decdeg":19.748308,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":" I. Perez-Fournon, C. Jimenez Angel, F. Poidevin (IAC & ULL), R. Shirley (Univ. of Southampton), R. Marques-Chaves (Univ. of Geneva), S. Geier (GRANTECAN & IAC), Y. Shu (MPA), S. Rodney, J. Roberts-Pierel (Univ. of South Carolina), A. Bolton (NSF's NOIRLab), S. Chakrabarti, P. Craig, and B. Alamiri (RIT)",
+	"discoverer_internal_name":"ZTF21aaoexgy",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-05 08:09:53.000",
+	"discoverymag":19.289,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"SDSS J141839.83+194458.5",
+	"internal_names":"ZTF21aaoexgy, ATLAS21hrv",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":78713,
+	"objname":"2021fbc",
+	"public":1,
+	"ra":"14:18:39.827",
+	"radeg":214.665946,
+	"radeg_err":0,
+	"redshift":0.057,
+	"reporter":"Ismael Perez-Fournon",
+	"reporterid":977,
+	"reporting_group":{
+		"group_name":"SGLF",
+		"groupid":81
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021fbc_2021-03-09_11-10-28.121117_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459282.9656019,
+			"obsdate":"2021-03-09 11:10:28",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

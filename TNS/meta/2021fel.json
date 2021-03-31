@@ -1,0 +1,73 @@
+{
+	"dec":"+62:34:04.29",
+	"decdeg":62.567858058333,
+	"decdeg_err":2.2632920651234e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"A. Munoz-Arancibia, F. Forster, F.E. Bauer, G. Pignata, L. Hernandez-Garcia, L. Galbany, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aaowaxx",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-09 12:19:30.003",
+	"discoverymag":19.2973,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J165158.55+623404.8",
+	"internal_names":"ZTF21aaowaxx, ATLAS21hux",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":13,
+		"name":"SN IIn"
+	},
+	"objid":78802,
+	"objname":"2021fel",
+	"public":1,
+	"ra":"16:51:58.526",
+	"radeg":252.99385855833,
+	"radeg_err":5.4775107764118e-05,
+	"redshift":0.068,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2021fel_2459298.099670_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459298.09967,
+			"obsdate":"2021-03-24 14:23:31",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"Tucker",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

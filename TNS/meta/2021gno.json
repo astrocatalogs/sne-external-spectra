@@ -1,0 +1,73 @@
+{
+	"dec":"+13:14:57.03",
+	"decdeg":13.2491751026,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"Rachel BRUCH, Erez Zimmerman (WIS), Joel Johansson (OKC)",
+	"discoverer_internal_name":"ZTF21aaqhhfu",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-03-20 05:38:54.240",
+	"discoverymag":18.2017,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aaqhhfu, ATLAS21iro, PS21cjz",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":10,
+		"name":"SN II"
+	},
+	"objid":79735,
+	"objname":"2021gno",
+	"public":1,
+	"ra":"12:12:10.295",
+	"radeg":183.042897819,
+	"radeg_err":0,
+	"redshift":0.006,
+	"reporter":"Rachel BRUCH",
+	"reporterid":1191,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/UCSC/tns_2021gno_2021-03-22_00-00-00_Lick-3m_KAST_UCSC.flm",
+			"assoc_groups":[
+				{
+					"id":77,
+					"name":"UCSC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":10,
+				"name":"KAST"
+			},
+			"jd":2459295.5,
+			"obsdate":"2021-03-22 00:00:00",
+			"observer":"T. Hung",
+			"public":1,
+			"reducer":"T. Hung",
+			"remarks":"",
+			"source_group":{
+				"id":77,
+				"name":"UCSC"
+			},
+			"telescope":{
+				"id":10,
+				"name":"Lick-3m"
+			}
+		}
+	]
+}

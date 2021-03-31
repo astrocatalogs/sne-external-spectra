@@ -18,11 +18,11 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF21aaaouyd, Gaia21abq",
-	"name_prefix":"AT",
+	"internal_names":"ZTF21aaaouyd, Gaia21abq, ATLAS21aus",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":2,
+		"name":"SN I"
 	},
 	"objid":74479,
 	"objname":"2021bd",
@@ -30,7 +30,7 @@
 	"ra":"14:35:19.800",
 	"radeg":218.8325,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.06127,
 	"reporter":"ZTF_Bot1",
 	"reporterid":48869,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":48
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021bd_2021-01-14_09-35-00.590956_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459228.8993056,
+			"obsdate":"2021-01-14 09:35:01",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
 }

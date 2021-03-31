@@ -1,0 +1,73 @@
+{
+	"dec":"-16:32:44.82",
+	"decdeg":-16.545782288889,
+	"decdeg_err":4.1246318203822e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aahnkut",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-06 10:04:39.999",
+	"discoverymag":19.3681,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"WISEA J131115.64-163245.1",
+	"internal_names":"ZTF21aahnkut, ATLAS21epx",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":76736,
+	"objname":"2021cez",
+	"public":1,
+	"ra":"13:11:15.690",
+	"radeg":197.81537385556,
+	"radeg_err":3.8060860948464e-05,
+	"redshift":0.07,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021cez_2021-02-20_07-36-25.545201_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2700,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459265.816956,
+			"obsdate":"2021-02-20 07:36:26",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		}
+	]
+}

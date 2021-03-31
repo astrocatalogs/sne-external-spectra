@@ -1,0 +1,73 @@
+{
+	"dec":"+09:31:31.59",
+	"decdeg":9.52544055,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":111,
+		"name":"r"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aakigrh",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-11 10:35:49.004",
+	"discoverymag":19.3438,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":"CGCG 076-085",
+	"internal_names":"ZTF21aakigrh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objid":77090,
+	"objname":"2021cse",
+	"public":1,
+	"ra":"14:53:18.735",
+	"radeg":223.3280622,
+	"radeg_err":2.5e-05,
+	"redshift":0.0375,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/AZTEC/tns_2021cse_2021-02-13_12-11-34_MMT_BINOSPEC_AZTEC.dat",
+			"assoc_groups":[
+				{
+					"id":52,
+					"name":"AZTEC"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2459259.0080324,
+			"obsdate":"2021-02-13 12:11:34",
+			"observer":"MMT",
+			"public":1,
+			"reducer":"CfA Binospec pipeline v1.0-20190502",
+			"remarks":"Spectra was reduced by the automated pipeline. Bad pixels were manually extracted using iraf.splot . The uploaded spectrum is not redshift corrected or host galaxy corrected. ",
+			"source_group":{
+				"id":52,
+				"name":"AZTEC"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

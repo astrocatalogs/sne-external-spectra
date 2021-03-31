@@ -18,11 +18,11 @@
 	"end_prop_period":null,
 	"host_redshift":0.066866,
 	"hostname":"WISEA J132153.85+083618.5",
-	"internal_names":"ZTF21aakigqr",
-	"name_prefix":"AT",
+	"internal_names":"ZTF21aakigqr, ATLAS21ius",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":77083,
 	"objname":"2021crx",
@@ -30,7 +30,7 @@
 	"ra":"13:21:53.976",
 	"radeg":200.47490015,
 	"radeg_err":2.5e-05,
-	"redshift":null,
+	"redshift":0.066866,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/adH0cc/tns_2021crx_2021-02-21_06-46-23_VLT-UT1_FORS2_adH0cc.asci",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1200,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/adH0cc/tns_2021crx_2021-02-21_06-46-23_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2459266.7822106,
+			"obsdate":"2021-02-21 06:46:23",
+			"observer":"Service",
+			"public":1,
+			"reducer":"G. Csoernyei",
+			"remarks":"Quick-reduction spectrum, telluric correction applied",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	]
 }

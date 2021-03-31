@@ -1,0 +1,73 @@
+{
+	"dec":"-60:08:05.86",
+	"decdeg":-60.134961,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Gaia",
+		"id":75,
+		"name":"G"
+	},
+	"discoverer":"S.T. Hodgkin, E. Breedt, A. Delgado, D.L. Harrison, M. van Leeuwen, G. Rixon, T. Wevers, A. Yoldas (IoA Cambridge), N. Ihanec, K. Kruszyńska, K.A. Rybicki, Ł. Wyrzykowski (Warsaw University Astronomical Observatory), Z. Kostrzewa-Rutkowska (Leiden Observatory), D. Eappachen (SRON/RU), G. Marton (Konkoly Observatory), on behalf of the Gaia Alerts team",
+	"discoverer_internal_name":"Gaia21bjh",
+	"discovery_data_source":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"discoverydate":"2021-03-16 04:03:21.600",
+	"discoverymag":18.2,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"Gaia21bjh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":5,
+		"name":"SN Ic"
+	},
+	"objid":79305,
+	"objname":"2021fxf",
+	"public":1,
+	"ra":"18:33:54.210",
+	"radeg":278.475875,
+	"radeg_err":0,
+	"redshift":0.013,
+	"reporter":"Gaia_Bot1",
+	"reporterid":35587,
+	"reporting_group":{
+		"group_name":"GaiaAlerts",
+		"groupid":24
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021fxf_2021-03-22_09-41-28_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":600,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021fxf_2021-03-22_09-41-28_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459295.9037963,
+			"obsdate":"2021-03-22 09:41:28",
+			"observer":"S. C. Williams, T. Kravtsov , C. Gutierrez",
+			"public":1,
+			"reducer":"T. Nagao",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		}
+	]
+}

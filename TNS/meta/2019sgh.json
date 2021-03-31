@@ -1,0 +1,73 @@
+{
+	"dec":"+36:28:24.80",
+	"decdeg":36.473556,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"Lin Yan and ZTF SLSN group",
+	"discoverer_internal_name":"ZTF19abzqmau",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2019-09-17 08:35:13.000",
+	"discoverymag":19.76,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF19abzqmau",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":18,
+		"name":"SLSN-I"
+	},
+	"objid":46432,
+	"objname":"2019sgh",
+	"public":1,
+	"ra":"01:12:39.420",
+	"radeg":18.16425,
+	"radeg_err":0,
+	"redshift":0.344,
+	"reporter":"Lin Yan",
+	"reporterid":1431,
+	"reporting_group":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/FLEET/tns_2019sgh_2019-10-27_MMT_BINOSPEC_FLEET.txt",
+			"assoc_groups":[
+				{
+					"id":99,
+					"name":"FLEET"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":221,
+				"name":"BINOSPEC"
+			},
+			"jd":2458783.5,
+			"obsdate":"2019-10-27 00:00:00",
+			"observer":"Binospec Queue Service Observer",
+			"public":1,
+			"reducer":"Sebastian Gomez",
+			"remarks":"",
+			"source_group":{
+				"id":99,
+				"name":"FLEET"
+			},
+			"telescope":{
+				"id":47,
+				"name":"MMT"
+			}
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"dec":"+06:05:52.22",
+	"decdeg":6.09783771701,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ATLAS",
+		"id":72,
+		"name":"orange"
+	},
+	"discoverer":"J. Tonry, L. Denneau, A. Heinze, H. Weiland (IfA, University of Hawaii), B. Stalder (LSST), A. Rest (STScI), C. Stubbs (Harvard University), K. W. Smith, S. J. Smartt, D. R. Young, S. Srivastav, O. McBrien, M. Fulton, J. Gillanders, C. Webb (Queen's University Belfast), T.-W. Chen (MPE), D. E. Wright (University of Minnesota), J. Anderson (ESO)",
+	"discoverer_internal_name":"ATLAS21gsa",
+	"discovery_data_source":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"discoverydate":"2021-02-22 12:30:14.400",
+	"discoverymag":18.629,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ATLAS21gsa, ZTF21aamuniy, PS21akf",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77716,
+	"objname":"2021dpw",
+	"public":1,
+	"ra":"12:24:57.437",
+	"radeg":186.239319998,
+	"radeg_err":0,
+	"redshift":0.08,
+	"reporter":"ATLAS_Bot1",
+	"reporterid":35595,
+	"reporting_group":{
+		"group_name":"ATLAS",
+		"groupid":18
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/YSE/tns_2021dpw_2021-03-03_NOT_ALFOSC_YSE.txt",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":41,
+				"name":"ALFOSC"
+			},
+			"jd":2459276.5,
+			"obsdate":"2021-03-03 00:00:00",
+			"observer":"C. Angus",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":12,
+				"name":"NOT"
+			}
+		}
+	]
+}

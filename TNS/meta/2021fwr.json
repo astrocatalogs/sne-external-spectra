@@ -1,0 +1,73 @@
+{
+	"dec":"-10:36:03.13",
+	"decdeg":-10.6008701465,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS21bwb",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2021-03-15 11:47:02.400",
+	"discoverymag":18.73,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS21bwb, ZTF21aapjqdl, ATLAS21iug",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":79291,
+	"objname":"2021fwr",
+	"public":1,
+	"ra":"13:45:09.340",
+	"radeg":206.288918479,
+	"radeg_err":0,
+	"redshift":0.08,
+	"reporter":"PS2_Bot1",
+	"reporterid":67899,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2021fwr_2021-03-22_11-57-06_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2400,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459295.9979861,
+			"obsdate":"2021-03-22 11:57:06",
+			"observer":"M E Huber",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}

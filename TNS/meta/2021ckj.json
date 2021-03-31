@@ -1,0 +1,73 @@
+{
+	"dec":"-08:35:07.56",
+	"decdeg":-8.58543366557,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"ZTF",
+		"id":110,
+		"name":"g"
+	},
+	"discoverer":"F. Forster, F.E. Bauer, A. Munoz-Arancibia, L. Hernandez-Garcia, G. Pignata, L. Galbany, G. Pignata, E. Camacho, J. Silva-Farfan, A. Mourao, J. Arredondo, G. Cabrera-Vives, R. Carrasco-Davis, P.A. Estevez, P. Huijse, E. Reyes, I. Reyes, P. Sanchez-Saez, C. Valenzuela, E. Castillo, D. Ruz-Mieres, D. Rodriguez-Mancini, M. Catelan, S. Eyheramendy, M.J. Graham on behalf of the ALeRCE broker",
+	"discoverer_internal_name":"ZTF21aajbgol",
+	"discovery_data_source":{
+		"group_name":"ZTF",
+		"groupid":48
+	},
+	"discoverydate":"2021-02-09 07:01:53.999",
+	"discoverymag":19.5725,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"ZTF21aajbgol, ATLAS21fru, PS21bno",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":109,
+		"name":"SN Icn"
+	},
+	"objid":76878,
+	"objname":"2021ckj",
+	"public":1,
+	"ra":"09:05:51.083",
+	"radeg":136.462846191,
+	"radeg_err":0,
+	"redshift":0.143,
+	"reporter":"ALeRCE",
+	"reporterid":66140,
+	"reporting_group":{
+		"group_name":"ALeRCE",
+		"groupid":74
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/adH0cc/tns_2021ckj_2021-02-17_02-58-56_VLT-UT1_FORS2_adH0cc.asci",
+			"assoc_groups":[
+				{
+					"id":79,
+					"name":"adH0cc"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1000,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/adH0cc/tns_2021ckj_2021-02-17_02-58-56_VLT-UT1_FORS2_adH0cc.fits",
+			"instrument":{
+				"id":7,
+				"name":"FORS2"
+			},
+			"jd":2459262.6242593,
+			"obsdate":"2021-02-17 02:58:56",
+			"observer":"service",
+			"public":1,
+			"reducer":"A. Floers",
+			"remarks":"Quick-reduction spectrum, telluric corrections applied.",
+			"source_group":{
+				"id":79,
+				"name":"adH0cc"
+			},
+			"telescope":{
+				"id":20,
+				"name":"VLT-UT1"
+			}
+		}
+	]
+}

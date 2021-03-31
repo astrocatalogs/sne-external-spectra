@@ -1,0 +1,73 @@
+{
+	"dec":"+18:57:26.71",
+	"decdeg":18.957419,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"PS1",
+		"id":26,
+		"name":"w"
+	},
+	"discoverer":"K. C. Chambers, T. de Boer, J. Bulger, J. Fairlamb, M. Huber, C.-C. Lin, T. Lowe, E. Magnier, A. Schultz, R. J. Wainscoat, M. Willman (IfA, University of Hawaii), K. W. Smith, D. R. Young, O. McBrien, J. Gillanders, S. Srivastav, M. Fulton, S. J. Smartt, D. O'Neill, P. Clark, S. Sim (Queen's University Belfast), D. E. Wright (University of Minnesota)",
+	"discoverer_internal_name":"PS21acf",
+	"discovery_data_source":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"discoverydate":"2021-02-13 05:52:48.000",
+	"discoverymag":19.57,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"PS21acf, Gaia21bat, ATLAS21hhh",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77310,
+	"objname":"2021dap",
+	"public":1,
+	"ra":"07:03:34.730",
+	"radeg":105.894708,
+	"radeg_err":0,
+	"redshift":0.026211,
+	"reporter":"PS1_Bot1",
+	"reporterid":35588,
+	"reporting_group":{
+		"group_name":"Pan-STARRS1",
+		"groupid":4
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/TCD/tns_2021dap_2021-02-25_21-04-39.971_LT_SPRAT_TCD.txt",
+			"assoc_groups":[
+				{
+					"id":65,
+					"name":"TCD"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459271.3782292,
+			"obsdate":"2021-02-25 21:04:40",
+			"observer":"S. Prentice",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":65,
+				"name":"TCD"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

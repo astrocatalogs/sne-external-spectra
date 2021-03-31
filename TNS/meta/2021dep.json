@@ -1,0 +1,73 @@
+{
+	"dec":"+27:37:34.12",
+	"decdeg":27.62614525,
+	"decdeg_err":2.5e-05,
+	"discmagfilter":{
+		"family":"Sloan",
+		"id":21,
+		"name":"g"
+	},
+	"discoverer":"K. Stanek and P. Vallely, for the ASAS-SN team",
+	"discoverer_internal_name":"ASASSN-21bt",
+	"discovery_data_source":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"discoverydate":"2021-02-18 08:52:48.000",
+	"discoverymag":17,
+	"end_prop_period":null,
+	"host_redshift":0.036805,
+	"hostname":"KUG 1401+278",
+	"internal_names":"ASASSN-21bt, ZTF21aamesud",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":77415,
+	"objname":"2021dep",
+	"public":1,
+	"ra":"14:04:12.656",
+	"radeg":211.0527318,
+	"radeg_err":2.5e-05,
+	"redshift":0.0368,
+	"reporter":"Patrick Vallely",
+	"reporterid":668,
+	"reporting_group":{
+		"group_name":"ASAS-SN",
+		"groupid":3
+	},
+	"source":"user",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ASAS-SN/tns_2021dep_2021-02-20.254_LT_SPRAT_ASAS-SN.dat",
+			"assoc_groups":[
+				{
+					"id":3,
+					"name":"ASAS-SN"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":900,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459265.7539931,
+			"obsdate":"2021-02-20 06:05:46",
+			"observer":"D Bersier",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":3,
+				"name":"ASAS-SN"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		}
+	]
+}

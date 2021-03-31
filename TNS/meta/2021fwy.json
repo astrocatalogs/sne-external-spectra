@@ -1,0 +1,73 @@
+{
+	"dec":"+09:19:54.31",
+	"decdeg":9.33175292238,
+	"decdeg_err":0,
+	"discmagfilter":{
+		"family":"GOTO",
+		"id":120,
+		"name":"L"
+	},
+	"discoverer":"T. Killestein, M. Kennedy, D. Steeghs, D. K. Galloway, V. Dhillon, P. O'Brien, G. Ramsay, D. Pollacco, E. Thrane, S. Poshyachinda, R. Kotak, L. Nuttall, E. Pallé, K. Ulaczyk, J. Lyman, K. Ackley, M. Dyer, T. Heikkilä, on behalf of GOTO collaboration",
+	"discoverer_internal_name":"GOTO21de",
+	"discovery_data_source":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"discoverydate":"2021-03-17 03:17:15.072",
+	"discoverymag":20,
+	"end_prop_period":null,
+	"host_redshift":null,
+	"hostname":null,
+	"internal_names":"GOTO21de, PS21cab, ATLAS21iue, ZTF21aapjcqb",
+	"name_prefix":"SN",
+	"object_type":{
+		"id":3,
+		"name":"SN Ia"
+	},
+	"objid":79298,
+	"objname":"2021fwy",
+	"public":1,
+	"ra":"13:06:41.377",
+	"radeg":196.672403052,
+	"radeg_err":0,
+	"redshift":0.07,
+	"reporter":"GOTO_bot",
+	"reporterid":58806,
+	"reporting_group":{
+		"group_name":"GOTO",
+		"groupid":59
+	},
+	"source":"bot",
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/SCAT/tns_2021fwy_2459298.030874_UH88_SNIFS_SCAT.dat",
+			"assoc_groups":[
+				{
+					"id":51,
+					"name":"SCAT"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1800,
+			"fitsfile":"",
+			"instrument":{
+				"id":11,
+				"name":"SNIFS"
+			},
+			"jd":2459298.030874,
+			"obsdate":"2021-03-24 12:44:27",
+			"observer":"Tucker",
+			"public":1,
+			"reducer":"Tucker",
+			"remarks":"",
+			"source_group":{
+				"id":51,
+				"name":"SCAT"
+			},
+			"telescope":{
+				"id":17,
+				"name":"UH88"
+			}
+		}
+	]
+}
