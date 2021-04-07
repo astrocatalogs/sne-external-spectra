@@ -21,8 +21,8 @@
 	"internal_names":"ATLAS21hzm, ZTF21aapfdqw, PS21cik",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":1,
-		"name":"SN"
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":79089,
 	"objname":"2021fox",
@@ -30,7 +30,7 @@
 	"ra":"09:57:36.350",
 	"radeg":149.401458619,
 	"radeg_err":0,
-	"redshift":0.0317,
+	"redshift":0.032,
 	"reporter":"ATLAS_Bot1",
 	"reporterid":35595,
 	"reporting_group":{
@@ -39,6 +39,36 @@
 	},
 	"source":"bot",
 	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021fox_2021-04-05_03-26-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
+			"assoc_groups":[
+				{
+					"id":63,
+					"name":"ePESSTO+"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":1000,
+			"fitsfile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021fox_2021-04-05_03-26-03_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.fits",
+			"instrument":{
+				"id":31,
+				"name":"EFOSC2-NTT"
+			},
+			"jd":2459309.6430903,
+			"obsdate":"2021-04-05 03:26:03",
+			"observer":"P. Pessi, A. Mitra",
+			"public":1,
+			"reducer":"P. Wiseman, M. Toy",
+			"remarks":"",
+			"source_group":{
+				"id":63,
+				"name":"ePESSTO+"
+			},
+			"telescope":{
+				"id":30,
+				"name":"ESO-NTT"
+			}
+		},
 		{
 			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021fox_2021-03-21_03-18-12_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[

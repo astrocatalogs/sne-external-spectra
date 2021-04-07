@@ -19,10 +19,10 @@
 	"host_redshift":0.110718,
 	"hostname":"SDSS J154322.31+125736.8",
 	"internal_names":"ZTF21aaptmqr, PS21cgo",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":3,
+		"name":"SN Ia"
 	},
 	"objid":79532,
 	"objname":"2021gfv",
@@ -30,7 +30,7 @@
 	"ra":"15:43:22.055",
 	"radeg":235.841894264,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.111,
 	"reporter":"Ismael Perez-Fournon",
 	"reporterid":977,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":81
 	},
 	"source":"user",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/YSE/tns_2021gfv_2021-04-03_SOAR_Goodman_YSE.flm",
+			"assoc_groups":[
+				{
+					"id":83,
+					"name":"YSE"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":127,
+				"name":"Goodman"
+			},
+			"jd":2459307.5,
+			"obsdate":"2021-04-03 00:00:00",
+			"observer":"G. Dimitriadis",
+			"public":1,
+			"reducer":"",
+			"remarks":"",
+			"source_group":{
+				"id":83,
+				"name":"YSE"
+			},
+			"telescope":{
+				"id":86,
+				"name":"SOAR"
+			}
+		}
+	]
 }

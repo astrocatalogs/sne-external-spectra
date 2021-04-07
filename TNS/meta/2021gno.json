@@ -21,8 +21,8 @@
 	"internal_names":"ZTF21aaqhhfu, ATLAS21iro, PS21cjz",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":14,
-		"name":"SN IIb"
+		"id":4,
+		"name":"SN Ib"
 	},
 	"objid":79735,
 	"objname":"2021gno",
@@ -30,7 +30,7 @@
 	"ra":"12:12:10.295",
 	"radeg":183.042897819,
 	"radeg_err":0,
-	"redshift":0.006201,
+	"redshift":0.006211,
 	"reporter":"Rachel BRUCH",
 	"reporterid":1191,
 	"reporting_group":{
@@ -39,6 +39,36 @@
 	},
 	"source":"user",
 	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021gno_2021-04-02_05-50-21.588526_P60_SEDM_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":2160,
+			"fitsfile":"",
+			"instrument":{
+				"id":149,
+				"name":"SEDM"
+			},
+			"jd":2459306.7432986,
+			"obsdate":"2021-04-02 05:50:22",
+			"observer":"SEDmRobot",
+			"public":1,
+			"reducer":"auto",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":2,
+				"name":"P60"
+			}
+		},
 		{
 			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021gno_2021-04-01_23-25-45.212_LT_SPRAT_ZTF.spec",
 			"assoc_groups":[

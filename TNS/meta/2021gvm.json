@@ -1,7 +1,7 @@
 {
-	"dec":"+13:24:40.28",
-	"decdeg":13.4111884,
-	"decdeg_err":2.7777777777778e-05,
+	"dec":"+13:24:40.24",
+	"decdeg":13.4111788911,
+	"decdeg_err":0,
 	"discmagfilter":{
 		"family":"ZTF",
 		"id":110,
@@ -18,19 +18,19 @@
 	"end_prop_period":null,
 	"host_redshift":null,
 	"hostname":null,
-	"internal_names":"ZTF21aaqjmps, ATLAS21jds",
+	"internal_names":"ZTF21aaqjmps, ATLAS21jds, PS21cvq",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":1,
-		"name":"SN"
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":79946,
 	"objname":"2021gvm",
 	"public":1,
-	"ra":"13:30:01.219",
-	"radeg":202.5050795,
-	"radeg_err":2.7777777777778e-05,
-	"redshift":0.025,
+	"ra":"13:30:01.216",
+	"radeg":202.505068353,
+	"radeg_err":0,
+	"redshift":0.0246,
 	"reporter":"ZTF_CLU_PUBLIC",
 	"reporterid":71270,
 	"reporting_group":{
@@ -39,6 +39,36 @@
 	},
 	"source":"bot",
 	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021gvm_2021-04-03_02-28-19.921_LT_SPRAT_ZTF.spec",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":null,
+			"fitsfile":"",
+			"instrument":{
+				"id":156,
+				"name":"SPRAT"
+			},
+			"jd":2459307.6029977,
+			"obsdate":"2021-04-03 02:28:20",
+			"observer":"LTbot",
+			"public":1,
+			"reducer":"Perley",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":70,
+				"name":"LT"
+			}
+		},
 		{
 			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021gvm_2021-03-23_06-07-18_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
