@@ -21,8 +21,8 @@
 	"internal_names":"ZTF21aapjmgf, ATLAS21iif, Gaia21bkh, PS21clp",
 	"name_prefix":"SN",
 	"object_type":{
-		"id":1,
-		"name":"SN"
+		"id":10,
+		"name":"SN II"
 	},
 	"objid":79368,
 	"objname":"2021fzp",
@@ -30,7 +30,7 @@
 	"ra":"14:43:56.100",
 	"radeg":220.98375,
 	"radeg_err":0,
-	"redshift":0.053,
+	"redshift":0.054,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -39,6 +39,36 @@
 	},
 	"source":"bot",
 	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021fzp_2021-04-14_11-24-36_Keck1_LRIS_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":300,
+			"fitsfile":"",
+			"instrument":{
+				"id":3,
+				"name":"LRIS"
+			},
+			"jd":2459318.9754167,
+			"obsdate":"2021-04-14 11:24:36",
+			"observer":"Yuhan Yao",
+			"public":1,
+			"reducer":"Yashvi Sharma",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":4,
+				"name":"Keck1"
+			}
+		},
 		{
 			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ePESSTO%2B/tns_2021fzp_2021-03-22_08-57-51_ESO-NTT_EFOSC2-NTT_ePESSTO%2B.asci",
 			"assoc_groups":[
