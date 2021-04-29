@@ -19,10 +19,10 @@
 	"host_redshift":0.050162,
 	"hostname":"2MASX J16583923+2629311",
 	"internal_names":"ZTF21aaoqbbw, ATLAS21iui, Gaia21bos",
-	"name_prefix":"AT",
+	"name_prefix":"SN",
 	"object_type":{
-		"id":null,
-		"name":null
+		"id":13,
+		"name":"SN IIn"
 	},
 	"objid":78677,
 	"objname":"2021ezt",
@@ -30,7 +30,7 @@
 	"ra":"16:58:38.990",
 	"radeg":254.662458,
 	"radeg_err":0,
-	"redshift":null,
+	"redshift":0.050162,
 	"reporter":"ALeRCE",
 	"reporterid":66140,
 	"reporting_group":{
@@ -38,5 +38,36 @@
 		"groupid":74
 	},
 	"source":"bot",
-	"spectra":[]
+	"spectra":[
+		{
+			"asciifile":"https://www.wis-tns.org/system/files/uploaded/ZTF/tns_2021ezt_2020-04-16_00-00-00_P200_DBSP_ZTF.ascii",
+			"assoc_groups":[
+				{
+					"id":48,
+					"name":"ZTF"
+				}
+			],
+			"end_prop_period":null,
+			"exptime":450,
+			"fitsfile":"",
+			"instrument":{
+				"id":1,
+				"name":"DBSP"
+			},
+			"jd":2458955.5,
+			"obsdate":"2020-04-16 00:00:00",
+			"observer":"Aishwarya Dahiwale",
+			"public":1,
+			"reducer":"Anastasios Tzanidakis",
+			"remarks":"",
+			"source_group":{
+				"id":48,
+				"name":"ZTF"
+			},
+			"telescope":{
+				"id":3,
+				"name":"P200"
+			}
+		}
+	]
 }
